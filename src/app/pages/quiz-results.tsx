@@ -103,12 +103,12 @@ export function QuizResultsPage() {
 
           <div className="flex items-center justify-center gap-8 mb-6 flex-wrap">
             <div>
-              <p className="text-5xl font-bold">{score}%</p>
+              <p className="text-5xl  text-white/70 font-bold">{score}%</p>
              <p className="text-sm text-white/70 mt-2">
 Your Score</p>
             </div>
             <div>
-              <p className="text-4xl font-bold">
+              <p className="text-4xl  text-white/70 font-bold">
                 {correctAnswers}/{questions.length}
               </p>
              <p className="text-sm text-white/70 mt-2">
