@@ -14,7 +14,7 @@ interface Question {
   id: string;
   question: string;
   options: string[];
-  correctAnswer: number;
+  correctIndex: number;
   explanation: string;
   topic: string;
   difficulty: 'easy' | 'medium' | 'hard';
@@ -28,43 +28,14 @@ interface ResultsState {
     title: string;
   };
 }
-
 export function QuizResultsPage() {
   const location = useLocation();
   const navigate = useNavigate();
   const { courseId } = useParams<{ courseId: string }>();
 
   const state = location.state as ResultsState | null;
-useEffect(() => {
-  const topicBreakdown: Record<
-    string,
-    { correct: number; total: number }
-  > = {};
 
-  questions.forEach((q, index) => {
-    if (!topicBreakdown[q.topic]) {
-      topicBreakdown[q.topic] = { correct: 0, total: 0 };
-    }
-
-    topicBreakdown[q.topic].total += 1;
-
-    if (answers[index] === q.correctAnswer) {
-      topicBreakdown[q.topic].correct += 1;
-    }
-  });
-
-  saveAttempt({
-    id: crypto.randomUUID(),
-    courseId: state.course.courseId,
-    courseTitle: state.course.title,
-    score,
-    completedAt: new Date().toISOString(),
-    topicBreakdown,
-  });
-}, []);
-
-
-  // 🚨 Guard: results page accessed without state
+  // 🚨 Guard FIRST
   useEffect(() => {
     if (!state || !state.answers || !state.questions) {
       navigate('/courses', { replace: true });
@@ -73,13 +44,40 @@ useEffect(() => {
 
   if (!state) return null;
 
-  const { answers, questions } = state;
+  // ✅ Safe to destructure now
+  const { answers, questions, course } = state;
 
   const correctAnswers = answers.filter(
-    (answer, index) => answer === questions[index].correctAnswer
+    (answer, index) => answer === questions[index].correctIndex
   ).length;
 
   const score = Math.round((correctAnswers / questions.length) * 100);
+
+  // ✅ Save attempt AFTER everything exists
+  useEffect(() => {
+    const topicBreakdown: Record<string, { correct: number; total: number }> = {};
+
+    questions.forEach((q, index) => {
+      if (!topicBreakdown[q.topic]) {
+        topicBreakdown[q.topic] = { correct: 0, total: 0 };
+      }
+
+      topicBreakdown[q.topic].total += 1;
+
+      if (answers[index] === q.correctIndex) {
+        topicBreakdown[q.topic].correct += 1;
+      }
+    });
+
+    saveAttempt({
+      id: crypto.randomUUID(),
+      courseId: course.courseId,
+      courseTitle: course.title,
+      score,
+      completedAt: new Date().toISOString(),
+      topicBreakdown,
+    });
+  }, [answers, questions, score, course]);
 
   const getMessage = () => {
     if (score >= 90) return { text: 'Outstanding! 🎉', color: 'text-green-400' };
@@ -94,7 +92,7 @@ useEffect(() => {
     <div className="dark min-h-screen bg-background p-4 md:p-8 overflow-auto">
       <div className="max-w-5xl mx-auto">
         {/* Score Card */}
-        <div className="rounded-2xl p-8 md:p-12 backdrop-blur-xl border border-white/10 mb-8 text-center">
+        <div className="rounded-2xl p-8 md:p-12 backdrop-blur-xl bg-black/40 border border-white/10 text-center">
           <div className="w-20 h-20 rounded-full bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center mx-auto mb-6">
             <Trophy className="w-10 h-10 text-white" />
           </div>
@@ -106,13 +104,15 @@ useEffect(() => {
           <div className="flex items-center justify-center gap-8 mb-6 flex-wrap">
             <div>
               <p className="text-5xl font-bold">{score}%</p>
-              <p className="text-sm text-muted-foreground mt-2">Your Score</p>
+             <p className="text-sm text-white/70 mt-2">
+Your Score</p>
             </div>
             <div>
               <p className="text-4xl font-bold">
                 {correctAnswers}/{questions.length}
               </p>
-              <p className="text-sm text-muted-foreground mt-2">
+             <p className="text-sm text-white/70 mt-2">
+
                 Correct Answers
               </p>
             </div>
@@ -143,7 +143,7 @@ useEffect(() => {
         <div className="space-y-6">
           {questions.map((question, index) => {
             const userAnswer = answers[index];
-            const isCorrect = userAnswer === question.correctAnswer;
+            const isCorrect = userAnswer === question.correctIndex;
 
             return (
               <div
@@ -177,7 +177,7 @@ useEffect(() => {
                   {question.options.map((option, optionIndex) => {
                     const isUserAnswer = userAnswer === optionIndex;
                     const isCorrectAnswer =
-                      question.correctAnswer === optionIndex;
+                      question.correctIndex === optionIndex;
 
                     return (
                       <div
@@ -196,11 +196,12 @@ useEffect(() => {
                   })}
                 </div>
 
-                <div className="p-4 rounded-xl bg-indigo-500/5 border border-indigo-500/20">
+                <div className="p-4 rounded-xl bg-indigo-500/10 border border-indigo-500/30">
+
                   <p className="text-sm font-semibold text-indigo-400 mb-1">
                     Explanation
                   </p>
-                  <p className="text-sm text-muted-foreground">
+                 <p className="text-sm text-white/80">
                     {question.explanation}
                   </p>
                 </div>
