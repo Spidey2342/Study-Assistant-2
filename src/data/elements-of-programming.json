@@ -1,0 +1,1524 @@
+{
+  "courseId": "elements-of-programming-language",
+  "title": "Elements of Programming Language",
+  "icon": "💻",
+  "questions": [
+    {
+      "id": "ep_001",
+      "question": "What is a program made of according to the slides?",
+      "options": [
+        "Only variables and data types",
+        "Common elements in a programming language",
+        "Hardware components",
+        "Operating systems"
+      ],
+      "correctIndex": 1,
+      "topic": "Programming Language Elements",
+      "difficulty": "easy",
+      "explanation": "A program is made of common elements in a programming language."
+    },
+    {
+      "id": "ep_002",
+      "question": "Which of the following is NOT a common element in a programming language?",
+      "options": [
+        "Keywords",
+        "Operators",
+        "Syntax",
+        "Motherboard"
+      ],
+      "correctIndex": 3,
+      "topic": "Programming Language Elements",
+      "difficulty": "easy",
+      "explanation": "Motherboard is hardware, not a programming language element."
+    },
+    {
+      "id": "ep_003",
+      "question": "Keywords in a programming language are also known as?",
+      "options": [
+        "Variables",
+        "Reserved words",
+        "Identifiers",
+        "Constants"
+      ],
+      "correctIndex": 1,
+      "topic": "Keywords",
+      "difficulty": "easy",
+      "explanation": "Keywords are reserved words with predefined meanings."
+    },
+    {
+      "id": "ep_004",
+      "question": "Which of the following C++ words is a keyword?",
+      "options": [
+        "age",
+        "courseTitle",
+        "return",
+        "studentName"
+      ],
+      "correctIndex": 2,
+      "topic": "Keywords",
+      "difficulty": "easy",
+      "explanation": "Return is a reserved keyword in C++."
+    },
+    {
+      "id": "ep_005",
+      "question": "Why can keywords not be used as variable names?",
+      "options": [
+        "They are too short",
+        "They have predefined meanings",
+        "They are written in uppercase",
+        "They store values"
+      ],
+      "correctIndex": 1,
+      "topic": "Keywords",
+      "difficulty": "medium",
+      "explanation": "Keywords already have special meanings defined by the language."
+    },
+
+    {
+      "id": "ep_006",
+      "question": "What are programmer-defined identifiers?",
+      "options": [
+        "Names created by the compiler",
+        "Reserved words",
+        "Names created by programmers",
+        "Special characters"
+      ],
+      "correctIndex": 2,
+      "topic": "Identifiers",
+      "difficulty": "easy",
+      "explanation": "Identifiers are names created by programmers."
+    },
+    {
+      "id": "ep_007",
+      "question": "Which of the following is an example of a variable identifier?",
+      "options": [
+        "if",
+        "while",
+        "courseCredit",
+        "return"
+      ],
+      "correctIndex": 2,
+      "topic": "Identifiers",
+      "difficulty": "easy",
+      "explanation": "courseCredit is a programmer-defined identifier."
+    },
+    {
+      "id": "ep_008",
+      "question": "Which rule applies to programmer-defined identifiers?",
+      "options": [
+        "Must begin with a digit",
+        "Must begin with a letter or underscore",
+        "Must contain symbols",
+        "Must be a keyword"
+      ],
+      "correctIndex": 1,
+      "topic": "Identifiers",
+      "difficulty": "medium",
+      "explanation": "Identifiers must start with a letter or underscore."
+    },
+    {
+      "id": "ep_009",
+      "question": "Which of the following identifiers is invalid?",
+      "options": [
+        "studentName",
+        "_salary",
+        "year2024",
+        "2ndScore"
+      ],
+      "correctIndex": 3,
+      "topic": "Identifiers",
+      "difficulty": "medium",
+      "explanation": "Identifiers cannot begin with a digit."
+    },
+    {
+      "id": "ep_010",
+      "question": "Identifiers are case-sensitive in?",
+      "options": [
+        "All languages",
+        "Some languages",
+        "No languages",
+        "Only Python"
+      ],
+      "correctIndex": 1,
+      "topic": "Identifiers",
+      "difficulty": "medium",
+      "explanation": "Some programming languages treat identifiers as case-sensitive."
+    },
+
+    {
+      "id": "ep_011",
+      "question": "What is an operator?",
+      "options": [
+        "A variable name",
+        "A storage location",
+        "A symbol used to perform operations",
+        "A keyword"
+      ],
+      "correctIndex": 2,
+      "topic": "Operators",
+      "difficulty": "easy",
+      "explanation": "Operators perform operations on values or variables."
+    },
+    {
+      "id": "ep_012",
+      "question": "Which of the following is an arithmetic operator?",
+      "options": [
+        "&&",
+        "==",
+        "+",
+        "!"
+      ],
+      "correctIndex": 2,
+      "topic": "Arithmetic Operators",
+      "difficulty": "easy",
+      "explanation": "+ is used for addition."
+    },
+    {
+      "id": "ep_013",
+      "question": "What is the result of integer division 3 / 2?",
+      "options": [
+        "1.5",
+        "2",
+        "1",
+        "0"
+      ],
+      "correctIndex": 2,
+      "topic": "Arithmetic Operators",
+      "difficulty": "medium",
+      "explanation": "Integer division truncates the remainder."
+    },
+    {
+      "id": "ep_014",
+      "question": "Which operator is used to compare two values?",
+      "options": [
+        "+",
+        "=",
+        "==",
+        "*"
+      ],
+      "correctIndex": 2,
+      "topic": "Relational Operators",
+      "difficulty": "easy",
+      "explanation": "== compares two values."
+    },
+    {
+      "id": "ep_015",
+      "question": "Which logical operator returns true only if both conditions are true?",
+      "options": [
+        "||",
+        "!",
+        "&&",
+        "="
+      ],
+      "correctIndex": 2,
+      "topic": "Logical Operators",
+      "difficulty": "medium",
+      "explanation": "Logical AND (&&) requires both conditions to be true."
+    },
+
+    {
+      "id": "ep_016",
+      "question": "What does the NOT (!) operator do?",
+      "options": [
+        "Adds values",
+        "Reverses truth value",
+        "Assigns values",
+        "Compares values"
+      ],
+      "correctIndex": 1,
+      "topic": "Logical Operators",
+      "difficulty": "easy",
+      "explanation": "NOT reverses the truth of a condition."
+    },
+    {
+      "id": "ep_017",
+      "question": "Which operator assigns a value to a variable?",
+      "options": [
+        "==",
+        "+",
+        "=",
+        "!="
+      ],
+      "correctIndex": 2,
+      "topic": "Assignment Operators",
+      "difficulty": "easy",
+      "explanation": "= assigns a value."
+    },
+    {
+      "id": "ep_018",
+      "question": "Unary operators require how many operands?",
+      "options": [
+        "Two",
+        "Three",
+        "One",
+        "Four"
+      ],
+      "correctIndex": 2,
+      "topic": "Unary Operators",
+      "difficulty": "easy",
+      "explanation": "Unary operators operate on a single operand."
+    },
+    {
+      "id": "ep_019",
+      "question": "Which operator is a unary operator?",
+      "options": [
+        "+",
+        "++",
+        "*",
+        "/"
+      ],
+      "correctIndex": 1,
+      "topic": "Unary Operators",
+      "difficulty": "medium",
+      "explanation": "++ is a unary increment operator."
+    },
+    {
+      "id": "ep_020",
+      "question": "Unary operators are commonly used in?",
+      "options": [
+        "Databases",
+        "Loops",
+        "Comments",
+        "Strings"
+      ],
+      "correctIndex": 1,
+      "topic": "Unary Operators",
+      "difficulty": "medium",
+      "explanation": "Unary operators are commonly used in loops."
+    },
+    {
+  "id": "ep_021",
+  "question": "Which punctuation mark is used to terminate statements in C++, Java, and JavaScript?",
+  "options": ["Comma (,)", "Colon (:)", "Semicolon (;)", "Period (.)"],
+  "correctIndex": 2,
+  "topic": "Punctuation",
+  "difficulty": "easy",
+  "explanation": "Semicolons are used to terminate statements in many programming languages."
+},
+{
+  "id": "ep_022",
+  "question": "Which punctuation mark is used to separate elements in a list?",
+  "options": ["Colon (:)", "Comma (,)", "Semicolon (;)", "Quotation mark"],
+  "correctIndex": 1,
+  "topic": "Punctuation",
+  "difficulty": "easy",
+  "explanation": "Commas separate items such as function arguments or array elements."
+},
+{
+  "id": "ep_023",
+  "question": "Which punctuation mark is used to access members of a class or object?",
+  "options": ["Comma (,)", "Period (.)", "Colon (:)", "Semicolon (;)"],
+  "correctIndex": 1,
+  "topic": "Punctuation",
+  "difficulty": "easy",
+  "explanation": "The period (dot) accesses object or class members."
+},
+{
+  "id": "ep_024",
+  "question": "Quotation marks are used to define?",
+  "options": ["Variables", "Operators", "String literals", "Comments"],
+  "correctIndex": 2,
+  "topic": "Punctuation",
+  "difficulty": "easy",
+  "explanation": "Quotation marks define string or character literals."
+},
+{
+  "id": "ep_025",
+  "question": "What is syntax in programming?",
+  "options": [
+    "The meaning of a program",
+    "The speed of execution",
+    "Rules that define valid statements",
+    "The output of a program"
+  ],
+  "correctIndex": 2,
+  "topic": "Syntax",
+  "difficulty": "easy",
+  "explanation": "Syntax refers to grammar rules of a programming language."
+},
+
+{
+  "id": "ep_026",
+  "question": "Which of the following is controlled by syntax?",
+  "options": [
+    "Hardware design",
+    "Use of keywords and punctuation",
+    "Program output only",
+    "Computer memory size"
+  ],
+  "correctIndex": 1,
+  "topic": "Syntax",
+  "difficulty": "medium",
+  "explanation": "Syntax controls how keywords, operators, and punctuation are used."
+},
+{
+  "id": "ep_027",
+  "question": "Each programming language has?",
+  "options": [
+    "The same syntax rules",
+    "No syntax rules",
+    "Its own syntax rules",
+    "Only English syntax"
+  ],
+  "correctIndex": 2,
+  "topic": "Syntax",
+  "difficulty": "easy",
+  "explanation": "Each programming language defines its own syntax."
+},
+{
+  "id": "ep_028",
+  "question": "What is a character set?",
+  "options": [
+    "A set of instructions",
+    "A set of valid characters in a language",
+    "A group of keywords",
+    "A type of variable"
+  ],
+  "correctIndex": 1,
+  "topic": "Character Set",
+  "difficulty": "easy",
+  "explanation": "A character set defines all valid characters recognized by a language."
+},
+{
+  "id": "ep_029",
+  "question": "Which of the following belongs to a character set?",
+  "options": ["Functions", "Algorithms", "Digits 0–9", "Variables"],
+  "correctIndex": 2,
+  "topic": "Character Set",
+  "difficulty": "easy",
+  "explanation": "Digits are part of a programming language character set."
+},
+{
+  "id": "ep_030",
+  "question": "Which is NOT part of a character set?",
+  "options": ["Uppercase letters", "Lowercase letters", "Keywords", "Special symbols"],
+  "correctIndex": 2,
+  "topic": "Character Set",
+  "difficulty": "medium",
+  "explanation": "Keywords are language elements, not characters."
+},
+
+{
+  "id": "ep_031",
+  "question": "What is a constant?",
+  "options": [
+    "A value that changes during execution",
+    "A variable name",
+    "A value that cannot be altered",
+    "A keyword"
+  ],
+  "correctIndex": 2,
+  "topic": "Constants",
+  "difficulty": "easy",
+  "explanation": "Constants retain fixed values during program execution."
+},
+{
+  "id": "ep_032",
+  "question": "Which is a characteristic of constants?",
+  "options": [
+    "Mutability",
+    "Immutability",
+    "Case sensitivity",
+    "Loop control"
+  ],
+  "correctIndex": 1,
+  "topic": "Constants",
+  "difficulty": "easy",
+  "explanation": "Constants cannot be changed once assigned."
+},
+{
+  "id": "ep_033",
+  "question": "Which of the following is a numeric literal constant?",
+  "options": ["'A'", "\"Hello\"", "42", "true"],
+  "correctIndex": 2,
+  "topic": "Constants",
+  "difficulty": "easy",
+  "explanation": "42 is a numeric literal constant."
+},
+{
+  "id": "ep_034",
+  "question": "Which is a character literal?",
+  "options": ["\"A\"", "'A'", "A", "65"],
+  "correctIndex": 1,
+  "topic": "Constants",
+  "difficulty": "medium",
+  "explanation": "Character literals are enclosed in single quotes."
+},
+{
+  "id": "ep_035",
+  "question": "Which is a Boolean literal?",
+  "options": ["Yes", "1", "true", "maybe"],
+  "correctIndex": 2,
+  "topic": "Constants",
+  "difficulty": "easy",
+  "explanation": "Boolean literals are true or false."
+},
+
+{
+  "id": "ep_036",
+  "question": "What is a variable?",
+  "options": [
+    "A fixed value",
+    "A storage location in memory",
+    "A keyword",
+    "A character set"
+  ],
+  "correctIndex": 1,
+  "topic": "Variables",
+  "difficulty": "easy",
+  "explanation": "Variables store values in memory."
+},
+{
+  "id": "ep_037",
+  "question": "Which property does a variable have?",
+  "options": [
+    "Only name",
+    "Only value",
+    "Name, data type, and value",
+    "Only address"
+  ],
+  "correctIndex": 2,
+  "topic": "Variables",
+  "difficulty": "medium",
+  "explanation": "Variables have names, data types, and values."
+},
+{
+  "id": "ep_038",
+  "question": "Which variable name follows good programming practice?",
+  "options": ["x1", "a", "studentAge", "var123"],
+  "correctIndex": 2,
+  "topic": "Variables",
+  "difficulty": "medium",
+  "explanation": "Meaningful names improve readability."
+},
+{
+  "id": "ep_039",
+  "question": "Which casing style capitalizes every word including the first?",
+  "options": ["camelCase", "snake_case", "PascalCase", "kebab-case"],
+  "correctIndex": 2,
+  "topic": "Variables",
+  "difficulty": "medium",
+  "explanation": "PascalCase capitalizes each word."
+},
+{
+  "id": "ep_040",
+  "question": "Which casing style uses underscores?",
+  "options": ["camelCase", "snake_case", "PascalCase", "TitleCase"],
+  "correctIndex": 1,
+  "topic": "Variables",
+  "difficulty": "easy",
+  "explanation": "snake_case separates words with underscores."
+},
+
+{
+  "id": "ep_041",
+  "question": "What is the scope of a variable?",
+  "options": [
+    "Its data type",
+    "Where it can be accessed",
+    "Its memory size",
+    "Its initial value"
+  ],
+  "correctIndex": 1,
+  "topic": "Variable Scope",
+  "difficulty": "easy",
+  "explanation": "Scope defines where a variable is accessible."
+},
+{
+  "id": "ep_042",
+  "question": "Which variable is accessible throughout the program?",
+  "options": ["Local variable", "Temporary variable", "Global variable", "Static variable"],
+  "correctIndex": 2,
+  "topic": "Variable Scope",
+  "difficulty": "easy",
+  "explanation": "Global variables are accessible anywhere."
+},
+{
+  "id": "ep_043",
+  "question": "Local variables are defined within?",
+  "options": ["Entire program", "Specific block or function", "Operating system", "Compiler"],
+  "correctIndex": 1,
+  "topic": "Variable Scope",
+  "difficulty": "medium",
+  "explanation": "Local variables exist within specific blocks."
+},
+
+{
+  "id": "ep_044",
+  "question": "What is a data type?",
+  "options": [
+    "A variable name",
+    "A classification of data",
+    "A storage address",
+    "An operator"
+  ],
+  "correctIndex": 1,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Data types define how data is used and stored."
+},
+{
+  "id": "ep_045",
+  "question": "Which data type holds whole numbers only?",
+  "options": ["Float", "Integer", "Character", "Boolean"],
+  "correctIndex": 1,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Integers store whole numbers."
+},
+{
+  "id": "ep_046",
+  "question": "Which data type holds fractional values?",
+  "options": ["Integer", "Boolean", "Floating point", "Character"],
+  "correctIndex": 2,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Floating-point types store decimals."
+},
+{
+  "id": "ep_047",
+  "question": "Which data type stores a single character?",
+  "options": ["String", "Boolean", "Character", "Integer"],
+  "correctIndex": 2,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Character types store one character."
+},
+{
+  "id": "ep_048",
+  "question": "Which data type has only two possible values?",
+  "options": ["Integer", "Float", "Boolean", "String"],
+  "correctIndex": 2,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Boolean values are true or false."
+},
+
+{
+  "id": "ep_049",
+  "question": "What does variable declaration do?",
+  "options": [
+    "Executes code",
+    "Allocates memory",
+    "Displays output",
+    "Performs calculations"
+  ],
+  "correctIndex": 1,
+  "topic": "Variable Declaration",
+  "difficulty": "medium",
+  "explanation": "Declaration allocates memory and associates type and name."
+},
+{
+  "id": "ep_050",
+  "question": "What is variable initialization?",
+  "options": [
+    "Declaring without a value",
+    "Assigning value during declaration",
+    "Changing variable scope",
+    "Deleting a variable"
+  ],
+  "correctIndex": 1,
+  "topic": "Variable Initialization",
+  "difficulty": "easy",
+  "explanation": "Initialization assigns a value at declaration."
+},
+
+{
+  "id": "ep_051",
+  "question": "What is an expression?",
+  "options": [
+    "A comment",
+    "A statement with a value",
+    "A keyword",
+    "A data type"
+  ],
+  "correctIndex": 1,
+  "topic": "Expressions",
+  "difficulty": "easy",
+  "explanation": "Expressions evaluate to a value."
+},
+{
+  "id": "ep_052",
+  "question": "Which is an arithmetic expression?",
+  "options": ["12 > 5", "5 + 7", "x = 10", "true && false"],
+  "correctIndex": 1,
+  "topic": "Expressions",
+  "difficulty": "easy",
+  "explanation": "Arithmetic expressions perform calculations."
+},
+{
+  "id": "ep_053",
+  "question": "Which expression returns a Boolean value?",
+  "options": ["8 + 2", "12 > 15", "x = 7", "5 * 4"],
+  "correctIndex": 1,
+  "topic": "Expressions",
+  "difficulty": "medium",
+  "explanation": "Relational expressions return true or false."
+},
+{
+  "id": "ep_054",
+  "question": "Which is a logical expression?",
+  "options": ["5 + 3", "(10 > 9) && (8 == 8)", "x = 4", "25"],
+  "correctIndex": 1,
+  "topic": "Expressions",
+  "difficulty": "medium",
+  "explanation": "Logical expressions combine conditions."
+},
+{
+  "id": "ep_055",
+  "question": "Which expression assigns a value?",
+  "options": ["8 > 2", "sum = 16 + 25", "5 * 6", "true || false"],
+  "correctIndex": 1,
+  "topic": "Expressions",
+  "difficulty": "easy",
+  "explanation": "Assignment expressions store values."
+},
+
+{
+  "id": "ep_056",
+  "question": "Compound expressions involve?",
+  "options": [
+    "Only one operator",
+    "Only arithmetic operations",
+    "Combination of expression types",
+    "Only constants"
+  ],
+  "correctIndex": 2,
+  "topic": "Expressions",
+  "difficulty": "hard",
+  "explanation": "Compound expressions combine multiple expression types."
+},
+{
+  "id": "ep_057",
+  "question": "Which function is shown as an example in expressions?",
+  "options": ["print()", "sqrt()", "pow()", "scan()"],
+  "correctIndex": 2,
+  "topic": "Expressions",
+  "difficulty": "medium",
+  "explanation": "pow(a, b) is used as an example in the slides."
+},
+{
+  "id": "ep_058",
+  "question": "Which element improves code readability?",
+  "options": ["Magic numbers", "Meaningful variable names", "Complex expressions", "Long functions"],
+  "correctIndex": 1,
+  "topic": "Good Programming Practice",
+  "difficulty": "medium",
+  "explanation": "Meaningful names improve readability."
+},
+{
+  "id": "ep_059",
+  "question": "Why are constants useful?",
+  "options": [
+    "They change values",
+    "They prevent accidental changes",
+    "They slow execution",
+    "They remove syntax rules"
+  ],
+  "correctIndex": 1,
+  "topic": "Constants",
+  "difficulty": "medium",
+  "explanation": "Constants help maintain consistent values."
+},
+{
+  "id": "ep_060",
+  "question": "Which language does NOT require explicit data type declaration?",
+  "options": ["C++", "Java", "Python", "C"],
+  "correctIndex": 2,
+  "topic": "Variables",
+  "difficulty": "medium",
+  "explanation": "Python infers data types automatically."
+},
+{
+  "id": "ep_061",
+  "question": "Which of the following is an example of a defined constant?",
+  "options": ["42", "'A'", "amount = 25.50", "true"],
+  "correctIndex": 2,
+  "topic": "Constants",
+  "difficulty": "medium",
+  "explanation": "Defined constants are assigned to variables and reused."
+},
+{
+  "id": "ep_062",
+  "question": "Why are constants important in programming?",
+  "options": [
+    "They slow program execution",
+    "They improve readability and safety",
+    "They increase memory usage",
+    "They remove syntax rules"
+  ],
+  "correctIndex": 1,
+  "topic": "Constants",
+  "difficulty": "medium",
+  "explanation": "Constants prevent accidental value changes and improve readability."
+},
+{
+  "id": "ep_063",
+  "question": "Which of the following is a valid variable name?",
+  "options": ["int", "courseTitle", "2score", "total-marks"],
+  "correctIndex": 1,
+  "topic": "Variables",
+  "difficulty": "easy",
+  "explanation": "Variable names must not be keywords or start with digits."
+},
+{
+  "id": "ep_064",
+  "question": "Which rule violates variable naming conventions?",
+  "options": [
+    "Using meaningful names",
+    "Starting with a digit",
+    "Using underscores",
+    "Using camelCase"
+  ],
+  "correctIndex": 1,
+  "topic": "Variables",
+  "difficulty": "medium",
+  "explanation": "Variable names must not start with digits."
+},
+{
+  "id": "ep_065",
+  "question": "Which casing style capitalizes the first letter of every word?",
+  "options": ["camelCase", "snake_case", "PascalCase", "lowercase"],
+  "correctIndex": 2,
+  "topic": "Variables",
+  "difficulty": "easy",
+  "explanation": "PascalCase capitalizes each word including the first."
+},
+{
+  "id": "ep_066",
+  "question": "Which casing style starts with a lowercase letter and capitalizes subsequent words?",
+  "options": ["snake_case", "PascalCase", "camelCase", "TitleCase"],
+  "correctIndex": 2,
+  "topic": "Variables",
+  "difficulty": "easy",
+  "explanation": "camelCase starts with lowercase and capitalizes following words."
+},
+{
+  "id": "ep_067",
+  "question": "Which casing style separates words using underscores?",
+  "options": ["camelCase", "snake_case", "PascalCase", "MixedCase"],
+  "correctIndex": 1,
+  "topic": "Variables",
+  "difficulty": "easy",
+  "explanation": "snake_case uses underscores between words."
+},
+{
+  "id": "ep_068",
+  "question": "What determines how much memory a variable occupies?",
+  "options": ["Variable name", "Scope", "Data type", "Operator"],
+  "correctIndex": 2,
+  "topic": "Data Types",
+  "difficulty": "medium",
+  "explanation": "Data types determine memory size."
+},
+{
+  "id": "ep_069",
+  "question": "Which data type would store a student's name?",
+  "options": ["Integer", "Character", "String", "Boolean"],
+  "correctIndex": 2,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Strings store sequences of characters."
+},
+{
+  "id": "ep_070",
+  "question": "Which data type would store a single letter grade?",
+  "options": ["String", "Character", "Integer", "Boolean"],
+  "correctIndex": 1,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Character data type stores a single character."
+},
+
+{
+  "id": "ep_071",
+  "question": "Which data type would best store exam scores like 75?",
+  "options": ["Boolean", "Character", "Integer", "String"],
+  "correctIndex": 2,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Integers store whole numbers."
+},
+{
+  "id": "ep_072",
+  "question": "Which data type would best store prices like 25.50?",
+  "options": ["Integer", "Floating point", "Boolean", "Character"],
+  "correctIndex": 1,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Floating point types store decimal values."
+},
+{
+  "id": "ep_073",
+  "question": "Which statement about variable declaration is true?",
+  "options": [
+    "Variables can be used before declaration",
+    "Declaration allocates memory",
+    "Declaration executes the program",
+    "Declaration prints output"
+  ],
+  "correctIndex": 1,
+  "topic": "Variable Declaration",
+  "difficulty": "medium",
+  "explanation": "Declaration allocates memory for variables."
+},
+{
+  "id": "ep_074",
+  "question": "Which step assigns a value after declaration?",
+  "options": ["Initialization", "Compilation", "Assignment", "Execution"],
+  "correctIndex": 2,
+  "topic": "Variable Assignment",
+  "difficulty": "easy",
+  "explanation": "Assignment gives a value to a declared variable."
+},
+{
+  "id": "ep_075",
+  "question": "Which statement represents initialization?",
+  "options": [
+    "int age;",
+    "age = 20;",
+    "int age = 20;",
+    "print(age);"
+  ],
+  "correctIndex": 2,
+  "topic": "Variable Initialization",
+  "difficulty": "medium",
+  "explanation": "Initialization declares and assigns a value at once."
+},
+{
+  "id": "ep_076",
+  "question": "Why must variables be declared before use?",
+  "options": [
+    "To improve speed",
+    "To allocate memory and define type",
+    "To reduce syntax",
+    "To remove errors automatically"
+  ],
+  "correctIndex": 1,
+  "topic": "Variable Declaration",
+  "difficulty": "hard",
+  "explanation": "Declaration allows the compiler to allocate memory and understand usage."
+},
+{
+  "id": "ep_077",
+  "question": "Which of the following is an arithmetic expression?",
+  "options": ["x = 5", "12 > 10", "7 * 4", "true && false"],
+  "correctIndex": 2,
+  "topic": "Expressions",
+  "difficulty": "easy",
+  "explanation": "Arithmetic expressions perform calculations."
+},
+{
+  "id": "ep_078",
+  "question": "Which of the following is a relational expression?",
+  "options": ["8 + 2", "x = 10", "5 > 3", "7 * 6"],
+  "correctIndex": 2,
+  "topic": "Expressions",
+  "difficulty": "easy",
+  "explanation": "Relational expressions compare values."
+},
+{
+  "id": "ep_079",
+  "question": "Which expression returns true or false?",
+  "options": ["Arithmetic", "Assignment", "Logical", "Numeric"],
+  "correctIndex": 2,
+  "topic": "Expressions",
+  "difficulty": "medium",
+  "explanation": "Logical expressions return Boolean values."
+},
+{
+  "id": "ep_080",
+  "question": "Which of the following combines multiple expression types?",
+  "options": ["Simple expression", "Literal", "Compound expression", "Constant"],
+  "correctIndex": 2,
+  "topic": "Expressions",
+  "difficulty": "hard",
+  "explanation": "Compound expressions combine different expression types."
+},
+{
+  "id": "ep_081",
+  "question": "Which punctuation mark is used to terminate statements in languages like C++ and Java?",
+  "options": ["Comma (,)", "Colon (:)", "Semicolon (;)", "Period (.)"],
+  "correctIndex": 2,
+  "topic": "Punctuation",
+  "difficulty": "easy",
+  "explanation": "Semicolons are used to end statements in many programming languages."
+},
+{
+  "id": "ep_082",
+  "question": "Which punctuation mark separates elements such as function arguments?",
+  "options": ["Semicolon (;)", "Period (.)", "Comma (,)", "Colon (:)"],
+  "correctIndex": 2,
+  "topic": "Punctuation",
+  "difficulty": "easy",
+  "explanation": "Commas separate elements in lists."
+},
+{
+  "id": "ep_083",
+  "question": "Which punctuation mark is used to access members of a class or object?",
+  "options": ["Comma (,)", "Colon (:)", "Period (.)", "Quotation mark"],
+  "correctIndex": 2,
+  "topic": "Punctuation",
+  "difficulty": "easy",
+  "explanation": "The period (dot) accesses class or object members."
+},
+{
+  "id": "ep_084",
+  "question": "Quotation marks are mainly used to define?",
+  "options": ["Variables", "Operators", "String literals", "Comments"],
+  "correctIndex": 2,
+  "topic": "Punctuation",
+  "difficulty": "easy",
+  "explanation": "Quotation marks define string literals."
+},
+{
+  "id": "ep_085",
+  "question": "What is syntax?",
+  "options": [
+    "The meaning of a program",
+    "Rules governing how programs are written",
+    "The output of a program",
+    "The memory used by a program"
+  ],
+  "correctIndex": 1,
+  "topic": "Syntax",
+  "difficulty": "easy",
+  "explanation": "Syntax defines the grammatical rules of a programming language."
+},
+
+{
+  "id": "ep_086",
+  "question": "Syntax controls the use of which of the following?",
+  "options": [
+    "Hardware components",
+    "Keywords, operators, and punctuation",
+    "Only variables",
+    "Only constants"
+  ],
+  "correctIndex": 1,
+  "topic": "Syntax",
+  "difficulty": "medium",
+  "explanation": "Syntax governs how keywords, operators, and punctuation are used."
+},
+{
+  "id": "ep_087",
+  "question": "Which statement about syntax is true?",
+  "options": [
+    "All languages share the same syntax",
+    "Syntax rules are optional",
+    "Each language has its own syntax rules",
+    "Syntax controls memory allocation"
+  ],
+  "correctIndex": 2,
+  "topic": "Syntax",
+  "difficulty": "easy",
+  "explanation": "Each programming language has its own syntax rules."
+},
+{
+  "id": "ep_088",
+  "question": "What is a character set?",
+  "options": [
+    "A set of instructions",
+    "A set of valid characters used in programs",
+    "A group of keywords",
+    "A type of data"
+  ],
+  "correctIndex": 1,
+  "topic": "Character Set",
+  "difficulty": "easy",
+  "explanation": "A character set defines valid characters in a programming language."
+},
+{
+  "id": "ep_089",
+  "question": "Which of the following is part of a character set?",
+  "options": ["Algorithms", "Digits 0–9", "Functions", "Variables"],
+  "correctIndex": 1,
+  "topic": "Character Set",
+  "difficulty": "easy",
+  "explanation": "Digits are part of the character set."
+},
+{
+  "id": "ep_090",
+  "question": "Which of the following belongs to the special symbols category?",
+  "options": ["while", "return", "+", "studentName"],
+  "correctIndex": 2,
+  "topic": "Character Set",
+  "difficulty": "medium",
+  "explanation": "Symbols like + are special characters."
+},
+
+{
+  "id": "ep_091",
+  "question": "What is a constant?",
+  "options": [
+    "A value that can change",
+    "A value that cannot be altered during execution",
+    "A variable name",
+    "A keyword"
+  ],
+  "correctIndex": 1,
+  "topic": "Constants",
+  "difficulty": "easy",
+  "explanation": "Constants retain fixed values during execution."
+},
+{
+  "id": "ep_092",
+  "question": "Which is a characteristic of constants?",
+  "options": ["Mutability", "Immutability", "Loop control", "Scope limitation"],
+  "correctIndex": 1,
+  "topic": "Constants",
+  "difficulty": "easy",
+  "explanation": "Constants cannot be changed once assigned."
+},
+{
+  "id": "ep_093",
+  "question": "Which of the following is a numeric literal constant?",
+  "options": ["'A'", "\"Hello\"", "3.14", "true"],
+  "correctIndex": 2,
+  "topic": "Constants",
+  "difficulty": "easy",
+  "explanation": "3.14 is a numeric literal."
+},
+{
+  "id": "ep_094",
+  "question": "Which is an example of a defined constant?",
+  "options": ["42", "'B'", "amount = 25.50", "false"],
+  "correctIndex": 2,
+  "topic": "Constants",
+  "difficulty": "medium",
+  "explanation": "Defined constants are stored in variables."
+},
+{
+  "id": "ep_095",
+  "question": "Why are constants useful in programs?",
+  "options": [
+    "They increase errors",
+    "They prevent accidental changes",
+    "They slow execution",
+    "They remove syntax rules"
+  ],
+  "correctIndex": 1,
+  "topic": "Constants",
+  "difficulty": "medium",
+  "explanation": "Constants improve safety and reliability."
+},
+
+{
+  "id": "ep_096",
+  "question": "What is the main purpose of a variable?",
+  "options": [
+    "To store fixed values",
+    "To store changing values",
+    "To define syntax",
+    "To represent keywords"
+  ],
+  "correctIndex": 1,
+  "topic": "Variables",
+  "difficulty": "easy",
+  "explanation": "Variables store values that can change."
+},
+{
+  "id": "ep_097",
+  "question": "Which variable naming practice is recommended?",
+  "options": [
+    "Using random letters",
+    "Using meaningful names",
+    "Using symbols",
+    "Using keywords"
+  ],
+  "correctIndex": 1,
+  "topic": "Variables",
+  "difficulty": "easy",
+  "explanation": "Meaningful names improve readability."
+},
+{
+  "id": "ep_098",
+  "question": "What is the scope of a variable?",
+  "options": [
+    "Its memory size",
+    "Where it can be accessed",
+    "Its data type",
+    "Its initial value"
+  ],
+  "correctIndex": 1,
+  "topic": "Variable Scope",
+  "difficulty": "easy",
+  "explanation": "Scope defines where a variable is accessible."
+},
+{
+  "id": "ep_099",
+  "question": "Which variable is accessible throughout program execution?",
+  "options": ["Local variable", "Global variable", "Temporary variable", "Block variable"],
+  "correctIndex": 1,
+  "topic": "Variable Scope",
+  "difficulty": "easy",
+  "explanation": "Global variables are accessible everywhere."
+},
+{
+  "id": "ep_100",
+  "question": "Which variable is accessible only within a specific function or block?",
+  "options": ["Global variable", "Static variable", "Local variable", "External variable"],
+  "correctIndex": 2,
+  "topic": "Variable Scope",
+  "difficulty": "easy",
+  "explanation": "Local variables are limited to their block or function."
+},
+{
+  "id": "ep_101",
+  "question": "Which element of a programming language defines the grammar rules?",
+  "options": ["Character set", "Syntax", "Operators", "Constants"],
+  "correctIndex": 1,
+  "topic": "Syntax",
+  "difficulty": "easy",
+  "explanation": "Syntax defines the grammar rules of a programming language."
+},
+{
+  "id": "ep_102",
+  "question": "Which of the following is controlled by syntax rules?",
+  "options": [
+    "Hardware speed",
+    "Use of keywords and punctuation",
+    "Memory size",
+    "Program output"
+  ],
+  "correctIndex": 1,
+  "topic": "Syntax",
+  "difficulty": "medium",
+  "explanation": "Syntax controls how keywords, operators, and punctuation are used."
+},
+{
+  "id": "ep_103",
+  "question": "Which of the following is part of a programming language character set?",
+  "options": ["Algorithms", "Digits", "Functions", "Variables"],
+  "correctIndex": 1,
+  "topic": "Character Set",
+  "difficulty": "easy",
+  "explanation": "Digits 0–9 are part of a character set."
+},
+{
+  "id": "ep_104",
+  "question": "Which special symbol belongs to a character set?",
+  "options": ["while", "return", "+", "variable"],
+  "correctIndex": 2,
+  "topic": "Character Set",
+  "difficulty": "easy",
+  "explanation": "Special symbols like + are part of the character set."
+},
+{
+  "id": "ep_105",
+  "question": "White spaces in a character set include?",
+  "options": ["Digits", "Tabs and spaces", "Keywords", "Operators"],
+  "correctIndex": 1,
+  "topic": "Character Set",
+  "difficulty": "medium",
+  "explanation": "White spaces include spaces and tab characters."
+},
+
+{
+  "id": "ep_106",
+  "question": "Which of the following is NOT a type of constant?",
+  "options": ["Literal constant", "Defined constant", "Variable constant", "Numeric literal"],
+  "correctIndex": 2,
+  "topic": "Constants",
+  "difficulty": "medium",
+  "explanation": "The slides mention literal and defined constants only."
+},
+{
+  "id": "ep_107",
+  "question": "Which constant type is written directly in code?",
+  "options": ["Defined constant", "Literal constant", "Global constant", "Local constant"],
+  "correctIndex": 1,
+  "topic": "Constants",
+  "difficulty": "easy",
+  "explanation": "Literal constants are typed directly into the program."
+},
+{
+  "id": "ep_108",
+  "question": "Which of the following is a string literal?",
+  "options": ["'A'", "42", "\"Hello World\"", "true"],
+  "correctIndex": 2,
+  "topic": "Constants",
+  "difficulty": "easy",
+  "explanation": "String literals are enclosed in quotation marks."
+},
+{
+  "id": "ep_109",
+  "question": "Why do constants improve code safety?",
+  "options": [
+    "They increase execution speed",
+    "They prevent accidental changes",
+    "They remove errors automatically",
+    "They reduce memory usage"
+  ],
+  "correctIndex": 1,
+  "topic": "Constants",
+  "difficulty": "medium",
+  "explanation": "Constants prevent unintended modification of values."
+},
+{
+  "id": "ep_110",
+  "question": "Which of the following best defines a variable?",
+  "options": [
+    "A fixed value",
+    "A reserved word",
+    "A storage location whose value can change",
+    "A punctuation mark"
+  ],
+  "correctIndex": 2,
+  "topic": "Variables",
+  "difficulty": "easy",
+  "explanation": "Variables store values that can change during execution."
+},
+
+{
+  "id": "ep_111",
+  "question": "Which rule applies when naming variables?",
+  "options": [
+    "Must begin with a digit",
+    "Must use special symbols",
+    "Must use allowable characters",
+    "Must be uppercase"
+  ],
+  "correctIndex": 2,
+  "topic": "Variables",
+  "difficulty": "medium",
+  "explanation": "Variable names must use allowable characters from the character set."
+},
+{
+  "id": "ep_112",
+  "question": "Which variable naming practice improves readability?",
+  "options": [
+    "Using random letters",
+    "Using meaningful names",
+    "Using numbers only",
+    "Using symbols"
+  ],
+  "correctIndex": 1,
+  "topic": "Variables",
+  "difficulty": "easy",
+  "explanation": "Meaningful variable names improve code readability."
+},
+{
+  "id": "ep_113",
+  "question": "Which variable scope allows access throughout program execution?",
+  "options": ["Local", "Block", "Global", "Temporary"],
+  "correctIndex": 2,
+  "topic": "Variable Scope",
+  "difficulty": "easy",
+  "explanation": "Global variables are accessible throughout the program."
+},
+{
+  "id": "ep_114",
+  "question": "Local variables are accessible within?",
+  "options": [
+    "The entire program",
+    "Specific functions or blocks",
+    "All files",
+    "The operating system"
+  ],
+  "correctIndex": 1,
+  "topic": "Variable Scope",
+  "difficulty": "medium",
+  "explanation": "Local variables are limited to specific blocks."
+},
+{
+  "id": "ep_115",
+  "question": "Which data type classification tells the compiler how data is used?",
+  "options": ["Variable name", "Syntax", "Data type", "Operator"],
+  "correctIndex": 2,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Data types classify how data is stored and used."
+},
+
+{
+  "id": "ep_116",
+  "question": "Which data type stores both whole numbers and fractions?",
+  "options": ["Integer", "Character", "Floating point", "Boolean"],
+  "correctIndex": 2,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Floating point data types store decimal values."
+},
+{
+  "id": "ep_117",
+  "question": "Which data type would store a programme of study?",
+  "options": ["Integer", "String", "Boolean", "Character"],
+  "correctIndex": 1,
+  "topic": "Data Types",
+  "difficulty": "easy",
+  "explanation": "Strings store text such as names or programmes."
+},
+{
+  "id": "ep_118",
+  "question": "What does declaring a variable associate?",
+  "options": [
+    "Only a value",
+    "Only a name",
+    "A type and an identifier",
+    "Only memory address"
+  ],
+  "correctIndex": 2,
+  "topic": "Variable Declaration",
+  "difficulty": "medium",
+  "explanation": "Declaration associates a type and a name."
+},
+{
+  "id": "ep_119",
+  "question": "Which statement best describes variable initialization?",
+  "options": [
+    "Using a variable without a value",
+    "Assigning a value during declaration",
+    "Changing variable scope",
+    "Deleting a variable"
+  ],
+  "correctIndex": 1,
+  "topic": "Variable Initialization",
+  "difficulty": "easy",
+  "explanation": "Initialization assigns a value at declaration."
+},
+{
+  "id": "ep_120",
+  "question": "Which language infers data types from assigned values?",
+  "options": ["C++", "Java", "Python", "C"],
+  "correctIndex": 2,
+  "topic": "Variables",
+  "difficulty": "medium",
+  "explanation": "Python infers variable data types."
+},
+
+{
+  "id": "ep_121",
+  "question": "What is an expression composed of?",
+  "options": [
+    "Only variables",
+    "Only constants",
+    "Operators and operands",
+    "Keywords only"
+  ],
+  "correctIndex": 2,
+  "topic": "Expressions",
+  "difficulty": "easy",
+  "explanation": "Expressions consist of operators and operands."
+},
+{
+  "id": "ep_122",
+  "question": "Which of the following is a relational expression?",
+  "options": ["5 + 6", "score = 20", "10 < 15", "7 * 3"],
+  "correctIndex": 2,
+  "topic": "Expressions",
+  "difficulty": "easy",
+  "explanation": "Relational expressions compare values."
+},
+{
+  "id": "ep_123",
+  "question": "Which type of expression performs logical operations?",
+  "options": [
+    "Arithmetic",
+    "Assignment",
+    "Logical",
+    "Numeric"
+  ],
+  "correctIndex": 2,
+  "topic": "Expressions",
+  "difficulty": "easy",
+  "explanation": "Logical expressions perform logical operations."
+},
+{
+  "id": "ep_124",
+  "question": "Which expression assigns the result to a variable?",
+  "options": [
+    "12 > 5",
+    "x = 28 + 45",
+    "10 * 2",
+    "true && false"
+  ],
+  "correctIndex": 1,
+  "topic": "Expressions",
+  "difficulty": "medium",
+  "explanation": "Assignment expressions store results in variables."
+},
+{
+  "id": "ep_125",
+  "question": "Which expression type combines multiple expression forms?",
+  "options": [
+    "Literal expression",
+    "Simple expression",
+    "Compound expression",
+    "Boolean expression"
+  ],
+  "correctIndex": 2,
+  "topic": "Expressions",
+  "difficulty": "hard",
+  "explanation": "Compound expressions combine multiple expression types."
+},
+
+{
+  "id": "ep_126",
+  "question": "Which operator type requires only one operand?",
+  "options": [
+    "Binary",
+    "Relational",
+    "Unary",
+    "Arithmetic"
+  ],
+  "correctIndex": 2,
+  "topic": "Unary Operators",
+  "difficulty": "easy",
+  "explanation": "Unary operators operate on a single operand."
+},
+{
+  "id": "ep_127",
+  "question": "Which is an example of a unary operator?",
+  "options": ["+", "==", "++", "&&"],
+  "correctIndex": 2,
+  "topic": "Unary Operators",
+  "difficulty": "easy",
+  "explanation": "++ is a unary increment operator."
+},
+{
+  "id": "ep_128",
+  "question": "Prefix increment means?",
+  "options": [
+    "Increment after use",
+    "Increment before use",
+    "Decrement before use",
+    "No change"
+  ],
+  "correctIndex": 1,
+  "topic": "Unary Operators",
+  "difficulty": "medium",
+  "explanation": "Prefix increment increases value before use."
+},
+{
+  "id": "ep_129",
+  "question": "Postfix increment means?",
+  "options": [
+    "Increment before use",
+    "Increment after use",
+    "Decrement after use",
+    "Assign zero"
+  ],
+  "correctIndex": 1,
+  "topic": "Unary Operators",
+  "difficulty": "medium",
+  "explanation": "Postfix increment increases value after use."
+},
+{
+  "id": "ep_130",
+  "question": "Which unary operators are commonly used in loops?",
+  "options": [
+    "&& and ||",
+    "+ and -",
+    "++ and --",
+    "== and !="
+  ],
+  "correctIndex": 2,
+  "topic": "Unary Operators",
+  "difficulty": "easy",
+  "explanation": "Increment and decrement operators are commonly used in loops."
+}
+
+
+]
+}

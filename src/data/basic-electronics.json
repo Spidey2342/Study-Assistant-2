@@ -1,0 +1,1460 @@
+{
+  "courseId": "beee-103-basic-electronics",
+  "title": "Basic Electronics",
+  "icon": "⚡",
+  "questions": [
+    {
+      "id": "beee_001",
+      "question": "What is electronics primarily concerned with?",
+      "options": [
+        "Mechanical systems",
+        "Flow of electrons",
+        "Chemical reactions",
+        "Thermal energy"
+      ],
+      "correctIndex": 1,
+      "topic": "Introduction to Electronics",
+      "difficulty": "easy",
+      "explanation": "Electronics deals with the control and flow of electrons."
+    },
+    {
+      "id": "beee_002",
+      "question": "All matter is composed of what basic unit?",
+      "options": ["Cells", "Molecules", "Atoms", "Compounds"],
+      "correctIndex": 2,
+      "topic": "Atom",
+      "difficulty": "easy",
+      "explanation": "Atoms are the basic building blocks of matter."
+    },
+    {
+      "id": "beee_003",
+      "question": "Which particle has a negative charge?",
+      "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+      "correctIndex": 2,
+      "topic": "Atomic Structure",
+      "difficulty": "easy",
+      "explanation": "Electrons carry a negative charge."
+    },
+    {
+      "id": "beee_004",
+      "question": "Which atomic particle has no electrical charge?",
+      "options": ["Electron", "Proton", "Neutron", "Ion"],
+      "correctIndex": 2,
+      "topic": "Atomic Structure",
+      "difficulty": "easy",
+      "explanation": "Neutrons are electrically neutral."
+    },
+    {
+      "id": "beee_005",
+      "question": "What is located at the center of an atom?",
+      "options": ["Electrons", "Valence shell", "Nucleus", "Energy band"],
+      "correctIndex": 2,
+      "topic": "Atomic Structure",
+      "difficulty": "easy",
+      "explanation": "The nucleus is at the center of the atom."
+    },
+
+    {
+      "id": "beee_006",
+      "question": "Who proposed the planetary model of the atom?",
+      "options": ["Einstein", "Rutherford", "Bohr", "Newton"],
+      "correctIndex": 2,
+      "topic": "Bohr Model",
+      "difficulty": "easy",
+      "explanation": "Niels Bohr proposed the planetary model."
+    },
+    {
+      "id": "beee_007",
+      "question": "Why is the Bohr model commonly used in electronics?",
+      "options": [
+        "It is the most accurate model",
+        "It is easy to visualize",
+        "It explains quantum mechanics fully",
+        "It replaces the periodic table"
+      ],
+      "correctIndex": 1,
+      "topic": "Bohr Model",
+      "difficulty": "medium",
+      "explanation": "The Bohr model is simple and easy to visualize."
+    },
+    {
+      "id": "beee_008",
+      "question": "What determines the atomic number of an element?",
+      "options": [
+        "Number of electrons",
+        "Number of neutrons",
+        "Number of protons",
+        "Atomic mass"
+      ],
+      "correctIndex": 2,
+      "topic": "Atomic Number",
+      "difficulty": "easy",
+      "explanation": "Atomic number equals the number of protons."
+    },
+    {
+      "id": "beee_009",
+      "question": "In a neutral atom, the number of electrons is equal to?",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Shells",
+        "Energy levels"
+      ],
+      "correctIndex": 1,
+      "topic": "Atomic Number",
+      "difficulty": "easy",
+      "explanation": "Neutral atoms have equal protons and electrons."
+    },
+    {
+      "id": "beee_010",
+      "question": "Electrons exist in fixed energy levels known as?",
+      "options": ["Orbits", "Shells", "Bands", "Layers"],
+      "correctIndex": 1,
+      "topic": "Electron Shells",
+      "difficulty": "easy",
+      "explanation": "Energy levels are called shells."
+    },
+
+    {
+      "id": "beee_011",
+      "question": "Which shell is closest to the nucleus?",
+      "options": ["Shell 1", "Shell 2", "Shell 3", "Valence shell"],
+      "correctIndex": 0,
+      "topic": "Electron Shells",
+      "difficulty": "easy",
+      "explanation": "Shell 1 is closest to the nucleus."
+    },
+    {
+      "id": "beee_012",
+      "question": "Which electrons have the highest energy?",
+      "options": [
+        "Inner shell electrons",
+        "Core electrons",
+        "Valence electrons",
+        "Nuclear electrons"
+      ],
+      "correctIndex": 2,
+      "topic": "Valence Electrons",
+      "difficulty": "easy",
+      "explanation": "Valence electrons are in the outermost shell."
+    },
+    {
+      "id": "beee_013",
+      "question": "Valence electrons determine a material’s?",
+      "options": [
+        "Color",
+        "Chemical and electrical properties",
+        "Mass",
+        "Density"
+      ],
+      "correctIndex": 1,
+      "topic": "Valence Electrons",
+      "difficulty": "medium",
+      "explanation": "They affect bonding and conductivity."
+    },
+    {
+      "id": "beee_014",
+      "question": "What happens when a valence electron gains enough energy?",
+      "options": [
+        "It moves inward",
+        "It becomes neutral",
+        "It breaks free",
+        "It disappears"
+      ],
+      "correctIndex": 2,
+      "topic": "Ionization",
+      "difficulty": "easy",
+      "explanation": "The electron becomes a free electron."
+    },
+    {
+      "id": "beee_015",
+      "question": "The energy required to free a valence electron is called?",
+      "options": [
+        "Binding energy",
+        "Ionization energy",
+        "Kinetic energy",
+        "Band energy"
+      ],
+      "correctIndex": 1,
+      "topic": "Ionization",
+      "difficulty": "medium",
+      "explanation": "Ionization energy frees valence electrons."
+    },
+
+    {
+      "id": "beee_016",
+      "question": "What is a positive ion?",
+      "options": [
+        "Atom that gains electrons",
+        "Atom that loses electrons",
+        "Neutral atom",
+        "Free electron"
+      ],
+      "correctIndex": 1,
+      "topic": "Ionization",
+      "difficulty": "easy",
+      "explanation": "Losing electrons leaves a positive charge."
+    },
+    {
+      "id": "beee_017",
+      "question": "What is a free electron?",
+      "options": [
+        "Electron in nucleus",
+        "Captured electron",
+        "Escaped valence electron",
+        "Bound electron"
+      ],
+      "correctIndex": 2,
+      "topic": "Ionization",
+      "difficulty": "easy",
+      "explanation": "Free electrons move freely through material."
+    },
+    {
+      "id": "beee_018",
+      "question": "Materials are classified electrically into how many groups?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctIndex": 1,
+      "topic": "Materials",
+      "difficulty": "easy",
+      "explanation": "Conductors, semiconductors, insulators."
+    },
+    {
+      "id": "beee_019",
+      "question": "Which material does NOT conduct electricity easily?",
+      "options": ["Copper", "Silver", "Rubber", "Aluminum"],
+      "correctIndex": 2,
+      "topic": "Insulators",
+      "difficulty": "easy",
+      "explanation": "Rubber is an insulator."
+    },
+    {
+      "id": "beee_020",
+      "question": "Why do insulators resist current flow?",
+      "options": [
+        "Few free electrons",
+        "Too many protons",
+        "Low atomic number",
+        "High density"
+      ],
+      "correctIndex": 0,
+      "topic": "Insulators",
+      "difficulty": "medium",
+      "explanation": "Valence electrons are tightly bound."
+    },
+
+  {
+    "id": "beee_021",
+    "question": "Which material allows electric current to flow easily?",
+    "options": ["Insulator", "Semiconductor", "Conductor", "Resistor"],
+    "correctIndex": 2,
+    "topic": "Conductors",
+    "difficulty": "easy",
+    "explanation": "Conductors have many free electrons."
+  },
+  {
+    "id": "beee_022",
+    "question": "Which of the following is a good conductor?",
+    "options": ["Rubber", "Glass", "Copper", "Plastic"],
+    "correctIndex": 2,
+    "topic": "Conductors",
+    "difficulty": "easy",
+    "explanation": "Copper has many free electrons."
+  },
+  {
+    "id": "beee_023",
+    "question": "Why do conductors conduct electricity easily?",
+    "options": [
+      "High resistance",
+      "Few electrons",
+      "Many free electrons",
+      "Large band gap"
+    ],
+    "correctIndex": 2,
+    "topic": "Conductors",
+    "difficulty": "medium",
+    "explanation": "Free electrons allow current flow."
+  },
+  {
+    "id": "beee_024",
+    "question": "Which metal is the best electrical conductor?",
+    "options": ["Copper", "Aluminum", "Silver", "Iron"],
+    "correctIndex": 2,
+    "topic": "Conductors",
+    "difficulty": "medium",
+    "explanation": "Silver has the highest conductivity."
+  },
+  {
+    "id": "beee_025",
+    "question": "Which material lies between conductor and insulator?",
+    "options": ["Metal", "Plastic", "Semiconductor", "Glass"],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Semiconductors have moderate conductivity."
+  },
+
+  {
+    "id": "beee_026",
+    "question": "Which element is a commonly used semiconductor?",
+    "options": ["Copper", "Silicon", "Iron", "Silver"],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Silicon is widely used in electronics."
+  },
+  {
+    "id": "beee_027",
+    "question": "Germanium is classified as a?",
+    "options": ["Conductor", "Insulator", "Semiconductor", "Alloy"],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Germanium is a semiconductor."
+  },
+  {
+    "id": "beee_028",
+    "question": "How many valence electrons does silicon have?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Silicon has four valence electrons."
+  },
+  {
+    "id": "beee_029",
+    "question": "What property makes semiconductors useful?",
+    "options": [
+      "High resistance",
+      "Controlled conductivity",
+      "Permanent insulation",
+      "Unlimited electrons"
+    ],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Their conductivity can be controlled."
+  },
+  {
+    "id": "beee_030",
+    "question": "Which semiconductor is more temperature sensitive?",
+    "options": ["Silicon", "Germanium", "Copper", "Aluminum"],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Germanium is more temperature sensitive."
+  },
+
+  {
+    "id": "beee_031",
+    "question": "Why is silicon preferred over germanium?",
+    "options": [
+      "Lower melting point",
+      "Higher leakage current",
+      "Better thermal stability",
+      "Less availability"
+    ],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Silicon performs better at higher temperatures."
+  },
+  {
+    "id": "beee_032",
+    "question": "What type of bond exists in silicon crystals?",
+    "options": ["Ionic bond", "Metallic bond", "Covalent bond", "Hydrogen bond"],
+    "correctIndex": 2,
+    "topic": "Covalent Bonding",
+    "difficulty": "easy",
+    "explanation": "Silicon atoms share electrons via covalent bonds."
+  },
+  {
+    "id": "beee_033",
+    "question": "Covalent bonding involves?",
+    "options": [
+      "Electron transfer",
+      "Electron sharing",
+      "Ion creation",
+      "Proton movement"
+    ],
+    "correctIndex": 1,
+    "topic": "Covalent Bonding",
+    "difficulty": "easy",
+    "explanation": "Electrons are shared between atoms."
+  },
+  {
+    "id": "beee_034",
+    "question": "How many covalent bonds does a silicon atom form?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "topic": "Covalent Bonding",
+    "difficulty": "easy",
+    "explanation": "Each silicon atom forms four bonds."
+  },
+  {
+    "id": "beee_035",
+    "question": "At absolute zero, pure silicon behaves as a?",
+    "options": ["Conductor", "Insulator", "Semiconductor", "Superconductor"],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "hard",
+    "explanation": "No free electrons are available."
+  },
+
+  {
+    "id": "beee_036",
+    "question": "What happens to semiconductor conductivity as temperature increases?",
+    "options": [
+      "It decreases",
+      "It remains constant",
+      "It increases",
+      "It becomes zero"
+    ],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "More electrons gain energy to conduct."
+  },
+  {
+    "id": "beee_037",
+    "question": "What is an energy band?",
+    "options": [
+      "Electron path",
+      "Range of allowed energies",
+      "Physical layer",
+      "Atomic shell"
+    ],
+    "correctIndex": 1,
+    "topic": "Energy Bands",
+    "difficulty": "medium",
+    "explanation": "Energy bands define allowed electron energies."
+  },
+  {
+    "id": "beee_038",
+    "question": "Which band contains valence electrons?",
+    "options": [
+      "Conduction band",
+      "Forbidden band",
+      "Valence band",
+      "Ion band"
+    ],
+    "correctIndex": 2,
+    "topic": "Energy Bands",
+    "difficulty": "easy",
+    "explanation": "Valence electrons occupy the valence band."
+  },
+  {
+    "id": "beee_039",
+    "question": "Which band allows free movement of electrons?",
+    "options": [
+      "Valence band",
+      "Forbidden band",
+      "Conduction band",
+      "Core band"
+    ],
+    "correctIndex": 2,
+    "topic": "Energy Bands",
+    "difficulty": "easy",
+    "explanation": "Electrons move freely in the conduction band."
+  },
+  {
+    "id": "beee_040",
+    "question": "What is the forbidden energy gap?",
+    "options": [
+      "Occupied band",
+      "Energy gap with no allowed states",
+      "Electron shell",
+      "Bond energy"
+    ],
+    "correctIndex": 1,
+    "topic": "Energy Bands",
+    "difficulty": "medium",
+    "explanation": "No electron energy states exist there."
+  },
+
+  {
+    "id": "beee_041",
+    "question": "Which material has the largest band gap?",
+    "options": ["Conductor", "Semiconductor", "Insulator", "Metal"],
+    "correctIndex": 2,
+    "topic": "Energy Bands",
+    "difficulty": "medium",
+    "explanation": "Insulators have large band gaps."
+  },
+  {
+    "id": "beee_042",
+    "question": "Why do conductors have no band gap?",
+    "options": [
+      "No valence electrons",
+      "Overlapping bands",
+      "Large forbidden gap",
+      "No conduction band"
+    ],
+    "correctIndex": 1,
+    "topic": "Energy Bands",
+    "difficulty": "hard",
+    "explanation": "Valence and conduction bands overlap."
+  },
+  {
+    "id": "beee_043",
+    "question": "Which has the smallest band gap?",
+    "options": ["Insulator", "Semiconductor", "Conductor", "Plastic"],
+    "correctIndex": 2,
+    "topic": "Energy Bands",
+    "difficulty": "medium",
+    "explanation": "Conductors have zero or overlapping gaps."
+  },
+  {
+    "id": "beee_044",
+    "question": "What causes electrons to move to the conduction band?",
+    "options": [
+      "Cooling",
+      "Loss of protons",
+      "Energy gain",
+      "Bonding"
+    ],
+    "correctIndex": 2,
+    "topic": "Energy Bands",
+    "difficulty": "medium",
+    "explanation": "Electrons gain sufficient energy."
+  },
+  {
+    "id": "beee_045",
+    "question": "What is intrinsic semiconductor?",
+    "options": [
+      "Doped semiconductor",
+      "Pure semiconductor",
+      "Metallic semiconductor",
+      "Impure crystal"
+    ],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Intrinsic means pure."
+  },
+
+  {
+    "id": "beee_046",
+    "question": "In intrinsic semiconductors, electrons and holes are?",
+    "options": [
+      "Unequal",
+      "Absent",
+      "Equal",
+      "Fixed"
+    ],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "They are generated in pairs."
+  },
+  {
+    "id": "beee_047",
+    "question": "What is a hole in semiconductor theory?",
+    "options": [
+      "Missing electron",
+      "Free proton",
+      "Energy gap",
+      "Electron shell"
+    ],
+    "correctIndex": 0,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "A hole is the absence of an electron."
+  },
+  {
+    "id": "beee_048",
+    "question": "Which charge does a hole carry?",
+    "options": ["Negative", "Neutral", "Positive", "Variable"],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Holes act as positive charge carriers."
+  },
+  {
+    "id": "beee_049",
+    "question": "Electron-hole pairs are created by?",
+    "options": [
+      "Cooling",
+      "Energy absorption",
+      "Bonding",
+      "Doping"
+    ],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Energy breaks covalent bonds."
+  },
+  {
+    "id": "beee_050",
+    "question": "Which carrier moves in the opposite direction to electrons?",
+    "options": ["Protons", "Neutrons", "Holes", "Ions"],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Holes move opposite to electrons."
+  },
+
+  {
+    "id": "beee_051",
+    "question": "What mainly limits current in insulators?",
+    "options": [
+      "Temperature",
+      "Few free electrons",
+      "High voltage",
+      "Doping"
+    ],
+    "correctIndex": 1,
+    "topic": "Insulators",
+    "difficulty": "medium",
+    "explanation": "Electrons are tightly bound."
+  },
+  {
+    "id": "beee_052",
+    "question": "Which material is used in IC fabrication?",
+    "options": ["Iron", "Copper", "Silicon", "Plastic"],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Silicon is the base of ICs."
+  },
+  {
+    "id": "beee_053",
+    "question": "Why is germanium less used today?",
+    "options": [
+      "Scarcity",
+      "Low conductivity",
+      "High leakage current",
+      "Low melting point"
+    ],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Germanium leaks current at high temperature."
+  },
+  {
+    "id": "beee_054",
+    "question": "What increases conductivity in intrinsic semiconductors?",
+    "options": [
+      "Cooling",
+      "Light and heat",
+      "Pressure",
+      "Bonding"
+    ],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Energy excites electrons."
+  },
+  {
+    "id": "beee_055",
+    "question": "Which particle actually moves in a conductor?",
+    "options": ["Protons", "Neutrons", "Electrons", "Ions"],
+    "correctIndex": 2,
+    "topic": "Conductors",
+    "difficulty": "easy",
+    "explanation": "Electrons are charge carriers."
+  },
+
+  {
+    "id": "beee_056",
+    "question": "What happens when an electron leaves a covalent bond?",
+    "options": [
+      "Bond strengthens",
+      "Hole is created",
+      "Atom disappears",
+      "Energy is destroyed"
+    ],
+    "correctIndex": 1,
+    "topic": "Covalent Bonding",
+    "difficulty": "medium",
+    "explanation": "A hole remains."
+  },
+  {
+    "id": "beee_057",
+    "question": "Which is NOT an electrical material classification?",
+    "options": ["Conductor", "Semiconductor", "Insulator", "Electrolyte"],
+    "correctIndex": 3,
+    "topic": "Materials",
+    "difficulty": "easy",
+    "explanation": "Electrolyte is chemical classification."
+  },
+  {
+    "id": "beee_058",
+    "question": "What determines electrical behavior of materials?",
+    "options": [
+      "Atomic mass",
+      "Valence electrons",
+      "Density",
+      "Color"
+    ],
+    "correctIndex": 1,
+    "topic": "Materials",
+    "difficulty": "medium",
+    "explanation": "Valence electrons control conductivity."
+  },
+  {
+    "id": "beee_059",
+    "question": "Which band must electrons reach to conduct?",
+    "options": [
+      "Valence band",
+      "Forbidden band",
+      "Conduction band",
+      "Core band"
+    ],
+    "correctIndex": 2,
+    "topic": "Energy Bands",
+    "difficulty": "easy",
+    "explanation": "Only conduction band allows movement."
+  },
+  {
+    "id": "beee_060",
+    "question": "What is the basic reason metals conduct electricity?",
+    "options": [
+      "High band gap",
+      "Many holes",
+      "Overlapping bands",
+      "Covalent bonding"
+    ],
+    "correctIndex": 2,
+    "topic": "Conductors",
+    "difficulty": "hard",
+    "explanation": "Valence and conduction bands overlap."
+  },
+  
+  {
+    "id": "beee_061",
+    "question": "Which type of material has overlapping valence and conduction bands?",
+    "options": ["Insulator", "Semiconductor", "Conductor", "Dielectric"],
+    "correctIndex": 2,
+    "topic": "Energy Bands",
+    "difficulty": "medium",
+    "explanation": "In conductors, valence and conduction bands overlap."
+  },
+  {
+    "id": "beee_062",
+    "question": "Which material has a moderate band gap?",
+    "options": ["Conductor", "Insulator", "Semiconductor", "Metal"],
+    "correctIndex": 2,
+    "topic": "Energy Bands",
+    "difficulty": "easy",
+    "explanation": "Semiconductors have a moderate band gap."
+  },
+  {
+    "id": "beee_063",
+    "question": "Which factor mainly affects conductivity in semiconductors?",
+    "options": ["Pressure", "Temperature", "Color", "Density"],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Temperature increases charge carrier generation."
+  },
+  {
+    "id": "beee_064",
+    "question": "At room temperature, pure silicon behaves as a?",
+    "options": ["Good conductor", "Perfect insulator", "Poor conductor", "Superconductor"],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Intrinsic silicon has limited free carriers."
+  },
+  {
+    "id": "beee_065",
+    "question": "Which charge carriers are present in intrinsic semiconductors?",
+    "options": [
+      "Only electrons",
+      "Only holes",
+      "Electrons and holes",
+      "Protons and electrons"
+    ],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Electron-hole pairs exist in intrinsic semiconductors."
+  },
+
+  {
+    "id": "beee_066",
+    "question": "What causes the creation of a hole?",
+    "options": [
+      "Electron gain",
+      "Electron loss from covalent bond",
+      "Proton movement",
+      "Neutron decay"
+    ],
+    "correctIndex": 1,
+    "topic": "Covalent Bonding",
+    "difficulty": "medium",
+    "explanation": "A hole forms when an electron leaves a bond."
+  },
+  {
+    "id": "beee_067",
+    "question": "Which particle is responsible for current flow in semiconductors?",
+    "options": ["Only electrons", "Only holes", "Electrons and holes", "Ions"],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Both electrons and holes contribute to current."
+  },
+  {
+    "id": "beee_068",
+    "question": "Which material is an insulator?",
+    "options": ["Aluminum", "Copper", "Glass", "Silver"],
+    "correctIndex": 2,
+    "topic": "Insulators",
+    "difficulty": "easy",
+    "explanation": "Glass resists current flow."
+  },
+  {
+    "id": "beee_069",
+    "question": "Why do insulators have very high resistance?",
+    "options": [
+      "High atomic number",
+      "Large band gap",
+      "Many free electrons",
+      "Overlapping bands"
+    ],
+    "correctIndex": 1,
+    "topic": "Insulators",
+    "difficulty": "medium",
+    "explanation": "Large band gap prevents electron movement."
+  },
+  {
+    "id": "beee_070",
+    "question": "Which material is commonly used as an electrical insulator?",
+    "options": ["Rubber", "Copper", "Aluminum", "Iron"],
+    "correctIndex": 0,
+    "topic": "Insulators",
+    "difficulty": "easy",
+    "explanation": "Rubber is widely used for insulation."
+  },
+
+  {
+    "id": "beee_071",
+    "question": "What happens to resistance of a semiconductor when temperature increases?",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "Becomes infinite"
+    ],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "More charge carriers reduce resistance."
+  },
+  {
+    "id": "beee_072",
+    "question": "Which property makes semiconductors suitable for electronic devices?",
+    "options": [
+      "Very high resistance",
+      "Zero resistance",
+      "Controllable conductivity",
+      "Permanent charge"
+    ],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Conductivity can be controlled."
+  },
+  {
+    "id": "beee_073",
+    "question": "Which element has four valence electrons?",
+    "options": ["Boron", "Silicon", "Phosphorus", "Aluminum"],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Silicon has four valence electrons."
+  },
+  {
+    "id": "beee_074",
+    "question": "What type of bonding holds silicon atoms together?",
+    "options": ["Ionic", "Metallic", "Covalent", "Hydrogen"],
+    "correctIndex": 2,
+    "topic": "Covalent Bonding",
+    "difficulty": "easy",
+    "explanation": "Silicon atoms share electrons."
+  },
+  {
+    "id": "beee_075",
+    "question": "How many electrons are shared in one covalent bond?",
+    "options": ["1", "2", "4", "8"],
+    "correctIndex": 1,
+    "topic": "Covalent Bonding",
+    "difficulty": "medium",
+    "explanation": "A covalent bond shares two electrons."
+  },
+
+  {
+    "id": "beee_076",
+    "question": "Which material is most temperature stable?",
+    "options": ["Germanium", "Silicon", "Copper", "Silver"],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Silicon performs better at higher temperatures."
+  },
+  {
+    "id": "beee_077",
+    "question": "Why is silver not commonly used in electronics despite high conductivity?",
+    "options": [
+      "High resistance",
+      "Scarcity",
+      "Cost",
+      "Low melting point"
+    ],
+    "correctIndex": 2,
+    "topic": "Conductors",
+    "difficulty": "hard",
+    "explanation": "Silver is expensive."
+  },
+  {
+    "id": "beee_078",
+    "question": "Which energy band is completely filled at absolute zero?",
+    "options": [
+      "Conduction band",
+      "Forbidden band",
+      "Valence band",
+      "Ion band"
+    ],
+    "correctIndex": 2,
+    "topic": "Energy Bands",
+    "difficulty": "hard",
+    "explanation": "Valence band is full at 0 K."
+  },
+  {
+    "id": "beee_079",
+    "question": "Which band is empty at absolute zero in semiconductors?",
+    "options": [
+      "Valence band",
+      "Conduction band",
+      "Forbidden band",
+      "Core band"
+    ],
+    "correctIndex": 1,
+    "topic": "Energy Bands",
+    "difficulty": "hard",
+    "explanation": "No electrons occupy the conduction band at 0 K."
+  },
+  {
+    "id": "beee_080",
+    "question": "What enables current flow in metals?",
+    "options": [
+      "Holes only",
+      "Bound electrons",
+      "Free electrons",
+      "Covalent bonds"
+    ],
+    "correctIndex": 2,
+    "topic": "Conductors",
+    "difficulty": "easy",
+    "explanation": "Free electrons move easily in metals."
+  },
+
+  {
+    "id": "beee_081",
+    "question": "Which property distinguishes conductors from insulators?",
+    "options": [
+      "Atomic weight",
+      "Band gap size",
+      "Color",
+      "Density"
+    ],
+    "correctIndex": 1,
+    "topic": "Energy Bands",
+    "difficulty": "medium",
+    "explanation": "Band gap determines conductivity."
+  },
+  {
+    "id": "beee_082",
+    "question": "What is the forbidden gap also called?",
+    "options": [
+      "Energy gap",
+      "Valence gap",
+      "Core gap",
+      "Ion gap"
+    ],
+    "correctIndex": 0,
+    "topic": "Energy Bands",
+    "difficulty": "easy",
+    "explanation": "It is the energy gap between bands."
+  },
+  {
+    "id": "beee_083",
+    "question": "Which factor does NOT affect conductivity?",
+    "options": ["Temperature", "Material type", "Band gap", "Color"],
+    "correctIndex": 3,
+    "topic": "Materials",
+    "difficulty": "easy",
+    "explanation": "Color does not affect electrical behavior."
+  },
+  {
+    "id": "beee_084",
+    "question": "Which material classification is best for IC fabrication?",
+    "options": ["Conductor", "Insulator", "Semiconductor", "Alloy"],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Semiconductors allow control of current."
+  },
+  {
+    "id": "beee_085",
+    "question": "What happens when an electron recombines with a hole?",
+    "options": [
+      "Energy is released",
+      "Charge increases",
+      "Resistance increases",
+      "Bond breaks"
+    ],
+    "correctIndex": 0,
+    "topic": "Semiconductors",
+    "difficulty": "hard",
+    "explanation": "Recombination releases energy."
+  },
+
+  {
+    "id": "beee_086",
+    "question": "Which material has the least number of free electrons?",
+    "options": ["Conductor", "Semiconductor", "Insulator", "Metal"],
+    "correctIndex": 2,
+    "topic": "Insulators",
+    "difficulty": "easy",
+    "explanation": "Insulators tightly bind electrons."
+  },
+  {
+    "id": "beee_087",
+    "question": "Which statement is TRUE about intrinsic semiconductors?",
+    "options": [
+      "High conductivity",
+      "Equal electrons and holes",
+      "No covalent bonds",
+      "Large band gap"
+    ],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Electron-hole pairs are equal."
+  },
+  {
+    "id": "beee_088",
+    "question": "Which phenomenon explains conductivity in semiconductors?",
+    "options": [
+      "Overlapping bands",
+      "Electron-hole generation",
+      "Free protons",
+      "Ion migration"
+    ],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Charge carriers are generated thermally."
+  },
+  {
+    "id": "beee_089",
+    "question": "Which device behavior depends on semiconductor properties?",
+    "options": ["Transformer", "Resistor", "Diode", "Fuse"],
+    "correctIndex": 2,
+    "topic": "Applications",
+    "difficulty": "easy",
+    "explanation": "Diodes rely on semiconductor behavior."
+  },
+  {
+    "id": "beee_090",
+    "question": "Why are semiconductors called controllable materials?",
+    "options": [
+      "They are permanent",
+      "They can store energy",
+      "Their conductivity can be altered",
+      "They conduct fully"
+    ],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "External energy affects conductivity."
+  },
+
+  {
+    "id": "beee_091",
+    "question": "Which energy band determines bonding?",
+    "options": [
+      "Conduction band",
+      "Valence band",
+      "Forbidden band",
+      "Ion band"
+    ],
+    "correctIndex": 1,
+    "topic": "Energy Bands",
+    "difficulty": "medium",
+    "explanation": "Valence electrons form bonds."
+  },
+  {
+    "id": "beee_092",
+    "question": "Which property makes metals shiny conductors?",
+    "options": [
+      "Covalent bonding",
+      "Overlapping energy bands",
+      "Large band gap",
+      "Electron holes"
+    ],
+    "correctIndex": 1,
+    "topic": "Conductors",
+    "difficulty": "hard",
+    "explanation": "Free electrons reflect light and conduct."
+  },
+  {
+    "id": "beee_093",
+    "question": "Which of the following best describes electronics?",
+    "options": [
+      "Study of atoms",
+      "Control of electron flow",
+      "Study of energy only",
+      "Mechanical systems"
+    ],
+    "correctIndex": 1,
+    "topic": "Introduction to Electronics",
+    "difficulty": "easy",
+    "explanation": "Electronics deals with electron flow."
+  },
+  {
+    "id": "beee_094",
+    "question": "Why are semiconductors not perfect conductors?",
+    "options": [
+      "Too many electrons",
+      "Large forbidden gap",
+      "Moderate band gap",
+      "No valence electrons"
+    ],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Energy gap limits free electrons."
+  },
+  {
+    "id": "beee_095",
+    "question": "Which material is best suited for making transistors?",
+    "options": ["Iron", "Copper", "Silicon", "Silver"],
+    "correctIndex": 2,
+    "topic": "Applications",
+    "difficulty": "easy",
+    "explanation": "Silicon is used for transistors."
+  },
+
+  {
+    "id": "beee_096",
+    "question": "What is the basic reason electrons move?",
+    "options": [
+      "Pressure",
+      "Electric field",
+      "Density difference",
+      "Bonding"
+    ],
+    "correctIndex": 1,
+    "topic": "Fundamentals",
+    "difficulty": "medium",
+    "explanation": "Electric fields cause electron drift."
+  },
+  {
+    "id": "beee_097",
+    "question": "Which condition increases electron mobility?",
+    "options": [
+      "Lower energy",
+      "Higher temperature",
+      "Large band gap",
+      "Stronger bonding"
+    ],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "hard",
+    "explanation": "Energy frees electrons."
+  },
+  {
+    "id": "beee_098",
+    "question": "Which concept explains absence of current in insulators?",
+    "options": [
+      "Overlapping bands",
+      "Electron holes",
+      "Large forbidden gap",
+      "Valence sharing"
+    ],
+    "correctIndex": 2,
+    "topic": "Insulators",
+    "difficulty": "medium",
+    "explanation": "Electrons cannot cross the band gap."
+  },
+  {
+    "id": "beee_099",
+    "question": "Which statement best summarizes semiconductors?",
+    "options": [
+      "Always conduct",
+      "Never conduct",
+      "Conduct under controlled conditions",
+      "Conduct only at zero temperature"
+    ],
+    "correctIndex": 2,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Their conductivity is controllable."
+  },
+  {
+    "id": "beee_100",
+    "question": "Which particle movement forms electric current?",
+    "options": ["Protons", "Neutrons", "Electrons", "Nuclei"],
+    "correctIndex": 2,
+    "topic": "Fundamentals",
+    "difficulty": "easy",
+    "explanation": "Current is due to electron flow."
+  },
+
+  {
+    "id": "beee_101",
+    "question": "Which band gap size indicates an insulator?",
+    "options": ["Zero", "Small", "Moderate", "Large"],
+    "correctIndex": 3,
+    "topic": "Energy Bands",
+    "difficulty": "easy",
+    "explanation": "Insulators have large band gaps."
+  },
+  {
+    "id": "beee_102",
+    "question": "Which material behavior changes most with temperature?",
+    "options": ["Conductor", "Semiconductor", "Insulator", "Metal"],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Temperature greatly affects semiconductors."
+  },
+  {
+    "id": "beee_103",
+    "question": "Which energy band participates in conduction?",
+    "options": [
+      "Valence band",
+      "Forbidden band",
+      "Conduction band",
+      "Core band"
+    ],
+    "correctIndex": 2,
+    "topic": "Energy Bands",
+    "difficulty": "easy",
+    "explanation": "Conduction band enables current flow."
+  },
+  {
+    "id": "beee_104",
+    "question": "Why are electrons called charge carriers?",
+    "options": [
+      "They are heavy",
+      "They carry electric charge",
+      "They create energy",
+      "They form bonds"
+    ],
+    "correctIndex": 1,
+    "topic": "Fundamentals",
+    "difficulty": "easy",
+    "explanation": "Electrons transport electric charge."
+  },
+  {
+    "id": "beee_105",
+    "question": "Which statement is FALSE about conductors?",
+    "options": [
+      "They have free electrons",
+      "They have overlapping bands",
+      "They have large band gaps",
+      "They allow easy current flow"
+    ],
+    "correctIndex": 2,
+    "topic": "Conductors",
+    "difficulty": "medium",
+    "explanation": "Conductors do not have large band gaps."
+  },
+
+  {
+    "id": "beee_106",
+    "question": "What causes resistance in materials?",
+    "options": [
+      "Electron collisions",
+      "Free movement",
+      "Overlapping bands",
+      "Ion creation"
+    ],
+    "correctIndex": 0,
+    "topic": "Fundamentals",
+    "difficulty": "hard",
+    "explanation": "Collisions impede electron flow."
+  },
+  {
+    "id": "beee_107",
+    "question": "Which material has the lowest resistance?",
+    "options": ["Insulator", "Semiconductor", "Conductor", "Plastic"],
+    "correctIndex": 2,
+    "topic": "Conductors",
+    "difficulty": "easy",
+    "explanation": "Conductors have lowest resistance."
+  },
+  {
+    "id": "beee_108",
+    "question": "Which factor does NOT create free electrons?",
+    "options": ["Heat", "Light", "Electric field", "Color"],
+    "correctIndex": 3,
+    "topic": "Semiconductors",
+    "difficulty": "easy",
+    "explanation": "Color has no effect."
+  },
+  {
+    "id": "beee_109",
+    "question": "Why are electrons easier to free in semiconductors than insulators?",
+    "options": [
+      "Smaller band gap",
+      "Higher density",
+      "More protons",
+      "Lower atomic mass"
+    ],
+    "correctIndex": 0,
+    "topic": "Energy Bands",
+    "difficulty": "medium",
+    "explanation": "Smaller band gap allows excitation."
+  },
+  {
+    "id": "beee_110",
+    "question": "Which phenomenon allows semiconductor devices to function?",
+    "options": [
+      "Electron-hole interaction",
+      "Metallic bonding",
+      "Ion transfer",
+      "Atomic decay"
+    ],
+    "correctIndex": 0,
+    "topic": "Applications",
+    "difficulty": "hard",
+    "explanation": "Device action depends on carriers."
+  },
+
+  {
+    "id": "beee_111",
+    "question": "Which statement best describes insulators?",
+    "options": [
+      "High conductivity",
+      "Moderate band gap",
+      "Large band gap",
+      "Overlapping bands"
+    ],
+    "correctIndex": 2,
+    "topic": "Insulators",
+    "difficulty": "easy",
+    "explanation": "Large band gap prevents conduction."
+  },
+  {
+    "id": "beee_112",
+    "question": "Which electronic component uses semiconductor materials?",
+    "options": ["Switch", "Wire", "Diode", "Fuse"],
+    "correctIndex": 2,
+    "topic": "Applications",
+    "difficulty": "easy",
+    "explanation": "Diodes are semiconductor devices."
+  },
+  {
+    "id": "beee_113",
+    "question": "Why is band theory important in electronics?",
+    "options": [
+      "Explains mechanical strength",
+      "Explains electrical behavior",
+      "Explains color",
+      "Explains mass"
+    ],
+    "correctIndex": 1,
+    "topic": "Energy Bands",
+    "difficulty": "medium",
+    "explanation": "It explains conductivity."
+  },
+  {
+    "id": "beee_114",
+    "question": "Which charge carrier dominates in metals?",
+    "options": ["Holes", "Ions", "Electrons", "Protons"],
+    "correctIndex": 2,
+    "topic": "Conductors",
+    "difficulty": "easy",
+    "explanation": "Electrons dominate conduction."
+  },
+  {
+    "id": "beee_115",
+    "question": "Which condition minimizes electron movement?",
+    "options": [
+      "High temperature",
+      "Low temperature",
+      "Strong electric field",
+      "Small band gap"
+    ],
+    "correctIndex": 1,
+    "topic": "Fundamentals",
+    "difficulty": "hard",
+    "explanation": "Low energy limits movement."
+  },
+
+  {
+    "id": "beee_116",
+    "question": "Which property is common to all conductors?",
+    "options": [
+      "High resistance",
+      "Many free electrons",
+      "Large band gap",
+      "Covalent bonding"
+    ],
+    "correctIndex": 1,
+    "topic": "Conductors",
+    "difficulty": "easy",
+    "explanation": "Free electrons enable conduction."
+  },
+  {
+    "id": "beee_117",
+    "question": "Which property separates semiconductors from conductors?",
+    "options": [
+      "Atomic mass",
+      "Band gap",
+      "Density",
+      "Color"
+    ],
+    "correctIndex": 1,
+    "topic": "Energy Bands",
+    "difficulty": "medium",
+    "explanation": "Band gap differs."
+  },
+  {
+    "id": "beee_118",
+    "question": "Which statement is TRUE about holes?",
+    "options": [
+      "They are physical particles",
+      "They carry positive charge",
+      "They move faster than electrons",
+      "They exist in metals"
+    ],
+    "correctIndex": 1,
+    "topic": "Semiconductors",
+    "difficulty": "medium",
+    "explanation": "Holes act as positive charges."
+  },
+  {
+    "id": "beee_119",
+    "question": "Why is electronics based on semiconductors?",
+    "options": [
+      "They are cheapest",
+      "They have zero resistance",
+      "They allow controlled current",
+      "They never fail"
+    ],
+    "correctIndex": 2,
+    "topic": "Applications",
+    "difficulty": "easy",
+    "explanation": "Control is essential for devices."
+  },
+  {
+    "id": "beee_120",
+    "question": "Which statement best summarizes Basic Electronics?",
+    "options": [
+      "Study of machines",
+      "Study of electron flow and control",
+      "Study of chemistry",
+      "Study of mechanics"
+    ],
+    "correctIndex": 1,
+    "topic": "Introduction to Electronics",
+    "difficulty": "easy",
+    "explanation": "Electronics focuses on controlling electrons."
+  }
+  ]
+}

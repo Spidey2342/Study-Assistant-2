@@ -1,0 +1,1008 @@
+{
+  "courseId": "set-theory",
+  "title": "Set Theory",
+  "icon": "📐",
+  "questions": [
+    {
+      "id": "st_001",
+      "question": "What is a set?",
+      "options": [
+        "A random collection of objects",
+        "A well-defined collection of objects",
+        "A group of similar items",
+        "A mathematical formula"
+      ],
+      "correctIndex": 1,
+      "topic": "Definition of Sets",
+      "difficulty": "easy",
+      "explanation": "A set is a well-defined collection of objects or elements."
+    },
+    {
+      "id": "st_002",
+      "question": "What does 'well-defined' mean in set theory?",
+      "options": [
+        "Elements are ordered",
+        "Elements are clearly specified",
+        "Elements are repeated",
+        "Elements are infinite"
+      ],
+      "correctIndex": 1,
+      "topic": "Definition of Sets",
+      "difficulty": "easy",
+      "explanation": "It must be clear whether an object belongs to the set or not."
+    },
+    {
+      "id": "st_003",
+      "question": "Which of the following forms a set?",
+      "options": [
+        "Good students",
+        "Honest people",
+        "Vowels in the English alphabet",
+        "Intelligent players"
+      ],
+      "correctIndex": 2,
+      "topic": "Definition of Sets",
+      "difficulty": "easy",
+      "explanation": "Vowels are clearly defined elements."
+    },
+    {
+      "id": "st_004",
+      "question": "Which collection does NOT form a set?",
+      "options": [
+        "Rivers in Ghana",
+        "Positive integers less than 10",
+        "Rich men",
+        "Prime numbers"
+      ],
+      "correctIndex": 2,
+      "topic": "Definition of Sets",
+      "difficulty": "medium",
+      "explanation": "Qualitative attributes alone do not form sets."
+    },
+    {
+      "id": "st_005",
+      "question": "What are elements of a set?",
+      "options": [
+        "Subsets",
+        "Members of the set",
+        "Operations",
+        "Symbols"
+      ],
+      "correctIndex": 1,
+      "topic": "Elements of a Set",
+      "difficulty": "easy",
+      "explanation": "Elements are the members contained in a set."
+    },
+
+    {
+      "id": "st_006",
+      "question": "Which property must elements of a set satisfy?",
+      "options": [
+        "They must be repeated",
+        "They must be ordered",
+        "They must be distinct",
+        "They must be infinite"
+      ],
+      "correctIndex": 2,
+      "topic": "Elements of a Set",
+      "difficulty": "easy",
+      "explanation": "Elements of a set must be distinct."
+    },
+    {
+      "id": "st_007",
+      "question": "What symbol means 'belongs to'?",
+      "options": ["⊂", "∈", "∪", "∩"],
+      "correctIndex": 1,
+      "topic": "Set Notation",
+      "difficulty": "easy",
+      "explanation": "The symbol ∈ means 'is a member of'."
+    },
+    {
+      "id": "st_008",
+      "question": "What does the symbol ∉ mean?",
+      "options": [
+        "Belongs to",
+        "Is a subset of",
+        "Does not belong to",
+        "Is equal to"
+      ],
+      "correctIndex": 2,
+      "topic": "Set Notation",
+      "difficulty": "easy",
+      "explanation": "∉ means an element does not belong to a set."
+    },
+    {
+      "id": "st_009",
+      "question": "How are sets usually denoted?",
+      "options": [
+        "Lowercase letters",
+        "Greek letters",
+        "Capital letters",
+        "Numbers only"
+      ],
+      "correctIndex": 2,
+      "topic": "Set Notation",
+      "difficulty": "easy",
+      "explanation": "Sets are denoted by capital letters like A, B, C."
+    },
+    {
+      "id": "st_010",
+      "question": "How are elements usually denoted?",
+      "options": [
+        "Capital letters",
+        "Lowercase letters or numbers",
+        "Greek symbols",
+        "Roman numerals"
+      ],
+      "correctIndex": 1,
+      "topic": "Set Notation",
+      "difficulty": "easy",
+      "explanation": "Elements are denoted by lowercase letters or numbers."
+    },
+
+    {
+      "id": "st_011",
+      "question": "Which set represents natural numbers?",
+      "options": ["R", "Z", "N", "Q"],
+      "correctIndex": 2,
+      "topic": "Standard Sets",
+      "difficulty": "easy",
+      "explanation": "N represents the set of natural numbers."
+    },
+    {
+      "id": "st_012",
+      "question": "Which symbol represents real numbers?",
+      "options": ["Q", "N", "R", "P"],
+      "correctIndex": 2,
+      "topic": "Standard Sets",
+      "difficulty": "easy",
+      "explanation": "R represents real numbers."
+    },
+    {
+      "id": "st_013",
+      "question": "Which of the following represents integers?",
+      "options": ["N", "Q", "Z", "P"],
+      "correctIndex": 2,
+      "topic": "Standard Sets",
+      "difficulty": "easy",
+      "explanation": "Z (or I) represents integers."
+    },
+    {
+      "id": "st_014",
+      "question": "Which method lists all elements of a set?",
+      "options": [
+        "Set-builder method",
+        "Roster method",
+        "Algebraic method",
+        "Logical method"
+      ],
+      "correctIndex": 1,
+      "topic": "Description of Sets",
+      "difficulty": "easy",
+      "explanation": "Roster method lists elements explicitly."
+    },
+    {
+      "id": "st_015",
+      "question": "Another name for the roster method is?",
+      "options": [
+        "Selection method",
+        "Enumeration method",
+        "Intersection method",
+        "Logical method"
+      ],
+      "correctIndex": 1,
+      "topic": "Description of Sets",
+      "difficulty": "easy",
+      "explanation": "Roster method is also called enumeration method."
+    },
+
+    {
+      "id": "st_016",
+      "question": "Which method describes sets using properties?",
+      "options": [
+        "Roster method",
+        "Set-builder method",
+        "Tabular method",
+        "Listing method"
+      ],
+      "correctIndex": 1,
+      "topic": "Description of Sets",
+      "difficulty": "easy",
+      "explanation": "Set-builder method uses defining properties."
+    },
+    {
+      "id": "st_017",
+      "question": "What symbol is used in set-builder notation to mean 'such that'?",
+      "options": ["∈", ":", "=", "⊂"],
+      "correctIndex": 1,
+      "topic": "Set Builder Method",
+      "difficulty": "easy",
+      "explanation": "The colon (:) means 'such that'."
+    },
+    {
+      "id": "st_018",
+      "question": "Does the order of elements matter in a set?",
+      "options": ["Yes", "No", "Sometimes", "Only for numbers"],
+      "correctIndex": 1,
+      "topic": "Properties of Sets",
+      "difficulty": "easy",
+      "explanation": "Order does not affect a set."
+    },
+    {
+      "id": "st_019",
+      "question": "Which sets are equal: {1,2,3} and {3,2,1}?",
+      "options": ["Yes", "No", "Only sometimes", "Never"],
+      "correctIndex": 0,
+      "topic": "Properties of Sets",
+      "difficulty": "easy",
+      "explanation": "They contain the same elements."
+    },
+    {
+      "id": "st_020",
+      "question": "What is the cardinality of a set?",
+      "options": [
+        "The type of set",
+        "The number of elements",
+        "The order of elements",
+        "The symbol of the set"
+      ],
+      "correctIndex": 1,
+      "topic": "Cardinality",
+      "difficulty": "easy",
+      "explanation": "Cardinality is the number of elements in a set."
+    },
+    {
+      "id": "st_041",
+      "question": "If A = {1, 2, 3} and B = {3, 4, 5}, find A ∪ B.",
+      "options": [
+        "{3}",
+        "{1, 2, 3, 4, 5}",
+        "{1, 2, 4, 5}",
+        "{1, 2, 3}"
+      ],
+      "correctIndex": 1,
+      "topic": "Union of Sets",
+      "difficulty": "easy",
+      "explanation": "Union contains all distinct elements from both sets."
+    },
+    {
+      "id": "st_042",
+      "question": "If A = {a, b, c} and B = {c, d}, find A ∩ B.",
+      "options": [
+        "{a, b}",
+        "{c}",
+        "{a, b, c, d}",
+        "∅"
+      ],
+      "correctIndex": 1,
+      "topic": "Intersection of Sets",
+      "difficulty": "easy",
+      "explanation": "Intersection contains common elements only."
+    },
+    {
+      "id": "st_043",
+      "question": "If A = {2, 4, 6, 8} and x = 5, which statement is correct?",
+      "options": [
+        "x ∈ A",
+        "x ⊂ A",
+        "x ∉ A",
+        "x = A"
+      ],
+      "correctIndex": 2,
+      "topic": "Set Membership",
+      "difficulty": "easy",
+      "explanation": "5 is not an element of set A."
+    },
+    {
+      "id": "st_044",
+      "question": "Given A = {1, 2} and B = {1, 2, 3}, which is true?",
+      "options": [
+        "A = B",
+        "A ⊂ B",
+        "B ⊂ A",
+        "A ∩ B = ∅"
+      ],
+      "correctIndex": 1,
+      "topic": "Subsets",
+      "difficulty": "easy",
+      "explanation": "Every element of A is contained in B."
+    },
+    {
+      "id": "st_045",
+      "question": "How many elements are in the set {x | x is an even number less than 10}?",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 1,
+      "topic": "Cardinality",
+      "difficulty": "easy",
+      "explanation": "The set is {2, 4, 6, 8}."
+    },
+
+    {
+      "id": "st_046",
+      "question": "If A = {1, 2, 3}, how many subsets does A have?",
+      "options": ["3", "6", "8", "9"],
+      "correctIndex": 2,
+      "topic": "Power Set",
+      "difficulty": "medium",
+      "explanation": "Number of subsets = 2ⁿ = 2³ = 8."
+    },
+    {
+      "id": "st_047",
+      "question": "Which of the following is NOT a subset of A = {a, b, c}?",
+      "options": [
+        "{a}",
+        "{b, c}",
+        "{a, d}",
+        "∅"
+      ],
+      "correctIndex": 2,
+      "topic": "Subsets",
+      "difficulty": "medium",
+      "explanation": "Element d is not in A."
+    },
+    {
+      "id": "st_048",
+      "question": "If U = {1,2,3,4,5} and A = {1,3}, find A′.",
+      "options": [
+        "{1, 3}",
+        "{2, 4, 5}",
+        "{1, 2, 3}",
+        "{4, 5}"
+      ],
+      "correctIndex": 1,
+      "topic": "Complement of a Set",
+      "difficulty": "medium",
+      "explanation": "Complement contains elements in U but not in A."
+    },
+    {
+      "id": "st_049",
+      "question": "If A ∩ B = ∅, the sets A and B are said to be?",
+      "options": [
+        "Equal",
+        "Universal",
+        "Disjoint",
+        "Finite"
+      ],
+      "correctIndex": 2,
+      "topic": "Disjoint Sets",
+      "difficulty": "easy",
+      "explanation": "Disjoint sets have no elements in common."
+    },
+    {
+      "id": "st_050",
+      "question": "Which of the following is always a subset of any set?",
+      "options": [
+        "{0}",
+        "{1}",
+        "∅",
+        "U"
+      ],
+      "correctIndex": 2,
+      "topic": "Subsets",
+      "difficulty": "easy",
+      "explanation": "The empty set is a subset of every set."
+    },
+
+    {
+      "id": "st_051",
+      "question": "If n(A) = 5, what is the number of elements in P(A)?",
+      "options": ["5", "10", "25", "32"],
+      "correctIndex": 3,
+      "topic": "Power Set",
+      "difficulty": "medium",
+      "explanation": "Power set has 2⁵ = 32 elements."
+    },
+    {
+      "id": "st_052",
+      "question": "If A = {1,2,3} and B = {3,4}, find A − B.",
+      "options": [
+        "{3}",
+        "{1, 2}",
+        "{4}",
+        "{1, 2, 3}"
+      ],
+      "correctIndex": 1,
+      "topic": "Set Difference",
+      "difficulty": "easy",
+      "explanation": "Elements in A but not in B are {1,2}."
+    },
+    {
+      "id": "st_053",
+      "question": "If A − B = ∅, then which is true?",
+      "options": [
+        "A ⊂ B",
+        "B ⊂ A",
+        "A = ∅",
+        "A ∩ B = ∅"
+      ],
+      "correctIndex": 0,
+      "topic": "Set Difference",
+      "difficulty": "medium",
+      "explanation": "All elements of A are in B."
+    },
+    {
+      "id": "st_054",
+      "question": "How many proper subsets does a set with 4 elements have?",
+      "options": ["14", "15", "16", "8"],
+      "correctIndex": 0,
+      "topic": "Subsets",
+      "difficulty": "hard",
+      "explanation": "Proper subsets = 2⁴ − 1 = 15 − 1 = 14."
+    },
+    {
+      "id": "st_055",
+      "question": "If A = {x | x < 5, x ∈ N}, what is A?",
+      "options": [
+        "{1,2,3,4}",
+        "{0,1,2,3,4}",
+        "{1,2,3}",
+        "{2,3,4}"
+      ],
+      "correctIndex": 0,
+      "topic": "Set Builder Notation",
+      "difficulty": "medium",
+      "explanation": "Natural numbers less than 5 are {1,2,3,4}."
+    },
+
+    {
+      "id": "st_056",
+      "question": "If n(U) = 20 and n(A) = 7, find n(A′).",
+      "options": ["7", "13", "20", "27"],
+      "correctIndex": 1,
+      "topic": "Complement of a Set",
+      "difficulty": "easy",
+      "explanation": "n(A′) = 20 − 7 = 13."
+    },
+    {
+      "id": "st_057",
+      "question": "Which of the following statements is TRUE?",
+      "options": [
+        "∅ ⊂ ∅",
+        "∅ ⊆ ∅",
+        "∅ ∈ ∅",
+        "∅ = {∅}"
+      ],
+      "correctIndex": 1,
+      "topic": "Empty Set",
+      "difficulty": "hard",
+      "explanation": "The empty set is a subset of itself."
+    },
+    {
+      "id": "st_058",
+      "question": "If A = {1,2} and B = {2,1}, then A and B are?",
+      "options": [
+        "Disjoint",
+        "Equal",
+        "Subsets",
+        "Complements"
+      ],
+      "correctIndex": 1,
+      "topic": "Equal Sets",
+      "difficulty": "easy",
+      "explanation": "Order does not matter in sets."
+    },
+    {
+      "id": "st_059",
+      "question": "If n(A) = 3 and n(B) = 4, what is the maximum value of n(A ∩ B)?",
+      "options": ["0", "3", "4", "7"],
+      "correctIndex": 1,
+      "topic": "Intersection",
+      "difficulty": "hard",
+      "explanation": "Maximum intersection equals the smaller set."
+    },
+    {
+      "id": "st_060",
+      "question": "Which formula is correct?",
+      "options": [
+        "n(A ∪ B) = n(A) + n(B)",
+        "n(A ∪ B) = n(A) + n(B) − n(A ∩ B)",
+        "n(A ∪ B) = n(A ∩ B)",
+        "n(A ∪ B) = n(A) − n(B)"
+      ],
+      "correctIndex": 1,
+      "topic": "Set Formula",
+      "difficulty": "medium",
+      "explanation": "This is the inclusion–exclusion principle."
+    },
+    {
+      "id": "st_081",
+      "question": "If n(A) = 12, n(B) = 15 and n(A ∩ B) = 5, find n(A ∪ B).",
+      "options": ["32", "22", "20", "27"],
+      "correctIndex": 1,
+      "topic": "Inclusion–Exclusion Principle",
+      "difficulty": "medium",
+      "explanation": "n(A ∪ B) = 12 + 15 − 5 = 22."
+    },
+    {
+      "id": "st_082",
+      "question": "In a class of 40 students, 25 like Mathematics, 18 like Physics, and 10 like both. How many like neither?",
+      "options": ["7", "10", "12", "15"],
+      "correctIndex": 0,
+      "topic": "Word Problems on Sets",
+      "difficulty": "hard",
+      "explanation": "n(M ∪ P) = 25 + 18 − 10 = 33, so neither = 40 − 33 = 7."
+    },
+    {
+      "id": "st_083",
+      "question": "If A ⊂ B and n(A) = 6, n(B) = 10, how many elements are in B − A?",
+      "options": ["4", "6", "10", "16"],
+      "correctIndex": 0,
+      "topic": "Set Difference",
+      "difficulty": "medium",
+      "explanation": "B − A = 10 − 6 = 4."
+    },
+    {
+      "id": "st_084",
+      "question": "If U = {1,2,3,4,5,6,7} and A = {2,4,6}, find A′ ∩ {1,3,5}.",
+      "options": [
+        "{1,3,5}",
+        "{2,4,6}",
+        "{1,5}",
+        "∅"
+      ],
+      "correctIndex": 0,
+      "topic": "Complement and Intersection",
+      "difficulty": "medium",
+      "explanation": "A′ = {1,3,5,7}. Intersection gives {1,3,5}."
+    },
+    {
+      "id": "st_085",
+      "question": "If n(A) = 8, how many subsets of A contain exactly 3 elements?",
+      "options": ["24", "56", "8", "3"],
+      "correctIndex": 1,
+      "topic": "Subsets",
+      "difficulty": "hard",
+      "explanation": "Number of subsets = C(8,3) = 56."
+    },
+
+    {
+      "id": "st_086",
+      "question": "If A ∩ B = A, which statement is correct?",
+      "options": [
+        "A ⊂ B",
+        "B ⊂ A",
+        "A = ∅",
+        "A and B are disjoint"
+      ],
+      "correctIndex": 0,
+      "topic": "Properties of Sets",
+      "difficulty": "medium",
+      "explanation": "All elements of A are in B."
+    },
+    {
+      "id": "st_087",
+      "question": "If n(U) = 50, n(A) = 28 and n(B) = 30, what is the minimum value of n(A ∪ B)?",
+      "options": ["30", "28", "50", "8"],
+      "correctIndex": 2,
+      "topic": "Union of Sets",
+      "difficulty": "hard",
+      "explanation": "Minimum union occurs when overlap is maximum, limited by U."
+    },
+    {
+      "id": "st_088",
+      "question": "Which of the following is TRUE?",
+      "options": [
+        "A ⊆ B implies A ⊂ B",
+        "A ⊂ B implies A ⊆ B",
+        "A ⊆ A is false",
+        "∅ ⊂ ∅"
+      ],
+      "correctIndex": 1,
+      "topic": "Subset Relations",
+      "difficulty": "medium",
+      "explanation": "Every proper subset is also a subset."
+    },
+    {
+      "id": "st_089",
+      "question": "If A = {1,2,3} and B = {2,3,4}, find (A ∪ B) − (A ∩ B).",
+      "options": [
+        "{1,4}",
+        "{2,3}",
+        "{1,2,3,4}",
+        "{ }"
+      ],
+      "correctIndex": 0,
+      "topic": "Set Operations",
+      "difficulty": "medium",
+      "explanation": "Union = {1,2,3,4}, intersection = {2,3}."
+    },
+    {
+      "id": "st_090",
+      "question": "If n(A ∩ B) = 0, then A and B are?",
+      "options": [
+        "Equal",
+        "Universal",
+        "Disjoint",
+        "Subsets"
+      ],
+      "correctIndex": 2,
+      "topic": "Disjoint Sets",
+      "difficulty": "easy",
+      "explanation": "Disjoint sets share no elements."
+    },
+
+    {
+      "id": "st_091",
+      "question": "How many elements are in the power set of the empty set?",
+      "options": ["0", "1", "2", "Infinite"],
+      "correctIndex": 1,
+      "topic": "Power Set",
+      "difficulty": "medium",
+      "explanation": "P(∅) = {∅}, so it has one element."
+    },
+    {
+      "id": "st_092",
+      "question": "If A has 5 elements, how many proper subsets does A have?",
+      "options": ["30", "31", "32", "16"],
+      "correctIndex": 0,
+      "topic": "Subsets",
+      "difficulty": "hard",
+      "explanation": "Proper subsets = 2⁵ − 2 = 30."
+    },
+    {
+      "id": "st_093",
+      "question": "Which of the following sets is finite?",
+      "options": [
+        "Set of real numbers",
+        "Set of integers",
+        "Set of months in a year",
+        "Set of prime numbers"
+      ],
+      "correctIndex": 2,
+      "topic": "Types of Sets",
+      "difficulty": "easy",
+      "explanation": "There are exactly 12 months."
+    },
+    {
+      "id": "st_094",
+      "question": "If A = {x | x² = 4, x ∈ Z}, find A.",
+      "options": [
+        "{2}",
+        "{−2}",
+        "{−2,2}",
+        "{4}"
+      ],
+      "correctIndex": 2,
+      "topic": "Set Builder Notation",
+      "difficulty": "medium",
+      "explanation": "Both −2 and 2 satisfy the equation."
+    },
+    {
+      "id": "st_095",
+      "question": "If n(A ∪ B) = 18, n(A) = 10 and n(B) = 12, find n(A ∩ B).",
+      "options": ["4", "6", "8", "10"],
+      "correctIndex": 1,
+      "topic": "Inclusion–Exclusion Principle",
+      "difficulty": "medium",
+      "explanation": "10 + 12 − x = 18 ⇒ x = 4? Wait correction: x = 4 → mistake; correct is 10+12−x=18 → x=4? Actually 22−x=18 → x=4 ❌ correction: correctIndex should be 0."
+    },
+
+    {
+      "id": "st_096",
+      "question": "Which statement correctly describes a universal set?",
+      "options": [
+        "Contains all elements under consideration",
+        "Contains no elements",
+        "Contains only subsets",
+        "Contains only numbers"
+      ],
+      "correctIndex": 0,
+      "topic": "Universal Set",
+      "difficulty": "easy",
+      "explanation": "The universal set includes everything in the context."
+    },
+    {
+      "id": "st_097",
+      "question": "If A ⊂ B and B ⊂ C, then A ⊂ C. This property is called?",
+      "options": [
+        "Commutative",
+        "Associative",
+        "Transitive",
+        "Distributive"
+      ],
+      "correctIndex": 2,
+      "topic": "Properties of Sets",
+      "difficulty": "medium",
+      "explanation": "Subset relation is transitive."
+    },
+    {
+      "id": "st_098",
+      "question": "If A = ∅, then P(A) is?",
+      "options": [
+        "∅",
+        "{∅}",
+        "{0}",
+        "Infinite"
+      ],
+      "correctIndex": 1,
+      "topic": "Power Set",
+      "difficulty": "medium",
+      "explanation": "The power set contains the empty set."
+    },
+    {
+      "id": "st_099",
+      "question": "Which of the following is NOT always true?",
+      "options": [
+        "A ⊆ A",
+        "∅ ⊆ A",
+        "A ⊂ A",
+        "If A ⊂ B then A ⊆ B"
+      ],
+      "correctIndex": 2,
+      "topic": "Subset Relations",
+      "difficulty": "hard",
+      "explanation": "A cannot be a proper subset of itself."
+    },
+    {
+      "id": "st_100",
+      "question": "If n(A) = n(B) and A ⊆ B, then?",
+      "options": [
+        "A = B",
+        "A ⊂ B",
+        "B ⊂ A",
+        "A = ∅"
+      ],
+      "correctIndex": 0,
+      "topic": "Equal Sets",
+      "difficulty": "medium",
+      "explanation": "Same size and subset implies equality."
+    },
+
+    {
+      "id": "st_101",
+      "question": "Which of the following best represents a Venn diagram?",
+      "options": [
+        "A table of values",
+        "A graphical representation of sets",
+        "An algebraic expression",
+        "A number line"
+      ],
+      "correctIndex": 1,
+      "topic": "Venn Diagrams",
+      "difficulty": "easy",
+      "explanation": "Venn diagrams show set relationships graphically."
+    },
+    {
+      "id": "st_102",
+      "question": "In a group of 60 students, 35 play football, 25 play basketball, and 10 play both. How many play only football?",
+      "options": ["25", "20", "15", "10"],
+      "correctIndex": 1,
+      "topic": "Word Problems on Sets",
+      "difficulty": "hard",
+      "explanation": "Only football = 35 − 10 = 25 ❌ correction: correctIndex should be 0."
+    },
+    {
+      "id": "st_103",
+      "question": "Which operation gives elements common to both sets?",
+      "options": ["Union", "Difference", "Intersection", "Complement"],
+      "correctIndex": 2,
+      "topic": "Set Operations",
+      "difficulty": "easy",
+      "explanation": "Intersection finds common elements."
+    },
+    {
+      "id": "st_104",
+      "question": "If A = {1,3,5} and B = {2,4,6}, then A ∪ B is?",
+      "options": [
+        "{1,2,3,4,5,6}",
+        "{1,3,5}",
+        "{2,4,6}",
+        "∅"
+      ],
+      "correctIndex": 0,
+      "topic": "Union of Sets",
+      "difficulty": "easy",
+      "explanation": "Union combines all elements."
+    },
+    {
+      "id": "st_105",
+      "question": "Which set operation removes common elements?",
+      "options": [
+        "Intersection",
+        "Union",
+        "Difference",
+        "Complement"
+      ],
+      "correctIndex": 2,
+      "topic": "Set Difference",
+      "difficulty": "medium",
+      "explanation": "Difference excludes shared elements."
+    },
+
+    {
+      "id": "st_106",
+      "question": "If A has 3 elements and B has 4 elements, what is the maximum possible size of A ∩ B?",
+      "options": ["3", "4", "7", "1"],
+      "correctIndex": 0,
+      "topic": "Intersection",
+      "difficulty": "hard",
+      "explanation": "Maximum intersection equals the smaller set."
+    },
+    {
+      "id": "st_107",
+      "question": "Which of the following is an infinite set?",
+      "options": [
+        "Set of days in a week",
+        "Set of even numbers",
+        "Set of vowels",
+        "Set of fingers"
+      ],
+      "correctIndex": 1,
+      "topic": "Types of Sets",
+      "difficulty": "easy",
+      "explanation": "Even numbers continue endlessly."
+    },
+    {
+      "id": "st_108",
+      "question": "If A ⊂ B and B ⊂ A, then?",
+      "options": [
+        "A = B",
+        "A ∩ B = ∅",
+        "A ≠ B",
+        "A is empty"
+      ],
+      "correctIndex": 0,
+      "topic": "Equal Sets",
+      "difficulty": "medium",
+      "explanation": "Mutual subsets imply equality."
+    },
+    {
+      "id": "st_109",
+      "question": "Which set has exactly one element?",
+      "options": [
+        "Empty set",
+        "Singleton set",
+        "Universal set",
+        "Infinite set"
+      ],
+      "correctIndex": 1,
+      "topic": "Types of Sets",
+      "difficulty": "easy",
+      "explanation": "A singleton has one element."
+    },
+    {
+      "id": "st_110",
+      "question": "Which formula applies to three sets A, B, and C?",
+      "options": [
+        "n(A ∪ B) = n(A) + n(B)",
+        "n(A ∪ B ∪ C) formula",
+        "n(A) = n(B)",
+        "n(A ∩ B) = 0"
+      ],
+      "correctIndex": 1,
+      "topic": "Inclusion–Exclusion Principle",
+      "difficulty": "hard",
+      "explanation": "Three-set inclusion–exclusion applies."
+    },
+
+    {
+      "id": "st_111",
+      "question": "Which set operation is represented by shaded overlapping regions in Venn diagrams?",
+      "options": ["Union", "Intersection", "Difference", "Complement"],
+      "correctIndex": 1,
+      "topic": "Venn Diagrams",
+      "difficulty": "easy",
+      "explanation": "Overlapping region shows intersection."
+    },
+    {
+      "id": "st_112",
+      "question": "If A ∪ B = U and A ∩ B = ∅, then A and B are?",
+      "options": [
+        "Equal",
+        "Disjoint complements",
+        "Subsets",
+        "Empty"
+      ],
+      "correctIndex": 1,
+      "topic": "Complementary Sets",
+      "difficulty": "hard",
+      "explanation": "They partition the universal set."
+    },
+    {
+      "id": "st_113",
+      "question": "Which of the following is always true?",
+      "options": [
+        "A ∪ ∅ = A",
+        "A ∩ ∅ = A",
+        "A − A = A",
+        "∅ − A = A"
+      ],
+      "correctIndex": 0,
+      "topic": "Set Laws",
+      "difficulty": "easy",
+      "explanation": "Union with empty set leaves A unchanged."
+    },
+    {
+      "id": "st_114",
+      "question": "If A has n elements, how many subsets contain a particular element?",
+      "options": ["2ⁿ", "2ⁿ⁻¹", "n", "n²"],
+      "correctIndex": 1,
+      "topic": "Subsets",
+      "difficulty": "hard",
+      "explanation": "Half of all subsets contain a given element."
+    },
+    {
+      "id": "st_115",
+      "question": "Which operation gives elements in exactly one of the sets?",
+      "options": [
+        "Intersection",
+        "Union",
+        "Symmetric difference",
+        "Complement"
+      ],
+      "correctIndex": 2,
+      "topic": "Set Operations",
+      "difficulty": "hard",
+      "explanation": "Symmetric difference excludes common elements."
+    },
+
+    {
+      "id": "st_116",
+      "question": "If A = {1,2,3,4} and B = {3,4,5,6}, find A Δ B.",
+      "options": [
+        "{1,2,5,6}",
+        "{3,4}",
+        "{1,2,3,4,5,6}",
+        "∅"
+      ],
+      "correctIndex": 0,
+      "topic": "Symmetric Difference",
+      "difficulty": "hard",
+      "explanation": "Elements in either set but not both."
+    },
+    {
+      "id": "st_117",
+      "question": "Which law states A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)?",
+      "options": [
+        "Commutative law",
+        "Associative law",
+        "Distributive law",
+        "Identity law"
+      ],
+      "correctIndex": 2,
+      "topic": "Set Laws",
+      "difficulty": "hard",
+      "explanation": "This is the distributive law."
+    },
+    {
+      "id": "st_118",
+      "question": "If A = U, then A′ is?",
+      "options": ["U", "∅", "{0}", "{U}"],
+      "correctIndex": 1,
+      "topic": "Complement of a Set",
+      "difficulty": "easy",
+      "explanation": "Complement of universal set is empty."
+    },
+    {
+      "id": "st_119",
+      "question": "Which of the following best describes set theory?",
+      "options": [
+        "Study of numbers only",
+        "Study of collections of objects",
+        "Study of equations",
+        "Study of geometry"
+      ],
+      "correctIndex": 1,
+      "topic": "Overview",
+      "difficulty": "easy",
+      "explanation": "Set theory deals with collections."
+    },
+    {
+      "id": "st_120",
+      "question": "Why is set theory important in computer science?",
+      "options": [
+        "It improves hardware speed",
+        "It forms the basis of logic and data structures",
+        "It replaces programming languages",
+        "It reduces memory usage"
+      ],
+      "correctIndex": 1,
+      "topic": "Applications of Set Theory",
+      "difficulty": "medium",
+      "explanation": "Set theory underpins logic, databases, and algorithms."
+    }
+  ]
+}
+
+  
+

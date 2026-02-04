@@ -1,0 +1,1339 @@
+{
+  "courseId": "bcsc-107-fundamentals-of-computer-science",
+  "title": "Fundamentals of Computer Science",
+  "icon": "💻",
+  "questions": [
+    {
+      "id": "fcs_001",
+      "question": "What is a computer system?",
+      "options": [
+        "A collection of only hardware components",
+        "A combination of people, hardware, software, data, and procedures",
+        "A machine used only for calculations",
+        "A software application"
+      ],
+      "correctIndex": 1,
+      "topic": "Computer System",
+      "difficulty": "easy",
+      "explanation": "A computer system consists of people, hardware, software, data, and procedures working together."
+    },
+    {
+      "id": "fcs_002",
+      "question": "Which component of a computer system is considered the most important?",
+      "options": [
+        "Hardware",
+        "Software",
+        "Data",
+        "People"
+      ],
+      "correctIndex": 3,
+      "topic": "Computer System",
+      "difficulty": "easy",
+      "explanation": "People are the most important because they operate the system and use the output."
+    },
+    {
+      "id": "fcs_003",
+      "question": "Which of the following refers to the physical parts of a computer?",
+      "options": [
+        "Software",
+        "Data",
+        "Hardware",
+        "Procedures"
+      ],
+      "correctIndex": 2,
+      "topic": "Computer Hardware",
+      "difficulty": "easy",
+      "explanation": "Hardware consists of the physical devices of a computer."
+    },
+    {
+      "id": "fcs_004",
+      "question": "Which of the following is an example of computer hardware?",
+      "options": [
+        "Microsoft Word",
+        "Operating System",
+        "Keyboard",
+        "Database"
+      ],
+      "correctIndex": 2,
+      "topic": "Computer Hardware",
+      "difficulty": "easy",
+      "explanation": "Keyboard is a physical input device."
+    },
+    {
+      "id": "fcs_005",
+      "question": "What is the main purpose of software?",
+      "options": [
+        "To store electricity",
+        "To convert data into information",
+        "To manufacture hardware",
+        "To control power supply"
+      ],
+      "correctIndex": 1,
+      "topic": "Computer Software",
+      "difficulty": "easy",
+      "explanation": "Software instructs the computer and converts raw data into useful information."
+    },
+    {
+      "id": "fcs_006",
+      "question": "Which of the following best defines software?",
+      "options": [
+        "Mechanical parts of a computer",
+        "A set of instructions the computer follows",
+        "Electrical circuits",
+        "Input devices"
+      ],
+      "correctIndex": 1,
+      "topic": "Computer Software",
+      "difficulty": "easy",
+      "explanation": "Software is a set of logical instructions used to perform tasks."
+    },
+    {
+      "id": "fcs_007",
+      "question": "Which of the following is NOT a component of a computer system?",
+      "options": [
+        "People",
+        "Procedures",
+        "Electricity",
+        "Data"
+      ],
+      "correctIndex": 2,
+      "topic": "Computer System",
+      "difficulty": "medium",
+      "explanation": "Electricity is required but not classified as a system component."
+    },
+    {
+      "id": "fcs_008",
+      "question": "Data can best be described as:",
+      "options": [
+        "Processed facts",
+        "Raw, unprocessed facts",
+        "Useful information",
+        "Computer instructions"
+      ],
+      "correctIndex": 1,
+      "topic": "Data and Information",
+      "difficulty": "easy",
+      "explanation": "Data consists of raw facts before processing."
+    },
+    {
+      "id": "fcs_009",
+      "question": "Information is produced when data is:",
+      "options": [
+        "Deleted",
+        "Stored",
+        "Processed",
+        "Encrypted"
+      ],
+      "correctIndex": 2,
+      "topic": "Data and Information",
+      "difficulty": "easy",
+      "explanation": "Processing data gives it meaning, producing information."
+    },
+    {
+      "id": "fcs_010",
+      "question": "Which of the following best distinguishes data from information?",
+      "options": [
+        "Data is meaningful, information is not",
+        "Data is processed, information is raw",
+        "Data is raw facts, information has meaning",
+        "They mean the same thing"
+      ],
+      "correctIndex": 2,
+      "topic": "Data and Information",
+      "difficulty": "medium",
+      "explanation": "Information is processed data that has context and meaning."
+    },
+
+    {
+      "id": "fcs_011",
+      "question": "Which operation is NOT a basic operation of a computer?",
+      "options": [
+        "Input",
+        "Processing",
+        "Output",
+        "Manufacturing"
+      ],
+      "correctIndex": 3,
+      "topic": "Basic Operations",
+      "difficulty": "easy",
+      "explanation": "Manufacturing is not a computer operation."
+    },
+    {
+      "id": "fcs_012",
+      "question": "Computer components can be grouped into how many main categories?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctIndex": 1,
+      "topic": "Computer Components",
+      "difficulty": "easy",
+      "explanation": "They are grouped into hardware and software."
+    },
+    {
+      "id": "fcs_013",
+      "question": "Which category includes operating systems?",
+      "options": [
+        "Application software",
+        "Utility software",
+        "System software",
+        "Hardware software"
+      ],
+      "correctIndex": 2,
+      "topic": "System Software",
+      "difficulty": "easy",
+      "explanation": "Operating systems are part of system software."
+    },
+    {
+      "id": "fcs_014",
+      "question": "Which of the following is an example of application software?",
+      "options": [
+        "Windows",
+        "Linux",
+        "Microsoft Word",
+        "Device driver"
+      ],
+      "correctIndex": 2,
+      "topic": "Application Software",
+      "difficulty": "easy",
+      "explanation": "Microsoft Word is used by users to perform tasks."
+    },
+    {
+      "id": "fcs_015",
+      "question": "System software primarily helps the computer to:",
+      "options": [
+        "Play games",
+        "Manage its resources",
+        "Create documents",
+        "Browse the internet"
+      ],
+      "correctIndex": 1,
+      "topic": "System Software",
+      "difficulty": "medium",
+      "explanation": "System software manages hardware and system resources."
+    },
+
+    
+  {
+    "id": "fcs_041",
+    "question": "Which type of software controls the overall operation of a computer?",
+    "options": [
+      "Application software",
+      "Utility software",
+      "System software",
+      "Programming software"
+    ],
+    "correctIndex": 2,
+    "topic": "System Software",
+    "difficulty": "easy",
+    "explanation": "System software manages hardware and controls computer operations."
+  },
+  {
+    "id": "fcs_042",
+    "question": "Which of the following is an example of an operating system?",
+    "options": [
+      "Microsoft Excel",
+      "Adobe Photoshop",
+      "Windows",
+      "Google Chrome"
+    ],
+    "correctIndex": 2,
+    "topic": "Operating Systems",
+    "difficulty": "easy",
+    "explanation": "Windows is an operating system."
+  },
+  {
+    "id": "fcs_043",
+    "question": "What is the primary function of an operating system?",
+    "options": [
+      "Create documents",
+      "Manage computer hardware and software resources",
+      "Browse the internet",
+      "Compile programs"
+    ],
+    "correctIndex": 1,
+    "topic": "Operating Systems",
+    "difficulty": "medium",
+    "explanation": "The operating system manages resources and provides services to applications."
+  },
+  {
+    "id": "fcs_044",
+    "question": "Which software helps maintain, protect, and optimize a computer system?",
+    "options": [
+      "Application software",
+      "Utility software",
+      "System software",
+      "Firmware"
+    ],
+    "correctIndex": 1,
+    "topic": "Utility Software",
+    "difficulty": "easy",
+    "explanation": "Utility software performs maintenance and optimization tasks."
+  },
+  {
+    "id": "fcs_045",
+    "question": "Which of the following is an example of utility software?",
+    "options": [
+      "Word processor",
+      "Antivirus program",
+      "Spreadsheet software",
+      "Presentation software"
+    ],
+    "correctIndex": 1,
+    "topic": "Utility Software",
+    "difficulty": "easy",
+    "explanation": "Antivirus software is a utility program."
+  },
+
+  {
+    "id": "fcs_046",
+    "question": "What happens during the booting process?",
+    "options": [
+      "Programs are deleted",
+      "The computer shuts down",
+      "The operating system is loaded into memory",
+      "Files are backed up"
+    ],
+    "correctIndex": 2,
+    "topic": "Booting",
+    "difficulty": "easy",
+    "explanation": "Booting loads the operating system into memory."
+  },
+  {
+    "id": "fcs_047",
+    "question": "Which firmware starts the booting process?",
+    "options": [
+      "RAM",
+      "POST",
+      "BIOS",
+      "Operating System"
+    ],
+    "correctIndex": 2,
+    "topic": "BIOS",
+    "difficulty": "medium",
+    "explanation": "BIOS initializes hardware and starts the boot process."
+  },
+  {
+    "id": "fcs_048",
+    "question": "What does POST stand for?",
+    "options": [
+      "Power On System Transfer",
+      "Power On Self Test",
+      "Program Operation Setup Tool",
+      "Primary Output System Test"
+    ],
+    "correctIndex": 1,
+    "topic": "POST",
+    "difficulty": "easy",
+    "explanation": "POST stands for Power On Self Test."
+  },
+  {
+    "id": "fcs_049",
+    "question": "What is the main purpose of POST?",
+    "options": [
+      "Load applications",
+      "Test hardware components",
+      "Install the operating system",
+      "Connect to the internet"
+    ],
+    "correctIndex": 1,
+    "topic": "POST",
+    "difficulty": "medium",
+    "explanation": "POST checks hardware components before booting."
+  },
+  {
+    "id": "fcs_050",
+    "question": "Which component stores BIOS permanently?",
+    "options": [
+      "RAM",
+      "Hard disk",
+      "ROM",
+      "Cache"
+    ],
+    "correctIndex": 2,
+    "topic": "BIOS",
+    "difficulty": "easy",
+    "explanation": "BIOS is stored in ROM."
+  },
+
+  {
+    "id": "fcs_051",
+    "question": "Which memory type is non-volatile?",
+    "options": [
+      "RAM",
+      "Cache",
+      "ROM",
+      "Registers"
+    ],
+    "correctIndex": 2,
+    "topic": "Memory",
+    "difficulty": "easy",
+    "explanation": "ROM does not lose data when power is off."
+  },
+  {
+    "id": "fcs_052",
+    "question": "Which memory is closest to the CPU?",
+    "options": [
+      "RAM",
+      "Cache",
+      "Hard disk",
+      "Flash drive"
+    ],
+    "correctIndex": 1,
+    "topic": "Memory",
+    "difficulty": "medium",
+    "explanation": "Cache memory is located closest to the CPU."
+  },
+  {
+    "id": "fcs_053",
+    "question": "Why is cache memory faster than RAM?",
+    "options": [
+      "It is larger",
+      "It is closer to the CPU",
+      "It stores permanent data",
+      "It is external"
+    ],
+    "correctIndex": 1,
+    "topic": "Memory",
+    "difficulty": "medium",
+    "explanation": "Cache is faster because it is closer to the CPU."
+  },
+  {
+    "id": "fcs_054",
+    "question": "Which unit performs arithmetic and logical operations?",
+    "options": [
+      "Control Unit",
+      "ALU",
+      "RAM",
+      "Register"
+    ],
+    "correctIndex": 1,
+    "topic": "CPU",
+    "difficulty": "easy",
+    "explanation": "ALU performs arithmetic and logical operations."
+  },
+  {
+    "id": "fcs_055",
+    "question": "Which part of the CPU controls and coordinates all activities?",
+    "options": [
+      "ALU",
+      "Register",
+      "Control Unit",
+      "Cache"
+    ],
+    "correctIndex": 2,
+    "topic": "CPU",
+    "difficulty": "easy",
+    "explanation": "The Control Unit directs all CPU operations."
+  },
+
+  {
+    "id": "fcs_056",
+    "question": "What is primary storage?",
+    "options": [
+      "External storage devices",
+      "Storage directly accessible by the CPU",
+      "Cloud storage",
+      "Optical storage"
+    ],
+    "correctIndex": 1,
+    "topic": "Storage",
+    "difficulty": "medium",
+    "explanation": "Primary storage is directly accessed by the CPU."
+  },
+  {
+    "id": "fcs_057",
+    "question": "Which of the following is secondary storage?",
+    "options": [
+      "RAM",
+      "Cache",
+      "Hard disk",
+      "Register"
+    ],
+    "correctIndex": 2,
+    "topic": "Storage",
+    "difficulty": "easy",
+    "explanation": "Hard disks are secondary storage devices."
+  },
+  {
+    "id": "fcs_058",
+    "question": "Which storage device uses magnetic disks?",
+    "options": [
+      "SSD",
+      "Flash drive",
+      "Hard disk drive",
+      "DVD"
+    ],
+    "correctIndex": 2,
+    "topic": "Storage",
+    "difficulty": "easy",
+    "explanation": "HDDs use magnetic disks."
+  },
+  {
+    "id": "fcs_059",
+    "question": "Which storage device is fastest?",
+    "options": [
+      "Hard disk drive",
+      "Optical disk",
+      "Solid State Drive",
+      "Magnetic tape"
+    ],
+    "correctIndex": 2,
+    "topic": "Storage",
+    "difficulty": "medium",
+    "explanation": "SSDs are faster due to lack of moving parts."
+  },
+  {
+    "id": "fcs_060",
+    "question": "What is the main advantage of SSDs over HDDs?",
+    "options": [
+      "Lower cost",
+      "Higher noise",
+      "Faster access speed",
+      "More moving parts"
+    ],
+    "correctIndex": 2,
+    "topic": "Storage",
+    "difficulty": "easy",
+    "explanation": "SSDs provide faster access speeds."
+  },
+
+  {
+    "id": "fcs_061",
+    "question": "What is a database?",
+    "options": [
+      "A computer program",
+      "An organized collection of related data",
+      "A type of hardware",
+      "A network protocol"
+    ],
+    "correctIndex": 1,
+    "topic": "Databases",
+    "difficulty": "easy",
+    "explanation": "A database stores related data in an organized manner."
+  },
+  {
+    "id": "fcs_062",
+    "question": "What does DBMS stand for?",
+    "options": [
+      "Database Memory System",
+      "Data Backup Management System",
+      "Database Management System",
+      "Digital Base Management Software"
+    ],
+    "correctIndex": 2,
+    "topic": "DBMS",
+    "difficulty": "easy",
+    "explanation": "DBMS stands for Database Management System."
+  },
+  {
+    "id": "fcs_063",
+    "question": "What is the main function of a DBMS?",
+    "options": [
+      "Design hardware",
+      "Store and manage data efficiently",
+      "Process images",
+      "Control CPU speed"
+    ],
+    "correctIndex": 1,
+    "topic": "DBMS",
+    "difficulty": "medium",
+    "explanation": "DBMS manages and organizes data efficiently."
+  },
+  {
+    "id": "fcs_064",
+    "question": "Which of the following is an advantage of using a DBMS?",
+    "options": [
+      "Data redundancy",
+      "Data inconsistency",
+      "Improved data security",
+      "Manual data handling"
+    ],
+    "correctIndex": 2,
+    "topic": "DBMS",
+    "difficulty": "medium",
+    "explanation": "DBMS improves data security and control."
+  },
+  {
+    "id": "fcs_065",
+    "question": "Which database model organizes data in tables?",
+    "options": [
+      "Hierarchical",
+      "Network",
+      "Relational",
+      "Object-oriented"
+    ],
+    "correctIndex": 2,
+    "topic": "Database Models",
+    "difficulty": "easy",
+    "explanation": "Relational databases store data in tables."
+  },
+
+  {
+    "id": "fcs_066",
+    "question": "What is a table in a database?",
+    "options": [
+      "A collection of files",
+      "A collection of rows and columns",
+      "A storage device",
+      "A software program"
+    ],
+    "correctIndex": 1,
+    "topic": "Database Models",
+    "difficulty": "easy",
+    "explanation": "Tables consist of rows and columns."
+  },
+  {
+    "id": "fcs_067",
+    "question": "What is a record in a database table?",
+    "options": [
+      "A column",
+      "A row",
+      "A database",
+      "A key"
+    ],
+    "correctIndex": 1,
+    "topic": "Database Models",
+    "difficulty": "easy",
+    "explanation": "A record corresponds to a row in a table."
+  },
+  {
+    "id": "fcs_068",
+    "question": "What is a field in a database table?",
+    "options": [
+      "A row",
+      "A database",
+      "A column",
+      "A file"
+    ],
+    "correctIndex": 2,
+    "topic": "Database Models",
+    "difficulty": "easy",
+    "explanation": "A field is a column in a table."
+  },
+  {
+    "id": "fcs_069",
+    "question": "Which key uniquely identifies a record in a table?",
+    "options": [
+      "Foreign key",
+      "Candidate key",
+      "Primary key",
+      "Composite key"
+    ],
+    "correctIndex": 2,
+    "topic": "Database Keys",
+    "difficulty": "medium",
+    "explanation": "A primary key uniquely identifies records."
+  },
+  {
+    "id": "fcs_070",
+    "question": "What is a foreign key?",
+    "options": [
+      "A key used to encrypt data",
+      "A key that links two tables",
+      "A unique identifier in one table",
+      "A backup key"
+    ],
+    "correctIndex": 1,
+    "topic": "Database Keys",
+    "difficulty": "medium",
+    "explanation": "Foreign keys link tables together."
+  },
+
+  {
+    "id": "fcs_071",
+    "question": "Which database model represents data as a tree?",
+    "options": [
+      "Relational",
+      "Network",
+      "Hierarchical",
+      "Object-oriented"
+    ],
+    "correctIndex": 2,
+    "topic": "Database Models",
+    "difficulty": "medium",
+    "explanation": "Hierarchical databases use a tree structure."
+  },
+  {
+    "id": "fcs_072",
+    "question": "Which database model allows many-to-many relationships?",
+    "options": [
+      "Hierarchical",
+      "Relational",
+      "Network",
+      "Flat-file"
+    ],
+    "correctIndex": 2,
+    "topic": "Database Models",
+    "difficulty": "hard",
+    "explanation": "Network models support many-to-many relationships."
+  },
+  {
+    "id": "fcs_073",
+    "question": "Which database model uses objects and classes?",
+    "options": [
+      "Relational",
+      "Hierarchical",
+      "Object-oriented",
+      "Network"
+    ],
+    "correctIndex": 2,
+    "topic": "Database Models",
+    "difficulty": "medium",
+    "explanation": "Object-oriented databases use objects and classes."
+  },
+  {
+    "id": "fcs_074",
+    "question": "What is data redundancy?",
+    "options": [
+      "Data encryption",
+      "Repeated storage of the same data",
+      "Data deletion",
+      "Data compression"
+    ],
+    "correctIndex": 1,
+    "topic": "Databases",
+    "difficulty": "medium",
+    "explanation": "Data redundancy means storing duplicate data."
+  },
+  {
+    "id": "fcs_075",
+    "question": "Which problem is reduced by using a DBMS?",
+    "options": [
+      "Data redundancy",
+      "Hardware failure",
+      "Power outage",
+      "Virus infection"
+    ],
+    "correctIndex": 0,
+    "topic": "DBMS",
+    "difficulty": "easy",
+    "explanation": "DBMS reduces data redundancy."
+  },
+
+  {
+    "id": "fcs_076",
+    "question": "What is data integrity?",
+    "options": [
+      "Data speed",
+      "Accuracy and consistency of data",
+      "Data size",
+      "Data format"
+    ],
+    "correctIndex": 1,
+    "topic": "Databases",
+    "difficulty": "medium",
+    "explanation": "Data integrity ensures accuracy and consistency."
+  },
+  {
+    "id": "fcs_077",
+    "question": "Which feature of DBMS controls who can access data?",
+    "options": [
+      "Data redundancy",
+      "Data security",
+      "Data sharing",
+      "Data independence"
+    ],
+    "correctIndex": 1,
+    "topic": "DBMS",
+    "difficulty": "easy",
+    "explanation": "DBMS provides data security mechanisms."
+  },
+  {
+    "id": "fcs_078",
+    "question": "What is data independence?",
+    "options": [
+      "Data without software",
+      "Ability to change data without affecting programs",
+      "Data stored in ROM",
+      "Encrypted data"
+    ],
+    "correctIndex": 1,
+    "topic": "DBMS",
+    "difficulty": "hard",
+    "explanation": "Data independence allows data changes without program changes."
+  },
+  {
+    "id": "fcs_079",
+    "question": "Which of the following best describes information?",
+    "options": [
+      "Unprocessed facts",
+      "Random symbols",
+      "Processed data with meaning",
+      "Binary digits"
+    ],
+    "correctIndex": 2,
+    "topic": "Data and Information",
+    "difficulty": "easy",
+    "explanation": "Information is processed data with meaning."
+  },
+  {
+    "id": "fcs_080",
+    "question": "Why are databases important in computer systems?",
+    "options": [
+      "They slow down systems",
+      "They organize and manage large amounts of data",
+      "They replace operating systems",
+      "They control hardware"
+    ],
+    "correctIndex": 1,
+    "topic": "Databases",
+    "difficulty": "easy",
+    "explanation": "Databases efficiently organize and manage data."
+  },
+ 
+    {
+      "id": "fcs_081",
+      "question": "What is primary memory?",
+      "options": [
+        "Memory used for long-term storage",
+        "Memory directly accessed by the CPU",
+        "External storage devices",
+        "Backup memory"
+      ],
+      "correctIndex": 1,
+      "topic": "Memory",
+      "difficulty": "easy",
+      "explanation": "Primary memory is directly accessible by the CPU."
+    },
+    {
+      "id": "fcs_082",
+      "question": "Which of the following is an example of primary memory?",
+      "options": ["Hard disk", "Flash drive", "RAM", "DVD"],
+      "correctIndex": 2,
+      "topic": "Memory",
+      "difficulty": "easy",
+      "explanation": "RAM is a primary memory device."
+    },
+    {
+      "id": "fcs_083",
+      "question": "Which memory loses its content when power is turned off?",
+      "options": ["ROM", "Secondary memory", "Cache", "RAM"],
+      "correctIndex": 3,
+      "topic": "Memory",
+      "difficulty": "easy",
+      "explanation": "RAM is volatile memory."
+    },
+    {
+      "id": "fcs_084",
+      "question": "ROM is best described as?",
+      "options": [
+        "Temporary storage",
+        "Volatile memory",
+        "Permanent memory",
+        "External memory"
+      ],
+      "correctIndex": 2,
+      "topic": "Memory",
+      "difficulty": "easy",
+      "explanation": "ROM stores permanent instructions."
+    },
+    {
+      "id": "fcs_085",
+      "question": "Which memory is faster?",
+      "options": ["Hard disk", "RAM", "Cache", "Flash drive"],
+      "correctIndex": 2,
+      "topic": "Memory",
+      "difficulty": "medium",
+      "explanation": "Cache memory is the fastest memory."
+    },
+    {
+      "id": "fcs_086",
+      "question": "What is secondary storage mainly used for?",
+      "options": [
+        "Processing data",
+        "Temporary storage",
+        "Long-term storage",
+        "Executing programs"
+      ],
+      "correctIndex": 2,
+      "topic": "Storage",
+      "difficulty": "easy",
+      "explanation": "Secondary storage stores data permanently."
+    },
+    {
+      "id": "fcs_087",
+      "question": "Which of the following is NOT a secondary storage device?",
+      "options": ["Hard disk", "SSD", "RAM", "CD-ROM"],
+      "correctIndex": 2,
+      "topic": "Storage",
+      "difficulty": "medium",
+      "explanation": "RAM is primary memory."
+    },
+    {
+      "id": "fcs_088",
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Processing Unit",
+        "Central Programming Unit",
+        "Control Processing Unit"
+      ],
+      "correctIndex": 0,
+      "topic": "CPU",
+      "difficulty": "easy",
+      "explanation": "CPU stands for Central Processing Unit."
+    },
+    {
+      "id": "fcs_089",
+      "question": "Which part of the CPU performs calculations?",
+      "options": ["Control Unit", "Registers", "ALU", "Cache"],
+      "correctIndex": 2,
+      "topic": "CPU",
+      "difficulty": "easy",
+      "explanation": "ALU performs arithmetic and logical operations."
+    },
+    {
+      "id": "fcs_090",
+      "question": "What is the function of the Control Unit?",
+      "options": [
+        "Stores data",
+        "Performs calculations",
+        "Controls all operations",
+        "Displays output"
+      ],
+      "correctIndex": 2,
+      "topic": "CPU",
+      "difficulty": "medium",
+      "explanation": "The Control Unit manages and coordinates operations."
+    },
+    {
+      "id": "fcs_091",
+      "question": "Which device is used to input text into a computer?",
+      "options": ["Monitor", "Keyboard", "Printer", "Speaker"],
+      "correctIndex": 1,
+      "topic": "Input Devices",
+      "difficulty": "easy",
+      "explanation": "Keyboard is used for text input."
+    },
+    {
+      "id": "fcs_092",
+      "question": "Which device displays visual output?",
+      "options": ["Mouse", "Monitor", "Scanner", "Microphone"],
+      "correctIndex": 1,
+      "topic": "Output Devices",
+      "difficulty": "easy",
+      "explanation": "Monitor displays visual output."
+    },
+    {
+      "id": "fcs_093",
+      "question": "A printer is an example of a?",
+      "options": ["Input device", "Processing device", "Output device", "Storage device"],
+      "correctIndex": 2,
+      "topic": "Output Devices",
+      "difficulty": "easy",
+      "explanation": "Printers produce output on paper."
+    },
+    {
+      "id": "fcs_094",
+      "question": "Which input device is used to capture images?",
+      "options": ["Keyboard", "Mouse", "Scanner", "Monitor"],
+      "correctIndex": 2,
+      "topic": "Input Devices",
+      "difficulty": "easy",
+      "explanation": "Scanners capture images."
+    },
+    {
+      "id": "fcs_095",
+      "question": "What is software?",
+      "options": [
+        "Physical parts of a computer",
+        "Programs and instructions",
+        "Storage devices",
+        "Input devices"
+      ],
+      "correctIndex": 1,
+      "topic": "Software",
+      "difficulty": "easy",
+      "explanation": "Software consists of programs and instructions."
+    },
+    {
+      "id": "fcs_096",
+      "question": "Which of the following is system software?",
+      "options": ["Word processor", "Spreadsheet", "Operating system", "Web browser"],
+      "correctIndex": 2,
+      "topic": "Software",
+      "difficulty": "medium",
+      "explanation": "Operating systems are system software."
+    },
+    {
+      "id": "fcs_097",
+      "question": "Which software manages computer hardware?",
+      "options": [
+        "Application software",
+        "Utility software",
+        "System software",
+        "Programming software"
+      ],
+      "correctIndex": 2,
+      "topic": "Software",
+      "difficulty": "medium",
+      "explanation": "System software controls hardware resources."
+    },
+    {
+      "id": "fcs_098",
+      "question": "What is application software used for?",
+      "options": [
+        "Running the computer",
+        "Hardware control",
+        "User-specific tasks",
+        "System booting"
+      ],
+      "correctIndex": 2,
+      "topic": "Software",
+      "difficulty": "easy",
+      "explanation": "Application software performs user tasks."
+    },
+    {
+      "id": "fcs_099",
+      "question": "Which is an example of application software?",
+      "options": ["Windows", "Linux", "Microsoft Word", "BIOS"],
+      "correctIndex": 2,
+      "topic": "Software",
+      "difficulty": "easy",
+      "explanation": "Microsoft Word is application software."
+    },
+    {
+      "id": "fcs_100",
+      "question": "What does an operating system do?",
+      "options": [
+        "Edits documents",
+        "Controls computer operations",
+        "Designs graphics",
+        "Plays music"
+      ],
+      "correctIndex": 1,
+      "topic": "Operating Systems",
+      "difficulty": "medium",
+      "explanation": "An OS manages hardware and software resources."
+    },
+
+    {
+      "id": "fcs_101",
+      "question": "Which of the following is NOT an operating system?",
+      "options": ["Windows", "Linux", "macOS", "Microsoft Excel"],
+      "correctIndex": 3,
+      "topic": "Operating Systems",
+      "difficulty": "easy",
+      "explanation": "Excel is application software."
+    },
+    {
+      "id": "fcs_102",
+      "question": "What is booting?",
+      "options": [
+        "Installing software",
+        "Starting the computer",
+        "Shutting down the computer",
+        "Formatting memory"
+      ],
+      "correctIndex": 1,
+      "topic": "Operating Systems",
+      "difficulty": "easy",
+      "explanation": "Booting is the process of starting a computer."
+    },
+    {
+      "id": "fcs_103",
+      "question": "Which type of computer is portable?",
+      "options": ["Desktop", "Mainframe", "Laptop", "Supercomputer"],
+      "correctIndex": 2,
+      "topic": "Types of Computers",
+      "difficulty": "easy",
+      "explanation": "Laptops are portable computers."
+    },
+    {
+      "id": "fcs_104",
+      "question": "Which computer is most powerful?",
+      "options": ["Desktop", "Laptop", "Mainframe", "Supercomputer"],
+      "correctIndex": 3,
+      "topic": "Types of Computers",
+      "difficulty": "easy",
+      "explanation": "Supercomputers are the most powerful."
+    },
+    {
+      "id": "fcs_105",
+      "question": "Mainframe computers are mainly used for?",
+      "options": [
+        "Gaming",
+        "Personal use",
+        "Large-scale processing",
+        "Mobile computing"
+      ],
+      "correctIndex": 2,
+      "topic": "Types of Computers",
+      "difficulty": "medium",
+      "explanation": "Mainframes handle large volumes of data."
+    },
+    {
+      "id": "fcs_106",
+      "question": "What is data?",
+      "options": [
+        "Processed information",
+        "Raw facts",
+        "Computer programs",
+        "Output only"
+      ],
+      "correctIndex": 1,
+      "topic": "Data and Information",
+      "difficulty": "easy",
+      "explanation": "Data are raw facts."
+    },
+    {
+      "id": "fcs_107",
+      "question": "What is information?",
+      "options": [
+        "Unprocessed facts",
+        "Random numbers",
+        "Processed data",
+        "System files"
+      ],
+      "correctIndex": 2,
+      "topic": "Data and Information",
+      "difficulty": "easy",
+      "explanation": "Information is processed data."
+    },
+    {
+      "id": "fcs_108",
+      "question": "Which of the following converts data into information?",
+      "options": ["Input", "Processing", "Storage", "Output"],
+      "correctIndex": 1,
+      "topic": "Data Processing Cycle",
+      "difficulty": "easy",
+      "explanation": "Processing converts data into information."
+    },
+    {
+      "id": "fcs_109",
+      "question": "Which stage shows results to the user?",
+      "options": ["Input", "Processing", "Storage", "Output"],
+      "correctIndex": 3,
+      "topic": "Data Processing Cycle",
+      "difficulty": "easy",
+      "explanation": "Output displays processed results."
+    },
+    {
+      "id": "fcs_110",
+      "question": "Which stage saves data for future use?",
+      "options": ["Input", "Processing", "Storage", "Output"],
+      "correctIndex": 2,
+      "topic": "Data Processing Cycle",
+      "difficulty": "easy",
+      "explanation": "Storage saves data and information."
+    },
+    {
+      "id": "fcs_111",
+      "question": "Which of the following best defines computer science?",
+      "options": [
+        "Study of computers only",
+        "Study of hardware",
+        "Study of computation and information",
+        "Study of typing skills"
+      ],
+      "correctIndex": 2,
+      "topic": "Computer Science",
+      "difficulty": "medium",
+      "explanation": "Computer science studies computation and information."
+    },
+    {
+      "id": "fcs_112",
+      "question": "Which field focuses on creating programs?",
+      "options": ["Hardware engineering", "Networking", "Programming", "Data entry"],
+      "correctIndex": 2,
+      "topic": "Computer Science Fields",
+      "difficulty": "easy",
+      "explanation": "Programming focuses on writing software."
+    },
+    {
+      "id": "fcs_113",
+      "question": "Which field deals with data storage and retrieval?",
+      "options": ["Networking", "Database management", "Programming", "Graphics"],
+      "correctIndex": 1,
+      "topic": "Computer Science Fields",
+      "difficulty": "medium",
+      "explanation": "Databases manage stored data."
+    },
+    {
+      "id": "fcs_114",
+      "question": "Which field focuses on communication between computers?",
+      "options": ["Programming", "Networking", "AI", "Graphics"],
+      "correctIndex": 1,
+      "topic": "Computer Science Fields",
+      "difficulty": "easy",
+      "explanation": "Networking handles computer communication."
+    },
+    {
+      "id": "fcs_115",
+      "question": "What is a computer system?",
+      "options": [
+        "Hardware only",
+        "Software only",
+        "Hardware and software working together",
+        "Internet connection"
+      ],
+      "correctIndex": 2,
+      "topic": "Computer Systems",
+      "difficulty": "easy",
+      "explanation": "A system combines hardware and software."
+    },
+    {
+      "id": "fcs_116",
+      "question": "Which component is tangible?",
+      "options": ["Software", "Data", "Hardware", "Information"],
+      "correctIndex": 2,
+      "topic": "Computer Systems",
+      "difficulty": "easy",
+      "explanation": "Hardware is physical."
+    },
+    {
+      "id": "fcs_117",
+      "question": "Which component is intangible?",
+      "options": ["Keyboard", "Monitor", "Software", "Mouse"],
+      "correctIndex": 2,
+      "topic": "Computer Systems",
+      "difficulty": "easy",
+      "explanation": "Software is intangible."
+    },
+    {
+      "id": "fcs_118",
+      "question": "What ensures proper use of a computer system?",
+      "options": ["Electricity", "Users", "Data", "Programs"],
+      "correctIndex": 1,
+      "topic": "Computer Systems",
+      "difficulty": "medium",
+      "explanation": "Users operate computer systems."
+    },
+    {
+      "id": "fcs_119",
+      "question": "Which of the following is a limitation of computers?",
+      "options": [
+        "High speed",
+        "Accuracy",
+        "No intelligence",
+        "Large storage"
+      ],
+      "correctIndex": 2,
+      "topic": "Characteristics of Computers",
+      "difficulty": "medium",
+      "explanation": "Computers cannot think on their own."
+    },
+    {
+      "id": "fcs_120",
+      "question": "Which characteristic means computers do not get tired?",
+      "options": ["Speed", "Accuracy", "Diligence", "Automation"],
+      "correctIndex": 2,
+      "topic": "Characteristics of Computers",
+      "difficulty": "easy",
+      "explanation": "Diligence means consistent performance."
+    },
+    {
+      "id": "fcs_121",
+      "question": "Which characteristic allows computers to work automatically?",
+      "options": ["Speed", "Automation", "Accuracy", "Versatility"],
+      "correctIndex": 1,
+      "topic": "Characteristics of Computers",
+      "difficulty": "easy",
+      "explanation": "Automation enables self-operation after instruction."
+    },
+    {
+      "id": "fcs_122",
+      "question": "Which characteristic refers to performing different tasks?",
+      "options": ["Accuracy", "Speed", "Versatility", "Storage"],
+      "correctIndex": 2,
+      "topic": "Characteristics of Computers",
+      "difficulty": "easy",
+      "explanation": "Versatility means multi-purpose use."
+    },
+    {
+      "id": "fcs_123",
+      "question": "Which of the following is NOT a computer characteristic?",
+      "options": ["Intelligence", "Speed", "Accuracy", "Storage"],
+      "correctIndex": 0,
+      "topic": "Characteristics of Computers",
+      "difficulty": "easy",
+      "explanation": "Computers lack intelligence."
+    },
+    {
+      "id": "fcs_124",
+      "question": "Which unit measures processing speed?",
+      "options": ["Bytes", "Hertz", "Pixels", "Volts"],
+      "correctIndex": 1,
+      "topic": "Computer Performance",
+      "difficulty": "medium",
+      "explanation": "Hertz measures CPU speed."
+    },
+    {
+      "id": "fcs_125",
+      "question": "Which factor affects computer performance?",
+      "options": [
+        "CPU speed",
+        "Keyboard size",
+        "Monitor color",
+        "Mouse type"
+      ],
+      "correctIndex": 0,
+      "topic": "Computer Performance",
+      "difficulty": "easy",
+      "explanation": "CPU speed impacts performance."
+    },
+    {
+      "id": "fcs_126",
+      "question": "Which memory improves processing speed?",
+      "options": ["ROM", "Hard disk", "Cache", "DVD"],
+      "correctIndex": 2,
+      "topic": "Memory",
+      "difficulty": "medium",
+      "explanation": "Cache improves processing speed."
+    },
+    {
+      "id": "fcs_127",
+      "question": "Which of the following is true about computers?",
+      "options": [
+        "They think independently",
+        "They make decisions without instructions",
+        "They follow instructions",
+        "They have emotions"
+      ],
+      "correctIndex": 2,
+      "topic": "Fundamentals",
+      "difficulty": "easy",
+      "explanation": "Computers only follow instructions."
+    },
+    {
+      "id": "fcs_128",
+      "question": "Which component executes program instructions?",
+      "options": ["Input device", "CPU", "Storage", "Output device"],
+      "correctIndex": 1,
+      "topic": "CPU",
+      "difficulty": "easy",
+      "explanation": "CPU executes instructions."
+    },
+    {
+      "id": "fcs_129",
+      "question": "Which of the following best summarizes a computer?",
+      "options": [
+        "A thinking machine",
+        "An electronic device that processes data",
+        "A storage device",
+        "A communication tool only"
+      ],
+      "correctIndex": 1,
+      "topic": "Fundamentals",
+      "difficulty": "medium",
+      "explanation": "Computers process data into information."
+    },
+    {
+      "id": "fcs_130",
+      "question": "Why is computer science important?",
+      "options": [
+        "It replaces humans",
+        "It studies only hardware",
+        "It enables problem-solving using computers",
+        "It focuses on gaming only"
+      ],
+      "correctIndex": 2,
+      "topic": "Computer Science",
+      "difficulty": "easy",
+      "explanation": "Computer science helps solve problems using computation."
+    }
+  ]
+}

@@ -1,0 +1,1759 @@
+{
+  "courseId": "programming-tools-techniques",
+  "title": "Programming Tools & Techniques",
+  "icon": "🛠️",
+  "questions": [
+    {
+      "id": "ep_001",
+      "question": "What are programming tools?",
+      "options": [
+        "Hardware components of a computer",
+        "Software that assists programmers in developing applications",
+        "Only programming languages",
+        "Internet services"
+      ],
+      "correctIndex": 1,
+      "topic": "Programming Tools",
+      "difficulty": "easy",
+      "explanation": "Programming tools are software applications that help developers write, test, and maintain programs."
+    },
+    {
+      "id": "ep_002",
+      "question": "Why are programming tools important?",
+      "options": [
+        "They replace programmers",
+        "They make program development easier and faster",
+        "They increase hardware speed",
+        "They eliminate all errors"
+      ],
+      "correctIndex": 1,
+      "topic": "Programming Tools",
+      "difficulty": "easy",
+      "explanation": "Programming tools improve efficiency and productivity in software development."
+    },
+    {
+      "id": "ep_003",
+      "question": "Which of the following is a category of programming tools?",
+      "options": [
+        "Text editor",
+        "Keyboard",
+        "Monitor",
+        "Printer"
+      ],
+      "correctIndex": 0,
+      "topic": "Programming Tools",
+      "difficulty": "easy",
+      "explanation": "Text editors are commonly used programming tools."
+    },
+    {
+      "id": "ep_004",
+      "question": "What does IDE stand for?",
+      "options": [
+        "Integrated Development Environment",
+        "Internal Development Engine",
+        "Independent Design Editor",
+        "Integrated Debug Editor"
+      ],
+      "correctIndex": 0,
+      "topic": "IDE",
+      "difficulty": "easy",
+      "explanation": "IDE stands for Integrated Development Environment."
+    },
+    {
+      "id": "ep_005",
+      "question": "Which of the following best describes an IDE?",
+      "options": [
+        "A single compiler",
+        "A collection of development tools in one application",
+        "A programming language",
+        "A hardware device"
+      ],
+      "correctIndex": 1,
+      "topic": "IDE",
+      "difficulty": "easy",
+      "explanation": "An IDE combines tools like editors, compilers, and debuggers."
+    },
+    {
+      "id": "ep_006",
+      "question": "Which feature is commonly included in an IDE?",
+      "options": [
+        "Source code editor",
+        "Spreadsheet tool",
+        "Media player",
+        "Antivirus scanner"
+      ],
+      "correctIndex": 0,
+      "topic": "IDE",
+      "difficulty": "easy",
+      "explanation": "IDEs include source code editors for writing programs."
+    },
+    {
+      "id": "ep_007",
+      "question": "Which of the following is an example of an IDE?",
+      "options": [
+        "Visual Studio Code",
+        "GCC",
+        "GDB",
+        "Git"
+      ],
+      "correctIndex": 0,
+      "topic": "IDE",
+      "difficulty": "easy",
+      "explanation": "Visual Studio Code is a widely used IDE."
+    },
+    {
+      "id": "ep_008",
+      "question": "What is the primary purpose of a text editor?",
+      "options": [
+        "Execute programs",
+        "Write and edit source code",
+        "Debug programs",
+        "Compile programs"
+      ],
+      "correctIndex": 1,
+      "topic": "Text Editors",
+      "difficulty": "easy",
+      "explanation": "Text editors are used to write and modify source code."
+    },
+    {
+      "id": "ep_009",
+      "question": "Which of the following is a text editor?",
+      "options": [
+        "Notepad++",
+        "GCC",
+        "GDB",
+        "Interpreter"
+      ],
+      "correctIndex": 0,
+      "topic": "Text Editors",
+      "difficulty": "easy",
+      "explanation": "Notepad++ is a text editor."
+    },
+    {
+      "id": "ep_010",
+      "question": "What is a compiler?",
+      "options": [
+        "A tool that executes code line by line",
+        "A tool that translates high-level code into machine code",
+        "A debugging tool",
+        "A version control system"
+      ],
+      "correctIndex": 1,
+      "topic": "Compilers",
+      "difficulty": "easy",
+      "explanation": "A compiler converts high-level language into machine language."
+    },
+
+    {
+      "id": "ep_011",
+      "question": "Which of the following is an example of a compiler?",
+      "options": ["GCC", "Git", "VS Code", "GDB"],
+      "correctIndex": 0,
+      "topic": "Compilers",
+      "difficulty": "easy",
+      "explanation": "GCC is a commonly used compiler."
+    },
+    {
+      "id": "ep_012",
+      "question": "What happens when a program contains syntax errors?",
+      "options": [
+        "It runs with wrong output",
+        "It fails to compile",
+        "It runs slower",
+        "It deletes itself"
+      ],
+      "correctIndex": 1,
+      "topic": "Errors",
+      "difficulty": "easy",
+      "explanation": "Syntax errors prevent successful compilation."
+    },
+    {
+      "id": "ep_013",
+      "question": "What is an interpreter?",
+      "options": [
+        "A tool that converts code line by line",
+        "A hardware component",
+        "A version control tool",
+        "A flowchart tool"
+      ],
+      "correctIndex": 0,
+      "topic": "Interpreters",
+      "difficulty": "easy",
+      "explanation": "An interpreter translates and executes code line by line."
+    },
+    {
+      "id": "ep_014",
+      "question": "Which language commonly uses an interpreter?",
+      "options": ["Python", "C", "C++", "Assembly"],
+      "correctIndex": 0,
+      "topic": "Interpreters",
+      "difficulty": "easy",
+      "explanation": "Python is commonly interpreted."
+    },
+    {
+      "id": "ep_015",
+      "question": "Which is a key difference between a compiler and an interpreter?",
+      "options": [
+        "Compiler translates entire program, interpreter works line by line",
+        "Interpreter is faster than compiler",
+        "Compiler finds logical errors only",
+        "Interpreter produces machine code"
+      ],
+      "correctIndex": 0,
+      "topic": "Compilers vs Interpreters",
+      "difficulty": "medium",
+      "explanation": "Compilers translate entire programs, interpreters work line by line."
+    },
+
+    {
+      "id": "ep_016",
+      "question": "What is debugging?",
+      "options": [
+        "Writing source code",
+        "Finding and fixing program errors",
+        "Compiling programs",
+        "Running programs"
+      ],
+      "correctIndex": 1,
+      "topic": "Debugging",
+      "difficulty": "easy",
+      "explanation": "Debugging involves locating and fixing errors."
+    },
+    {
+      "id": "ep_017",
+      "question": "Which tool is mainly used for debugging?",
+      "options": ["Debugger", "Compiler", "Editor", "Interpreter"],
+      "correctIndex": 0,
+      "topic": "Debugging",
+      "difficulty": "easy",
+      "explanation": "Debuggers help identify and fix errors."
+    },
+    {
+      "id": "ep_018",
+      "question": "Which of the following is a debugger?",
+      "options": ["GDB", "GCC", "Git", "VS Code"],
+      "correctIndex": 0,
+      "topic": "Debugging",
+      "difficulty": "easy",
+      "explanation": "GDB is a debugging tool."
+    },
+    {
+      "id": "ep_019",
+      "question": "What type of error produces incorrect output but no compilation error?",
+      "options": [
+        "Syntax error",
+        "Logical error",
+        "Runtime error",
+        "Linker error"
+      ],
+      "correctIndex": 1,
+      "topic": "Errors",
+      "difficulty": "medium",
+      "explanation": "Logical errors allow the program to run but give wrong results."
+    },
+    {
+      "id": "ep_020",
+      "question": "Which error occurs during program execution?",
+      "options": [
+        "Syntax error",
+        "Logical error",
+        "Runtime error",
+        "Compilation error"
+      ],
+      "correctIndex": 2,
+      "topic": "Errors",
+      "difficulty": "easy",
+      "explanation": "Runtime errors occur while the program is running."
+    },
+
+    {
+      "id": "ep_021",
+      "question": "What is version control?",
+      "options": [
+        "A debugging technique",
+        "A method of managing code changes",
+        "A programming language",
+        "A compilation process"
+      ],
+      "correctIndex": 1,
+      "topic": "Version Control",
+      "difficulty": "easy",
+      "explanation": "Version control manages changes made to source code."
+    },
+    {
+      "id": "ep_022",
+      "question": "Which of the following is a version control system?",
+      "options": ["Git", "GDB", "GCC", "Notepad"],
+      "correctIndex": 0,
+      "topic": "Version Control",
+      "difficulty": "easy",
+      "explanation": "Git is a popular version control system."
+    },
+    {
+      "id": "ep_023",
+      "question": "Why is version control useful?",
+      "options": [
+        "It speeds up execution",
+        "It tracks changes and supports collaboration",
+        "It removes syntax errors",
+        "It replaces compilers"
+      ],
+      "correctIndex": 1,
+      "topic": "Version Control",
+      "difficulty": "medium",
+      "explanation": "Version control tracks changes and enables teamwork."
+    },
+
+    {
+      "id": "ep_024",
+      "question": "What is a flowchart?",
+      "options": [
+        "A programming language",
+        "A graphical representation of an algorithm",
+        "A debugging tool",
+        "A compiler output"
+      ],
+      "correctIndex": 1,
+      "topic": "Flowcharts",
+      "difficulty": "easy",
+      "explanation": "Flowcharts visually represent program logic."
+    },
+    {
+      "id": "ep_025",
+      "question": "Which symbol represents the start or end in a flowchart?",
+      "options": ["Oval", "Rectangle", "Diamond", "Arrow"],
+      "correctIndex": 0,
+      "topic": "Flowcharts",
+      "difficulty": "easy",
+      "explanation": "Ovals represent start and end points."
+    },
+    {
+      "id": "ep_026",
+      "question": "Which flowchart symbol represents a process?",
+      "options": ["Rectangle", "Oval", "Diamond", "Circle"],
+      "correctIndex": 0,
+      "topic": "Flowcharts",
+      "difficulty": "easy",
+      "explanation": "Rectangles represent processes."
+    },
+    {
+      "id": "ep_027",
+      "question": "Which symbol represents a decision?",
+      "options": ["Rectangle", "Diamond", "Oval", "Arrow"],
+      "correctIndex": 1,
+      "topic": "Flowcharts",
+      "difficulty": "easy",
+      "explanation": "Diamonds indicate decision points."
+    },
+    {
+      "id": "ep_028",
+      "question": "Why are flowcharts useful?",
+      "options": [
+        "They execute programs",
+        "They visualize program logic",
+        "They compile code",
+        "They remove bugs"
+      ],
+      "correctIndex": 1,
+      "topic": "Flowcharts",
+      "difficulty": "easy",
+      "explanation": "Flowcharts help visualize program logic."
+    },
+
+    {
+      "id": "ep_029",
+      "question": "What is an algorithm?",
+      "options": [
+        "A programming language",
+        "A step-by-step solution to a problem",
+        "A software tool",
+        "A hardware component"
+      ],
+      "correctIndex": 1,
+      "topic": "Algorithms",
+      "difficulty": "easy",
+      "explanation": "An algorithm is a step-by-step problem-solving procedure."
+    },
+    {
+      "id": "ep_030",
+      "question": "Which of the following best describes an algorithm?",
+      "options": [
+        "Ambiguous instructions",
+        "Finite and well-defined steps",
+        "Random commands",
+        "Machine code only"
+      ],
+      "correctIndex": 1,
+      "topic": "Algorithms",
+      "difficulty": "medium",
+      "explanation": "Algorithms must be finite and unambiguous."
+    },
+    {
+      "id": "ep_031",
+      "question": "Which property of an algorithm ensures it eventually stops?",
+      "options": ["Finiteness", "Accuracy", "Input", "Output"],
+      "correctIndex": 0,
+      "topic": "Algorithms",
+      "difficulty": "medium",
+      "explanation": "Finiteness ensures an algorithm terminates."
+    },
+    {
+      "id": "ep_032",
+      "question": "Which property of an algorithm defines what it produces?",
+      "options": ["Input", "Process", "Output", "Loop"],
+      "correctIndex": 2,
+      "topic": "Algorithms",
+      "difficulty": "easy",
+      "explanation": "Output defines the result produced by an algorithm."
+    },
+    {
+      "id": "ep_033",
+      "question": "Which comes first when solving a programming problem?",
+      "options": [
+        "Writing code",
+        "Designing an algorithm",
+        "Debugging",
+        "Compiling"
+      ],
+      "correctIndex": 1,
+      "topic": "Problem Solving",
+      "difficulty": "easy",
+      "explanation": "Algorithms are designed before coding."
+    },
+    {
+      "id": "ep_034",
+      "question": "Which tool helps beginners understand algorithms visually?",
+      "options": ["Flowcharts", "Compilers", "Debuggers", "Editors"],
+      "correctIndex": 0,
+      "topic": "Algorithms",
+      "difficulty": "easy",
+      "explanation": "Flowcharts visually explain algorithms."
+    },
+    {
+      "id": "ep_035",
+      "question": "What is pseudocode?",
+      "options": [
+        "Executable program code",
+        "Informal description of an algorithm",
+        "Machine language",
+        "A debugging tool"
+      ],
+      "correctIndex": 1,
+      "topic": "Pseudocode",
+      "difficulty": "easy",
+      "explanation": "Pseudocode describes algorithms in plain language."
+    },
+    {
+      "id": "ep_036",
+      "question": "Why is pseudocode useful?",
+      "options": [
+        "It runs faster",
+        "It helps plan program logic",
+        "It replaces compilers",
+        "It removes errors"
+      ],
+      "correctIndex": 1,
+      "topic": "Pseudocode",
+      "difficulty": "easy",
+      "explanation": "Pseudocode helps plan logic before coding."
+    },
+    {
+      "id": "ep_037",
+      "question": "Which is NOT a programming tool?",
+      "options": ["Compiler", "Debugger", "Flowchart", "Printer"],
+      "correctIndex": 3,
+      "topic": "Programming Tools",
+      "difficulty": "easy",
+      "explanation": "Printers are hardware devices, not programming tools."
+    },
+    {
+      "id": "ep_038",
+      "question": "Which tool helps convert algorithm designs into code?",
+      "options": ["IDE", "Monitor", "Mouse", "Speaker"],
+      "correctIndex": 0,
+      "topic": "IDE",
+      "difficulty": "medium",
+      "explanation": "IDEs help translate designs into code."
+    },
+    {
+      "id": "ep_039",
+      "question": "Which stage comes after writing source code?",
+      "options": ["Compilation", "Algorithm design", "Problem analysis", "Flowcharting"],
+      "correctIndex": 0,
+      "topic": "Program Development",
+      "difficulty": "easy",
+      "explanation": "Source code is compiled before execution."
+    },
+    {
+      "id": "ep_040",
+      "question": "Which tool checks program logic during execution?",
+      "options": ["Debugger", "Compiler", "Editor", "Interpreter"],
+      "correctIndex": 0,
+      "topic": "Debugging",
+      "difficulty": "medium",
+      "explanation": "Debuggers analyze program behavior during execution."
+    },
+    
+  {
+    "id": "ep_041",
+    "question": "What is the main purpose of an algorithm?",
+    "options": [
+      "To write code faster",
+      "To provide a step-by-step solution to a problem",
+      "To debug programs",
+      "To compile source code"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithms",
+    "difficulty": "easy",
+    "explanation": "Algorithms define clear steps for solving a problem."
+  },
+  {
+    "id": "ep_042",
+    "question": "Which of the following is NOT a characteristic of an algorithm?",
+    "options": [
+      "Finiteness",
+      "Ambiguity",
+      "Input",
+      "Output"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithms",
+    "difficulty": "medium",
+    "explanation": "Algorithms must be unambiguous."
+  },
+  {
+    "id": "ep_043",
+    "question": "Which characteristic ensures an algorithm produces a result?",
+    "options": ["Input", "Output", "Finiteness", "Accuracy"],
+    "correctIndex": 1,
+    "topic": "Algorithms",
+    "difficulty": "easy",
+    "explanation": "Output specifies the result produced."
+  },
+  {
+    "id": "ep_044",
+    "question": "What does finiteness in an algorithm mean?",
+    "options": [
+      "It has unlimited steps",
+      "It stops after a finite number of steps",
+      "It accepts only one input",
+      "It produces multiple outputs"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithms",
+    "difficulty": "medium",
+    "explanation": "Finiteness ensures the algorithm eventually terminates."
+  },
+  {
+    "id": "ep_045",
+    "question": "Which tool is commonly used to draw flowcharts?",
+    "options": [
+      "Flowgorithm",
+      "GCC",
+      "Git",
+      "GDB"
+    ],
+    "correctIndex": 0,
+    "topic": "Flowcharts",
+    "difficulty": "easy",
+    "explanation": "Flowgorithm is designed for creating flowcharts."
+  },
+
+  {
+    "id": "ep_046",
+    "question": "Which flowchart symbol represents input/output?",
+    "options": ["Oval", "Rectangle", "Parallelogram", "Diamond"],
+    "correctIndex": 2,
+    "topic": "Flowcharts",
+    "difficulty": "easy",
+    "explanation": "Parallelograms represent input and output operations."
+  },
+  {
+    "id": "ep_047",
+    "question": "Arrows in a flowchart are used to represent?",
+    "options": [
+      "Processing",
+      "Direction of flow",
+      "Decisions",
+      "Input"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowcharts",
+    "difficulty": "easy",
+    "explanation": "Arrows show the flow of control."
+  },
+  {
+    "id": "ep_048",
+    "question": "Which of the following best describes pseudocode?",
+    "options": [
+      "Executable program code",
+      "Machine-level instructions",
+      "Human-readable algorithm description",
+      "Debugging output"
+    ],
+    "correctIndex": 2,
+    "topic": "Pseudocode",
+    "difficulty": "easy",
+    "explanation": "Pseudocode expresses logic in simple language."
+  },
+  {
+    "id": "ep_049",
+    "question": "Which is an advantage of pseudocode?",
+    "options": [
+      "It runs faster than code",
+      "It is language-independent",
+      "It replaces compilers",
+      "It executes directly"
+    ],
+    "correctIndex": 1,
+    "topic": "Pseudocode",
+    "difficulty": "medium",
+    "explanation": "Pseudocode is not tied to any programming language."
+  },
+  {
+    "id": "ep_050",
+    "question": "Which comes after algorithm design in program development?",
+    "options": [
+      "Problem definition",
+      "Coding",
+      "Testing",
+      "Debugging"
+    ],
+    "correctIndex": 1,
+    "topic": "Program Development",
+    "difficulty": "easy",
+    "explanation": "Coding follows algorithm design."
+  },
+
+  {
+    "id": "ep_051",
+    "question": "What is source code?",
+    "options": [
+      "Machine code",
+      "Human-readable program instructions",
+      "Compiled output",
+      "Debugging data"
+    ],
+    "correctIndex": 1,
+    "topic": "Source Code",
+    "difficulty": "easy",
+    "explanation": "Source code is written by programmers in high-level languages."
+  },
+  {
+    "id": "ep_052",
+    "question": "Which tool is mainly used to write source code?",
+    "options": [
+      "Text editor",
+      "Compiler",
+      "Debugger",
+      "Interpreter"
+    ],
+    "correctIndex": 0,
+    "topic": "Text Editors",
+    "difficulty": "easy",
+    "explanation": "Text editors are used to write code."
+  },
+  {
+    "id": "ep_053",
+    "question": "Which of the following is NOT a text editor?",
+    "options": [
+      "Notepad++",
+      "VS Code",
+      "GCC",
+      "Sublime Text"
+    ],
+    "correctIndex": 2,
+    "topic": "Text Editors",
+    "difficulty": "easy",
+    "explanation": "GCC is a compiler, not a text editor."
+  },
+  {
+    "id": "ep_054",
+    "question": "What is compilation?",
+    "options": [
+      "Executing a program",
+      "Translating source code into machine code",
+      "Finding logical errors",
+      "Writing algorithms"
+    ],
+    "correctIndex": 1,
+    "topic": "Compilers",
+    "difficulty": "easy",
+    "explanation": "Compilation converts source code into machine code."
+  },
+  {
+    "id": "ep_055",
+    "question": "Which error is detected by the compiler?",
+    "options": [
+      "Logical error",
+      "Syntax error",
+      "Runtime error",
+      "Output error"
+    ],
+    "correctIndex": 1,
+    "topic": "Errors",
+    "difficulty": "easy",
+    "explanation": "Syntax errors are detected during compilation."
+  },
+
+  {
+    "id": "ep_056",
+    "question": "Which error occurs due to incorrect program logic?",
+    "options": [
+      "Syntax error",
+      "Runtime error",
+      "Logical error",
+      "Compilation error"
+    ],
+    "correctIndex": 2,
+    "topic": "Errors",
+    "difficulty": "easy",
+    "explanation": "Logical errors cause incorrect results."
+  },
+  {
+    "id": "ep_057",
+    "question": "Which error causes a program to crash while running?",
+    "options": [
+      "Syntax error",
+      "Logical error",
+      "Runtime error",
+      "Typographical error"
+    ],
+    "correctIndex": 2,
+    "topic": "Errors",
+    "difficulty": "easy",
+    "explanation": "Runtime errors occur during execution."
+  },
+  {
+    "id": "ep_058",
+    "question": "Which tool helps step through code during execution?",
+    "options": [
+      "Compiler",
+      "Editor",
+      "Debugger",
+      "Flowchart"
+    ],
+    "correctIndex": 2,
+    "topic": "Debugging",
+    "difficulty": "medium",
+    "explanation": "Debuggers allow step-by-step execution."
+  },
+  {
+    "id": "ep_059",
+    "question": "What is a breakpoint?",
+    "options": [
+      "A syntax error",
+      "A pause point during program execution",
+      "A compilation stage",
+      "An output value"
+    ],
+    "correctIndex": 1,
+    "topic": "Debugging",
+    "difficulty": "medium",
+    "explanation": "Breakpoints pause execution for inspection."
+  },
+  {
+    "id": "ep_060",
+    "question": "Which stage involves checking whether a program meets requirements?",
+    "options": [
+      "Coding",
+      "Testing",
+      "Compilation",
+      "Algorithm design"
+    ],
+    "correctIndex": 1,
+    "topic": "Program Testing",
+    "difficulty": "easy",
+    "explanation": "Testing verifies program correctness."
+  },
+
+  {
+    "id": "ep_061",
+    "question": "What is software testing?",
+    "options": [
+      "Writing algorithms",
+      "Executing programs to find errors",
+      "Compiling source code",
+      "Designing flowcharts"
+    ],
+    "correctIndex": 1,
+    "topic": "Program Testing",
+    "difficulty": "easy",
+    "explanation": "Testing helps identify defects."
+  },
+  {
+    "id": "ep_062",
+    "question": "Which testing is done after coding?",
+    "options": [
+      "Algorithm testing",
+      "Program testing",
+      "Problem testing",
+      "Hardware testing"
+    ],
+    "correctIndex": 1,
+    "topic": "Program Testing",
+    "difficulty": "easy",
+    "explanation": "Programs are tested after coding."
+  },
+  {
+    "id": "ep_063",
+    "question": "What is version control mainly used for?",
+    "options": [
+      "Debugging errors",
+      "Managing changes to source code",
+      "Compiling programs",
+      "Designing algorithms"
+    ],
+    "correctIndex": 1,
+    "topic": "Version Control",
+    "difficulty": "easy",
+    "explanation": "Version control tracks code changes."
+  },
+  {
+    "id": "ep_064",
+    "question": "Which version control system is widely used?",
+    "options": [
+      "Git",
+      "GDB",
+      "GCC",
+      "Flowgorithm"
+    ],
+    "correctIndex": 0,
+    "topic": "Version Control",
+    "difficulty": "easy",
+    "explanation": "Git is widely used in software development."
+  },
+  {
+    "id": "ep_065",
+    "question": "What is a repository in version control?",
+    "options": [
+      "A compiler output",
+      "A storage location for project files",
+      "A debugging log",
+      "An algorithm design"
+    ],
+    "correctIndex": 1,
+    "topic": "Version Control",
+    "difficulty": "medium",
+    "explanation": "Repositories store project files and history."
+  },
+
+  {
+    "id": "ep_066",
+    "question": "Which action saves changes to a repository?",
+    "options": ["Commit", "Compile", "Debug", "Execute"],
+    "correctIndex": 0,
+    "topic": "Version Control",
+    "difficulty": "medium",
+    "explanation": "A commit records changes."
+  },
+  {
+    "id": "ep_067",
+    "question": "Which action retrieves a repository from a remote source?",
+    "options": ["Push", "Commit", "Clone", "Merge"],
+    "correctIndex": 2,
+    "topic": "Version Control",
+    "difficulty": "medium",
+    "explanation": "Cloning copies a repository."
+  },
+  {
+    "id": "ep_068",
+    "question": "What does pushing in version control do?",
+    "options": [
+      "Downloads code",
+      "Uploads local changes to a remote repository",
+      "Deletes commits",
+      "Runs programs"
+    ],
+    "correctIndex": 1,
+    "topic": "Version Control",
+    "difficulty": "medium",
+    "explanation": "Push sends local commits to a remote repository."
+  },
+  {
+    "id": "ep_069",
+    "question": "What does pulling in version control do?",
+    "options": [
+      "Uploads code",
+      "Downloads updates from a remote repository",
+      "Deletes files",
+      "Compiles programs"
+    ],
+    "correctIndex": 1,
+    "topic": "Version Control",
+    "difficulty": "medium",
+    "explanation": "Pull retrieves updates from remote repositories."
+  },
+  {
+    "id": "ep_070",
+    "question": "Why is collaboration easier with version control?",
+    "options": [
+      "It removes errors automatically",
+      "It allows multiple developers to work on the same code",
+      "It speeds up execution",
+      "It replaces testing"
+    ],
+    "correctIndex": 1,
+    "topic": "Version Control",
+    "difficulty": "easy",
+    "explanation": "Version control supports teamwork."
+  },
+
+  {
+    "id": "ep_071",
+    "question": "Which tool visually represents algorithms?",
+    "options": [
+      "Compiler",
+      "Debugger",
+      "Flowchart",
+      "Editor"
+    ],
+    "correctIndex": 2,
+    "topic": "Algorithms",
+    "difficulty": "easy",
+    "explanation": "Flowcharts visually represent algorithms."
+  },
+  {
+    "id": "ep_072",
+    "question": "Which stage focuses on improving program quality?",
+    "options": [
+      "Testing",
+      "Compilation",
+      "Execution",
+      "Problem definition"
+    ],
+    "correctIndex": 0,
+    "topic": "Program Development",
+    "difficulty": "easy",
+    "explanation": "Testing improves program quality."
+  },
+  {
+    "id": "ep_073",
+    "question": "What is program execution?",
+    "options": [
+      "Writing code",
+      "Running a program to produce output",
+      "Compiling code",
+      "Designing algorithms"
+    ],
+    "correctIndex": 1,
+    "topic": "Program Execution",
+    "difficulty": "easy",
+    "explanation": "Execution runs the program."
+  },
+  {
+    "id": "ep_074",
+    "question": "Which tool is responsible for running compiled programs?",
+    "options": [
+      "Operating system",
+      "Compiler",
+      "Debugger",
+      "Text editor"
+    ],
+    "correctIndex": 0,
+    "topic": "Program Execution",
+    "difficulty": "medium",
+    "explanation": "The OS runs executable programs."
+  },
+  {
+    "id": "ep_075",
+    "question": "Which stage comes last in program development?",
+    "options": [
+      "Problem analysis",
+      "Coding",
+      "Testing",
+      "Execution"
+    ],
+    "correctIndex": 3,
+    "topic": "Program Development",
+    "difficulty": "medium",
+    "explanation": "Execution is the final stage."
+  },
+
+  {
+    "id": "ep_076",
+    "question": "Why is debugging important?",
+    "options": [
+      "It writes programs",
+      "It removes logical and runtime errors",
+      "It compiles faster",
+      "It designs algorithms"
+    ],
+    "correctIndex": 1,
+    "topic": "Debugging",
+    "difficulty": "easy",
+    "explanation": "Debugging improves correctness."
+  },
+  {
+    "id": "ep_077",
+    "question": "Which tool combines editor, compiler, and debugger?",
+    "options": [
+      "IDE",
+      "Text editor",
+      "Interpreter",
+      "Version control system"
+    ],
+    "correctIndex": 0,
+    "topic": "IDE",
+    "difficulty": "easy",
+    "explanation": "IDEs integrate multiple development tools."
+  },
+  {
+    "id": "ep_078",
+    "question": "Which is NOT a benefit of an IDE?",
+    "options": [
+      "Code completion",
+      "Integrated debugging",
+      "Hardware acceleration",
+      "Syntax highlighting"
+    ],
+    "correctIndex": 2,
+    "topic": "IDE",
+    "difficulty": "medium",
+    "explanation": "Hardware acceleration is not an IDE feature."
+  },
+  {
+    "id": "ep_079",
+    "question": "Which tool helps detect errors before execution?",
+    "options": [
+      "Compiler",
+      "Debugger",
+      "Flowchart",
+      "Version control"
+    ],
+    "correctIndex": 0,
+    "topic": "Compilers",
+    "difficulty": "medium",
+    "explanation": "Compilers detect syntax errors before execution."
+  },
+  {
+    "id": "ep_080",
+    "question": "Which programming tool improves productivity the most by integrating multiple tools?",
+    "options": [
+      "Text editor",
+      "Compiler",
+      "IDE",
+      "Debugger"
+    ],
+    "correctIndex": 2,
+    "topic": "IDE",
+    "difficulty": "easy",
+    "explanation": "IDEs combine many tools into one environment."
+  },
+  
+  {
+    "id": "ep_081",
+    "question": "What is program documentation?",
+    "options": [
+      "Executable code",
+      "Written explanation of program design and usage",
+      "Compiler output",
+      "Debugging tool"
+    ],
+    "correctIndex": 1,
+    "topic": "Documentation",
+    "difficulty": "easy",
+    "explanation": "Documentation explains how a program works and how to use it."
+  },
+  {
+    "id": "ep_082",
+    "question": "Why is documentation important?",
+    "options": [
+      "It slows development",
+      "It helps others understand and maintain the program",
+      "It replaces testing",
+      "It removes errors automatically"
+    ],
+    "correctIndex": 1,
+    "topic": "Documentation",
+    "difficulty": "easy",
+    "explanation": "Documentation improves program understanding and maintenance."
+  },
+  {
+    "id": "ep_083",
+    "question": "Which of the following is an example of internal documentation?",
+    "options": [
+      "User manual",
+      "Code comments",
+      "System brochure",
+      "Release notes"
+    ],
+    "correctIndex": 1,
+    "topic": "Documentation",
+    "difficulty": "medium",
+    "explanation": "Code comments are internal documentation."
+  },
+  {
+    "id": "ep_084",
+    "question": "Which is an example of external documentation?",
+    "options": [
+      "Inline comments",
+      "User guide",
+      "Variable names",
+      "Indentation"
+    ],
+    "correctIndex": 1,
+    "topic": "Documentation",
+    "difficulty": "medium",
+    "explanation": "User guides are external documentation."
+  },
+  {
+    "id": "ep_085",
+    "question": "Which documentation helps end users?",
+    "options": [
+      "Technical documentation",
+      "User documentation",
+      "Code comments",
+      "Debug logs"
+    ],
+    "correctIndex": 1,
+    "topic": "Documentation",
+    "difficulty": "easy",
+    "explanation": "User documentation targets end users."
+  },
+
+  {
+    "id": "ep_086",
+    "question": "What is software maintenance?",
+    "options": [
+      "Writing new programs",
+      "Updating and improving existing software",
+      "Compiling programs",
+      "Designing algorithms"
+    ],
+    "correctIndex": 1,
+    "topic": "Software Maintenance",
+    "difficulty": "easy",
+    "explanation": "Maintenance involves updating and improving software."
+  },
+  {
+    "id": "ep_087",
+    "question": "Which maintenance fixes discovered errors?",
+    "options": [
+      "Corrective maintenance",
+      "Adaptive maintenance",
+      "Perfective maintenance",
+      "Preventive maintenance"
+    ],
+    "correctIndex": 0,
+    "topic": "Software Maintenance",
+    "difficulty": "medium",
+    "explanation": "Corrective maintenance fixes bugs."
+  },
+  {
+    "id": "ep_088",
+    "question": "Which maintenance adapts software to new environments?",
+    "options": [
+      "Corrective",
+      "Adaptive",
+      "Perfective",
+      "Preventive"
+    ],
+    "correctIndex": 1,
+    "topic": "Software Maintenance",
+    "difficulty": "medium",
+    "explanation": "Adaptive maintenance adjusts software to changes."
+  },
+  {
+    "id": "ep_089",
+    "question": "Which maintenance improves performance or usability?",
+    "options": [
+      "Corrective",
+      "Adaptive",
+      "Perfective",
+      "Emergency"
+    ],
+    "correctIndex": 2,
+    "topic": "Software Maintenance",
+    "difficulty": "medium",
+    "explanation": "Perfective maintenance improves features."
+  },
+  {
+    "id": "ep_090",
+    "question": "Why is software maintenance important?",
+    "options": [
+      "Software never changes",
+      "User needs evolve over time",
+      "Programs fix themselves",
+      "Hardware replaces software"
+    ],
+    "correctIndex": 1,
+    "topic": "Software Maintenance",
+    "difficulty": "easy",
+    "explanation": "Software must evolve with user needs."
+  },
+
+  {
+    "id": "ep_091",
+    "question": "What is software testing?",
+    "options": [
+      "Designing algorithms",
+      "Executing software to find defects",
+      "Writing documentation",
+      "Compiling programs"
+    ],
+    "correctIndex": 1,
+    "topic": "Testing",
+    "difficulty": "easy",
+    "explanation": "Testing identifies defects in software."
+  },
+  {
+    "id": "ep_092",
+    "question": "Which testing checks individual program units?",
+    "options": [
+      "System testing",
+      "Integration testing",
+      "Unit testing",
+      "Acceptance testing"
+    ],
+    "correctIndex": 2,
+    "topic": "Testing",
+    "difficulty": "medium",
+    "explanation": "Unit testing focuses on individual units."
+  },
+  {
+    "id": "ep_093",
+    "question": "Which testing checks how modules work together?",
+    "options": [
+      "Unit testing",
+      "Integration testing",
+      "System testing",
+      "Regression testing"
+    ],
+    "correctIndex": 1,
+    "topic": "Testing",
+    "difficulty": "medium",
+    "explanation": "Integration testing checks module interactions."
+  },
+  {
+    "id": "ep_094",
+    "question": "Which testing verifies the entire system?",
+    "options": [
+      "Unit testing",
+      "Integration testing",
+      "System testing",
+      "Beta testing"
+    ],
+    "correctIndex": 2,
+    "topic": "Testing",
+    "difficulty": "easy",
+    "explanation": "System testing validates the whole system."
+  },
+  {
+    "id": "ep_095",
+    "question": "Which testing is performed by end users?",
+    "options": [
+      "Unit testing",
+      "Integration testing",
+      "Acceptance testing",
+      "System testing"
+    ],
+    "correctIndex": 2,
+    "topic": "Testing",
+    "difficulty": "easy",
+    "explanation": "Acceptance testing is done by users."
+  },
+
+  {
+    "id": "ep_096",
+    "question": "What is a software bug?",
+    "options": [
+      "A hardware fault",
+      "An error in a program",
+      "A program feature",
+      "A testing tool"
+    ],
+    "correctIndex": 1,
+    "topic": "Errors",
+    "difficulty": "easy",
+    "explanation": "A bug is an error or defect in software."
+  },
+  {
+    "id": "ep_097",
+    "question": "Which phase focuses on identifying bugs?",
+    "options": [
+      "Design",
+      "Testing",
+      "Compilation",
+      "Documentation"
+    ],
+    "correctIndex": 1,
+    "topic": "Testing",
+    "difficulty": "easy",
+    "explanation": "Testing aims to identify bugs."
+  },
+  {
+    "id": "ep_098",
+    "question": "Which tool is commonly used to track bugs?",
+    "options": [
+      "Bug tracker",
+      "Compiler",
+      "Debugger",
+      "Text editor"
+    ],
+    "correctIndex": 0,
+    "topic": "Bug Tracking",
+    "difficulty": "medium",
+    "explanation": "Bug trackers manage reported issues."
+  },
+  {
+    "id": "ep_099",
+    "question": "Which tool helps manage large software projects?",
+    "options": [
+      "Project management software",
+      "Text editor",
+      "Compiler",
+      "Debugger"
+    ],
+    "correctIndex": 0,
+    "topic": "Project Management",
+    "difficulty": "easy",
+    "explanation": "Project management tools organize tasks and timelines."
+  },
+  {
+    "id": "ep_100",
+    "question": "Why is project planning important?",
+    "options": [
+      "It eliminates coding",
+      "It ensures timely and organized development",
+      "It removes testing",
+      "It replaces documentation"
+    ],
+    "correctIndex": 1,
+    "topic": "Project Management",
+    "difficulty": "easy",
+    "explanation": "Planning keeps development structured."
+  },
+
+  {
+    "id": "ep_101",
+    "question": "What is code refactoring?",
+    "options": [
+      "Adding new features",
+      "Improving code structure without changing behavior",
+      "Compiling code",
+      "Deleting code"
+    ],
+    "correctIndex": 1,
+    "topic": "Refactoring",
+    "difficulty": "medium",
+    "explanation": "Refactoring improves code quality without changing functionality."
+  },
+  {
+    "id": "ep_102",
+    "question": "Why is refactoring important?",
+    "options": [
+      "It introduces new bugs",
+      "It improves readability and maintainability",
+      "It removes documentation",
+      "It replaces testing"
+    ],
+    "correctIndex": 1,
+    "topic": "Refactoring",
+    "difficulty": "easy",
+    "explanation": "Refactoring improves maintainability."
+  },
+  {
+    "id": "ep_103",
+    "question": "Which tool supports refactoring?",
+    "options": [
+      "IDE",
+      "Printer",
+      "Monitor",
+      "Keyboard"
+    ],
+    "correctIndex": 0,
+    "topic": "Refactoring",
+    "difficulty": "easy",
+    "explanation": "Modern IDEs support refactoring."
+  },
+  {
+    "id": "ep_104",
+    "question": "What is continuous integration?",
+    "options": [
+      "Writing code continuously",
+      "Frequently merging code changes into a shared repository",
+      "Continuous debugging",
+      "End-user testing"
+    ],
+    "correctIndex": 1,
+    "topic": "CI/CD",
+    "difficulty": "hard",
+    "explanation": "CI involves frequent code integration."
+  },
+  {
+    "id": "ep_105",
+    "question": "Which tool is commonly used for continuous integration?",
+    "options": [
+      "Jenkins",
+      "Notepad",
+      "GDB",
+      "Flowgorithm"
+    ],
+    "correctIndex": 0,
+    "topic": "CI/CD",
+    "difficulty": "medium",
+    "explanation": "Jenkins is a CI tool."
+  },
+
+  {
+    "id": "ep_106",
+    "question": "What is continuous delivery?",
+    "options": [
+      "Manual deployment",
+      "Automatically preparing code for release",
+      "Writing algorithms",
+      "Debugging programs"
+    ],
+    "correctIndex": 1,
+    "topic": "CI/CD",
+    "difficulty": "hard",
+    "explanation": "Continuous delivery automates release preparation."
+  },
+  {
+    "id": "ep_107",
+    "question": "Which practice ensures software is always deployable?",
+    "options": [
+      "Continuous delivery",
+      "Manual testing",
+      "Algorithm design",
+      "Code commenting"
+    ],
+    "correctIndex": 0,
+    "topic": "CI/CD",
+    "difficulty": "hard",
+    "explanation": "Continuous delivery ensures deployable code."
+  },
+  {
+    "id": "ep_108",
+    "question": "What is deployment?",
+    "options": [
+      "Writing code",
+      "Making software available for use",
+      "Debugging",
+      "Compiling"
+    ],
+    "correctIndex": 1,
+    "topic": "Deployment",
+    "difficulty": "easy",
+    "explanation": "Deployment releases software to users."
+  },
+  {
+    "id": "ep_109",
+    "question": "Which environment is used for final release?",
+    "options": [
+      "Development",
+      "Testing",
+      "Production",
+      "Staging"
+    ],
+    "correctIndex": 2,
+    "topic": "Deployment",
+    "difficulty": "easy",
+    "explanation": "Production is the live environment."
+  },
+  {
+    "id": "ep_110",
+    "question": "Why is staging used?",
+    "options": [
+      "To write code",
+      "To test in a production-like environment",
+      "To debug algorithms",
+      "To compile programs"
+    ],
+    "correctIndex": 1,
+    "topic": "Deployment",
+    "difficulty": "medium",
+    "explanation": "Staging simulates production."
+  },
+
+  {
+    "id": "ep_111",
+    "question": "What is open-source software?",
+    "options": [
+      "Paid software",
+      "Software with publicly available source code",
+      "Hardware software",
+      "Closed systems"
+    ],
+    "correctIndex": 1,
+    "topic": "Open Source",
+    "difficulty": "easy",
+    "explanation": "Open-source software allows source code access."
+  },
+  {
+    "id": "ep_112",
+    "question": "Which is an advantage of open-source software?",
+    "options": [
+      "No maintenance required",
+      "Community collaboration",
+      "No documentation",
+      "Limited access"
+    ],
+    "correctIndex": 1,
+    "topic": "Open Source",
+    "difficulty": "easy",
+    "explanation": "Open-source benefits from community collaboration."
+  },
+  {
+    "id": "ep_113",
+    "question": "Which is a disadvantage of open-source software?",
+    "options": [
+      "High cost",
+      "Limited official support",
+      "No flexibility",
+      "No customization"
+    ],
+    "correctIndex": 1,
+    "topic": "Open Source",
+    "difficulty": "medium",
+    "explanation": "Some open-source tools lack official support."
+  },
+  {
+    "id": "ep_114",
+    "question": "What is proprietary software?",
+    "options": [
+      "Free software",
+      "Software owned and controlled by an individual or company",
+      "Open-source software",
+      "Public domain software"
+    ],
+    "correctIndex": 1,
+    "topic": "Software Types",
+    "difficulty": "easy",
+    "explanation": "Proprietary software is privately owned."
+  },
+  {
+    "id": "ep_115",
+    "question": "Which is an example of proprietary software?",
+    "options": [
+      "Linux",
+      "Windows",
+      "Apache",
+      "MySQL"
+    ],
+    "correctIndex": 1,
+    "topic": "Software Types",
+    "difficulty": "easy",
+    "explanation": "Windows is proprietary software."
+  },
+
+  {
+    "id": "ep_116",
+    "question": "What is software licensing?",
+    "options": [
+      "Selling hardware",
+      "Legal permission to use software",
+      "Writing code",
+      "Debugging programs"
+    ],
+    "correctIndex": 1,
+    "topic": "Licensing",
+    "difficulty": "easy",
+    "explanation": "Licenses define how software can be used."
+  },
+  {
+    "id": "ep_117",
+    "question": "Which license allows free use and modification?",
+    "options": [
+      "Open-source license",
+      "Proprietary license",
+      "Commercial license",
+      "Trial license"
+    ],
+    "correctIndex": 0,
+    "topic": "Licensing",
+    "difficulty": "medium",
+    "explanation": "Open-source licenses allow modification."
+  },
+  {
+    "id": "ep_118",
+    "question": "What is freeware?",
+    "options": [
+      "Paid software",
+      "Free software with restricted rights",
+      "Open-source software",
+      "Hardware software"
+    ],
+    "correctIndex": 1,
+    "topic": "Software Types",
+    "difficulty": "medium",
+    "explanation": "Freeware is free but usually not modifiable."
+  },
+  {
+    "id": "ep_119",
+    "question": "What is shareware?",
+    "options": [
+      "Software shared freely forever",
+      "Software provided for trial before purchase",
+      "Open-source software",
+      "Hardware driver"
+    ],
+    "correctIndex": 1,
+    "topic": "Software Types",
+    "difficulty": "medium",
+    "explanation": "Shareware is trial-based software."
+  },
+  {
+    "id": "ep_120",
+    "question": "Why are licenses important?",
+    "options": [
+      "They increase bugs",
+      "They define legal use of software",
+      "They replace documentation",
+      "They remove maintenance"
+    ],
+    "correctIndex": 1,
+    "topic": "Licensing",
+    "difficulty": "easy",
+    "explanation": "Licenses control legal usage."
+  },
+
+  {
+    "id": "ep_121",
+    "question": "What is cloud-based development?",
+    "options": [
+      "Developing software without tools",
+      "Using online platforms for development",
+      "Offline programming",
+      "Hardware programming"
+    ],
+    "correctIndex": 1,
+    "topic": "Cloud Development",
+    "difficulty": "medium",
+    "explanation": "Cloud development uses online platforms."
+  },
+  {
+    "id": "ep_122",
+    "question": "Which is an advantage of cloud-based tools?",
+    "options": [
+      "No internet required",
+      "Easy collaboration",
+      "Slower performance",
+      "Limited access"
+    ],
+    "correctIndex": 1,
+    "topic": "Cloud Development",
+    "difficulty": "easy",
+    "explanation": "Cloud tools support collaboration."
+  },
+  {
+    "id": "ep_123",
+    "question": "Which is an example of a cloud-based IDE?",
+    "options": [
+      "Replit",
+      "GCC",
+      "Notepad",
+      "GDB"
+    ],
+    "correctIndex": 0,
+    "topic": "Cloud Development",
+    "difficulty": "easy",
+    "explanation": "Replit is a cloud-based IDE."
+  },
+  {
+    "id": "ep_124",
+    "question": "What is automation in software development?",
+    "options": [
+      "Manual coding",
+      "Using tools to perform repetitive tasks",
+      "Debugging manually",
+      "Writing documentation"
+    ],
+    "correctIndex": 1,
+    "topic": "Automation",
+    "difficulty": "medium",
+    "explanation": "Automation reduces manual repetitive work."
+  },
+  {
+    "id": "ep_125",
+    "question": "Which task can be automated?",
+    "options": [
+      "Compilation and testing",
+      "Problem definition",
+      "Creativity",
+      "Requirement analysis"
+    ],
+    "correctIndex": 0,
+    "topic": "Automation",
+    "difficulty": "medium",
+    "explanation": "Compilation and testing are commonly automated."
+  },
+
+  {
+    "id": "ep_126",
+    "question": "Why is automation beneficial?",
+    "options": [
+      "It increases errors",
+      "It saves time and reduces mistakes",
+      "It removes programmers",
+      "It replaces design"
+    ],
+    "correctIndex": 1,
+    "topic": "Automation",
+    "difficulty": "easy",
+    "explanation": "Automation improves efficiency."
+  },
+  {
+    "id": "ep_127",
+    "question": "Which tool helps automate builds?",
+    "options": [
+      "Build tool",
+      "Text editor",
+      "Debugger",
+      "Flowchart"
+    ],
+    "correctIndex": 0,
+    "topic": "Automation",
+    "difficulty": "medium",
+    "explanation": "Build tools automate builds."
+  },
+  {
+    "id": "ep_128",
+    "question": "What is DevOps?",
+    "options": [
+      "A programming language",
+      "A practice combining development and operations",
+      "A debugging tool",
+      "A testing framework"
+    ],
+    "correctIndex": 1,
+    "topic": "DevOps",
+    "difficulty": "hard",
+    "explanation": "DevOps integrates development and operations."
+  },
+  {
+    "id": "ep_129",
+    "question": "Which is a key goal of DevOps?",
+    "options": [
+      "Slower releases",
+      "Faster and reliable software delivery",
+      "Manual deployment",
+      "No testing"
+    ],
+    "correctIndex": 1,
+    "topic": "DevOps",
+    "difficulty": "hard",
+    "explanation": "DevOps aims for fast and reliable delivery."
+  },
+  {
+    "id": "ep_130",
+    "question": "Which practice best summarizes modern programming tools and techniques?",
+    "options": [
+      "Manual coding only",
+      "Integrated, automated, and collaborative development",
+      "Single-developer workflow",
+      "No testing approach"
+    ],
+    "correctIndex": 1,
+    "topic": "Summary",
+    "difficulty": "easy",
+    "explanation": "Modern development relies on integration, automation, and collaboration."
+  }
+
+
+
+
+  ]
+}

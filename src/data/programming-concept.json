@@ -1,0 +1,1487 @@
+{
+  "courseId": "programming-concepts",
+  "title": "Programming Concepts",
+  "icon": "🌳",
+  "questions": [        
+  {
+    "id": "pc_001",
+    "question": "What is a computer?",
+    "options": [
+      "A machine that stores data permanently",
+      "A programmable machine designed to follow instructions",
+      "A device used only for calculations",
+      "A tool for writing programs"
+    ],
+    "correctIndex": 1,
+    "topic": "Computer Basics",
+    "difficulty": "easy",
+    "explanation": "A computer is a programmable machine designed to follow instructions and perform tasks."
+  },
+  {
+    "id": "pc_002",
+    "question": "What best defines a computer program?",
+    "options": [
+      "A hardware component",
+      "A computer virus",
+      "A set of instructions written in a computer language",
+      "An operating system"
+    ],
+    "correctIndex": 2,
+    "topic": "Programming Concepts",
+    "difficulty": "easy",
+    "explanation": "A computer program is a set of instructions written in a computer language to perform a task."
+  },
+  {
+    "id": "pc_003",
+    "question": "Who is a programmer?",
+    "options": [
+      "A person who repairs computers",
+      "A person who designs hardware",
+      "A person who writes programs to make computers perform tasks",
+      "A person who uses applications"
+    ],
+    "correctIndex": 2,
+    "topic": "Programming Concepts",
+    "difficulty": "easy",
+    "explanation": "A programmer writes instructions or programs that tell a computer what to do."
+  },
+  {
+    "id": "pc_004",
+    "question": "Which of the following is NOT a responsibility of a computer program?",
+    "options": [
+      "Displaying output",
+      "Storing user input",
+      "Executing instructions",
+      "Physically assembling hardware components"
+    ],
+    "correctIndex": 3,
+    "topic": "Computer Programs",
+    "difficulty": "easy",
+    "explanation": "Computer programs control software behavior, not physical hardware assembly."
+  },
+  {
+    "id": "pc_005",
+    "question": "Why are computer programs important?",
+    "options": [
+      "They allow computers to function without electricity",
+      "They instruct computers on how to perform tasks",
+      "They replace computer hardware",
+      "They are only used for entertainment"
+    ],
+    "correctIndex": 1,
+    "topic": "Computer Programs",
+    "difficulty": "easy",
+    "explanation": "Without programs, computers cannot perform meaningful tasks."
+  },
+  {
+    "id": "pc_006",
+    "question": "Which application area uses accounting software?",
+    "options": [
+      "Education",
+      "Entertainment",
+      "Business",
+      "Healthcare"
+    ],
+    "correctIndex": 2,
+    "topic": "Applications of Programs",
+    "difficulty": "easy",
+    "explanation": "Accounting software is a business application."
+  },
+  {
+    "id": "pc_007",
+    "question": "Learning management systems are examples of which type of application?",
+    "options": [
+      "Business",
+      "Education",
+      "Entertainment",
+      "Finance"
+    ],
+    "correctIndex": 1,
+    "topic": "Applications of Programs",
+    "difficulty": "easy",
+    "explanation": "Learning management systems are educational applications."
+  },
+  {
+    "id": "pc_008",
+    "question": "SPSS is commonly used in which field?",
+    "options": [
+      "Entertainment",
+      "Finance",
+      "Science and research",
+      "Gaming"
+    ],
+    "correctIndex": 2,
+    "topic": "Applications of Programs",
+    "difficulty": "easy",
+    "explanation": "SPSS is a data analysis tool used in science and research."
+  },
+  {
+    "id": "pc_009",
+    "question": "Which of the following is a productivity tool?",
+    "options": [
+      "Python",
+      "Word",
+      "Assembler",
+      "Machine language"
+    ],
+    "correctIndex": 1,
+    "topic": "Applications of Programs",
+    "difficulty": "easy",
+    "explanation": "Word is a productivity tool used for document creation."
+  },
+  {
+    "id": "pc_010",
+    "question": "What is a programming language?",
+    "options": [
+      "A hardware component",
+      "A natural human language",
+      "A formal language used to write computer programs",
+      "A type of operating system"
+    ],
+    "correctIndex": 2,
+    "topic": "Programming Languages",
+    "difficulty": "easy",
+    "explanation": "Programming languages provide syntax and semantics for writing instructions computers can execute."
+  },
+
+  {
+    "id": "pc_011",
+    "question": "Which category do programming languages broadly fall into?",
+    "options": [
+      "Object-oriented and procedural",
+      "Low-level and high-level",
+      "Compiled and interpreted",
+      "Open-source and proprietary"
+    ],
+    "correctIndex": 1,
+    "topic": "Programming Languages",
+    "difficulty": "easy",
+    "explanation": "Programming languages are broadly classified into low-level and high-level languages."
+  },
+  {
+    "id": "pc_012",
+    "question": "Low-level languages are closer to which of the following?",
+    "options": [
+      "Human language",
+      "English grammar",
+      "Computer hardware",
+      "Mathematical formulas"
+    ],
+    "correctIndex": 2,
+    "topic": "Low-Level Languages",
+    "difficulty": "easy",
+    "explanation": "Low-level languages are closer to computer hardware and machine operations."
+  },
+  {
+    "id": "pc_013",
+    "question": "Which of the following is NOT a low-level language?",
+    "options": [
+      "Machine language",
+      "Assembly language",
+      "Python",
+      "Binary code"
+    ],
+    "correctIndex": 2,
+    "topic": "Low-Level Languages",
+    "difficulty": "easy",
+    "explanation": "Python is a high-level programming language."
+  },
+  {
+    "id": "pc_014",
+    "question": "Machine language is composed of:",
+    "options": [
+      "English words",
+      "Symbols and mnemonics",
+      "Binary digits",
+      "Mathematical expressions"
+    ],
+    "correctIndex": 2,
+    "topic": "Machine Language",
+    "difficulty": "easy",
+    "explanation": "Machine language consists of binary digits (0s and 1s)."
+  },
+  {
+    "id": "pc_015",
+    "question": "Why is machine language difficult for humans to use?",
+    "options": [
+      "It requires expensive software",
+      "It is written entirely in numbers",
+      "It is not supported by computers",
+      "It cannot perform calculations"
+    ],
+    "correctIndex": 1,
+    "topic": "Machine Language",
+    "difficulty": "easy",
+    "explanation": "Machine language is difficult for humans because it consists entirely of binary numbers."
+  },
+
+  {
+    "id": "pc_031",
+    "question": "Which of the following best explains the purpose of a computer program?",
+    "options": [
+      "To store hardware components",
+      "To instruct the computer on what actions to perform",
+      "To power the computer",
+      "To replace the operating system"
+    ],
+    "correctIndex": 1,
+    "topic": "Computer Programs",
+    "difficulty": "easy",
+    "explanation": "A computer program provides instructions that guide the computer in performing specific tasks."
+  },
+  {
+    "id": "pc_032",
+    "question": "What happens after a user enters data into a computer program?",
+    "options": [
+      "The data is discarded",
+      "The data is immediately printed",
+      "The data is stored in memory",
+      "The data is sent to the hardware manufacturer"
+    ],
+    "correctIndex": 2,
+    "topic": "Computer Programs",
+    "difficulty": "easy",
+    "explanation": "User input is stored in memory for processing by the program."
+  },
+  {
+    "id": "pc_033",
+    "question": "Which step usually comes first in a computer program?",
+    "options": [
+      "Processing data",
+      "Displaying results",
+      "Receiving user input",
+      "Saving files permanently"
+    ],
+    "correctIndex": 2,
+    "topic": "Computer Programs",
+    "difficulty": "easy",
+    "explanation": "Most programs begin by receiving input before processing and output."
+  },
+  {
+    "id": "pc_034",
+    "question": "Which application area includes online banking systems?",
+    "options": [
+      "Education",
+      "Healthcare",
+      "Finance",
+      "Entertainment"
+    ],
+    "correctIndex": 2,
+    "topic": "Applications of Programs",
+    "difficulty": "easy",
+    "explanation": "Online banking systems fall under finance applications."
+  },
+  {
+    "id": "pc_035",
+    "question": "Video games are examples of which application type?",
+    "options": [
+      "Business",
+      "Entertainment",
+      "Education",
+      "Science"
+    ],
+    "correctIndex": 1,
+    "topic": "Applications of Programs",
+    "difficulty": "easy",
+    "explanation": "Video games are entertainment applications."
+  },
+  {
+    "id": "pc_036",
+    "question": "Which programming language category is closer to human language?",
+    "options": [
+      "Machine language",
+      "Assembly language",
+      "High-level language",
+      "Binary language"
+    ],
+    "correctIndex": 2,
+    "topic": "Programming Languages",
+    "difficulty": "easy",
+    "explanation": "High-level languages are designed to be human-readable."
+  },
+  {
+    "id": "pc_037",
+    "question": "Which of the following is a high-level programming language?",
+    "options": [
+      "Assembly",
+      "Machine language",
+      "Python",
+      "Binary code"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "easy",
+    "explanation": "Python is a high-level programming language."
+  },
+  {
+    "id": "pc_038",
+    "question": "Which feature makes high-level languages easier to learn?",
+    "options": [
+      "Binary syntax",
+      "Hardware dependence",
+      "English-like instructions",
+      "Lack of translators"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "easy",
+    "explanation": "High-level languages resemble everyday English."
+  },
+  {
+    "id": "pc_039",
+    "question": "Low-level languages are difficult to use because they are:",
+    "options": [
+      "Very slow",
+      "Machine-dependent",
+      "Too abstract",
+      "Graphical"
+    ],
+    "correctIndex": 1,
+    "topic": "Low-Level Languages",
+    "difficulty": "easy",
+    "explanation": "Low-level languages depend on specific machine architectures."
+  },
+  {
+    "id": "pc_040",
+    "question": "Which language is understood directly by the computer?",
+    "options": [
+      "Python",
+      "Assembly",
+      "Machine language",
+      "Java"
+    ],
+    "correctIndex": 2,
+    "topic": "Machine Language",
+    "difficulty": "easy",
+    "explanation": "Machine language is the only language directly understood by computers."
+  },
+
+  {
+    "id": "pc_041",
+    "question": "Why is machine language called machine-dependent?",
+    "options": [
+      "It is hard to write",
+      "It varies between different computers",
+      "It uses English words",
+      "It is slower than other languages"
+    ],
+    "correctIndex": 1,
+    "topic": "Machine Language",
+    "difficulty": "medium",
+    "explanation": "Machine language instructions differ between computer architectures."
+  },
+  {
+    "id": "pc_042",
+    "question": "What does assembly language use instead of binary digits?",
+    "options": [
+      "Mathematical formulas",
+      "English sentences",
+      "Mnemonics",
+      "Flowcharts"
+    ],
+    "correctIndex": 2,
+    "topic": "Assembly Language",
+    "difficulty": "easy",
+    "explanation": "Assembly language uses mnemonic codes to represent instructions."
+  },
+  {
+    "id": "pc_043",
+    "question": "Assembly language is often described as:",
+    "options": [
+      "High-level",
+      "Middle-level",
+      "Machine-independent",
+      "Graphical"
+    ],
+    "correctIndex": 1,
+    "topic": "Assembly Language",
+    "difficulty": "easy",
+    "explanation": "Assembly language bridges the gap between machine language and high-level languages."
+  },
+  {
+    "id": "pc_044",
+    "question": "Which of the following correctly shows an assembly instruction?",
+    "options": [
+      "100100 010001",
+      "LOAD rate",
+      "wages = rate * hours",
+      "print(rate)"
+    ],
+    "correctIndex": 1,
+    "topic": "Assembly Language",
+    "difficulty": "easy",
+    "explanation": "Assembly language uses mnemonic instructions like LOAD."
+  },
+  {
+    "id": "pc_045",
+    "question": "Which language requires a translator to convert mnemonics to machine code?",
+    "options": [
+      "High-level language",
+      "Assembly language",
+      "Binary language",
+      "Natural language"
+    ],
+    "correctIndex": 1,
+    "topic": "Assembly Language",
+    "difficulty": "medium",
+    "explanation": "Assembly language must be translated into machine language."
+  },
+  {
+    "id": "pc_046",
+    "question": "Which programming language level is easiest for beginners?",
+    "options": [
+      "Machine language",
+      "Assembly language",
+      "High-level language",
+      "Binary language"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "easy",
+    "explanation": "High-level languages are designed to be beginner-friendly."
+  },
+  {
+    "id": "pc_047",
+    "question": "Which of the following is NOT an example of a high-level language?",
+    "options": [
+      "Java",
+      "C++",
+      "Assembly",
+      "Python"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "easy",
+    "explanation": "Assembly language is low-level."
+  },
+  {
+    "id": "pc_048",
+    "question": "Which high-level language is commonly used for web development?",
+    "options": [
+      "Machine language",
+      "JavaScript",
+      "Assembly",
+      "Binary"
+    ],
+    "correctIndex": 1,
+    "topic": "High-Level Languages",
+    "difficulty": "easy",
+    "explanation": "JavaScript is widely used in web development."
+  },
+  {
+    "id": "pc_049",
+    "question": "What is the main purpose of a translator?",
+    "options": [
+      "To write programs",
+      "To execute hardware instructions",
+      "To convert source code into machine language",
+      "To debug software automatically"
+    ],
+    "correctIndex": 2,
+    "topic": "Translators",
+    "difficulty": "easy",
+    "explanation": "Translators convert source code into machine-readable form."
+  },
+  {
+    "id": "pc_050",
+    "question": "Which of the following is a type of translator?",
+    "options": [
+      "Debugger",
+      "Assembler",
+      "Editor",
+      "Browser"
+    ],
+    "correctIndex": 1,
+    "topic": "Translators",
+    "difficulty": "easy",
+    "explanation": "An assembler is a type of translator."
+  },
+
+  {
+    "id": "pc_051",
+    "question": "Which translator converts assembly language to machine language?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "Linker"
+    ],
+    "correctIndex": 2,
+    "topic": "Assembler",
+    "difficulty": "easy",
+    "explanation": "An assembler translates assembly language into machine language."
+  },
+  {
+    "id": "pc_052",
+    "question": "Which translator converts the entire high-level program before execution?",
+    "options": [
+      "Assembler",
+      "Interpreter",
+      "Compiler",
+      "Debugger"
+    ],
+    "correctIndex": 2,
+    "topic": "Compiler",
+    "difficulty": "easy",
+    "explanation": "A compiler translates the entire program before execution."
+  },
+  {
+    "id": "pc_053",
+    "question": "Which translator executes code line by line?",
+    "options": [
+      "Compiler",
+      "Assembler",
+      "Interpreter",
+      "Linker"
+    ],
+    "correctIndex": 2,
+    "topic": "Interpreter",
+    "difficulty": "easy",
+    "explanation": "Interpreters execute code line by line."
+  },
+  {
+    "id": "pc_054",
+    "question": "Which translator allows immediate execution of code?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "Loader"
+    ],
+    "correctIndex": 1,
+    "topic": "Interpreter",
+    "difficulty": "medium",
+    "explanation": "Interpreters execute instructions immediately after reading them."
+  },
+  {
+    "id": "pc_055",
+    "question": "Which translator may make debugging more difficult?",
+    "options": [
+      "Interpreter",
+      "Assembler",
+      "Compiler",
+      "Editor"
+    ],
+    "correctIndex": 2,
+    "topic": "Compiler",
+    "difficulty": "medium",
+    "explanation": "Compilers report errors after compilation, making debugging harder."
+  },
+  {
+    "id": "pc_056",
+    "question": "Which translator is commonly used for Python?",
+    "options": [
+      "Assembler",
+      "Compiler",
+      "Interpreter",
+      "Linker"
+    ],
+    "correctIndex": 2,
+    "topic": "Interpreter",
+    "difficulty": "easy",
+    "explanation": "Python is commonly executed using an interpreter."
+  },
+  {
+    "id": "pc_057",
+    "question": "GCC is an example of which translator?",
+    "options": [
+      "Assembler",
+      "Interpreter",
+      "Compiler",
+      "Debugger"
+    ],
+    "correctIndex": 2,
+    "topic": "Compiler",
+    "difficulty": "easy",
+    "explanation": "GCC is a compiler for C and C++."
+  },
+  {
+    "id": "pc_058",
+    "question": "Which translator is fastest during execution time?",
+    "options": [
+      "Interpreter",
+      "Compiler",
+      "Assembler",
+      "Editor"
+    ],
+    "correctIndex": 1,
+    "topic": "Compiler",
+    "difficulty": "medium",
+    "explanation": "Compiled programs run faster because they are already in machine code."
+  },
+  {
+    "id": "pc_059",
+    "question": "Which translator checks errors as the program runs?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "Loader"
+    ],
+    "correctIndex": 1,
+    "topic": "Interpreter",
+    "difficulty": "medium",
+    "explanation": "Interpreters detect errors line by line during execution."
+  },
+  {
+    "id": "pc_060",
+    "question": "Which translator is best suited for learning programming concepts?",
+    "options": [
+      "Assembler",
+      "Compiler",
+      "Interpreter",
+      "Machine language"
+    ],
+    "correctIndex": 2,
+    "topic": "Interpreter",
+    "difficulty": "medium",
+    "explanation": "Interpreters provide immediate feedback, aiding learning."
+  },
+
+  {
+    "id": "pc_061",
+    "question": "Which statement best differentiates low-level and high-level languages?",
+    "options": [
+      "Low-level languages are machine-readable, high-level are human-readable",
+      "Low-level languages are slower",
+      "High-level languages cannot be translated",
+      "Low-level languages use English"
+    ],
+    "correctIndex": 0,
+    "topic": "Language Comparison",
+    "difficulty": "medium",
+    "explanation": "Low-level languages are closer to machine code, while high-level languages are human-friendly."
+  },
+  {
+    "id": "pc_062",
+    "question": "Which language type is most portable across different systems?",
+    "options": [
+      "Machine language",
+      "Assembly language",
+      "High-level language",
+      "Binary language"
+    ],
+    "correctIndex": 2,
+    "topic": "Language Comparison",
+    "difficulty": "medium",
+    "explanation": "High-level languages are generally machine-independent."
+  },
+  {
+    "id": "pc_063",
+    "question": "Which factor increases programmer productivity?",
+    "options": [
+      "Writing in binary",
+      "Using machine language",
+      "Using high-level languages",
+      "Avoiding translators"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "medium",
+    "explanation": "High-level languages simplify coding and increase productivity."
+  },
+  {
+    "id": "pc_064",
+    "question": "Which language is hardest to debug manually?",
+    "options": [
+      "Python",
+      "Java",
+      "Assembly",
+      "Machine language"
+    ],
+    "correctIndex": 3,
+    "topic": "Machine Language",
+    "difficulty": "hard",
+    "explanation": "Machine language is extremely difficult to debug due to binary representation."
+  },
+  {
+    "id": "pc_065",
+    "question": "Which programming language level requires the most hardware knowledge?",
+    "options": [
+      "High-level",
+      "Assembly",
+      "Machine",
+      "Scripting"
+    ],
+    "correctIndex": 2,
+    "topic": "Machine Language",
+    "difficulty": "hard",
+    "explanation": "Machine language requires deep understanding of hardware architecture."
+  },
+  {
+    "id": "pc_066",
+    "question": "Why are translators essential in programming?",
+    "options": [
+      "Computers understand English",
+      "Programs must be converted to machine language",
+      "They store programs permanently",
+      "They design user interfaces"
+    ],
+    "correctIndex": 1,
+    "topic": "Translators",
+    "difficulty": "medium",
+    "explanation": "Translators convert human-written code into machine-readable instructions."
+  },
+  {
+    "id": "pc_067",
+    "question": "Which language type is closest to hardware execution?",
+    "options": [
+      "High-level",
+      "Assembly",
+      "Machine",
+      "Scripting"
+    ],
+    "correctIndex": 2,
+    "topic": "Machine Language",
+    "difficulty": "medium",
+    "explanation": "Machine language executes directly on hardware."
+  },
+  {
+    "id": "pc_068",
+    "question": "Which translator bridges human-readable code and machine execution?",
+    "options": [
+      "Editor",
+      "Compiler",
+      "Translator",
+      "Operating system"
+    ],
+    "correctIndex": 2,
+    "topic": "Translators",
+    "difficulty": "medium",
+    "explanation": "Translators convert human-readable code into machine language."
+  },
+  {
+    "id": "pc_069",
+    "question": "Which is an advantage of interpreters?",
+    "options": [
+      "Faster execution speed",
+      "Immediate feedback",
+      "Machine independence",
+      "Binary output"
+    ],
+    "correctIndex": 1,
+    "topic": "Interpreter",
+    "difficulty": "medium",
+    "explanation": "Interpreters provide immediate execution and feedback."
+  },
+  {
+    "id": "pc_070",
+    "question": "Which is an advantage of compilers?",
+    "options": [
+      "Immediate error detection",
+      "Line-by-line execution",
+      "Faster runtime performance",
+      "No translation required"
+    ],
+    "correctIndex": 2,
+    "topic": "Compiler",
+    "difficulty": "medium",
+    "explanation": "Compiled programs run faster because translation happens beforehand."
+  },
+
+  {
+    "id": "pc_071",
+    "question": "Which scenario best fits the use of a compiler?",
+    "options": [
+      "Learning basic syntax",
+      "Large performance-critical applications",
+      "Quick scripting tasks",
+      "Debugging logic"
+    ],
+    "correctIndex": 1,
+    "topic": "Compiler",
+    "difficulty": "hard",
+    "explanation": "Compilers are ideal for large applications where performance matters."
+  },
+  {
+    "id": "pc_072",
+    "question": "Which scenario best fits the use of an interpreter?",
+    "options": [
+      "System-level programming",
+      "High-speed applications",
+      "Learning and experimentation",
+      "Hardware drivers"
+    ],
+    "correctIndex": 2,
+    "topic": "Interpreter",
+    "difficulty": "hard",
+    "explanation": "Interpreters are suitable for learning due to immediate feedback."
+  },
+  {
+    "id": "pc_073",
+    "question": "Which programming language is commonly interpreted?",
+    "options": [
+      "C",
+      "C++",
+      "Python",
+      "Assembly"
+    ],
+    "correctIndex": 2,
+    "topic": "Interpreter",
+    "difficulty": "easy",
+    "explanation": "Python is commonly executed by an interpreter."
+  },
+  {
+    "id": "pc_074",
+    "question": "Which translator is required for assembly language?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "Debugger"
+    ],
+    "correctIndex": 2,
+    "topic": "Assembler",
+    "difficulty": "easy",
+    "explanation": "Assembly language requires an assembler."
+  },
+  {
+    "id": "pc_075",
+    "question": "Which language is most human-readable?",
+    "options": [
+      "Machine",
+      "Assembly",
+      "High-level",
+      "Binary"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "easy",
+    "explanation": "High-level languages are closest to human language."
+  },
+  {
+    "id": "pc_076",
+    "question": "Which component executes translated machine code?",
+    "options": [
+      "Compiler",
+      "CPU",
+      "Assembler",
+      "Interpreter"
+    ],
+    "correctIndex": 1,
+    "topic": "Computer Basics",
+    "difficulty": "medium",
+    "explanation": "The CPU executes machine code."
+  },
+  {
+    "id": "pc_077",
+    "question": "Which of the following best summarizes a translator?",
+    "options": [
+      "A hardware device",
+      "A person who codes",
+      "A software that converts code",
+      "An output device"
+    ],
+    "correctIndex": 2,
+    "topic": "Translators",
+    "difficulty": "easy",
+    "explanation": "A translator is software that converts source code into machine language."
+  },
+  {
+    "id": "pc_078",
+    "question": "Which programming language is closest to binary representation?",
+    "options": [
+      "Java",
+      "Python",
+      "Assembly",
+      "Machine language"
+    ],
+    "correctIndex": 3,
+    "topic": "Machine Language",
+    "difficulty": "medium",
+    "explanation": "Machine language is purely binary."
+  },
+  {
+    "id": "pc_079",
+    "question": "Which is a disadvantage of low-level languages?",
+    "options": [
+      "High performance",
+      "Portability issues",
+      "Direct hardware control",
+      "Efficient execution"
+    ],
+    "correctIndex": 1,
+    "topic": "Low-Level Languages",
+    "difficulty": "medium",
+    "explanation": "Low-level languages are not portable across systems."
+  },
+  {
+    "id": "pc_080",
+    "question": "Which is a benefit of high-level languages?",
+    "options": [
+      "Machine dependence",
+      "Complex syntax",
+      "Ease of maintenance",
+      "Binary execution"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "medium",
+    "explanation": "High-level languages are easier to maintain."
+  },
+
+  {
+    "id": "pc_081",
+    "question": "Which translator executes code immediately?",
+    "options": [
+      "Compiler",
+      "Assembler",
+      "Interpreter",
+      "Linker"
+    ],
+    "correctIndex": 2,
+    "topic": "Interpreter",
+    "difficulty": "easy",
+    "explanation": "Interpreters execute code immediately."
+  },
+  {
+    "id": "pc_082",
+    "question": "Which translator produces an executable file?",
+    "options": [
+      "Interpreter",
+      "Compiler",
+      "Editor",
+      "Debugger"
+    ],
+    "correctIndex": 1,
+    "topic": "Compiler",
+    "difficulty": "medium",
+    "explanation": "Compilers generate executable machine code."
+  },
+  {
+    "id": "pc_083",
+    "question": "Which language is best for system programming?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "C",
+      "HTML"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "hard",
+    "explanation": "C is commonly used for system-level programming."
+  },
+  {
+    "id": "pc_084",
+    "question": "Which language requires minimal translation effort?",
+    "options": [
+      "High-level",
+      "Assembly",
+      "Machine",
+      "Scripting"
+    ],
+    "correctIndex": 2,
+    "topic": "Machine Language",
+    "difficulty": "hard",
+    "explanation": "Machine language runs directly on hardware."
+  },
+  {
+    "id": "pc_085",
+    "question": "Which is the primary role of an assembler?",
+    "options": [
+      "Execute programs",
+      "Translate high-level code",
+      "Convert assembly to machine language",
+      "Debug programs"
+    ],
+    "correctIndex": 2,
+    "topic": "Assembler",
+    "difficulty": "easy",
+    "explanation": "Assemblers translate assembly language into machine language."
+  },
+  {
+    "id": "pc_086",
+    "question": "Which language level hides hardware complexity?",
+    "options": [
+      "Machine",
+      "Assembly",
+      "High-level",
+      "Binary"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "medium",
+    "explanation": "High-level languages abstract hardware details."
+  },
+  {
+    "id": "pc_087",
+    "question": "Which translator is slower at runtime?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "CPU"
+    ],
+    "correctIndex": 1,
+    "topic": "Interpreter",
+    "difficulty": "medium",
+    "explanation": "Interpreters translate during execution, slowing runtime."
+  },
+  {
+    "id": "pc_088",
+    "question": "Which concept explains the execution of programs?",
+    "options": [
+      "Compilation",
+      "Translation",
+      "Instruction processing",
+      "Hardware storage"
+    ],
+    "correctIndex": 2,
+    "topic": "Computer Programs",
+    "difficulty": "medium",
+    "explanation": "Programs execute by processing instructions."
+  },
+  {
+    "id": "pc_089",
+    "question": "Which of the following best describes programming?",
+    "options": [
+      "Designing hardware",
+      "Writing instructions for computers",
+      "Repairing computers",
+      "Installing software"
+    ],
+    "correctIndex": 1,
+    "topic": "Programming Concepts",
+    "difficulty": "easy",
+    "explanation": "Programming involves writing instructions for computers."
+  },
+  {
+    "id": "pc_090",
+    "question": "Which is a key benefit of translators?",
+    "options": [
+      "Eliminating errors",
+      "Allowing human-readable code",
+      "Removing hardware",
+      "Preventing execution"
+    ],
+    "correctIndex": 1,
+    "topic": "Translators",
+    "difficulty": "medium",
+    "explanation": "Translators allow programmers to write human-readable code."
+  },
+
+  {
+    "id": "pc_091",
+    "question": "Which language is most efficient for hardware-level control?",
+    "options": [
+      "Python",
+      "Java",
+      "Assembly",
+      "HTML"
+    ],
+    "correctIndex": 2,
+    "topic": "Assembly Language",
+    "difficulty": "hard",
+    "explanation": "Assembly allows fine-grained hardware control."
+  },
+  {
+    "id": "pc_092",
+    "question": "Which translator is essential for assembly programs?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "Debugger"
+    ],
+    "correctIndex": 2,
+    "topic": "Assembler",
+    "difficulty": "easy",
+    "explanation": "Assembly programs require an assembler."
+  },
+  {
+    "id": "pc_093",
+    "question": "Which programming language is machine-independent?",
+    "options": [
+      "Machine",
+      "Assembly",
+      "High-level",
+      "Binary"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "medium",
+    "explanation": "High-level languages are generally machine-independent."
+  },
+  {
+    "id": "pc_094",
+    "question": "Which feature distinguishes high-level languages?",
+    "options": [
+      "Binary format",
+      "Human readability",
+      "Hardware dependence",
+      "Complex memory management"
+    ],
+    "correctIndex": 1,
+    "topic": "High-Level Languages",
+    "difficulty": "easy",
+    "explanation": "High-level languages are designed for human readability."
+  },
+  {
+    "id": "pc_095",
+    "question": "Which translator runs faster after translation?",
+    "options": [
+      "Interpreter",
+      "Compiler",
+      "Assembler",
+      "Editor"
+    ],
+    "correctIndex": 1,
+    "topic": "Compiler",
+    "difficulty": "medium",
+    "explanation": "Compiled programs execute faster at runtime."
+  },
+  {
+    "id": "pc_096",
+    "question": "Which is a disadvantage of compilers?",
+    "options": [
+      "Slow execution",
+      "Delayed error detection",
+      "Machine dependence",
+      "Immediate feedback"
+    ],
+    "correctIndex": 1,
+    "topic": "Compiler",
+    "difficulty": "medium",
+    "explanation": "Compilers detect errors after compilation."
+  },
+  {
+    "id": "pc_097",
+    "question": "Which translator is best for rapid testing?",
+    "options": [
+      "Assembler",
+      "Compiler",
+      "Interpreter",
+      "Linker"
+    ],
+    "correctIndex": 2,
+    "topic": "Interpreter",
+    "difficulty": "medium",
+    "explanation": "Interpreters are ideal for rapid testing."
+  },
+  {
+    "id": "pc_098",
+    "question": "Which programming concept involves writing instructions?",
+    "options": [
+      "Debugging",
+      "Programming",
+      "Compilation",
+      "Execution"
+    ],
+    "correctIndex": 1,
+    "topic": "Programming Concepts",
+    "difficulty": "easy",
+    "explanation": "Programming is the act of writing instructions."
+  },
+  {
+    "id": "pc_099",
+    "question": "Which application uses electronic health records?",
+    "options": [
+      "Education",
+      "Healthcare",
+      "Entertainment",
+      "Business"
+    ],
+    "correctIndex": 1,
+    "topic": "Applications of Programs",
+    "difficulty": "easy",
+    "explanation": "Electronic health records are healthcare applications."
+  },
+  {
+    "id": "pc_100",
+    "question": "Which of the following best describes an interpreter?",
+    "options": [
+      "Executes code line by line",
+      "Translates entire programs first",
+      "Runs only machine code",
+      "Produces executable files"
+    ],
+    "correctIndex": 0,
+    "topic": "Interpreter",
+    "difficulty": "easy",
+    "explanation": "Interpreters execute code line by line."
+  },
+
+  {
+    "id": "pc_101",
+    "question": "Which translator is typically slower but easier to debug?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "CPU"
+    ],
+    "correctIndex": 1,
+    "topic": "Interpreter",
+    "difficulty": "hard",
+    "explanation": "Interpreters allow easier debugging but slower execution."
+  },
+  {
+    "id": "pc_102",
+    "question": "Which language gives the most control over memory?",
+    "options": [
+      "Python",
+      "Java",
+      "Assembly",
+      "HTML"
+    ],
+    "correctIndex": 2,
+    "topic": "Assembly Language",
+    "difficulty": "hard",
+    "explanation": "Assembly provides direct memory control."
+  },
+  {
+    "id": "pc_103",
+    "question": "Which of the following is NOT a translator?",
+    "options": [
+      "Compiler",
+      "Assembler",
+      "Interpreter",
+      "Editor"
+    ],
+    "correctIndex": 3,
+    "topic": "Translators",
+    "difficulty": "easy",
+    "explanation": "An editor is not a translator."
+  },
+  {
+    "id": "pc_104",
+    "question": "Which programming language is closest to human thinking?",
+    "options": [
+      "Machine",
+      "Assembly",
+      "High-level",
+      "Binary"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "medium",
+    "explanation": "High-level languages match human logic."
+  },
+  {
+    "id": "pc_105",
+    "question": "Which translator is required before execution in compiled languages?",
+    "options": [
+      "Interpreter",
+      "Compiler",
+      "Assembler",
+      "Debugger"
+    ],
+    "correctIndex": 1,
+    "topic": "Compiler",
+    "difficulty": "easy",
+    "explanation": "Compiled languages require a compiler before execution."
+  },
+  {
+    "id": "pc_106",
+    "question": "Which application area includes spreadsheets?",
+    "options": [
+      "Healthcare",
+      "Finance",
+      "Productivity",
+      "Education"
+    ],
+    "correctIndex": 2,
+    "topic": "Applications of Programs",
+    "difficulty": "easy",
+    "explanation": "Spreadsheets are productivity tools."
+  },
+  {
+    "id": "pc_107",
+    "question": "Which translator converts mnemonics into binary?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "Editor"
+    ],
+    "correctIndex": 2,
+    "topic": "Assembler",
+    "difficulty": "easy",
+    "explanation": "Assemblers convert mnemonics into machine code."
+  },
+  {
+    "id": "pc_108",
+    "question": "Which programming concept involves converting code?",
+    "options": [
+      "Debugging",
+      "Translation",
+      "Execution",
+      "Storage"
+    ],
+    "correctIndex": 1,
+    "topic": "Translators",
+    "difficulty": "medium",
+    "explanation": "Translation converts code to machine language."
+  },
+  {
+    "id": "pc_109",
+    "question": "Which language is easiest to maintain?",
+    "options": [
+      "Machine",
+      "Assembly",
+      "High-level",
+      "Binary"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "medium",
+    "explanation": "High-level languages are easier to maintain."
+  },
+  {
+    "id": "pc_110",
+    "question": "Which translator is ideal for scripting?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "CPU"
+    ],
+    "correctIndex": 1,
+    "topic": "Interpreter",
+    "difficulty": "medium",
+    "explanation": "Interpreters are ideal for scripting tasks."
+  },
+
+  {
+    "id": "pc_111",
+    "question": "Which language requires no translation?",
+    "options": [
+      "High-level",
+      "Assembly",
+      "Machine",
+      "Scripting"
+    ],
+    "correctIndex": 2,
+    "topic": "Machine Language",
+    "difficulty": "hard",
+    "explanation": "Machine language runs directly on hardware."
+  },
+  {
+    "id": "pc_112",
+    "question": "Which language is most portable?",
+    "options": [
+      "Machine",
+      "Assembly",
+      "High-level",
+      "Binary"
+    ],
+    "correctIndex": 2,
+    "topic": "Language Comparison",
+    "difficulty": "medium",
+    "explanation": "High-level languages run on many platforms."
+  },
+  {
+    "id": "pc_113",
+    "question": "Which translator improves runtime efficiency?",
+    "options": [
+      "Interpreter",
+      "Compiler",
+      "Assembler",
+      "Editor"
+    ],
+    "correctIndex": 1,
+    "topic": "Compiler",
+    "difficulty": "medium",
+    "explanation": "Compilers produce optimized machine code."
+  },
+  {
+    "id": "pc_114",
+    "question": "Which language is hardest for beginners?",
+    "options": [
+      "Python",
+      "Java",
+      "Assembly",
+      "Scratch"
+    ],
+    "correctIndex": 2,
+    "topic": "Assembly Language",
+    "difficulty": "hard",
+    "explanation": "Assembly is difficult due to low abstraction."
+  },
+  {
+    "id": "pc_115",
+    "question": "Which translator executes instructions sequentially?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "Linker"
+    ],
+    "correctIndex": 1,
+    "topic": "Interpreter",
+    "difficulty": "easy",
+    "explanation": "Interpreters execute instructions sequentially."
+  },
+  {
+    "id": "pc_116",
+    "question": "Which language hides machine-level details?",
+    "options": [
+      "Machine",
+      "Assembly",
+      "High-level",
+      "Binary"
+    ],
+    "correctIndex": 2,
+    "topic": "High-Level Languages",
+    "difficulty": "easy",
+    "explanation": "High-level languages abstract machine details."
+  },
+  {
+    "id": "pc_117",
+    "question": "Which translator detects errors earlier?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "CPU"
+    ],
+    "correctIndex": 1,
+    "topic": "Interpreter",
+    "difficulty": "medium",
+    "explanation": "Interpreters detect errors during execution."
+  },
+  {
+    "id": "pc_118",
+    "question": "Which language offers direct instruction execution?",
+    "options": [
+      "High-level",
+      "Assembly",
+      "Machine",
+      "Scripting"
+    ],
+    "correctIndex": 2,
+    "topic": "Machine Language",
+    "difficulty": "hard",
+    "explanation": "Machine language executes instructions directly."
+  },
+  {
+    "id": "pc_119",
+    "question": "Which translator is essential for C programs?",
+    "options": [
+      "Interpreter",
+      "Assembler",
+      "Compiler",
+      "Editor"
+    ],
+    "correctIndex": 2,
+    "topic": "Compiler",
+    "difficulty": "easy",
+    "explanation": "C programs require a compiler."
+  },
+  {
+    "id": "pc_120",
+    "question": "Which programming concept ensures computers follow instructions?",
+    "options": [
+      "Compilation",
+      "Programming",
+      "Execution",
+      "Debugging"
+    ],
+    "correctIndex": 1,
+    "topic": "Programming Concepts",
+    "difficulty": "medium",
+    "explanation": "Programming ensures computers follow instructions."
+  }
+]
+}
