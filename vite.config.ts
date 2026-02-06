@@ -10,6 +10,9 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+   build: {
+    target: 'es2015'
+  },
   resolve: {
     alias: {
       // Alias @ to the src directory
