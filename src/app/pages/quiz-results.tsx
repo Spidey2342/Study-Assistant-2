@@ -70,7 +70,9 @@ export function QuizResultsPage() {
     });
 
     saveAttempt({
-      id: crypto.randomUUID(),
+     id: typeof crypto !== 'undefined' && 'randomUUID' in crypto
+  ? crypto.randomUUID()
+  : `${Date.now()}-${Math.random()}`,
       courseId: course.courseId,
       courseTitle: course.title,
       score,
@@ -89,10 +91,10 @@ export function QuizResultsPage() {
   const message = getMessage();
 
   return (
-    <div className="dark min-h-screen bg-background p-4 md:p-8 overflow-auto">
+    <div className="dark min-h-[100svh] min-h-screen bg-background p-4 md:p-8 overflow-y-auto touch-pan-y ">
       <div className="max-w-5xl mx-auto">
         {/* Score Card */}
-        <div className="rounded-2xl p-8 md:p-12 backdrop-blur-xl bg-black/40 border border-white/10 text-center">
+        <div className="rounded-2xl p-6 backdrop-blur-xl border border-white/10 text-center">
           <div className="w-20 h-20 rounded-full bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center mx-auto mb-6">
             <Trophy className="w-10 h-10 text-white" />
           </div>

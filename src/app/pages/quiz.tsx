@@ -20,7 +20,7 @@ const courseMap = {
   'set-theory': setTheory
 };
 
-const QUESTION_COUNT = 13;
+const QUESTION_COUNT = 1;
 
 export function QuizPage() {
   const { courseId } = useParams<{ courseId: string }>();
@@ -98,27 +98,29 @@ if (!course) return null;
   );
 
   // 5. Timer
-  useEffect(() => {
-    if (isAnswered) return;
+useEffect(() => {
+  if (isAnswered) return;
 
-    if (timeLeft <= 0) {
-      handleAnswer(selectedAnswer);
-      return;
-    }
+  const timer = setInterval(() => {
+    setTimeLeft((t) => {
+      if (t <= 1) {
+        clearInterval(timer);
+        handleAnswer(selectedAnswer);
+        return 0;
+      }
+      return t - 1;
+    });
+  }, 1000);
 
-    const timer = setInterval(() => {
-      setTimeLeft((t) => t - 1);
-    }, 1000);
-
-    return () => clearInterval(timer);
-  }, [timeLeft, isAnswered, handleAnswer, selectedAnswer]);
+  return () => clearInterval(timer);
+}, [isAnswered, handleAnswer, selectedAnswer]);
 
   const question = questions[currentQuestion];
 
   return (
-    <div className="dark min-h-screen bg-background text-foreground flex items-center justify-center p-4 md:p-8">
+    <div className="dark min-h-[100svh] min-h-screen bg-background text-foreground flex flex-col p-4 md:p-8 overflow-y-auto touch-pan-y">
 
-      <div className="w-full max-w-4xl">
+      <div className="w-full max-w-4xl mx-auto my-auto">
         {/* Header */}
         <div className="flex items-center justify-between mb-8">
           <div className="flex items-center gap-4 flex-1">
@@ -158,7 +160,7 @@ if (!course) return null;
         </div>
 
         {/* Question */}
-        <div className="rounded-2xl p-8 backdrop-blur-xl border border-white/10 mb-6">
+        <div className="rounded-2xl p-8 bg-white/5 border border-white/10 mb-6">
          <h2 className="text-2xl font-bold mb-8 text-white">
 
             {question.question}
