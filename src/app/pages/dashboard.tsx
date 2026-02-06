@@ -17,10 +17,14 @@ export function DashboardPage() {
   const navigate = useNavigate();
   const { onMenuClick } = useOutletContext<{ onMenuClick: () => void }>();
 
-  useEffect(() => {
+ useEffect(() => {
   const settings = getSettings();
 
-  if (settings.notifications.dailyQuiz) {
+  if (
+    settings.notifications.dailyQuiz &&
+    'Notification' in window &&
+    Notification.permission === 'granted'
+  ) {
     sendNotification(
       'Daily Quiz Reminder 📚',
       'Keep your streak alive — take a quick quiz!'
@@ -51,7 +55,7 @@ export function DashboardPage() {
   const hasData = stats.totalQuizzes > 0;
 
   return (
-    <div className="h-full flex flex-col">
+    <div className="min-h-[100svh] min-h-screen flex flex-col">
      <TopBar
   title="Dashboard"
   streak={hasData ? stats.streak : 0}
@@ -59,7 +63,7 @@ export function DashboardPage() {
 />
 
 
-      <div className="flex-1 p-4 md:p-6 lg:p-8 overflow-auto">
+      <div className="flex-1 p-4 md:p-6 lg:p-8 overflow-y-auto touch-pan-y ">
         <div className="max-w-7xl mx-auto">
           {/* Greeting */}
           <div className="mb-6 md:mb-8">
@@ -118,7 +122,11 @@ export function DashboardPage() {
           <div className="flex justify-center">
             <button
               onClick={() => navigate('/courses')}
-              className="w-full md:w-auto group px-8 py-4 rounded-2xl bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 transition-all shadow-lg shadow-indigo-500/30 hover:shadow-indigo-500/50 hover:scale-105"
+              className="w-full md:w-auto group px-8 py-4 rounded-2xl
+  bg-gradient-to-r from-indigo-600 to-purple-600
+  transition-all shadow-lg
+  active:scale-95
+  touch-manipulation cursor-pointer select-none"
             >
               <div className="flex items-center justify-center gap-3">
                 <Play className="w-5 h-5 text-white" />
