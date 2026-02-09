@@ -1,0 +1,1425 @@
+{
+  "courseId": "growth-of-the-tourism-industry",
+  "title": "Growth of the Tourism Industry",
+  "icon": "📈",
+  "questions": [
+
+{
+  "id": "gt_001",
+  "question": "The period commonly associated with the take-off of tourism is:",
+  "options": [
+    "Pre-industrial era",
+    "Post-war era",
+    "Medieval period",
+    "Colonial era"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Take-Off",
+  "difficulty": "easy",
+  "explanation": "Tourism experienced rapid growth after World War II."
+},
+{
+  "id": "gt_002",
+  "question": "Tourism growth after World War II was mainly influenced by:",
+  "options": [
+    "Population decline",
+    "Improved global security",
+    "Economic recovery and stability",
+    "Reduced transportation"
+  ],
+  "correctIndex": 2,
+  "topic": "Tourism Take-Off",
+  "difficulty": "medium",
+  "explanation": "Economic recovery increased disposable income and travel demand."
+},
+{
+  "id": "gt_003",
+  "question": "Which century marked the rapid expansion of global tourism?",
+  "options": [
+    "18th century",
+    "19th century",
+    "20th century",
+    "21st century only"
+  ],
+  "correctIndex": 2,
+  "topic": "Tourism Growth",
+  "difficulty": "easy",
+  "explanation": "The 20th century saw mass tourism expansion."
+},
+{
+  "id": "gt_004",
+  "question": "Tourism growth is best described as:",
+  "options": [
+    "Sudden and short-term",
+    "Gradual and continuous",
+    "Unplanned and irregular",
+    "Limited to Europe"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Growth",
+  "difficulty": "easy",
+  "explanation": "Tourism growth has been continuous over time."
+},
+{
+  "id": "gt_005",
+  "question": "One major factor responsible for tourism growth is:",
+  "options": [
+    "Decrease in leisure time",
+    "Improved transportation systems",
+    "Increase in war conflicts",
+    "Restriction of movement"
+  ],
+  "correctIndex": 1,
+  "topic": "Growth Factors",
+  "difficulty": "easy",
+  "explanation": "Better transport makes travel easier and faster."
+},
+{
+  "id": "gt_006",
+  "question": "Which transportation development greatly boosted tourism?",
+  "options": [
+    "Animal transport",
+    "Railways and air travel",
+    "Walking paths",
+    "Sea trade routes only"
+  ],
+  "correctIndex": 1,
+  "topic": "Growth Factors",
+  "difficulty": "medium",
+  "explanation": "Rail and air transport reduced travel time significantly."
+},
+{
+  "id": "gt_007",
+  "question": "Increased disposable income affects tourism by:",
+  "options": [
+    "Reducing travel demand",
+    "Limiting destination choices",
+    "Encouraging leisure travel",
+    "Restricting international travel"
+  ],
+  "correctIndex": 2,
+  "topic": "Growth Factors",
+  "difficulty": "easy",
+  "explanation": "Higher income allows people to spend on travel."
+},
+{
+  "id": "gt_008",
+  "question": "Which group benefited most from paid holidays?",
+  "options": [
+    "Children",
+    "Working class",
+    "Tour operators",
+    "Governments"
+  ],
+  "correctIndex": 1,
+  "topic": "Growth Factors",
+  "difficulty": "medium",
+  "explanation": "Paid leave enabled workers to travel."
+},
+{
+  "id": "gt_009",
+  "question": "Tourism expansion after the war was supported by:",
+  "options": [
+    "Technological stagnation",
+    "Improved living standards",
+    "Higher unemployment",
+    "Travel restrictions"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Take-Off",
+  "difficulty": "medium",
+  "explanation": "Improved standards of living encouraged travel."
+},
+{
+  "id": "gt_010",
+  "question": "Mass tourism refers to:",
+  "options": [
+    "Travel by elites only",
+    "Large-scale participation in tourism",
+    "Local travel",
+    "Religious pilgrimages"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Growth",
+  "difficulty": "easy",
+  "explanation": "Mass tourism involves large numbers of travelers."
+},
+
+{
+  "id": "gt_011",
+  "question": "Which factor made international tourism more accessible?",
+  "options": [
+    "Visa restrictions",
+    "Cheaper air fares",
+    "Longer travel times",
+    "Limited accommodation"
+  ],
+  "correctIndex": 1,
+  "topic": "Growth Factors",
+  "difficulty": "easy",
+  "explanation": "Affordable flights increased international travel."
+},
+{
+  "id": "gt_012",
+  "question": "Tourism growth is closely linked to:",
+  "options": [
+    "Economic development",
+    "Population decline",
+    "Reduced technology",
+    "Political isolation"
+  ],
+  "correctIndex": 0,
+  "topic": "Tourism Growth",
+  "difficulty": "medium",
+  "explanation": "Economic growth supports tourism expansion."
+},
+{
+  "id": "gt_013",
+  "question": "Which development encouraged long-distance travel?",
+  "options": [
+    "Horse transport",
+    "Jet aircraft",
+    "Manual navigation",
+    "Sea rowing"
+  ],
+  "correctIndex": 1,
+  "topic": "Growth Factors",
+  "difficulty": "medium",
+  "explanation": "Jet aircraft reduced travel time over long distances."
+},
+{
+  "id": "gt_014",
+  "question": "Tourism today differs from earlier periods because of:",
+  "options": [
+    "Limited destinations",
+    "Advanced technology",
+    "Reduced information",
+    "Slower transport"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Today",
+  "difficulty": "easy",
+  "explanation": "Technology has transformed modern tourism."
+},
+{
+  "id": "gt_015",
+  "question": "One key driver of tourism growth in the 20th century was:",
+  "options": [
+    "Urbanization",
+    "Lack of leisure",
+    "Travel bans",
+    "Economic depression"
+  ],
+  "correctIndex": 0,
+  "topic": "Growth Factors",
+  "difficulty": "medium",
+  "explanation": "Urban living increased demand for leisure travel."
+},
+{
+  "id": "gt_016",
+  "question": "Which factor improved global travel coordination?",
+  "options": [
+    "Poor communication",
+    "Information technology",
+    "Manual booking systems",
+    "Isolation policies"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Today",
+  "difficulty": "medium",
+  "explanation": "IT improved booking, communication, and planning."
+},
+{
+  "id": "gt_017",
+  "question": "Tourism growth led to:",
+  "options": [
+    "Reduced employment",
+    "Expansion of service industries",
+    "Decline in hospitality",
+    "Economic isolation"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Growth",
+  "difficulty": "easy",
+  "explanation": "Tourism expansion created service-sector jobs."
+},
+{
+  "id": "gt_018",
+  "question": "Which era marked tourism as a global industry?",
+  "options": [
+    "Pre-war era",
+    "Post-war era",
+    "Ancient era",
+    "Medieval era"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Take-Off",
+  "difficulty": "medium",
+  "explanation": "Post-war developments globalized tourism."
+},
+{
+  "id": "gt_019",
+  "question": "Tourism growth in developing countries is mainly due to:",
+  "options": [
+    "Natural attractions only",
+    "Improved infrastructure",
+    "Reduced interest",
+    "Political instability"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Growth",
+  "difficulty": "hard",
+  "explanation": "Infrastructure supports tourism development."
+},
+{
+  "id": "gt_020",
+  "question": "Tourism growth contributes to national development by:",
+  "options": [
+    "Reducing foreign exchange",
+    "Increasing employment",
+    "Limiting investment",
+    "Reducing income"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Growth",
+  "difficulty": "easy",
+  "explanation": "Tourism generates jobs and income."
+},
+
+{
+  "id": "gt_021",
+  "question": "The expansion of leisure time was mainly due to:",
+  "options": [
+    "Industrial reforms",
+    "Religious practices",
+    "Traditional lifestyles",
+    "Political protests"
+  ],
+  "correctIndex": 0,
+  "topic": "Growth Factors",
+  "difficulty": "medium",
+  "explanation": "Labor reforms increased leisure time."
+},
+{
+  "id": "gt_022",
+  "question": "Tourism demand increases when:",
+  "options": [
+    "Income falls",
+    "Travel costs rise",
+    "Living standards improve",
+    "Security decreases"
+  ],
+  "correctIndex": 2,
+  "topic": "Growth Factors",
+  "difficulty": "medium",
+  "explanation": "Higher living standards boost travel demand."
+},
+{
+  "id": "gt_023",
+  "question": "Tourism growth in the modern era is supported by:",
+  "options": [
+    "Digital platforms",
+    "Manual ticketing",
+    "Limited communication",
+    "Local travel only"
+  ],
+  "correctIndex": 0,
+  "topic": "Tourism Today",
+  "difficulty": "easy",
+  "explanation": "Digital platforms simplify travel planning."
+},
+{
+  "id": "gt_024",
+  "question": "Which factor reduced travel barriers?",
+  "options": [
+    "Improved visas and passports",
+    "Closed borders",
+    "Poor diplomacy",
+    "High tariffs"
+  ],
+  "correctIndex": 0,
+  "topic": "Growth Factors",
+  "difficulty": "hard",
+  "explanation": "Improved travel documentation eased movement."
+},
+{
+  "id": "gt_025",
+  "question": "Tourism in the 21st century is characterized by:",
+  "options": [
+    "Limited destinations",
+    "Global connectivity",
+    "Slow travel",
+    "Local isolation"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Today",
+  "difficulty": "easy",
+  "explanation": "Modern tourism is globally connected."
+},
+{
+  "id": "gt_026",
+  "question": "Which factor directly affects tourism growth trends?",
+  "options": [
+    "Technology",
+    "Agriculture",
+    "Manufacturing",
+    "Mining"
+  ],
+  "correctIndex": 0,
+  "topic": "Tourism Growth",
+  "difficulty": "medium",
+  "explanation": "Technology influences access and demand."
+},
+{
+  "id": "gt_027",
+  "question": "Tourism growth after WWII was mainly:",
+  "options": [
+    "Regional",
+    "Global",
+    "Local",
+    "Seasonal only"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Take-Off",
+  "difficulty": "easy",
+  "explanation": "Tourism expanded globally after the war."
+},
+{
+  "id": "gt_028",
+  "question": "Which improvement increased tourist confidence?",
+  "options": [
+    "Better security systems",
+    "Travel bans",
+    "Economic decline",
+    "Poor infrastructure"
+  ],
+  "correctIndex": 0,
+  "topic": "Growth Factors",
+  "difficulty": "medium",
+  "explanation": "Security encourages travel."
+},
+{
+  "id": "gt_029",
+  "question": "Tourism growth encouraged the development of:",
+  "options": [
+    "Hospitality services",
+    "Agricultural tools",
+    "Mining equipment",
+    "Military bases"
+  ],
+  "correctIndex": 0,
+  "topic": "Tourism Growth",
+  "difficulty": "easy",
+  "explanation": "Hospitality services expanded with tourism."
+},
+{
+  "id": "gt_030",
+  "question": "The modern tourism industry is best described as:",
+  "options": [
+    "Static",
+    "Dynamic",
+    "Declining",
+    "Seasonal only"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Today",
+  "difficulty": "medium",
+  "explanation": "Tourism continues to evolve."
+},
+
+{
+  "id": "gt_031",
+  "question": "Tourism take-off refers to:",
+  "options": [
+    "Initial slow growth",
+    "Rapid expansion phase",
+    "Tourism decline",
+    "Local tourism only"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Take-Off",
+  "difficulty": "medium",
+  "explanation": "Take-off means rapid growth."
+},
+{
+  "id": "gt_032",
+  "question": "Which factor most improved travel speed?",
+  "options": [
+    "Road transport",
+    "Air transport",
+    "Sea travel",
+    "Walking"
+  ],
+  "correctIndex": 1,
+  "topic": "Growth Factors",
+  "difficulty": "easy",
+  "explanation": "Air transport greatly reduced travel time."
+},
+{
+  "id": "gt_033",
+  "question": "Tourism growth affects society by:",
+  "options": [
+    "Reducing cultural exchange",
+    "Encouraging cultural interaction",
+    "Limiting globalization",
+    "Reducing employment"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Growth",
+  "difficulty": "medium",
+  "explanation": "Tourism promotes cultural exchange."
+},
+{
+  "id": "gt_034",
+  "question": "The growth of tourism increased demand for:",
+  "options": [
+    "Accommodation",
+    "Industrial goods",
+    "Mining services",
+    "Agricultural land"
+  ],
+  "correctIndex": 0,
+  "topic": "Tourism Growth",
+  "difficulty": "easy",
+  "explanation": "More tourists require more accommodation."
+},
+{
+  "id": "gt_035",
+  "question": "Which global change supported tourism expansion?",
+  "options": [
+    "Technological advancement",
+    "Political isolation",
+    "Economic decline",
+    "Transport breakdown"
+  ],
+  "correctIndex": 0,
+  "topic": "Growth Factors",
+  "difficulty": "medium",
+  "explanation": "Technology improved travel and communication."
+},
+{
+  "id": "gt_036",
+  "question": "Tourism growth is sustained when:",
+  "options": [
+    "Infrastructure improves",
+    "Security declines",
+    "Costs increase",
+    "Access reduces"
+  ],
+  "correctIndex": 0,
+  "topic": "Tourism Growth",
+  "difficulty": "hard",
+  "explanation": "Infrastructure supports long-term growth."
+},
+{
+  "id": "gt_037",
+  "question": "Which factor increased tourism participation?",
+  "options": [
+    "Paid holidays",
+    "Long working hours",
+    "Low income",
+    "Travel restrictions"
+  ],
+  "correctIndex": 0,
+  "topic": "Growth Factors",
+  "difficulty": "easy",
+  "explanation": "Paid holidays allow people time to travel."
+},
+{
+  "id": "gt_038",
+  "question": "Tourism growth is influenced by:",
+  "options": [
+    "Single factor only",
+    "Multiple economic and social factors",
+    "Weather only",
+    "Culture only"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Growth",
+  "difficulty": "medium",
+  "explanation": "Tourism growth is multi-factorial."
+},
+{
+  "id": "gt_039",
+  "question": "Which factor encourages repeat tourism?",
+  "options": [
+    "Poor service",
+    "Quality experience",
+    "High prices",
+    "Insecurity"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Today",
+  "difficulty": "hard",
+  "explanation": "Good experiences encourage repeat visits."
+},
+{
+  "id": "gt_040",
+  "question": "Tourism in the modern era continues to grow due to:",
+  "options": [
+    "Innovation and globalization",
+    "Isolation and restriction",
+    "Declining income",
+    "Reduced mobility"
+  ],
+  "correctIndex": 0,
+  "topic": "Tourism Today",
+  "difficulty": "medium",
+  "explanation": "Innovation and globalization drive growth."
+},
+    {
+      "id": "tr_061",
+      "question": "Which factor most directly contributed to the post-World War II tourism boom?",
+      "options": [
+        "Increase in global conflicts",
+        "Improved transportation systems",
+        "Decline in disposable income",
+        "Restriction of international borders"
+      ],
+      "correctIndex": 1,
+      "topic": "Growth of Tourism",
+      "difficulty": "easy",
+      "explanation": "Improved air, road, and sea transport made travel faster, cheaper, and more accessible."
+    },
+    {
+      "id": "tr_062",
+      "question": "Which transport development had the greatest impact on mass tourism?",
+      "options": [
+        "Horse-drawn carriages",
+        "Steam engines",
+        "Commercial jet aircraft",
+        "Bicycles"
+      ],
+      "correctIndex": 2,
+      "topic": "Transportation and Tourism",
+      "difficulty": "easy",
+      "explanation": "Commercial jet aircraft enabled long-distance travel within short time frames."
+    },
+    {
+      "id": "tr_063",
+      "question": "Mass tourism is best described as:",
+      "options": [
+        "Travel by government officials only",
+        "Travel limited to luxury tourists",
+        "Large numbers of people traveling to the same destination",
+        "Travel for religious purposes only"
+      ],
+      "correctIndex": 2,
+      "topic": "Tourism Concepts",
+      "difficulty": "easy",
+      "explanation": "Mass tourism involves many tourists visiting popular destinations simultaneously."
+    },
+    {
+      "id": "tr_064",
+      "question": "Which economic condition encourages tourism growth?",
+      "options": [
+        "High unemployment",
+        "Political instability",
+        "Increased disposable income",
+        "Trade restrictions"
+      ],
+      "correctIndex": 2,
+      "topic": "Economic Factors",
+      "difficulty": "easy",
+      "explanation": "When people have more disposable income, they are more likely to spend on travel."
+    },
+    {
+      "id": "tr_065",
+      "question": "Paid annual leave mainly affects tourism by:",
+      "options": [
+        "Reducing travel costs",
+        "Providing time for leisure travel",
+        "Improving hotel standards",
+        "Encouraging migration"
+      ],
+      "correctIndex": 1,
+      "topic": "Social Factors",
+      "difficulty": "easy",
+      "explanation": "Paid leave gives workers time off specifically for rest and travel."
+    },
+    {
+      "id": "tr_066",
+      "question": "Which innovation made tourism more affordable to the average person?",
+      "options": [
+        "Charter flights",
+        "Luxury cruises",
+        "Private jets",
+        "Five-star hotels"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Development",
+      "difficulty": "medium",
+      "explanation": "Charter flights reduced airfare costs and expanded access to travel."
+    },
+    {
+      "id": "tr_067",
+      "question": "Urbanization supports tourism growth mainly by:",
+      "options": [
+        "Reducing leisure time",
+        "Increasing travel restrictions",
+        "Creating demand for recreation",
+        "Limiting transport networks"
+      ],
+      "correctIndex": 2,
+      "topic": "Social Factors",
+      "difficulty": "medium",
+      "explanation": "City lifestyles increase the need for relaxation and recreational travel."
+    },
+    {
+      "id": "tr_068",
+      "question": "Which political condition best supports tourism development?",
+      "options": [
+        "Frequent coups",
+        "Stable governance",
+        "Strict visa bans",
+        "Military rule"
+      ],
+      "correctIndex": 1,
+      "topic": "Political Factors",
+      "difficulty": "easy",
+      "explanation": "Political stability builds tourist confidence and investment."
+    },
+    {
+      "id": "tr_069",
+      "question": "Tourism infrastructure includes all EXCEPT:",
+      "options": [
+        "Hotels",
+        "Roads",
+        "Airports",
+        "Tourist motivations"
+      ],
+      "correctIndex": 3,
+      "topic": "Tourism Infrastructure",
+      "difficulty": "easy",
+      "explanation": "Motivation is psychological, not physical infrastructure."
+    },
+    {
+      "id": "tr_070",
+      "question": "Which factor links tourism growth directly to globalization?",
+      "options": [
+        "Cultural isolation",
+        "Improved international communication",
+        "Reduction in airlines",
+        "Local trade only"
+      ],
+      "correctIndex": 1,
+      "topic": "Globalization and Tourism",
+      "difficulty": "medium",
+      "explanation": "Global communication increases awareness of destinations worldwide."
+    },
+
+    {
+      "id": "tr_071",
+      "question": "Tourism take-off refers to:",
+      "options": [
+        "The decline of tourism",
+        "The rapid expansion of tourism activities",
+        "Airport runway design",
+        "Seasonal tourism"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Growth Phases",
+      "difficulty": "easy",
+      "explanation": "Tourism take-off is the stage of rapid growth after initial development."
+    },
+    {
+      "id": "tr_072",
+      "question": "Which technological advancement most improved tourism marketing?",
+      "options": [
+        "Telegraph",
+        "Internet",
+        "Typewriters",
+        "Fax machines"
+      ],
+      "correctIndex": 1,
+      "topic": "Technology in Tourism",
+      "difficulty": "easy",
+      "explanation": "The internet allows global promotion and online booking."
+    },
+    {
+      "id": "tr_073",
+      "question": "One major result of tourism growth is:",
+      "options": [
+        "Reduced employment",
+        "Cultural exchange",
+        "Decreased infrastructure",
+        "Isolation of destinations"
+      ],
+      "correctIndex": 1,
+      "topic": "Impacts of Tourism",
+      "difficulty": "easy",
+      "explanation": "Tourism encourages interaction between cultures."
+    },
+    {
+      "id": "tr_074",
+      "question": "Which factor primarily influences destination choice?",
+      "options": [
+        "Tourist motivation",
+        "Exchange rate policy",
+        "Population size",
+        "Industrial output"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourist Behavior",
+      "difficulty": "medium",
+      "explanation": "Motivation determines why and where tourists travel."
+    },
+    {
+      "id": "tr_075",
+      "question": "Economic leakage in tourism refers to:",
+      "options": [
+        "Tourist spending remaining locally",
+        "Money leaving the host country",
+        "Tax revenue increase",
+        "Growth of local businesses"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Economics",
+      "difficulty": "medium",
+      "explanation": "Leakage occurs when tourism revenue goes to foreign companies."
+    },
+
+    {
+      "id": "tr_076",
+      "question": "Which sector benefits first from tourism growth?",
+      "options": [
+        "Manufacturing",
+        "Agriculture",
+        "Hospitality",
+        "Mining"
+      ],
+      "correctIndex": 2,
+      "topic": "Tourism Industry",
+      "difficulty": "easy",
+      "explanation": "Hotels, restaurants, and services experience immediate demand."
+    },
+    {
+      "id": "tr_077",
+      "question": "A major challenge of rapid tourism growth is:",
+      "options": [
+        "Environmental degradation",
+        "Improved infrastructure",
+        "Job creation",
+        "Cultural preservation"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Challenges",
+      "difficulty": "medium",
+      "explanation": "Uncontrolled growth can damage natural environments."
+    },
+    {
+      "id": "tr_078",
+      "question": "Which era marked the expansion of international tourism?",
+      "options": [
+        "Pre-industrial era",
+        "Post-war era",
+        "Ancient period",
+        "Medieval period"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism History",
+      "difficulty": "easy",
+      "explanation": "Post-war economic recovery encouraged global travel."
+    },
+    {
+      "id": "tr_079",
+      "question": "Tourism today is best characterized by:",
+      "options": [
+        "Limited destinations",
+        "High travel restrictions",
+        "Global connectivity",
+        "Slow transport systems"
+      ],
+      "correctIndex": 2,
+      "topic": "Modern Tourism",
+      "difficulty": "easy",
+      "explanation": "Modern tourism relies on global networks and technology."
+    },
+    {
+      "id": "tr_080",
+      "question": "Which factor most improves tourist safety perception?",
+      "options": [
+        "Stable security systems",
+        "High population",
+        "Climate conditions",
+        "Cultural diversity"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Management",
+      "difficulty": "medium",
+      "explanation": "Security strongly influences travel decisions."
+    },
+
+    {
+      "id": "tr_081",
+      "question": "Sustainable tourism mainly aims to:",
+      "options": [
+        "Maximize tourist numbers",
+        "Protect resources for future use",
+        "Reduce tourist satisfaction",
+        "Eliminate tourism growth"
+      ],
+      "correctIndex": 1,
+      "topic": "Sustainable Tourism",
+      "difficulty": "medium",
+      "explanation": "Sustainability balances economic, social, and environmental needs."
+    },
+    {
+      "id": "tr_082",
+      "question": "Which indicator best measures tourism growth?",
+      "options": [
+        "Tourist arrivals",
+        "Birth rate",
+        "Literacy rate",
+        "Inflation rate"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Statistics",
+      "difficulty": "easy",
+      "explanation": "Tourist arrivals reflect demand trends."
+    },
+    {
+      "id": "tr_083",
+      "question": "Tourism multiplier effect refers to:",
+      "options": [
+        "Tourist population growth",
+        "Repeated circulation of tourism income",
+        "Increase in hotel rooms",
+        "Growth of airlines"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Economics",
+      "difficulty": "medium",
+      "explanation": "Tourism income generates additional economic activity."
+    },
+    {
+      "id": "tr_084",
+      "question": "Which development best supports long-term tourism growth?",
+      "options": [
+        "Overdependence on tourism",
+        "Infrastructure planning",
+        "Ignoring local communities",
+        "Environmental neglect"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Planning",
+      "difficulty": "medium",
+      "explanation": "Proper planning ensures sustainable development."
+    },
+    {
+      "id": "tr_085",
+      "question": "A destination carrying capacity refers to:",
+      "options": [
+        "Hotel size",
+        "Maximum tourists without damage",
+        "Tourist spending limit",
+        "Airport capacity only"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Management",
+      "difficulty": "hard",
+      "explanation": "It defines the maximum number of visitors an area can support sustainably."
+    },
+
+    {
+      "id": "tr_086",
+      "question": "Which global trend continues to shape tourism growth?",
+      "options": [
+        "Technological innovation",
+        "Reduced mobility",
+        "Cultural isolation",
+        "Decline in leisure time"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Trends",
+      "difficulty": "easy",
+      "explanation": "Technology drives booking, transport, and experience design."
+    },
+    {
+      "id": "tr_087",
+      "question": "Which tourism model explains stages of destination growth?",
+      "options": [
+        "Butler’s Tourism Area Life Cycle",
+        "Maslow’s hierarchy",
+        "Porter’s model",
+        "Keynesian theory"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Models",
+      "difficulty": "hard",
+      "explanation": "The TALC model explains exploration to decline or rejuvenation."
+    },
+    {
+      "id": "tr_088",
+      "question": "Which factor reduces tourism demand most quickly?",
+      "options": [
+        "Political unrest",
+        "Improved marketing",
+        "Cultural festivals",
+        "Infrastructure expansion"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Demand",
+      "difficulty": "medium",
+      "explanation": "Instability discourages travel immediately."
+    },
+    {
+      "id": "tr_089",
+      "question": "Tourism diversification helps by:",
+      "options": [
+        "Increasing economic risk",
+        "Reducing overdependence",
+        "Limiting visitor types",
+        "Increasing leakage"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Development",
+      "difficulty": "medium",
+      "explanation": "Diversification strengthens resilience."
+    },
+    {
+      "id": "tr_090",
+      "question": "Which tourism segment is growing fastest today?",
+      "options": [
+        "Business tourism",
+        "Eco-tourism",
+        "Military tourism",
+        "Colonial tourism"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Trends",
+      "difficulty": "easy",
+      "explanation": "Environmental awareness drives eco-tourism growth."
+    },
+
+    {
+      "id": "tr_091",
+      "question": "Tourism policy is mainly formulated to:",
+      "options": [
+        "Restrict tourists",
+        "Guide tourism development",
+        "Eliminate competition",
+        "Increase migration"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Policy",
+      "difficulty": "medium",
+      "explanation": "Policies guide sustainable and organized growth."
+    },
+    {
+      "id": "tr_092",
+      "question": "Which body often regulates tourism nationally?",
+      "options": [
+        "Central banks",
+        "Tourism boards",
+        "Police services",
+        "Judicial councils"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Governance",
+      "difficulty": "easy",
+      "explanation": "Tourism boards oversee planning and promotion."
+    },
+    {
+      "id": "tr_093",
+      "question": "Which factor increases tourism seasonality?",
+      "options": [
+        "Climate variation",
+        "Stable demand",
+        "Diversified attractions",
+        "Flexible pricing"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Demand",
+      "difficulty": "medium",
+      "explanation": "Weather patterns strongly influence travel timing."
+    },
+    {
+      "id": "tr_094",
+      "question": "Tourism resilience refers to a destination’s ability to:",
+      "options": [
+        "Avoid tourists",
+        "Recover from shocks",
+        "Limit development",
+        "Increase prices"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Management",
+      "difficulty": "hard",
+      "explanation": "Resilience measures recovery capacity after crises."
+    },
+    {
+      "id": "tr_095",
+      "question": "Which modern factor most shapes tourist expectations?",
+      "options": [
+        "Word of mouth",
+        "Social media",
+        "Printed brochures",
+        "Postcards"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Marketing",
+      "difficulty": "easy",
+      "explanation": "Social media strongly influences perceptions and choices."
+    },
+
+    {
+      "id": "tr_096",
+      "question": "Which planning tool helps manage visitor numbers?",
+      "options": [
+        "Carrying capacity analysis",
+        "Tourism taxes",
+        "Visa restrictions",
+        "Currency controls"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Planning",
+      "difficulty": "hard",
+      "explanation": "It ensures sustainable visitor limits."
+    },
+    {
+      "id": "tr_097",
+      "question": "Which tourism impact is primarily social?",
+      "options": [
+        "Cultural exchange",
+        "GDP growth",
+        "Foreign exchange earnings",
+        "Employment rates"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Impacts",
+      "difficulty": "easy",
+      "explanation": "Social impacts affect culture and lifestyles."
+    },
+    {
+      "id": "tr_098",
+      "question": "A key feature of 21st-century tourism is:",
+      "options": [
+        "Limited mobility",
+        "Experience-based travel",
+        "Reduced technology use",
+        "Strict government control"
+      ],
+      "correctIndex": 1,
+      "topic": "Modern Tourism",
+      "difficulty": "medium",
+      "explanation": "Tourists seek authentic experiences."
+    },
+    {
+      "id": "tr_099",
+      "question": "Which tourism strategy reduces environmental impact?",
+      "options": [
+        "Mass tourism",
+        "Sustainable practices",
+        "Unplanned development",
+        "Overcrowding"
+      ],
+      "correctIndex": 1,
+      "topic": "Sustainable Tourism",
+      "difficulty": "easy",
+      "explanation": "Sustainability minimizes harm to ecosystems."
+    },
+    {
+      "id": "tr_100",
+      "question": "The future growth of tourism depends most on:",
+      "options": [
+        "Environmental responsibility",
+        "Uncontrolled expansion",
+        "Cultural neglect",
+        "Increased pollution"
+      ],
+      "correctIndex": 0,
+      "topic": "Future of Tourism",
+      "difficulty": "hard",
+      "explanation": "Long-term growth requires responsible management."
+    },
+    {
+      "id": "tr_101",
+      "question": "Which factor best explains the continuous growth of tourism in the 21st century?",
+      "options": [
+        "Reduced global population",
+        "Advancement in information technology",
+        "Decrease in leisure activities",
+        "Higher travel restrictions"
+      ],
+      "correctIndex": 1,
+      "topic": "Modern Tourism Growth",
+      "difficulty": "easy",
+      "explanation": "Technology improves access to information, booking systems, and destination awareness."
+    },
+    {
+      "id": "tr_102",
+      "question": "Which tourism activity depends most on environmental conservation?",
+      "options": [
+        "Business tourism",
+        "Eco-tourism",
+        "Conference tourism",
+        "Shopping tourism"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Types",
+      "difficulty": "easy",
+      "explanation": "Eco-tourism relies heavily on natural environments being preserved."
+    },
+    {
+      "id": "tr_103",
+      "question": "The main purpose of tourism planning is to:",
+      "options": [
+        "Increase tourist numbers at all costs",
+        "Ensure sustainable tourism development",
+        "Discourage domestic tourism",
+        "Limit foreign investment"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Planning",
+      "difficulty": "medium",
+      "explanation": "Planning balances economic benefits with environmental and social protection."
+    },
+    {
+      "id": "tr_104",
+      "question": "Which indicator best shows tourism’s contribution to the economy?",
+      "options": [
+        "Gross Domestic Product (GDP)",
+        "Birth rate",
+        "Literacy level",
+        "Population density"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Economics",
+      "difficulty": "medium",
+      "explanation": "GDP measures the economic value generated, including tourism activities."
+    },
+    {
+      "id": "tr_105",
+      "question": "Overdependence on tourism can lead to:",
+      "options": [
+        "Economic stability",
+        "Economic vulnerability",
+        "Industrial growth",
+        "Agricultural expansion"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Challenges",
+      "difficulty": "medium",
+      "explanation": "Economic shocks can severely affect countries reliant only on tourism."
+    },
+
+    {
+      "id": "tr_106",
+      "question": "Which tourism impact is most directly linked to employment?",
+      "options": [
+        "Social impact",
+        "Economic impact",
+        "Environmental impact",
+        "Cultural impact"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Impacts",
+      "difficulty": "easy",
+      "explanation": "Tourism creates jobs in hotels, transport, and services."
+    },
+    {
+      "id": "tr_107",
+      "question": "Which strategy helps destinations remain competitive?",
+      "options": [
+        "Ignoring tourist feedback",
+        "Product diversification",
+        "Raising prices excessively",
+        "Limiting attractions"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Strategy",
+      "difficulty": "medium",
+      "explanation": "Diversifying attractions reduces reliance on a single market."
+    },
+    {
+      "id": "tr_108",
+      "question": "A major role of government in tourism development is to:",
+      "options": [
+        "Operate hotels",
+        "Provide policy and infrastructure",
+        "Control tourist behavior",
+        "Replace private investors"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Governance",
+      "difficulty": "easy",
+      "explanation": "Governments provide frameworks and basic infrastructure."
+    },
+    {
+      "id": "tr_109",
+      "question": "Which tourism trend focuses on authentic local experiences?",
+      "options": [
+        "Mass tourism",
+        "Experiential tourism",
+        "Transit tourism",
+        "Package tourism"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Trends",
+      "difficulty": "easy",
+      "explanation": "Experiential tourism emphasizes meaningful local interaction."
+    },
+    {
+      "id": "tr_110",
+      "question": "Which factor most affects international tourism demand?",
+      "options": [
+        "Exchange rates",
+        "Local weather only",
+        "Population growth",
+        "Tour guide availability"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Demand",
+      "difficulty": "medium",
+      "explanation": "Favorable exchange rates make destinations more affordable."
+    },
+
+    {
+      "id": "tr_111",
+      "question": "Tourism carrying capacity helps prevent:",
+      "options": [
+        "Economic growth",
+        "Environmental degradation",
+        "Job creation",
+        "Infrastructure development"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Management",
+      "difficulty": "hard",
+      "explanation": "Exceeding capacity damages natural and social environments."
+    },
+    {
+      "id": "tr_112",
+      "question": "Which sector supplies services directly to tourists?",
+      "options": [
+        "Primary sector",
+        "Secondary sector",
+        "Tertiary sector",
+        "Quaternary sector"
+      ],
+      "correctIndex": 2,
+      "topic": "Tourism Industry",
+      "difficulty": "easy",
+      "explanation": "Tourism belongs mainly to the service (tertiary) sector."
+    },
+    {
+      "id": "tr_113",
+      "question": "Which global issue currently poses the greatest challenge to tourism?",
+      "options": [
+        "Technological growth",
+        "Climate change",
+        "Cultural exchange",
+        "Infrastructure expansion"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Challenges",
+      "difficulty": "hard",
+      "explanation": "Climate change affects destinations, seasons, and safety."
+    },
+    {
+      "id": "tr_114",
+      "question": "Which tourism policy tool encourages responsible behavior?",
+      "options": [
+        "Environmental regulations",
+        "Price dumping",
+        "Over-promotion",
+        "Unplanned development"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Policy",
+      "difficulty": "medium",
+      "explanation": "Regulations protect resources and communities."
+    },
+    {
+      "id": "tr_115",
+      "question": "Tourism development is most successful when:",
+      "options": [
+        "Local communities are excluded",
+        "Stakeholders collaborate",
+        "Short-term profits dominate",
+        "Environmental issues are ignored"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Development",
+      "difficulty": "medium",
+      "explanation": "Collaboration ensures balanced benefits."
+    },
+
+    {
+      "id": "tr_116",
+      "question": "Which factor enhances destination image most effectively?",
+      "options": [
+        "Negative media reports",
+        "Quality service delivery",
+        "High crime rates",
+        "Environmental pollution"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Marketing",
+      "difficulty": "easy",
+      "explanation": "Positive experiences build strong destination images."
+    },
+    {
+      "id": "tr_117",
+      "question": "A key indicator of sustainable tourism is:",
+      "options": [
+        "Rapid visitor growth",
+        "Long-term environmental protection",
+        "Short-term profits",
+        "High tourist congestion"
+      ],
+      "correctIndex": 1,
+      "topic": "Sustainable Tourism",
+      "difficulty": "hard",
+      "explanation": "Sustainability focuses on future resource availability."
+    },
+    {
+      "id": "tr_118",
+      "question": "Which tourism activity best promotes cultural preservation?",
+      "options": [
+        "Community-based tourism",
+        "Mass tourism",
+        "Transit tourism",
+        "Cruise tourism"
+      ],
+      "correctIndex": 0,
+      "topic": "Tourism Types",
+      "difficulty": "medium",
+      "explanation": "Community-based tourism involves and benefits locals."
+    },
+    {
+      "id": "tr_119",
+      "question": "The long-term success of tourism depends mainly on:",
+      "options": [
+        "Environmental sustainability",
+        "Overdevelopment",
+        "Tourist exploitation",
+        "Cultural erosion"
+      ],
+      "correctIndex": 0,
+      "topic": "Future of Tourism",
+      "difficulty": "hard",
+      "explanation": "Protecting resources ensures continued tourism viability."
+    },
+    {
+      "id": "tr_120",
+      "question": "Which concept best summarizes modern tourism development?",
+      "options": [
+        "Growth without limits",
+        "Sustainable and responsible tourism",
+        "Isolation of destinations",
+        "Short-term exploitation"
+      ],
+      "correctIndex": 1,
+      "topic": "Modern Tourism",
+      "difficulty": "hard",
+      "explanation": "Modern tourism emphasizes responsibility and sustainability."
+    }
+ 
+
+  
+
+
+  ]
+}

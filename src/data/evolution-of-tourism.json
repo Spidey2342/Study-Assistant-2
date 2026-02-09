@@ -1,0 +1,994 @@
+{
+  "courseId": "evolution-of-tourism",
+  "title": "Evolution and Development of Tourism",
+  "icon": "🌍",
+  "questions": [
+    {
+      "id": "et_001",
+      "question": "Tourism is best described as the movement of people primarily for?",
+      "options": ["Migration", "Leisure and business", "Survival", "Education only"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_002",
+      "question": "The earliest form of travel was mainly for?",
+      "options": ["Leisure", "Religion", "Survival", "Education"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_003",
+      "question": "The Paleolithic Age dates approximately to?",
+      "options": ["10,000 BC", "32,000–10,000 BC", "5th century AD", "1600–1800"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_004",
+      "question": "Which activity mainly caused movement during the Paleolithic Age?",
+      "options": ["Trade", "Hunting", "Pilgrimage", "Education"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_005",
+      "question": "Travel during the Paleolithic Age was mostly done?",
+      "options": ["By boats", "On animals", "On foot", "By carts"],
+      "correctIndex": 2
+    },
+
+    {
+      "id": "et_006",
+      "question": "Which tools were used by Paleolithic travelers?",
+      "options": ["Metal tools", "Wood, stones and bones", "Machines", "Coins"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_007",
+      "question": "The Neolithic Age is associated with?",
+      "options": ["Nomadic life", "Agricultural settlement", "Industrial work", "Urban tourism"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_008",
+      "question": "A major development of the Neolithic Age was?",
+      "options": ["Air travel", "Storage of food", "Hotels", "Passports"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_009",
+      "question": "Which development helped ease travel in the Neolithic Age?",
+      "options": ["Roads", "Sailing vessels", "Railways", "Cars"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_010",
+      "question": "Travel in the Neolithic Age was closely linked to?",
+      "options": ["Sports", "Trade", "Religion", "War"],
+      "correctIndex": 1
+    },
+
+    {
+      "id": "et_011",
+      "question": "Coins were introduced mainly to?",
+      "options": ["Decorate travelers", "Ease trading", "Show wealth", "Control travel"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_012",
+      "question": "Which civilization built sailing vessels on the Nile?",
+      "options": ["Romans", "Greeks", "Egyptians", "Persians"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_013",
+      "question": "The Romans, Greeks and Egyptians are collectively called?",
+      "options": ["Ancient cultures", "Mediterranean cultures", "Eastern cultures", "Classical tourists"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_014",
+      "question": "Which sea served as a major attraction in early tourism?",
+      "options": ["Red Sea", "Black Sea", "Mediterranean Sea", "Arabian Sea"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_015",
+      "question": "The Roman Empire began under which emperor?",
+      "options": ["Julius Caesar", "Nero", "Augustus", "Constantine"],
+      "correctIndex": 2
+    },
+
+    {
+      "id": "et_016",
+      "question": "Roman tourism was supported mainly by?",
+      "options": ["Religion only", "Strong transport and security", "Agriculture", "Air transport"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_017",
+      "question": "Roman guidebooks were mainly used for?",
+      "options": ["War", "Trade", "Travel information", "Religion"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_018",
+      "question": "Which class traveled most during the Roman Empire?",
+      "options": ["Lower class", "Slaves", "Upper and middle class", "Peasants"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_019",
+      "question": "A major purpose of Roman travel was?",
+      "options": ["Exploration", "Religious worship", "Migration", "Education only"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_020",
+      "question": "Roman travelers commonly used?",
+      "options": ["Cars", "Horses and carriages", "Ships only", "Trains"],
+      "correctIndex": 1
+    },
+
+    {
+      "id": "et_021",
+      "question": "Which facilities existed in Roman tourism?",
+      "options": ["Hotels only", "Inns and bars", "Resorts", "Airports"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_022",
+      "question": "Greek tourism was strongly linked to?",
+      "options": ["War", "Arts and sports", "Trade only", "Farming"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_023",
+      "question": "The Olympic Games originated from which civilization?",
+      "options": ["Romans", "Egyptians", "Greeks", "Persians"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_024",
+      "question": "Who wrote *The Iliad* and *The Odyssey*?",
+      "options": ["Plato", "Socrates", "Homer", "Aristotle"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_025",
+      "question": "Greek philosophers contributed to tourism by?",
+      "options": ["Building roads", "Writing about the world", "Organizing tours", "Trading goods"],
+      "correctIndex": 1
+    },
+
+    {
+      "id": "et_026",
+      "question": "The Middle Ages span approximately?",
+      "options": ["1st–4th century", "5th–14th century", "14th–16th century", "18th century"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_027",
+      "question": "Tourism declined in the Middle Ages mainly due to?",
+      "options": ["Industrialization", "Fall of Rome", "Air travel", "Mass tourism"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_028",
+      "question": "Christianity influenced travel mainly through?",
+      "options": ["Trade", "Pilgrimage", "Leisure", "Education"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_029",
+      "question": "A popular pilgrimage destination was?",
+      "options": ["Paris", "Jerusalem", "Rome only", "London"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_030",
+      "question": "Charitable hospices helped tourism by?",
+      "options": ["Reducing cost of travel", "Stopping travel", "Improving war", "Building factories"],
+      "correctIndex": 0
+    },
+
+    {
+      "id": "et_031",
+      "question": "The Renaissance began mainly in?",
+      "options": ["France", "England", "Italy", "Germany"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_032",
+      "question": "The Renaissance encouraged travel for?",
+      "options": ["Survival", "Leisure and pleasure", "War", "Migration"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_033",
+      "question": "Which group built villas instead of using inns?",
+      "options": ["Lower class", "Slaves", "Upper class", "Peasants"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_034",
+      "question": "The Grand Tour was mainly for?",
+      "options": ["Farmers", "Aristocratic young men", "Soldiers", "Workers"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_035",
+      "question": "The Grand Tour period was roughly?",
+      "options": ["1400–1600", "1600–1800", "1800–1914", "1918–1939"],
+      "correctIndex": 1
+    },
+
+    {
+      "id": "et_036",
+      "question": "A key purpose of the Grand Tour was?",
+      "options": ["Entertainment only", "Cultural education", "War training", "Trade"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_037",
+      "question": "Which country was NOT a common Grand Tour destination?",
+      "options": ["France", "Rome", "Egypt", "Japan"],
+      "correctIndex": 3
+    },
+    {
+      "id": "et_038",
+      "question": "The Industrial Revolution began around?",
+      "options": ["1600", "1800", "1914", "1939"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_039",
+      "question": "Industrialization increased tourism mainly by?",
+      "options": ["Reducing population", "Increasing income", "Stopping travel", "Causing wars"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_040",
+      "question": "Mass tourism emerged strongly during?",
+      "options": ["Middle Ages", "Renaissance", "Industrial Revolution", "Prehistoric era"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_041",
+      "question": "The Industrial Revolution led to tourism mainly because of?",
+      "options": ["War", "Increased productivity and income", "Religious travel", "Colonization"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_042",
+      "question": "The Industrial Revolution period is best dated as?",
+      "options": ["1600–1800", "1800–1914", "1918–1939", "1939–1945"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_043",
+      "question": "A major social change during the Industrial Revolution was?",
+      "options": ["Urban migration", "Decline in population", "End of trade", "Less travel"],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_044",
+      "question": "Which group increased significantly during the Industrial Revolution?",
+      "options": ["Slaves", "Middle class", "Peasants", "Nomads"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_045",
+      "question": "Industrial pollution mainly resulted from?",
+      "options": ["Agriculture", "Factories", "Tourism", "Transport"],
+      "correctIndex": 1
+    },
+
+    {
+      "id": "et_046",
+      "question": "Travel during the Industrial Revolution was mainly for?",
+      "options": ["War", "Leisure and health", "Religion", "Migration"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_047",
+      "question": "Spa and health resorts became popular because of?",
+      "options": ["Illness outbreaks", "Leisure travel demand", "Religion", "Education"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_048",
+      "question": "Who is regarded as the pioneer of the modern tourism industry?",
+      "options": ["Marco Polo", "Thomas Cook", "James Watt", "Henry Ford"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_049",
+      "question": "Thomas Cook organized his first tour in?",
+      "options": ["1800", "1841", "1914", "1939"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_050",
+      "question": "Thomas Cook’s first tour was from Leicester to?",
+      "options": ["London", "Rome", "Loughborough", "Paris"],
+      "correctIndex": 2
+    },
+
+    {
+      "id": "et_051",
+      "question": "Which transport did Thomas Cook use for his first tour?",
+      "options": ["Boat", "Horse carriage", "Chartered train", "Bus"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_052",
+      "question": "Thomas Cook’s tour package included all EXCEPT?",
+      "options": ["Transport", "Accommodation", "Activities", "Air travel"],
+      "correctIndex": 3
+    },
+    {
+      "id": "et_053",
+      "question": "Thomas Cook’s innovation led directly to?",
+      "options": ["Elite tourism", "Mass tourism", "Religious tourism", "Medical tourism"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_054",
+      "question": "The concept of a packaged tour means?",
+      "options": [
+        "Buying services separately",
+        "Travel without accommodation",
+        "Combined travel services sold together",
+        "Free travel services"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_055",
+      "question": "Which period marked the rise of mass tourism?",
+      "options": [
+        "Middle Ages",
+        "Renaissance",
+        "Industrial Revolution",
+        "Prehistoric era"
+      ],
+      "correctIndex": 2
+    },
+
+    {
+      "id": "et_056",
+      "question": "World War I occurred between?",
+      "options": ["1914–1918", "1918–1939", "1939–1945", "1800–1914"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_057",
+      "question": "World War I involved mainly?",
+      "options": ["One continent", "Two countries", "Global alliances", "Tourists"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_058",
+      "question": "During World War I, resources were mostly used for?",
+      "options": ["Tourism development", "Military production", "Education", "Leisure travel"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_059",
+      "question": "A major technological advancement from World War I was?",
+      "options": ["Hotels", "Radio communication", "Factories", "Coins"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_060",
+      "question": "Which transport system improved significantly due to World War I?",
+      "options": ["Railways", "Air transport", "Sea transport", "Animal transport"],
+      "correctIndex": 1
+    },
+
+    {
+      "id": "et_061",
+      "question": "Advances from World War I later benefited?",
+      "options": ["Agriculture", "Tourism", "Religion", "Mining"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_062",
+      "question": "The introduction of passports became common after?",
+      "options": ["Industrial Revolution", "World War I", "Renaissance", "Prehistoric era"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_063",
+      "question": "Camping became popular mainly during?",
+      "options": ["Renaissance", "World War I era", "Middle Ages", "Grand Tour"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_064",
+      "question": "Small lodging facilities were established mainly?",
+      "options": [
+        "Near factories",
+        "Along transport routes",
+        "In villages",
+        "In palaces"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_065",
+      "question": "Resorts developed mainly in which areas?",
+      "options": [
+        "Deserts only",
+        "Coastal and mountain areas",
+        "Urban slums",
+        "Industrial zones"
+      ],
+      "correctIndex": 1
+    },
+
+    {
+      "id": "et_066",
+      "question": "World War II occurred between?",
+      "options": ["1918–1939", "1939–1945", "1945–1960", "1800–1914"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_067",
+      "question": "World War II involved?",
+      "options": [
+        "Only Europe",
+        "Only Asia",
+        "Virtually every part of the world",
+        "Only Africa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_068",
+      "question": "The economic crisis associated with World War II was?",
+      "options": ["Industrial Boom", "Great Depression", "Oil crisis", "Recession"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_069",
+      "question": "After World War II, wartime industries were converted into?",
+      "options": [
+        "Military bases",
+        "Consumer goods industries",
+        "Farms",
+        "Tourist centers"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_070",
+      "question": "Technological advancement after World War II led to?",
+      "options": [
+        "Decline in tourism",
+        "Growth of mass tourism",
+        "End of travel",
+        "Limited transport"
+      ],
+      "correctIndex": 1
+    },
+
+    {
+      "id": "et_071",
+      "question": "Automobile advancement mainly improved?",
+      "options": [
+        "Accommodation",
+        "Food services",
+        "Transportation infrastructure",
+        "Religion"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_072",
+      "question": "Which factor made long-distance tourism easier after wars?",
+      "options": ["Horses", "Improved transport systems", "Walking", "Trade"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_073",
+      "question": "Tourism after World War II can best be described as?",
+      "options": ["Elite tourism", "Restricted tourism", "Mass tourism", "Pilgrimage tourism"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_074",
+      "question": "The expansion of resorts after wars was driven by?",
+      "options": [
+        "Fear of travel",
+        "Increased leisure time",
+        "Religious rules",
+        "Agricultural work"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_075",
+      "question": "Which document became compulsory for international travel?",
+      "options": ["Visa", "Passport", "Ticket", "Permit"],
+      "correctIndex": 1
+    },
+
+    {
+      "id": "et_076",
+      "question": "Tourism growth after World War II was mainly due to?",
+      "options": [
+        "Economic decline",
+        "Technological progress",
+        "Reduced income",
+        "Travel restrictions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_077",
+      "question": "The war period indirectly contributed to tourism by?",
+      "options": [
+        "Destroying roads",
+        "Advancing communication",
+        "Reducing transport",
+        "Limiting innovation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_078",
+      "question": "Which form of tourism expanded rapidly after WWII?",
+      "options": [
+        "Nomadic tourism",
+        "Domestic tourism",
+        "Mass international tourism",
+        "Religious tourism only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_079",
+      "question": "Post-war tourism was characterized by?",
+      "options": [
+        "Limited movement",
+        "Affordable travel",
+        "Elite travel only",
+        "Travel bans"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_080",
+      "question": "World wars influenced tourism mainly through?",
+      "options": [
+        "Cultural isolation",
+        "Technological and transport development",
+        "Ending leisure",
+        "Reducing communication"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_081",
+      "question": "Tourism in the 20th century is mainly characterized by?",
+      "options": ["Elite travel", "Mass participation", "Nomadic travel", "Religious travel only"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_082",
+      "question": "Mass tourism refers to?",
+      "options": [
+        "Travel by few people",
+        "Large numbers of people travelling",
+        "Business travel only",
+        "Local movement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_083",
+      "question": "One key feature of mass tourism is?",
+      "options": ["High cost", "Limited access", "Large scale operations", "Restricted travel"],
+      "correctIndex": 2
+    },
+    {
+      "id": "et_084",
+      "question": "Which factor mainly encouraged mass tourism?",
+      "options": ["Improved transport", "Decline in income", "Travel bans", "War"],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_085",
+      "question": "Market segmentation in tourism means?",
+      "options": [
+        "Dividing tourists into groups",
+        "Reducing tourists",
+        "Stopping tourism",
+        "Encouraging migration"
+      ],
+      "correctIndex": 0
+    },
+
+    {
+      "id": "et_086",
+      "question": "Tourism segmentation may be based on all EXCEPT?",
+      "options": ["Age", "Gender", "Country", "Religion only"],
+      "correctIndex": 3
+    },
+    {
+      "id": "et_087",
+      "question": "Destinations use segmentation mainly to?",
+      "options": [
+        "Restrict visitors",
+        "Attract specific tourists",
+        "Increase wars",
+        "Reduce income"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_088",
+      "question": "Branding destinations helps to?",
+      "options": [
+        "Confuse tourists",
+        "Differentiate destinations",
+        "Reduce tourism",
+        "Limit travel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_089",
+      "question": "Which is an example of a tourism segment?",
+      "options": [
+        "Medical tourists",
+        "All travelers",
+        "Local residents",
+        "Migrants"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_090",
+      "question": "Large-scale tourism investment mainly affects?",
+      "options": [
+        "Only tourists",
+        "Economies",
+        "Religion",
+        "Culture alone"
+      ],
+      "correctIndex": 1
+    },
+
+    {
+      "id": "et_091",
+      "question": "Tourism investment can lead to?",
+      "options": [
+        "Job creation",
+        "Population decline",
+        "Reduced income",
+        "Transport breakdown"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_092",
+      "question": "Which sector benefits directly from tourism investment?",
+      "options": ["Agriculture", "Hospitality", "Mining", "Fishing only"],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_093",
+      "question": "One negative impact of mass tourism is?",
+      "options": [
+        "Employment",
+        "Environmental degradation",
+        "Cultural exchange",
+        "Economic growth"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_094",
+      "question": "Sustainable tourism aims to?",
+      "options": [
+        "Destroy resources",
+        "Protect future resources",
+        "Increase pollution",
+        "Discourage tourists"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_095",
+      "question": "Tourism sustainability balances?",
+      "options": [
+        "Economy only",
+        "Environment only",
+        "Economic, social and environmental needs",
+        "Tourists’ interests only"
+      ],
+      "correctIndex": 2
+    },
+
+    {
+      "id": "et_096",
+      "question": "Governments play what role in tourism?",
+      "options": [
+        "Regulator",
+        "Spectator",
+        "Tourist",
+        "Importer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_097",
+      "question": "Which is a government responsibility in tourism?",
+      "options": [
+        "Setting regulations",
+        "Running tours only",
+        "Selling souvenirs",
+        "Traveling abroad"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_098",
+      "question": "Governments encourage tourism mainly to?",
+      "options": [
+        "Increase revenue",
+        "Cause pollution",
+        "Reduce travel",
+        "Promote war"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_099",
+      "question": "Private investors in tourism are mainly?",
+      "options": [
+        "Players in development",
+        "Regulators",
+        "Law enforcers",
+        "Policy makers"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_100",
+      "question": "Which organization type mostly drives tourism services?",
+      "options": [
+        "Private sector",
+        "Military",
+        "Religious bodies",
+        "Schools"
+      ],
+      "correctIndex": 0
+    },
+
+    {
+      "id": "et_101",
+      "question": "Public-private partnerships in tourism help to?",
+      "options": [
+        "Share resources",
+        "Create conflict",
+        "Reduce quality",
+        "Stop tourism"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_102",
+      "question": "Tourism today is best described as?",
+      "options": [
+        "Static industry",
+        "Dynamic industry",
+        "Declining industry",
+        "Seasonal only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_103",
+      "question": "Technology influences modern tourism through?",
+      "options": [
+        "Online booking",
+        "Reduced access",
+        "Limited information",
+        "Manual systems only"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_104",
+      "question": "Digital platforms mainly help tourists by?",
+      "options": [
+        "Increasing confusion",
+        "Providing easy access to information",
+        "Restricting choices",
+        "Ending travel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "et_105",
+      "question": "Which trend is common in modern tourism?",
+      "options": [
+        "Personalized travel",
+        "Uniform travel",
+        "Restricted travel",
+        "No planning"
+      ],
+      "correctIndex": 0
+    },
+
+    {
+      "id": "et_106",
+      "question": "Cultural tourism focuses mainly on?",
+      "options": [
+        "Heritage and traditions",
+        "Business meetings",
+        "Medical treatment",
+        "Sports only"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_107",
+      "question": "Eco-tourism promotes?",
+      "options": [
+        "Environmental conservation",
+        "Mass pollution",
+        "Urban expansion",
+        "Industrial growth"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_108",
+      "question": "Adventure tourism is associated with?",
+      "options": [
+        "High risk activities",
+        "Office work",
+        "Religious worship",
+        "Business meetings"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_109",
+      "question": "Medical tourism involves travel for?",
+      "options": [
+        "Treatment",
+        "Shopping",
+        "Religion",
+        "Sports"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_110",
+      "question": "Domestic tourism refers to?",
+      "options": [
+        "Travel within one’s own country",
+        "International travel",
+        "Migration",
+        "Study abroad"
+      ],
+      "correctIndex": 0
+    },
+
+    {
+      "id": "et_111",
+      "question": "International tourism involves?",
+      "options": [
+        "Cross-border travel",
+        "Local travel",
+        "Village movement",
+        "Daily commuting"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_112",
+      "question": "A major benefit of tourism to host countries is?",
+      "options": [
+        "Foreign exchange earnings",
+        "Population loss",
+        "Cultural erosion only",
+        "Environmental damage"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_113",
+      "question": "Which factor is essential for future tourism growth?",
+      "options": [
+        "Sustainability",
+        "Overcrowding",
+        "Pollution",
+        "Resource depletion"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_114",
+      "question": "Tourism policies are mainly formulated by?",
+      "options": [
+        "Governments",
+        "Tourists",
+        "Hotels",
+        "Drivers"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_115",
+      "question": "The role of government in tourism has changed to include?",
+      "options": [
+        "Regulation and promotion",
+        "Traveling only",
+        "Limiting tourists",
+        "Ignoring investors"
+      ],
+      "correctIndex": 0
+    },
+
+    {
+      "id": "et_116",
+      "question": "Which stakeholder provides capital for tourism projects?",
+      "options": [
+        "Investors",
+        "Tourists",
+        "Guides",
+        "Drivers"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_117",
+      "question": "Tourism creates employment mainly in?",
+      "options": [
+        "Service industries",
+        "Mining",
+        "Manufacturing only",
+        "Agriculture only"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_118",
+      "question": "One challenge of modern tourism is?",
+      "options": [
+        "Overtourism",
+        "Lack of transport",
+        "No demand",
+        "Isolation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_119",
+      "question": "Responsible tourism encourages tourists to?",
+      "options": [
+        "Respect local culture",
+        "Exploit resources",
+        "Ignore communities",
+        "Increase pollution"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "et_120",
+      "question": "The future of tourism depends largely on?",
+      "options": [
+        "Sustainable practices",
+        "Uncontrolled expansion",
+        "War",
+        "Resource exhaustion"
+      ],
+      "correctIndex": 0
+    }
+  
+  ]
+}

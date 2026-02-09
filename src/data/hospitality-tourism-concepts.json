@@ -1,0 +1,1436 @@
+{
+  "courseId": "hospitality-tourism-concepts",
+  "title": "Hospitality and Tourism Concepts",
+  "icon": "🏨",
+  "questions": [
+    {
+      "id": "ht_001",
+      "question": "According to the Cambridge International Dictionary, travel means?",
+      "options": [
+        "To relocate permanently",
+        "To make a journey, usually over a long distance",
+        "To migrate for work",
+        "To move within a city"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "The Cambridge definition emphasizes making a journey, often over a long distance."
+    },
+    {
+      "id": "ht_002",
+      "question": "Which dictionary defines travel as going from place to place, especially abroad?",
+      "options": [
+        "Oxford Dictionary",
+        "Cambridge Dictionary",
+        "Chambers Encyclopedia Dictionary",
+        "Webster Dictionary"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "explanation": "The Chambers Encyclopedia Dictionary highlights movement from place to place, especially abroad."
+    },
+    {
+      "id": "ht_003",
+      "question": "Which of the following is NOT a characteristic of travel?",
+      "options": [
+        "Movement",
+        "Distance",
+        "Permanent settlement",
+        "Traveller"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "explanation": "Travel involves temporary movement, not permanent settlement."
+    },
+    {
+      "id": "ht_004",
+      "question": "The person at the center of travel activity is referred to as the?",
+      "options": [
+        "Tour operator",
+        "Host",
+        "Traveller",
+        "Resident"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "explanation": "Travel focuses on the individual or group moving from one place to another."
+    },
+    {
+      "id": "ht_005",
+      "question": "Travel involves which three geographic elements?",
+      "options": [
+        "Home, hotel, airport",
+        "Origin, destination, route",
+        "City, country, continent",
+        "Departure, arrival, return"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "Travel starts at an origin, ends at a destination, and follows a route in between."
+    },
+
+    {
+      "id": "ht_006",
+      "question": "Distance in travel implies that the traveller moves?",
+      "options": [
+        "Within their home",
+        "Far from their usual environment",
+        "Only for leisure",
+        "Within city limits"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "Distance separates travel from daily commuting."
+    },
+    {
+      "id": "ht_007",
+      "question": "The word 'tour' originates from Latin and Greek words meaning?",
+      "options": [
+        "Journey and rest",
+        "Movement around a circle",
+        "Exploration",
+        "Migration"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "‘Tornare’ and ‘tornos’ refer to circular movement."
+    },
+    {
+      "id": "ht_008",
+      "question": "Tourism is best described as a?",
+      "options": [
+        "Permanent relocation",
+        "Process or activity",
+        "Business transaction",
+        "Religious duty"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "Tourism involves activities and processes undertaken by tourists."
+    },
+    {
+      "id": "ht_009",
+      "question": "The person who undertakes tourism is known as a?",
+      "options": [
+        "Traveller",
+        "Visitor",
+        "Tourist",
+        "Host"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "explanation": "A tourist is someone who engages in tourism activities."
+    },
+    {
+      "id": "ht_010",
+      "question": "Mathieson and Wall define tourism as?",
+      "options": [
+        "Permanent movement for work",
+        "Temporary movement outside normal residence",
+        "Daily commuting",
+        "Seasonal migration"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "Their definition emphasizes temporary movement and related activities."
+    },
+
+    {
+      "id": "ht_011",
+      "question": "According to WTO, tourism travel should not exceed?",
+      "options": [
+        "Six months",
+        "One year",
+        "Two years",
+        "Five years"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "Tourism involves travel for not more than one consecutive year."
+    },
+    {
+      "id": "ht_012",
+      "question": "Which of the following is NOT a component of tourism?",
+      "options": [
+        "Attraction",
+        "Accessibility",
+        "Accommodation",
+        "Industrial production"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "explanation": "Tourism components focus on visitor needs, not industrial manufacturing."
+    },
+    {
+      "id": "ht_013",
+      "question": "Transportation in tourism is also referred to as?",
+      "options": [
+        "Attraction",
+        "Accessibility",
+        "Amenity",
+        "Ancillary service"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "Accessibility ensures tourists can reach destinations."
+    },
+    {
+      "id": "ht_014",
+      "question": "Ancillary services include?",
+      "options": [
+        "Hotels only",
+        "Forex bureaus and banks",
+        "Tourist attractions",
+        "Airlines"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "Ancillary services support tourism activities."
+    },
+    {
+      "id": "ht_015",
+      "question": "Which tourism characteristic means services cannot be touched before purchase?",
+      "options": [
+        "Perishability",
+        "Inseparability",
+        "Intangibility",
+        "Variability"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "explanation": "Tourism products are intangible services."
+    },
+
+    {
+      "id": "ht_016",
+      "question": "Perishability in tourism means?",
+      "options": [
+        "Services can be stored",
+        "Unused services cannot be recovered",
+        "Tourists perish",
+        "Products expire physically"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "An empty hotel room represents lost revenue."
+    },
+    {
+      "id": "ht_017",
+      "question": "Heterogeneity in tourism is mainly caused by?",
+      "options": [
+        "Technology",
+        "Human involvement",
+        "Machines",
+        "Standard pricing"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "Human behavior causes variation in service delivery."
+    },
+    {
+      "id": "ht_018",
+      "question": "Inseparability means production and consumption occur?",
+      "options": [
+        "Separately",
+        "At different times",
+        "At the same time and place",
+        "In different countries"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "explanation": "Tourism services are consumed where they are produced."
+    },
+    {
+      "id": "ht_019",
+      "question": "In-situ consumption means tourism products are consumed?",
+      "options": [
+        "At home",
+        "At the destination",
+        "Online",
+        "In transit"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "Tourism experiences occur at the destination."
+    },
+    {
+      "id": "ht_020",
+      "question": "Complementarity in tourism means?",
+      "options": [
+        "Services operate independently",
+        "One service affects another",
+        "Only hotels matter",
+        "Tourism is isolated"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "Poor transport can affect hotel satisfaction."
+    },
+
+    {
+      "id": "ht_021",
+      "question": "Domestic tourism involves travel?",
+      "options": [
+        "Outside one’s country",
+        "Within one’s country",
+        "For business only",
+        "Across continents"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "Domestic tourism occurs within national boundaries."
+    },
+    {
+      "id": "ht_022",
+      "question": "International tourism includes?",
+      "options": [
+        "Domestic tourism only",
+        "Inbound and outbound tourism",
+        "Internal tourism only",
+        "National tourism only"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "It covers both entering and leaving a country."
+    },
+    {
+      "id": "ht_023",
+      "question": "National tourism comprises?",
+      "options": [
+        "Inbound tourism only",
+        "Domestic and outbound tourism",
+        "Inbound and domestic tourism",
+        "Outbound tourism only"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "National tourism combines domestic and outbound travel."
+    },
+    {
+      "id": "ht_024",
+      "question": "Internal tourism consists of?",
+      "options": [
+        "Domestic and inbound tourism",
+        "Outbound tourism only",
+        "International tourism only",
+        "National tourism only"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "explanation": "It covers residents and foreign visitors within a country."
+    },
+    {
+      "id": "ht_025",
+      "question": "The word hospitality originates from which language?",
+      "options": [
+        "Greek",
+        "Old French",
+        "German",
+        "Arabic"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "The word comes from the Old French term ‘hospice’."
+    },
+
+    {
+      "id": "ht_026",
+      "question": "Hospice originally referred to?",
+      "options": [
+        "Luxury hotels",
+        "Houses of rest for travellers",
+        "Restaurants",
+        "Airports"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "Hospices provided shelter and care for travellers."
+    },
+    {
+      "id": "ht_027",
+      "question": "The Latin word 'hospitium' means?",
+      "options": [
+        "Journey",
+        "Guesthouse",
+        "Travel",
+        "Tour"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "Hospitium translates to guesthouse."
+    },
+    {
+      "id": "ht_028",
+      "question": "Hospitality focuses mainly on?",
+      "options": [
+        "Transportation",
+        "Reception and entertainment of guests",
+        "Attractions",
+        "Tour guiding"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "Hospitality centers on guest care and comfort."
+    },
+    {
+      "id": "ht_029",
+      "question": "Harris and Howard emphasize hospitality as?",
+      "options": [
+        "Profit making",
+        "Empathy and kindness",
+        "Tour operation",
+        "Accommodation only"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "Their definition highlights care and concern for guests."
+    },
+    {
+      "id": "ht_030",
+      "question": "Which is NOT a major sector of hospitality and tourism?",
+      "options": [
+        "Accommodation",
+        "Food and beverage",
+        "Manufacturing",
+        "Transportation"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "explanation": "Manufacturing is not a hospitality sector."
+    },
+
+    {
+      "id": "ht_031",
+      "question": "Hotels and resorts fall under which sector?",
+      "options": [
+        "Food and beverage",
+        "Accommodation",
+        "Transportation",
+        "Attractions"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "Accommodation provides lodging services."
+    },
+    {
+      "id": "ht_032",
+      "question": "Restaurants and cafes belong to?",
+      "options": [
+        "Accommodation",
+        "Food and beverage",
+        "Transportation",
+        "Events"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "They provide food services to tourists."
+    },
+    {
+      "id": "ht_033",
+      "question": "Airlines and railways fall under?",
+      "options": [
+        "Accommodation",
+        "Transportation",
+        "Attractions",
+        "Ancillary services"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "They move tourists between destinations."
+    },
+    {
+      "id": "ht_034",
+      "question": "Kakum National Park is an example of?",
+      "options": [
+        "Cultural attraction",
+        "Natural attraction",
+        "Event tourism",
+        "Accommodation"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "It is a natural tourism attraction in Ghana."
+    },
+    {
+      "id": "ht_035",
+      "question": "Cape Coast Castle is classified as?",
+      "options": [
+        "Natural attraction",
+        "Cultural and historical attraction",
+        "Entertainment venue",
+        "Accommodation"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "It represents historical and cultural heritage."
+    },
+
+    {
+      "id": "ht_036",
+      "question": "MICE tourism relates to?",
+      "options": [
+        "Leisure travel",
+        "Business tourism",
+        "Religious tourism",
+        "Adventure tourism"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "explanation": "MICE focuses on meetings and business events."
+    },
+    {
+      "id": "ht_037",
+      "question": "MICE stands for?",
+      "options": [
+        "Meetings, Incentives, Conferences, Exhibitions",
+        "Markets, Investment, Culture, Events",
+        "Management, Innovation, Conferences, Entertainment",
+        "Meetings, Industry, Culture, Exhibitions"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "explanation": "MICE is a major component of business tourism."
+    },
+    {
+      "id": "ht_038",
+      "question": "Events and conferences mainly boost?",
+      "options": [
+        "Local economies",
+        "Pollution",
+        "Migration",
+        "Agriculture"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "explanation": "They generate income and employment locally."
+    },
+    {
+      "id": "ht_039",
+      "question": "Hospitality and tourism industries are best described as?",
+      "options": [
+        "Product-based",
+        "Service-based",
+        "Manufacturing-based",
+        "Agriculture-based"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "They primarily deliver services rather than goods."
+    },
+    {
+      "id": "ht_040",
+      "question": "The main goal of hospitality is to?",
+      "options": [
+        "Sell products",
+        "Ensure guest satisfaction",
+        "Control travel",
+        "Restrict tourists"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "explanation": "Hospitality focuses on comfort, care, and satisfaction."
+    },
+    {
+  "id": "ep_041",
+  "question": "Which of the following best describes travel?",
+  "options": [
+    "Staying within one location permanently",
+    "Movement from one place to another, usually over a long distance",
+    "Daily commuting to work",
+    "Online exploration of places"
+  ],
+  "correctIndex": 1,
+  "topic": "Travel",
+  "difficulty": "easy",
+  "explanation": "Travel involves making a journey, usually over a long distance, as defined in dictionaries."
+},
+{
+  "id": "ep_042",
+  "question": "Which element is central to the concept of travel?",
+  "options": ["Distance", "Transport", "Traveller", "Destination"],
+  "correctIndex": 2,
+  "topic": "Travel",
+  "difficulty": "medium",
+  "explanation": "The traveller is the central element, as travel focuses on people moving from one place to another."
+},
+{
+  "id": "ep_043",
+  "question": "Which of the following is NOT a geographic component of travel?",
+  "options": ["Origin", "Route", "Destination", "Accommodation"],
+  "correctIndex": 3,
+  "topic": "Characteristics of Travel",
+  "difficulty": "medium",
+  "explanation": "Travel geography includes origin, route, and destination. Accommodation is a tourism service."
+},
+{
+  "id": "ep_044",
+  "question": "Distance in travel implies that the traveller moves:",
+  "options": [
+    "Within the same building",
+    "To a far place away from normal environment",
+    "Only within a city",
+    "Without leaving home"
+  ],
+  "correctIndex": 1,
+  "topic": "Characteristics of Travel",
+  "difficulty": "easy",
+  "explanation": "Distance refers to travelling far away from one’s place of abode and work."
+},
+{
+  "id": "ep_045",
+  "question": "The word tourism is derived from which meaning?",
+  "options": [
+    "Straight movement",
+    "Random travel",
+    "Circular movement around a point",
+    "Permanent migration"
+  ],
+  "correctIndex": 2,
+  "topic": "Tourism",
+  "difficulty": "medium",
+  "explanation": "Tourism comes from 'tour', meaning movement around a central point or axis."
+},
+{
+  "id": "ep_046",
+  "question": "Which language roots are associated with the origin of the word 'tour'?",
+  "options": [
+    "English and German",
+    "Latin and Greek",
+    "French and Spanish",
+    "Arabic and Latin"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism",
+  "difficulty": "medium",
+  "explanation": "The word 'tour' is traced to Latin 'tornare' and Greek 'tornos'."
+},
+{
+  "id": "ep_047",
+  "question": "According to Mathieson and Wall (1982), tourism involves:",
+  "options": [
+    "Permanent relocation",
+    "Temporary movement outside normal residence",
+    "Daily commuting",
+    "Online activities only"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Definitions",
+  "difficulty": "hard",
+  "explanation": "Tourism is defined as temporary movement of people outside their normal place of residence."
+},
+{
+  "id": "ep_048",
+  "question": "The WTO definition limits tourism travel duration to:",
+  "options": [
+    "Not more than one week",
+    "Not more than six months",
+    "Not more than one consecutive year",
+    "Unlimited duration"
+  ],
+  "correctIndex": 2,
+  "topic": "Tourism Definitions",
+  "difficulty": "medium",
+  "explanation": "The WTO defines tourism as travel for not more than one consecutive year."
+},
+{
+  "id": "ep_049",
+  "question": "Which of the following is NOT a component of tourism?",
+  "options": [
+    "Attractions",
+    "Accessibility",
+    "Accommodation",
+    "Manufacturing"
+  ],
+  "correctIndex": 3,
+  "topic": "Components of Tourism",
+  "difficulty": "easy",
+  "explanation": "Manufacturing is not a tourism component."
+},
+{
+  "id": "ep_050",
+  "question": "Accessibility in tourism mainly refers to:",
+  "options": [
+    "Hotel comfort",
+    "Transportation to destinations",
+    "Tourist attractions",
+    "Currency exchange"
+  ],
+  "correctIndex": 1,
+  "topic": "Components of Tourism",
+  "difficulty": "easy",
+  "explanation": "Accessibility focuses on transportation systems."
+},
+{
+  "id": "ep_051",
+  "question": "Ancillary services in tourism include:",
+  "options": [
+    "Hotels only",
+    "Tourist attractions",
+    "Forex bureaus and support services",
+    "Airports only"
+  ],
+  "correctIndex": 2,
+  "topic": "Components of Tourism",
+  "difficulty": "medium",
+  "explanation": "Ancillary services support tourism activities, such as forex bureaus."
+},
+{
+  "id": "ep_052",
+  "question": "Which tourism characteristic means services cannot be touched or seen before purchase?",
+  "options": [
+    "Perishability",
+    "Intangibility",
+    "Inseparability",
+    "Variability"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Industry Characteristics",
+  "difficulty": "easy",
+  "explanation": "Tourism products are intangible."
+},
+{
+  "id": "ep_053",
+  "question": "Revenue lost due to unsold hotel rooms relates to which characteristic?",
+  "options": [
+    "Intangibility",
+    "Perishability",
+    "Complementarity",
+    "In-situ consumption"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Industry Characteristics",
+  "difficulty": "medium",
+  "explanation": "Tourism services cannot be stored; unsold capacity is lost."
+},
+{
+  "id": "ep_054",
+  "question": "Which characteristic explains lack of standardization in tourism services?",
+  "options": [
+    "Perishability",
+    "Inseparability",
+    "Heterogeneity",
+    "Intangibility"
+  ],
+  "correctIndex": 2,
+  "topic": "Tourism Industry Characteristics",
+  "difficulty": "medium",
+  "explanation": "Service quality varies due to human factors."
+},
+{
+  "id": "ep_055",
+  "question": "In tourism, production and consumption occur:",
+  "options": [
+    "At different locations",
+    "At different times",
+    "Simultaneously at the same place",
+    "Only after travel ends"
+  ],
+  "correctIndex": 2,
+  "topic": "Tourism Industry Characteristics",
+  "difficulty": "medium",
+  "explanation": "This explains inseparability."
+},
+{
+  "id": "ep_056",
+  "question": "In-situ consumption means tourism products are consumed:",
+  "options": [
+    "At home",
+    "Before travel",
+    "At the destination",
+    "Online"
+  ],
+  "correctIndex": 2,
+  "topic": "Tourism Industry Characteristics",
+  "difficulty": "easy",
+  "explanation": "Tourism products are consumed where they are produced."
+},
+{
+  "id": "ep_057",
+  "question": "Complementarity in tourism implies that:",
+  "options": [
+    "Services operate independently",
+    "One service affects another",
+    "Tourism has no coordination",
+    "Only accommodation matters"
+  ],
+  "correctIndex": 1,
+  "topic": "Tourism Industry Characteristics",
+  "difficulty": "hard",
+  "explanation": "Tourism services are interdependent."
+},
+{
+  "id": "ep_058",
+  "question": "Domestic tourism refers to:",
+  "options": [
+    "Residents traveling abroad",
+    "Residents traveling within their country",
+    "Foreigners visiting a country",
+    "Business travel only"
+  ],
+  "correctIndex": 1,
+  "topic": "Forms of Tourism",
+  "difficulty": "easy",
+  "explanation": "Domestic tourism occurs within national boundaries."
+},
+{
+  "id": "ep_059",
+  "question": "International tourism includes:",
+  "options": [
+    "Domestic and internal tourism",
+    "Inbound and outbound tourism",
+    "Local travel only",
+    "Recreational tourism only"
+  ],
+  "correctIndex": 1,
+  "topic": "Forms of Tourism",
+  "difficulty": "medium",
+  "explanation": "International tourism includes inbound and outbound travel."
+},
+{
+  "id": "ep_060",
+  "question": "National tourism is made up of:",
+  "options": [
+    "Inbound tourism only",
+    "Outbound tourism only",
+    "Domestic and outbound tourism",
+    "Domestic and inbound tourism"
+  ],
+  "correctIndex": 2,
+  "topic": "Forms of Tourism",
+  "difficulty": "medium",
+  "explanation": "National tourism includes domestic and outbound tourism."
+},
+    {
+      "id": "ep_061",
+      "question": "Internal tourism consists of which combination?",
+      "options": [
+        "Domestic and outbound tourism",
+        "Domestic and inbound tourism",
+        "Inbound and outbound tourism",
+        "National and international tourism"
+      ],
+      "correctIndex": 1,
+      "topic": "Forms of Tourism",
+      "difficulty": "medium",
+      "explanation": "Internal tourism includes domestic tourism and inbound tourism."
+    },
+    {
+      "id": "ep_062",
+      "question": "Which form of tourism involves foreigners visiting a country?",
+      "options": ["Domestic", "Outbound", "Inbound", "National"],
+      "correctIndex": 2,
+      "topic": "Forms of Tourism",
+      "difficulty": "easy",
+      "explanation": "Inbound tourism refers to non-residents visiting a country."
+    },
+    {
+      "id": "ep_063",
+      "question": "Which form of tourism involves residents travelling outside their country?",
+      "options": ["Inbound", "Domestic", "Outbound", "Internal"],
+      "correctIndex": 2,
+      "topic": "Forms of Tourism",
+      "difficulty": "easy",
+      "explanation": "Outbound tourism involves residents travelling abroad."
+    },
+    {
+      "id": "ep_064",
+      "question": "Which tourism form combines domestic and outbound tourism?",
+      "options": ["Internal tourism", "International tourism", "National tourism", "Inbound tourism"],
+      "correctIndex": 2,
+      "topic": "Forms of Tourism",
+      "difficulty": "medium",
+      "explanation": "National tourism consists of domestic and outbound tourism."
+    },
+    {
+      "id": "ep_065",
+      "question": "The word 'hospitality' is derived from which Old French word?",
+      "options": ["Hospitium", "Hospice", "Hospitare", "Hostel"],
+      "correctIndex": 1,
+      "topic": "Hospitality",
+      "difficulty": "medium",
+      "explanation": "Hospitality comes from the Old French word 'hospice'."
+    },
+    {
+      "id": "ep_066",
+      "question": "Which Latin word means 'to receive as a guest'?",
+      "options": ["Hospice", "Hospitium", "Hospitare", "Tornos"],
+      "correctIndex": 2,
+      "topic": "Hospitality",
+      "difficulty": "hard",
+      "explanation": "Hospitare literally means to receive as a guest."
+    },
+    {
+      "id": "ep_067",
+      "question": "Hospitality primarily focuses on:",
+      "options": [
+        "Profit maximization",
+        "Guest reception and care",
+        "Transportation services",
+        "Tourist attractions"
+      ],
+      "correctIndex": 1,
+      "topic": "Hospitality",
+      "difficulty": "easy",
+      "explanation": "Hospitality centers on welcoming and caring for guests."
+    },
+    {
+      "id": "ep_068",
+      "question": "According to Harris and Howard, hospitality involves:",
+      "options": [
+        "Strict service rules",
+        "Entertainment only",
+        "Empathy and concern for guests",
+        "Accommodation services only"
+      ],
+      "correctIndex": 2,
+      "topic": "Hospitality Definitions",
+      "difficulty": "medium",
+      "explanation": "Hospitality emphasizes empathy, kindness, and guest well-being."
+    },
+    {
+      "id": "ep_069",
+      "question": "Van Der Wagen defines hospitality as offering:",
+      "options": [
+        "Luxury services",
+        "A welcoming environment to visitors",
+        "Transportation services",
+        "Entertainment only"
+      ],
+      "correctIndex": 1,
+      "topic": "Hospitality Definitions",
+      "difficulty": "medium",
+      "explanation": "Hospitality involves creating a welcoming environment for visitors."
+    },
+    {
+      "id": "ep_070",
+      "question": "Which sector provides lodging to tourists?",
+      "options": ["Food and Beverage", "Transportation", "Accommodation", "Recreation"],
+      "correctIndex": 2,
+      "topic": "Hospitality Sectors",
+      "difficulty": "easy",
+      "explanation": "Accommodation provides lodging services."
+    },
+
+    {
+      "id": "ep_071",
+      "question": "Hotels, hostels, and resorts fall under which sector?",
+      "options": ["Accommodation", "Transportation", "Attractions", "Events"],
+      "correctIndex": 0,
+      "topic": "Hospitality Sectors",
+      "difficulty": "easy",
+      "explanation": "These establishments provide accommodation."
+    },
+    {
+      "id": "ep_072",
+      "question": "Which sector includes restaurants and catering services?",
+      "options": ["Accommodation", "Food and Beverage", "Transportation", "Events"],
+      "correctIndex": 1,
+      "topic": "Hospitality Sectors",
+      "difficulty": "easy",
+      "explanation": "Food and Beverage covers restaurants, bars, and catering."
+    },
+    {
+      "id": "ep_073",
+      "question": "Which hospitality sector contributes significantly to local economies?",
+      "options": [
+        "Food and Beverage",
+        "Transportation",
+        "Accommodation",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "topic": "Hospitality Sectors",
+      "difficulty": "medium",
+      "explanation": "All sectors contribute to economic growth."
+    },
+    {
+      "id": "ep_074",
+      "question": "Airlines and railways belong to which sector?",
+      "options": ["Accommodation", "Transportation", "Events", "Attractions"],
+      "correctIndex": 1,
+      "topic": "Travel and Transportation",
+      "difficulty": "easy",
+      "explanation": "They facilitate movement of tourists."
+    },
+    {
+      "id": "ep_075",
+      "question": "Which is an example of a natural tourist attraction in Ghana?",
+      "options": [
+        "Cape Coast Castle",
+        "Kakum National Park",
+        "Conference Center",
+        "Hotel Resort"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Attractions",
+      "difficulty": "easy",
+      "explanation": "Kakum National Park is a natural attraction."
+    },
+    {
+      "id": "ep_076",
+      "question": "Cape Coast Castle is best classified as:",
+      "options": [
+        "Natural attraction",
+        "Cultural and historical attraction",
+        "Recreational facility",
+        "Accommodation facility"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Attractions",
+      "difficulty": "medium",
+      "explanation": "It is a historical and cultural site."
+    },
+    {
+      "id": "ep_077",
+      "question": "Which of the following is a recreational attraction?",
+      "options": ["Casino", "Airport", "Hotel", "Forex bureau"],
+      "correctIndex": 0,
+      "topic": "Tourism Attractions",
+      "difficulty": "easy",
+      "explanation": "Casinos are recreational attractions."
+    },
+    {
+      "id": "ep_078",
+      "question": "MICE tourism mainly relates to:",
+      "options": [
+        "Leisure travel",
+        "Medical tourism",
+        "Business tourism",
+        "Eco-tourism"
+      ],
+      "correctIndex": 2,
+      "topic": "MICE",
+      "difficulty": "medium",
+      "explanation": "MICE focuses on business-related travel."
+    },
+    {
+      "id": "ep_079",
+      "question": "What does the letter 'E' in MICE stand for?",
+      "options": ["Events", "Entertainment", "Exhibitions", "Economy"],
+      "correctIndex": 2,
+      "topic": "MICE",
+      "difficulty": "medium",
+      "explanation": "MICE stands for Meetings, Incentives, Conferences, and Exhibitions."
+    },
+    {
+      "id": "ep_080",
+      "question": "Which activity best represents incentive travel?",
+      "options": [
+        "Family vacation",
+        "Company-reward travel for employees",
+        "School excursion",
+        "Medical travel"
+      ],
+      "correctIndex": 1,
+      "topic": "MICE",
+      "difficulty": "hard",
+      "explanation": "Incentive travel rewards employees for performance."
+    },
+
+    {
+      "id": "ep_081",
+      "question": "Which tourism sector boosts local economies through conventions?",
+      "options": ["Accommodation", "MICE", "Transportation", "Food and Beverage"],
+      "correctIndex": 1,
+      "topic": "MICE",
+      "difficulty": "medium",
+      "explanation": "MICE events attract business visitors and spending."
+    },
+    {
+      "id": "ep_082",
+      "question": "Tourism is best described as a:",
+      "options": ["Permanent migration", "Process and activity", "Business sector only", "Leisure activity only"],
+      "correctIndex": 1,
+      "topic": "Tourism Concepts",
+      "difficulty": "medium",
+      "explanation": "Tourism is both a process and an activity."
+    },
+    {
+      "id": "ep_083",
+      "question": "The person who undertakes tourism activities is called a:",
+      "options": ["Traveller", "Visitor", "Tourist", "Resident"],
+      "correctIndex": 2,
+      "topic": "Tourism Concepts",
+      "difficulty": "easy",
+      "explanation": "A tourist is a person engaging in tourism."
+    },
+    {
+      "id": "ep_084",
+      "question": "Which feature distinguishes tourism from migration?",
+      "options": [
+        "Distance travelled",
+        "Temporary movement",
+        "Use of transport",
+        "Crossing borders"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Concepts",
+      "difficulty": "hard",
+      "explanation": "Tourism involves temporary movement, not permanent relocation."
+    },
+    {
+      "id": "ep_085",
+      "question": "Which tourism characteristic makes quality control difficult?",
+      "options": ["Perishability", "Heterogeneity", "Intangibility", "In-situ consumption"],
+      "correctIndex": 1,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "hard",
+      "explanation": "Human involvement causes variability in service quality."
+    },
+    {
+      "id": "ep_086",
+      "question": "Which tourism service cannot be stored for future sale?",
+      "options": ["Hotel room", "Flight seat", "Tour guide service", "All of the above"],
+      "correctIndex": 3,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "medium",
+      "explanation": "Tourism services are perishable."
+    },
+    {
+      "id": "ep_087",
+      "question": "Which tourism component attracts visitors to a destination?",
+      "options": ["Accessibility", "Attractions", "Amenities", "Accommodation"],
+      "correctIndex": 1,
+      "topic": "Components of Tourism",
+      "difficulty": "easy",
+      "explanation": "Attractions motivate travel."
+    },
+    {
+      "id": "ep_088",
+      "question": "Forex bureaus fall under which tourism component?",
+      "options": ["Amenities", "Ancillary services", "Attractions", "Accessibility"],
+      "correctIndex": 1,
+      "topic": "Components of Tourism",
+      "difficulty": "medium",
+      "explanation": "They support tourists financially."
+    },
+    {
+      "id": "ep_089",
+      "question": "Tourism products are consumed:",
+      "options": ["At home", "Before travel", "At the destination", "After travel"],
+      "correctIndex": 2,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "easy",
+      "explanation": "Consumption happens at the destination."
+    },
+    {
+      "id": "ep_090",
+      "question": "Which tourism activity depends heavily on other services?",
+      "options": ["Complementary services", "Independent services", "Isolated services", "Optional services"],
+      "correctIndex": 0,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "hard",
+      "explanation": "Tourism services are complementary."
+    },
+
+    {
+      "id": "ep_091",
+      "question": "Which sector directly provides meals to tourists?",
+      "options": ["Accommodation", "Transportation", "Food and Beverage", "Events"],
+      "correctIndex": 2,
+      "topic": "Hospitality Sectors",
+      "difficulty": "easy",
+      "explanation": "Food and Beverage handles meals and drinks."
+    },
+    {
+      "id": "ep_092",
+      "question": "Which tourism sector organizes trade shows?",
+      "options": ["Accommodation", "Transportation", "MICE", "Attractions"],
+      "correctIndex": 2,
+      "topic": "MICE",
+      "difficulty": "medium",
+      "explanation": "Trade shows fall under exhibitions."
+    },
+    {
+      "id": "ep_093",
+      "question": "Tourism that takes place within national borders is:",
+      "options": ["International", "Inbound", "Domestic", "Outbound"],
+      "correctIndex": 2,
+      "topic": "Forms of Tourism",
+      "difficulty": "easy",
+      "explanation": "Domestic tourism stays within a country."
+    },
+    {
+      "id": "ep_094",
+      "question": "Which tourism form benefits local residents the most?",
+      "options": ["Outbound", "Inbound", "Domestic", "International"],
+      "correctIndex": 2,
+      "topic": "Forms of Tourism",
+      "difficulty": "hard",
+      "explanation": "Domestic tourism circulates income locally."
+    },
+    {
+      "id": "ep_095",
+      "question": "Tourism involves movement away from:",
+      "options": ["Tourist attractions", "Normal environment", "Workplaces only", "Urban areas"],
+      "correctIndex": 1,
+      "topic": "Tourism Concepts",
+      "difficulty": "easy",
+      "explanation": "Tourists move away from their normal environment."
+    },
+    {
+      "id": "ep_096",
+      "question": "Which of the following best defines hospitality?",
+      "options": [
+        "Selling tourism products",
+        "Welcoming and caring for guests",
+        "Managing transportation",
+        "Providing attractions"
+      ],
+      "correctIndex": 1,
+      "topic": "Hospitality",
+      "difficulty": "easy",
+      "explanation": "Hospitality centers on guest care."
+    },
+    {
+      "id": "ep_097",
+      "question": "Which tourism characteristic makes service recovery difficult?",
+      "options": ["Perishability", "Intangibility", "Inseparability", "Complementarity"],
+      "correctIndex": 0,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "hard",
+      "explanation": "Lost service opportunities cannot be recovered."
+    },
+    {
+      "id": "ep_098",
+      "question": "Which tourism component ensures comfort at destinations?",
+      "options": ["Attractions", "Amenities", "Accessibility", "Route"],
+      "correctIndex": 1,
+      "topic": "Components of Tourism",
+      "difficulty": "medium",
+      "explanation": "Amenities enhance comfort and convenience."
+    },
+    {
+      "id": "ep_099",
+      "question": "Tourism products are mainly:",
+      "options": ["Tangible", "Digital", "Intangible", "Manufactured"],
+      "correctIndex": 2,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "easy",
+      "explanation": "Tourism services are intangible."
+    },
+    {
+      "id": "ep_100",
+      "question": "Which activity links all tourism sectors together?",
+      "options": ["Transportation", "Accommodation", "Service delivery", "Marketing"],
+      "correctIndex": 2,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "hard",
+      "explanation": "Service delivery integrates all tourism components."
+    },
+
+    {
+      "id": "ep_101",
+      "question": "Tourism is best viewed as a system of:",
+      "options": [
+        "Independent services",
+        "Complementary services",
+        "Unrelated activities",
+        "Manufacturing units"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "hard",
+      "explanation": "Tourism relies on interdependent services."
+    },
+    {
+      "id": "ep_102",
+      "question": "Which tourism service directly affects visitor satisfaction?",
+      "options": ["Transportation only", "Accommodation only", "All tourism services", "Attractions only"],
+      "correctIndex": 2,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "medium",
+      "explanation": "Each service contributes to overall satisfaction."
+    },
+    {
+      "id": "ep_103",
+      "question": "Tourism activities are undertaken for:",
+      "options": ["Leisure only", "Business only", "Multiple purposes", "Migration"],
+      "correctIndex": 2,
+      "topic": "Tourism Definitions",
+      "difficulty": "medium",
+      "explanation": "Tourism includes leisure, business, and other purposes."
+    },
+    {
+      "id": "ep_104",
+      "question": "Which tourism definition limits duration to one year?",
+      "options": ["Mathieson and Wall", "WTO", "Van Der Wagen", "Harris and Howard"],
+      "correctIndex": 1,
+      "topic": "Tourism Definitions",
+      "difficulty": "hard",
+      "explanation": "The WTO definition sets a one-year limit."
+    },
+    {
+      "id": "ep_105",
+      "question": "Tourism excludes:",
+      "options": [
+        "Temporary travel",
+        "Permanent relocation",
+        "Leisure travel",
+        "Business travel"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Concepts",
+      "difficulty": "medium",
+      "explanation": "Tourism does not include permanent relocation."
+    },
+    {
+      "id": "ep_106",
+      "question": "Which service supports currency exchange for tourists?",
+      "options": ["Amenities", "Attractions", "Ancillary services", "Accessibility"],
+      "correctIndex": 2,
+      "topic": "Components of Tourism",
+      "difficulty": "easy",
+      "explanation": "Forex bureaus are ancillary services."
+    },
+    {
+      "id": "ep_107",
+      "question": "Tourism demand is highly affected by:",
+      "options": ["Human behavior", "Weather only", "Manufacturing output", "Agriculture"],
+      "correctIndex": 0,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "hard",
+      "explanation": "Human behavior affects service delivery and satisfaction."
+    },
+    {
+      "id": "ep_108",
+      "question": "Which tourism sector links destinations together?",
+      "options": ["Accommodation", "Transportation", "Events", "Food and Beverage"],
+      "correctIndex": 1,
+      "topic": "Travel and Transportation",
+      "difficulty": "easy",
+      "explanation": "Transportation connects destinations."
+    },
+    {
+      "id": "ep_109",
+      "question": "Tourism involves travel away from:",
+      "options": ["Tourist sites", "Normal place of residence", "Hotels", "Cities"],
+      "correctIndex": 1,
+      "topic": "Tourism Concepts",
+      "difficulty": "easy",
+      "explanation": "Tourists leave their normal environment."
+    },
+    {
+      "id": "ep_110",
+      "question": "Hospitality focuses primarily on:",
+      "options": ["Facilities", "Guests", "Technology", "Profits"],
+      "correctIndex": 1,
+      "topic": "Hospitality",
+      "difficulty": "easy",
+      "explanation": "Hospitality centers on guest satisfaction."
+    },
+
+    {
+      "id": "ep_111",
+      "question": "Which tourism feature causes service quality differences?",
+      "options": ["Intangibility", "Heterogeneity", "Perishability", "In-situ consumption"],
+      "correctIndex": 1,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "medium",
+      "explanation": "Human involvement creates variability."
+    },
+    {
+      "id": "ep_112",
+      "question": "Which tourism sector includes cruise lines?",
+      "options": ["Accommodation", "Transportation", "Attractions", "Events"],
+      "correctIndex": 1,
+      "topic": "Travel and Transportation",
+      "difficulty": "easy",
+      "explanation": "Cruise lines are transportation services."
+    },
+    {
+      "id": "ep_113",
+      "question": "Which tourism activity enhances visitor experience the most?",
+      "options": [
+        "Single service delivery",
+        "Complementary services",
+        "Isolated services",
+        "Optional services"
+      ],
+      "correctIndex": 1,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "hard",
+      "explanation": "Complementary services improve overall experience."
+    },
+    {
+      "id": "ep_114",
+      "question": "Tourism services are produced and consumed:",
+      "options": [
+        "Separately",
+        "At different times",
+        "Simultaneously",
+        "After departure"
+      ],
+      "correctIndex": 2,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "medium",
+      "explanation": "This describes inseparability."
+    },
+    {
+      "id": "ep_115",
+      "question": "Which tourism form includes both inbound and outbound tourism?",
+      "options": ["National", "Internal", "International", "Domestic"],
+      "correctIndex": 2,
+      "topic": "Forms of Tourism",
+      "difficulty": "medium",
+      "explanation": "International tourism covers inbound and outbound travel."
+    },
+    {
+      "id": "ep_116",
+      "question": "Which hospitality service directly affects first impressions?",
+      "options": ["Housekeeping", "Front desk reception", "Maintenance", "Security"],
+      "correctIndex": 1,
+      "topic": "Hospitality",
+      "difficulty": "hard",
+      "explanation": "Reception is the first point of contact."
+    },
+    {
+      "id": "ep_117",
+      "question": "Tourism is a collection of:",
+      "options": [
+        "Manufacturing processes",
+        "Independent businesses",
+        "Interrelated activities and services",
+        "Government policies"
+      ],
+      "correctIndex": 2,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "medium",
+      "explanation": "Tourism integrates multiple services."
+    },
+    {
+      "id": "ep_118",
+      "question": "Which sector supports long-term guests?",
+      "options": ["Accommodation", "Transportation", "Events", "Attractions"],
+      "correctIndex": 0,
+      "topic": "Hospitality Sectors",
+      "difficulty": "easy",
+      "explanation": "Accommodation caters to long-term guests."
+    },
+    {
+      "id": "ep_119",
+      "question": "Which tourism activity involves exhibitions?",
+      "options": ["Leisure tourism", "Medical tourism", "MICE", "Eco-tourism"],
+      "correctIndex": 2,
+      "topic": "MICE",
+      "difficulty": "medium",
+      "explanation": "Exhibitions are part of MICE."
+    },
+    {
+      "id": "ep_120",
+      "question": "Tourism success largely depends on:",
+      "options": [
+        "Single sector performance",
+        "Government alone",
+        "Coordination of all tourism sectors",
+        "Attractions only"
+      ],
+      "correctIndex": 2,
+      "topic": "Tourism Industry Characteristics",
+      "difficulty": "hard",
+      "explanation": "All sectors must work together for tourism success."
+    }
+
+
+  ]
+}

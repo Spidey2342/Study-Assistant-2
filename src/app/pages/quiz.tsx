@@ -8,6 +8,10 @@ import programmingToolsTechniques from '../../data/programming-tools-technique.j
 import fundamentalOfComputerScience from '../../data/fundamentals-of-computer-science.json'
 import basicElectronics from '../../data/basic-electronics.json'
 import setTheory from '../../data/set-theory.json'
+import evolutionOfTourism from '../../data/evolution-of-tourism.json';
+import hospitality from '../../data/hospitality-tourism-concepts.json'
+import growthTourism from '../../data/growth-of-the-tourism-industry.json';
+
 
 
 
@@ -17,7 +21,10 @@ const courseMap = {
   'programming-tools-techniques': programmingToolsTechniques,
   'bcsc-107-fundamentals-of-computer-science': fundamentalOfComputerScience,
   'beee-103-basic-electronics': basicElectronics,
-  'set-theory': setTheory
+  'set-theory': setTheory,
+  'evolution-of-tourism': evolutionOfTourism,
+  'hospitality-tourism-concepts': hospitality,
+  'growth-of-the-tourism-industry': growthTourism
 };
 
 const QUESTION_COUNT = 1;

@@ -11,7 +11,10 @@ import elementOfProgramming from '../../data/elements-of-programming.json';
 import programmingToolsTechniques from '../../data/programming-tools-technique.json';
 import fundamentalOfComputerScience from '../../data/fundamentals-of-computer-science.json';
 import basicElectronics from '../../data/basic-electronics.json';
-import setTheory from '../../data/set-theory.json'
+import setTheory from '../../data/set-theory.json';
+import evolutionOfTourism from '../../data/evolution-of-tourism.json';
+import hospitality from '../../data/hospitality-tourism-concepts.json';
+import growthTourism from '../../data/growth-of-the-tourism-industry.json';
 
 
 function getDifficultyStats(questions: any[]) {
@@ -88,6 +91,27 @@ const stats = {
       icon: setTheory.icon,
       questionsCount: setTheory.questions.length,
       difficulty: getDifficultyStats(setTheory.questions),
+    },
+    {
+      id: evolutionOfTourism.courseId,
+      title: evolutionOfTourism.title,
+      icon: evolutionOfTourism.icon,
+      questionsCount: evolutionOfTourism.questions.length,
+      difficulty: getDifficultyStats(evolutionOfTourism.questions)
+    },
+     {
+      id: hospitality.courseId,
+      title: hospitality.title,
+      icon: hospitality.icon,
+      questionsCount: hospitality.questions.length,
+      difficulty: getDifficultyStats(hospitality.questions)
+    },
+     {
+      id: growthTourism.courseId,
+      title: growthTourism.title,
+      icon: growthTourism.icon,
+      questionsCount: growthTourism.questions.length,
+      difficulty: getDifficultyStats(growthTourism.questions)
     }
   ];
     const hasData = stats.totalQuizzes > 0;
