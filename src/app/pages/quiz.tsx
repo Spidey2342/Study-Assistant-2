@@ -27,7 +27,7 @@ const courseMap = {
   'growth-of-the-tourism-industry': growthTourism
 };
 
-const QUESTION_COUNT = 1;
+const QUESTION_COUNT = 13;
 
 export function QuizPage() {
   const { courseId } = useParams<{ courseId: string }>();
