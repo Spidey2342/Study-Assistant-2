@@ -267,6 +267,17 @@ const videos = [
     url: 'https://youtu.be/Gy22RzKdeGY?si=naUzN07TnyOdoCST',
     category: 'Basic Electronics',
   },
+
+  {
+    id: 26,
+    title: 'Introduction to Relational Data Model',
+    description: 'Introduction to Relational Data Model',
+    thumbnail: getYouTubeThumbnail('https://youtu.be/Q45sr5p_NmQ?si=EeWvTwimgKcQWDSp'),
+    duration: '06:52',
+    channel: 'Doctor J ',
+    url: 'https://youtu.be/Q45sr5p_NmQ?si=EeWvTwimgKcQWDSp',
+    category: 'Basic Electronics',
+  },
 ];
 
 function getYouTubeId(url: string) {
