@@ -10,6 +10,7 @@ import basicElectronics from '../../data/basic-electronics.json'
 import setTheory from '../../data/set-theory.json'
 import evolutionOfTourism from '../../data/evolution-of-tourism.json';
 import hospitality from '../../data/hospitality-tourism-concepts.json'
+import networking from '../../data/networking.json'
 import growthTourism from '../../data/growth-of-the-tourism-industry.json';
 
 
@@ -24,7 +25,8 @@ const courseMap = {
   'set-theory': setTheory,
   'evolution-of-tourism': evolutionOfTourism,
   'hospitality-tourism-concepts': hospitality,
-  'growth-of-the-tourism-industry': growthTourism
+  'growth-of-the-tourism-industry': growthTourism,
+  'networking':networking
 };
 
 const QUESTION_COUNT = 13;

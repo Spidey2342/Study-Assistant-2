@@ -1,0 +1,1416 @@
+{
+    "courseId": "networking",
+  "title": "Networking",
+  "icon": "⚡",
+  "questions":[
+  {
+    "id": "net_001",
+    "question": "A computer network is best defined as:",
+    "options": [
+      "A single computer connected to the internet",
+      "A collection of connected devices that share resources and communicate",
+      "A database management system",
+      "A programming environment"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Fundamentals",
+    "difficulty": "easy",
+    "explanation": "A network connects multiple devices to enable communication and resource sharing."
+  },
+  {
+    "id": "net_002",
+    "question": "Which of the following is a primary benefit of computer networking?",
+    "options": [
+      "Reducing hardware costs to zero",
+      "Eliminating the need for security",
+      "Resource sharing and communication",
+      "Replacing operating systems"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Importance",
+    "difficulty": "easy",
+    "explanation": "Networking enables devices to share files, printers, and communication services."
+  },
+  {
+    "id": "net_003",
+    "question": "Which network type is most suitable for connecting devices within a single building?",
+    "options": [
+      "WAN",
+      "MAN",
+      "LAN",
+      "PAN"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Types",
+    "difficulty": "easy",
+    "explanation": "LAN covers a limited geographic area such as a building or office."
+  },
+  {
+    "id": "net_004",
+    "question": "A network that spans multiple continents is classified as:",
+    "options": [
+      "PAN",
+      "LAN",
+      "MAN",
+      "WAN"
+    ],
+    "correctIndex": 3,
+    "topic": "Network Types",
+    "difficulty": "medium",
+    "explanation": "WAN connects networks across large geographical areas including continents."
+  },
+  {
+    "id": "net_005",
+    "question": "Why is mesh topology considered highly reliable?",
+    "options": [
+      "It uses a single backbone cable",
+      "It provides multiple communication paths between devices",
+      "It requires only one connection per device",
+      "It eliminates the need for routers"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Multiple redundant paths ensure communication continues even if one link fails."
+  },
+  {
+    "id": "net_006",
+    "question": "In a star topology, failure of the central switch will:",
+    "options": [
+      "Affect only one device",
+      "Increase network speed",
+      "Shut down the entire network",
+      "Convert the network into a mesh"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "All devices depend on the central switch for communication."
+  },
+  {
+    "id": "net_007",
+    "question": "Which architecture centralizes resource management and security control?",
+    "options": [
+      "Peer-to-Peer",
+      "Bus",
+      "Client-Server",
+      "Ring"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Architecture",
+    "difficulty": "medium",
+    "explanation": "Client-server architecture uses a central server to manage requests and security."
+  },
+  {
+    "id": "net_008",
+    "question": "A major disadvantage of peer-to-peer networks in large organizations is:",
+    "options": [
+      "Too much central control",
+      "Difficult security and management",
+      "High server cost",
+      "Limited internet access"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Architecture",
+    "difficulty": "hard",
+    "explanation": "Without centralized control, security and management become difficult as the network grows."
+  },
+  {
+    "id": "net_009",
+    "question": "Which device directs data packets between different networks?",
+    "options": [
+      "Switch",
+      "Router",
+      "Hub",
+      "NIC"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Devices",
+    "difficulty": "medium",
+    "explanation": "Routers connect multiple networks and route packets appropriately."
+  },
+  {
+    "id": "net_010",
+    "question": "Which protocol forms the foundation of the Internet?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "TCP/IP",
+      "Bluetooth"
+    ],
+    "correctIndex": 2,
+    "topic": "Networking Protocols",
+    "difficulty": "medium",
+    "explanation": "TCP/IP defines how data is transmitted across the internet."
+  },
+  {
+    "id": "net_011",
+    "question": "A university connecting several campuses within a city would most appropriately use:",
+    "options": [
+      "PAN",
+      "LAN",
+      "MAN",
+      "WWAN"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Types",
+    "difficulty": "hard",
+    "explanation": "MAN covers metropolitan areas such as a city."
+  },
+  {
+    "id": "net_012",
+    "question": "Which network topology is most vulnerable to complete failure if its main cable breaks?",
+    "options": [
+      "Mesh",
+      "Star",
+      "Bus",
+      "Hybrid"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Bus topology relies on a single backbone cable."
+  },
+  {
+    "id": "net_013",
+    "question": "Which network media uses light pulses for data transmission?",
+    "options": [
+      "Twisted Pair",
+      "Coaxial",
+      "Fiber Optic",
+      "Wireless LAN"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Media",
+    "difficulty": "medium",
+    "explanation": "Fiber optic cables transmit data using light for high bandwidth and long distance."
+  },
+  {
+    "id": "net_014",
+    "question": "Which security mechanism scrambles data to prevent unauthorized access?",
+    "options": [
+      "Firewall",
+      "Encryption",
+      "Switching",
+      "Routing"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Security",
+    "difficulty": "medium",
+    "explanation": "Encryption converts data into unreadable form without the correct key."
+  },
+  {
+    "id": "net_015",
+    "question": "Why are switches preferred over hubs in modern networks?",
+    "options": [
+      "They broadcast data to all devices",
+      "They reduce cable length",
+      "They send data only to the intended device",
+      "They replace routers"
+    ],
+    "correctIndex": 2,
+    "topic": "Networking Devices",
+    "difficulty": "hard",
+    "explanation": "Switches improve efficiency by forwarding frames only to the target device."
+  },
+  {
+    "id": "net_016",
+    "question": "Which protocol is specifically used for sending emails between servers?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "IP"
+    ],
+    "correctIndex": 2,
+    "topic": "Networking Protocols",
+    "difficulty": "medium",
+    "explanation": "SMTP handles email transmission."
+  },
+  {
+    "id": "net_017",
+    "question": "Which topology connects devices in a circular loop?",
+    "options": [
+      "Star",
+      "Ring",
+      "Tree",
+      "Mesh"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Topologies",
+    "difficulty": "easy",
+    "explanation": "Ring topology forms a closed loop structure."
+  },
+  {
+    "id": "net_018",
+    "question": "A bank requiring maximum uptime and redundancy should implement:",
+    "options": [
+      "Bus topology",
+      "Ring topology",
+      "Mesh topology",
+      "PAN"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Mesh provides redundant links ensuring continuous connectivity."
+  },
+  {
+    "id": "net_019",
+    "question": "Which step in troubleshooting involves checking cables and hardware connections?",
+    "options": [
+      "Identify the problem",
+      "Isolate the issue",
+      "Resolve the issue",
+      "Monitor performance"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Troubleshooting",
+    "difficulty": "medium",
+    "explanation": "Isolation involves checking physical and configuration issues."
+  },
+  {
+    "id": "net_020",
+    "question": "Why is WAN generally more expensive than LAN?",
+    "options": [
+      "It uses fewer devices",
+      "It eliminates routers",
+      "It spans larger geographic areas requiring more infrastructure",
+      "It avoids encryption"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Types",
+    "difficulty": "hard",
+    "explanation": "WAN requires extensive infrastructure across long distances."
+  },
+  {
+    "id": "net_021",
+    "question": "Which network type is most appropriate for connecting personal devices like smartwatches and wireless headsets?",
+    "options": [
+      "LAN",
+      "MAN",
+      "PAN",
+      "WAN"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Types",
+    "difficulty": "easy",
+    "explanation": "PAN operates within a very small personal range such as Bluetooth devices."
+  },
+  {
+    "id": "net_022",
+    "question": "Which topology allows easy addition or removal of devices without affecting the entire network?",
+    "options": [
+      "Bus",
+      "Star",
+      "Ring",
+      "Mesh"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "In star topology, devices connect independently to the central switch."
+  },
+  {
+    "id": "net_023",
+    "question": "In peer-to-peer architecture, each computer can:",
+    "options": [
+      "Act only as a client",
+      "Act only as a server",
+      "Act as both client and server",
+      "Connect only through a router"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Architecture",
+    "difficulty": "medium",
+    "explanation": "P2P networks allow devices to share resources directly."
+  },
+  {
+    "id": "net_024",
+    "question": "Which device converts computer data into signals suitable for transmission over network media?",
+    "options": [
+      "Router",
+      "Switch",
+      "NIC",
+      "Firewall"
+    ],
+    "correctIndex": 2,
+    "topic": "Networking Devices",
+    "difficulty": "hard",
+    "explanation": "The Network Interface Card translates data into transmittable signals."
+  },
+  {
+    "id": "net_025",
+    "question": "Which protocol is used to transfer files between computers over a network?",
+    "options": [
+      "HTTP",
+      "SMTP",
+      "FTP",
+      "IP"
+    ],
+    "correctIndex": 2,
+    "topic": "Networking Protocols",
+    "difficulty": "easy",
+    "explanation": "FTP is specifically designed for file transfer."
+  },
+  {
+    "id": "net_026",
+    "question": "Why is mesh topology rarely used in small networks?",
+    "options": [
+      "It is unreliable",
+      "It lacks redundancy",
+      "It requires many cable connections and high cost",
+      "It cannot support wireless"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Each node must connect to every other node, increasing cost significantly."
+  },
+  {
+    "id": "net_027",
+    "question": "Which protocol is responsible for delivering web pages to browsers?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "IP"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Protocols",
+    "difficulty": "medium",
+    "explanation": "HTTP transfers web pages over the internet."
+  },
+  {
+    "id": "net_028",
+    "question": "A company operating offices in multiple countries requires reliable interconnection. Which network type should be used?",
+    "options": [
+      "LAN",
+      "MAN",
+      "PAN",
+      "WAN"
+    ],
+    "correctIndex": 3,
+    "topic": "Network Types",
+    "difficulty": "hard",
+    "explanation": "WAN connects networks across countries and continents."
+  },
+  {
+    "id": "net_029",
+    "question": "Which network media is most suitable for high-speed communication over long distances?",
+    "options": [
+      "Twisted Pair",
+      "Fiber Optic",
+      "Bluetooth",
+      "Coaxial"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Media",
+    "difficulty": "medium",
+    "explanation": "Fiber optic supports high bandwidth with minimal signal loss."
+  },
+  {
+    "id": "net_030",
+    "question": "Which security threat involves deceiving users into revealing confidential information?",
+    "options": [
+      "Firewall",
+      "Encryption",
+      "Phishing",
+      "Switching"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Security",
+    "difficulty": "medium",
+    "explanation": "Phishing tricks users into providing sensitive data."
+  },
+  {
+    "id": "net_031",
+    "question": "What is a key weakness of ring topology?",
+    "options": [
+      "Requires central hub",
+      "Single device failure can disrupt the entire network",
+      "Too much redundancy",
+      "Cannot support more than two devices"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Data flows in a loop, so failure in one node can interrupt communication."
+  },
+  {
+    "id": "net_032",
+    "question": "Which device provides wireless connectivity to a wired network?",
+    "options": [
+      "Router",
+      "Switch",
+      "Access Point",
+      "Hub"
+    ],
+    "correctIndex": 2,
+    "topic": "Networking Devices",
+    "difficulty": "medium",
+    "explanation": "An access point connects wireless devices to a network."
+  },
+  {
+    "id": "net_033",
+    "question": "Which topology combines two or more different network structures?",
+    "options": [
+      "Tree",
+      "Hybrid",
+      "Ring",
+      "Bus"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Topologies",
+    "difficulty": "easy",
+    "explanation": "Hybrid topology integrates multiple topology types."
+  },
+  {
+    "id": "net_034",
+    "question": "Which component manages communication and coordinates network resources?",
+    "options": [
+      "Firewall",
+      "Network Operating System",
+      "Modem",
+      "Hub"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Management",
+    "difficulty": "hard",
+    "explanation": "The NOS controls and manages network communications and resources."
+  },
+  {
+    "id": "net_035",
+    "question": "Which step in troubleshooting involves fixing the identified issue?",
+    "options": [
+      "Identify",
+      "Isolate",
+      "Resolve",
+      "Monitor"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Troubleshooting",
+    "difficulty": "easy",
+    "explanation": "Resolve involves implementing the fix."
+  },
+  {
+    "id": "net_036",
+    "question": "Why is client-server architecture preferred in banks and hospitals?",
+    "options": [
+      "It eliminates encryption",
+      "It centralizes control and enhances security",
+      "It removes need for routers",
+      "It reduces cable use"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Architecture",
+    "difficulty": "hard",
+    "explanation": "Centralized servers allow stronger access control and data management."
+  },
+  {
+    "id": "net_037",
+    "question": "Which protocol assigns unique addresses to devices on a network?",
+    "options": [
+      "FTP",
+      "IP",
+      "SMTP",
+      "HTTP"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Protocols",
+    "difficulty": "medium",
+    "explanation": "IP provides logical addressing."
+  },
+  {
+    "id": "net_038",
+    "question": "Which network media uses radio waves instead of cables?",
+    "options": [
+      "Fiber Optic",
+      "Wireless Network",
+      "Twisted Pair",
+      "Coaxial"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Media",
+    "difficulty": "easy",
+    "explanation": "Wireless networks transmit data using radio waves."
+  },
+  {
+    "id": "net_039",
+    "question": "Why are hubs less efficient than switches?",
+    "options": [
+      "They forward data only to target devices",
+      "They broadcast data to all connected devices",
+      "They use encryption",
+      "They increase bandwidth"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Devices",
+    "difficulty": "hard",
+    "explanation": "Hubs broadcast traffic, causing unnecessary network congestion."
+  },
+  {
+    "id": "net_040",
+    "question": "A company wants a structured hierarchical network connecting multiple departments under a central node. Which topology fits best?",
+    "options": [
+      "Bus",
+      "Ring",
+      "Tree",
+      "Mesh"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Tree topology forms a hierarchical structure suitable for departments."
+  },
+  {
+    "id": "net_041",
+    "question": "Which protocol ensures reliable data transmission with error checking?",
+    "options": [
+      "IP",
+      "TCP",
+      "Bluetooth",
+      "HTTP"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Protocols",
+    "difficulty": "hard",
+    "explanation": "TCP guarantees reliable and ordered data delivery."
+  },
+  {
+    "id": "net_042",
+    "question": "What is the primary role of a firewall?",
+    "options": [
+      "Connect LAN devices",
+      "Convert signals",
+      "Block unauthorized access",
+      "Assign IP addresses"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Security",
+    "difficulty": "medium",
+    "explanation": "Firewalls filter incoming and outgoing traffic to protect networks."
+  },
+  {
+    "id": "net_043",
+    "question": "Which topology provides the highest level of redundancy?",
+    "options": [
+      "Star",
+      "Ring",
+      "Bus",
+      "Mesh"
+    ],
+    "correctIndex": 3,
+    "topic": "Network Topologies",
+    "difficulty": "medium",
+    "explanation": "Mesh topology offers multiple alternative paths."
+  },
+  {
+    "id": "net_044",
+    "question": "Which network management activity focuses on tracking performance?",
+    "options": [
+      "Configuration",
+      "Monitoring",
+      "Security",
+      "Routing"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Management",
+    "difficulty": "medium",
+    "explanation": "Monitoring tracks performance and detects issues."
+  },
+  {
+    "id": "net_045",
+    "question": "Which device connects multiple devices within a LAN and sends data directly to the intended recipient?",
+    "options": [
+      "Hub",
+      "Switch",
+      "Router",
+      "Modem"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Devices",
+    "difficulty": "medium",
+    "explanation": "Switches forward data efficiently within LAN."
+  },
+  {
+    "id": "net_046",
+    "question": "Which network is best suited for a small home network with limited security concerns?",
+    "options": [
+      "Client-Server",
+      "Peer-to-Peer",
+      "MAN",
+      "WAN"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Architecture",
+    "difficulty": "hard",
+    "explanation": "Peer-to-peer works well for small, simple setups."
+  },
+  {
+    "id": "net_047",
+    "question": "Which protocol is used for secure web browsing?",
+    "options": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "SMTP"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Protocols",
+    "difficulty": "medium",
+    "explanation": "HTTPS encrypts web communication."
+  },
+  {
+    "id": "net_048",
+    "question": "What is the primary function of a modem?",
+    "options": [
+      "Route packets",
+      "Broadcast frames",
+      "Convert digital to analog signals",
+      "Encrypt passwords"
+    ],
+    "correctIndex": 2,
+    "topic": "Networking Devices",
+    "difficulty": "medium",
+    "explanation": "Modems convert digital signals for transmission over communication lines."
+  },
+  {
+    "id": "net_049",
+    "question": "Which topology is most scalable for growing organizations while maintaining centralized control?",
+    "options": [
+      "Bus",
+      "Ring",
+      "Star",
+      "PAN"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Star allows easy addition of new devices via the central switch."
+  },
+  {
+    "id": "net_050",
+    "question": "The Internet is best described as:",
+    "options": [
+      "A LAN",
+      "A MAN",
+      "A PAN",
+      "The largest WAN"
+    ],
+    "correctIndex": 3,
+    "topic": "Network Types",
+    "difficulty": "easy",
+    "explanation": "The Internet connects networks globally, making it the largest WAN."
+  },
+  {
+    "id": "net_051",
+    "question": "In a full mesh topology with 5 devices, how many direct connections are required?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "15"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Full mesh requires n(n−1)/2 connections. For 5 devices: 5×4/2 = 10."
+  },
+  {
+    "id": "net_052",
+    "question": "Which protocol works together with IP to ensure reliable communication?",
+    "options": [
+      "SMTP",
+      "FTP",
+      "TCP",
+      "Bluetooth"
+    ],
+    "correctIndex": 2,
+    "topic": "Networking Protocols",
+    "difficulty": "hard",
+    "explanation": "TCP ensures reliable, ordered delivery of packets alongside IP."
+  },
+  {
+    "id": "net_053",
+    "question": "Which topology is most cost-effective but least fault-tolerant?",
+    "options": [
+      "Mesh",
+      "Bus",
+      "Star",
+      "Hybrid"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Bus uses minimal cable but fails if the backbone is damaged."
+  },
+  {
+    "id": "net_054",
+    "question": "Which network threat spreads by attaching itself to legitimate programs?",
+    "options": [
+      "Firewall",
+      "Virus",
+      "Switch",
+      "Router"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Security",
+    "difficulty": "medium",
+    "explanation": "Viruses attach to legitimate files and spread when executed."
+  },
+  {
+    "id": "net_055",
+    "question": "Which architecture is most scalable for enterprise-level systems?",
+    "options": [
+      "Peer-to-Peer",
+      "Client-Server",
+      "Bus",
+      "PAN"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Architecture",
+    "difficulty": "hard",
+    "explanation": "Client-server supports centralized management and scalability."
+  },
+  {
+    "id": "net_056",
+    "question": "Which device reduces network congestion by segmenting traffic?",
+    "options": [
+      "Hub",
+      "Switch",
+      "Repeater",
+      "Modem"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Devices",
+    "difficulty": "hard",
+    "explanation": "Switches forward frames only to intended recipients, reducing congestion."
+  },
+  {
+    "id": "net_057",
+    "question": "What is the primary purpose of HTTPS?",
+    "options": [
+      "Speed up browsing",
+      "Transfer files",
+      "Encrypt web communication",
+      "Assign IP addresses"
+    ],
+    "correctIndex": 2,
+    "topic": "Networking Protocols",
+    "difficulty": "medium",
+    "explanation": "HTTPS secures HTTP communication using encryption."
+  },
+  {
+    "id": "net_058",
+    "question": "Which network type connects multiple LANs across a country?",
+    "options": [
+      "PAN",
+      "LAN",
+      "MAN",
+      "WAN"
+    ],
+    "correctIndex": 3,
+    "topic": "Network Types",
+    "difficulty": "medium",
+    "explanation": "WAN spans large geographic areas including countries."
+  },
+  {
+    "id": "net_059",
+    "question": "Which troubleshooting step verifies that the solution works?",
+    "options": [
+      "Identify",
+      "Isolate",
+      "Test and Verify",
+      "Configure"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Troubleshooting",
+    "difficulty": "medium",
+    "explanation": "Testing ensures the issue has been properly resolved."
+  },
+  {
+    "id": "net_060",
+    "question": "Why is fiber optic cable immune to electromagnetic interference?",
+    "options": [
+      "It uses electricity",
+      "It uses light signals",
+      "It uses copper wires",
+      "It has shielding only"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Media",
+    "difficulty": "hard",
+    "explanation": "Fiber transmits light, not electrical signals."
+  },
+
+  {
+    "id": "net_061",
+    "question": "Which topology provides both redundancy and centralized management when combined?",
+    "options": [
+      "Hybrid",
+      "Bus",
+      "Ring",
+      "PAN"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Hybrid combines multiple topologies for performance and reliability."
+  },
+  {
+    "id": "net_062",
+    "question": "Which protocol is primarily used for receiving emails?",
+    "options": [
+      "SMTP",
+      "HTTP",
+      "POP3/IMAP",
+      "FTP"
+    ],
+    "correctIndex": 2,
+    "topic": "Networking Protocols",
+    "difficulty": "hard",
+    "explanation": "POP3 and IMAP are used to retrieve emails."
+  },
+  {
+    "id": "net_063",
+    "question": "Which network component controls access based on security policies?",
+    "options": [
+      "Switch",
+      "Router",
+      "Firewall",
+      "Hub"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Security",
+    "difficulty": "medium",
+    "explanation": "Firewalls filter traffic according to security rules."
+  },
+  {
+    "id": "net_064",
+    "question": "Which topology has exactly two connections per node in its simplest form?",
+    "options": [
+      "Star",
+      "Bus",
+      "Ring",
+      "Mesh"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Each device connects to two others in a ring."
+  },
+  {
+    "id": "net_065",
+    "question": "Which network strategy eliminates a single point of failure?",
+    "options": [
+      "Bus",
+      "Ring",
+      "Mesh",
+      "Star"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Mesh provides multiple alternative paths."
+  },
+  {
+    "id": "net_066",
+    "question": "Which device assigns logical addresses dynamically in many networks?",
+    "options": [
+      "Router",
+      "DHCP Server",
+      "Switch",
+      "Hub"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Protocols",
+    "difficulty": "hard",
+    "explanation": "DHCP automatically assigns IP addresses."
+  },
+  {
+    "id": "net_067",
+    "question": "Which network type is typically used in airports and cafes for wireless access?",
+    "options": [
+      "WLAN",
+      "PAN",
+      "MAN",
+      "Bus"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Types",
+    "difficulty": "medium",
+    "explanation": "WLAN provides wireless local connectivity."
+  },
+  {
+    "id": "net_068",
+    "question": "What happens in a hub-based network when one device sends data?",
+    "options": [
+      "Only the target receives it",
+      "All devices receive the broadcast",
+      "The router blocks it",
+      "It is encrypted automatically"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Devices",
+    "difficulty": "hard",
+    "explanation": "Hubs broadcast frames to all connected devices."
+  },
+  {
+    "id": "net_069",
+    "question": "Which management function focuses on protecting against cyber threats?",
+    "options": [
+      "Monitoring",
+      "Configuration",
+      "Security",
+      "Routing"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Management",
+    "difficulty": "medium",
+    "explanation": "Security management protects the network from threats."
+  },
+  {
+    "id": "net_070",
+    "question": "Which network type is most limited in geographic range?",
+    "options": [
+      "WAN",
+      "MAN",
+      "LAN",
+      "PAN"
+    ],
+    "correctIndex": 3,
+    "topic": "Network Types",
+    "difficulty": "easy",
+    "explanation": "PAN covers very small personal distances."
+  },
+
+  {
+    "id": "net_071",
+    "question": "Which protocol is primarily used for file sharing in early peer-to-peer systems like BitTorrent?",
+    "options": [
+      "P2P Protocol",
+      "HTTP",
+      "SMTP",
+      "IP"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Architecture",
+    "difficulty": "hard",
+    "explanation": "BitTorrent uses peer-to-peer protocols."
+  },
+  {
+    "id": "net_072",
+    "question": "Which cable type is most commonly used inside office LANs?",
+    "options": [
+      "Fiber Optic",
+      "Twisted Pair Ethernet",
+      "Satellite",
+      "Bluetooth"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Media",
+    "difficulty": "medium",
+    "explanation": "Twisted pair is common for Ethernet LAN connections."
+  },
+  {
+    "id": "net_073",
+    "question": "Which topology is most suitable for departmental branching under a central backbone?",
+    "options": [
+      "Tree",
+      "Bus",
+      "Ring",
+      "PAN"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Tree supports hierarchical structures."
+  },
+  {
+    "id": "net_074",
+    "question": "Which attack attempts to overwhelm a network with traffic?",
+    "options": [
+      "Phishing",
+      "Malware",
+      "Denial-of-Service",
+      "Encryption"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Security",
+    "difficulty": "hard",
+    "explanation": "DoS floods a network to disrupt service."
+  },
+  {
+    "id": "net_075",
+    "question": "Which topology has a single central communication line?",
+    "options": [
+      "Bus",
+      "Star",
+      "Mesh",
+      "Hybrid"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Topologies",
+    "difficulty": "easy",
+    "explanation": "Bus uses a backbone cable."
+  },
+
+  {
+    "id": "net_076",
+    "question": "Which device ensures packets reach the correct external network destination?",
+    "options": [
+      "Switch",
+      "Hub",
+      "Router",
+      "NIC"
+    ],
+    "correctIndex": 2,
+    "topic": "Networking Devices",
+    "difficulty": "medium",
+    "explanation": "Routers forward packets between networks."
+  },
+  {
+    "id": "net_077",
+    "question": "Which protocol is responsible for mapping domain names to IP addresses?",
+    "options": [
+      "HTTP",
+      "DNS",
+      "SMTP",
+      "FTP"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Protocols",
+    "difficulty": "hard",
+    "explanation": "DNS translates domain names into IP addresses."
+  },
+  {
+    "id": "net_078",
+    "question": "Which topology minimizes cabling but increases collision risk?",
+    "options": [
+      "Mesh",
+      "Bus",
+      "Star",
+      "Tree"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Bus shares one cable, increasing collision possibility."
+  },
+  {
+    "id": "net_079",
+    "question": "Which network management task involves setting device parameters?",
+    "options": [
+      "Monitoring",
+      "Configuration",
+      "Security",
+      "Troubleshooting"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Management",
+    "difficulty": "medium",
+    "explanation": "Configuration sets up device parameters."
+  },
+  {
+    "id": "net_080",
+    "question": "Which topology offers the fastest fault detection in centralized systems?",
+    "options": [
+      "Star",
+      "Bus",
+      "Ring",
+      "PAN"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Central control enables easier monitoring."
+  },
+
+  {
+    "id": "net_081",
+    "question": "Which encryption protocol secures Wi-Fi networks?",
+    "options": [
+      "WPA/WPA2",
+      "FTP",
+      "SMTP",
+      "IP"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Security",
+    "difficulty": "hard",
+    "explanation": "WPA/WPA2 encrypts wireless communication."
+  },
+  {
+    "id": "net_082",
+    "question": "Which architecture is decentralized by design?",
+    "options": [
+      "Client-Server",
+      "Peer-to-Peer",
+      "Tree",
+      "Star"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Architecture",
+    "difficulty": "easy",
+    "explanation": "P2P has no central authority."
+  },
+  {
+    "id": "net_083",
+    "question": "Which protocol is responsible for web page formatting and transfer?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "IP"
+    ],
+    "correctIndex": 0,
+    "topic": "Networking Protocols",
+    "difficulty": "medium",
+    "explanation": "HTTP transfers web content."
+  },
+  {
+    "id": "net_084",
+    "question": "Which topology ensures maximum data availability despite high cost?",
+    "options": [
+      "Bus",
+      "Ring",
+      "Mesh",
+      "PAN"
+    ],
+    "correctIndex": 2,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Mesh provides multiple redundant paths."
+  },
+  {
+    "id": "net_085",
+    "question": "Which network connects devices within a metropolitan area?",
+    "options": [
+      "LAN",
+      "MAN",
+      "PAN",
+      "WAN"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Types",
+    "difficulty": "easy",
+    "explanation": "MAN spans a city or metropolitan region."
+  },
+
+  {
+    "id": "net_086",
+    "question": "Which device connects a local network to the Internet?",
+    "options": [
+      "Switch",
+      "Router",
+      "Hub",
+      "NIC"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Devices",
+    "difficulty": "medium",
+    "explanation": "Router connects LAN to external networks."
+  },
+  {
+    "id": "net_087",
+    "question": "Which threat involves unauthorized access to systems?",
+    "options": [
+      "Hacking",
+      "Monitoring",
+      "Switching",
+      "Routing"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Security",
+    "difficulty": "medium",
+    "explanation": "Hacking involves unauthorized system access."
+  },
+  {
+    "id": "net_088",
+    "question": "Which protocol allows secure file transfer over encrypted channels?",
+    "options": [
+      "FTP",
+      "SFTP",
+      "HTTP",
+      "IP"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Protocols",
+    "difficulty": "hard",
+    "explanation": "SFTP encrypts file transfers."
+  },
+  {
+    "id": "net_089",
+    "question": "Which topology structure resembles a hierarchy?",
+    "options": [
+      "Tree",
+      "Ring",
+      "Bus",
+      "Mesh"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Topologies",
+    "difficulty": "medium",
+    "explanation": "Tree topology forms hierarchical branches."
+  },
+  {
+    "id": "net_090",
+    "question": "Which protocol handles secure remote login?",
+    "options": [
+      "Telnet",
+      "SSH",
+      "SMTP",
+      "FTP"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Protocols",
+    "difficulty": "hard",
+    "explanation": "SSH provides encrypted remote access."
+  },
+
+  {
+    "id": "net_091",
+    "question": "Which network type has the broadest geographic coverage?",
+    "options": [
+      "PAN",
+      "LAN",
+      "MAN",
+      "WAN"
+    ],
+    "correctIndex": 3,
+    "topic": "Network Types",
+    "difficulty": "easy",
+    "explanation": "WAN spans global distances."
+  },
+  {
+    "id": "net_092",
+    "question": "Which device strengthens weak signals over long cable runs?",
+    "options": [
+      "Repeater",
+      "Router",
+      "Switch",
+      "Firewall"
+    ],
+    "correctIndex": 0,
+    "topic": "Networking Devices",
+    "difficulty": "hard",
+    "explanation": "Repeaters regenerate weak signals."
+  },
+  {
+    "id": "net_093",
+    "question": "Which topology has a single point of failure at its central device?",
+    "options": [
+      "Star",
+      "Mesh",
+      "Bus",
+      "Hybrid"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Topologies",
+    "difficulty": "medium",
+    "explanation": "If the switch fails in star, all devices lose connectivity."
+  },
+  {
+    "id": "net_094",
+    "question": "Which security practice involves regularly updating software?",
+    "options": [
+      "Encryption",
+      "Patching",
+      "Switching",
+      "Routing"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Security",
+    "difficulty": "medium",
+    "explanation": "Patching fixes vulnerabilities."
+  },
+  {
+    "id": "net_095",
+    "question": "Which network architecture is best for file-sharing between two home computers?",
+    "options": [
+      "Peer-to-Peer",
+      "Client-Server",
+      "MAN",
+      "WAN"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Architecture",
+    "difficulty": "easy",
+    "explanation": "P2P works well for small setups."
+  },
+
+  {
+    "id": "net_096",
+    "question": "Which protocol handles dynamic IP address assignment?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "HTTP",
+      "SMTP"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking Protocols",
+    "difficulty": "hard",
+    "explanation": "DHCP automatically assigns IP addresses."
+  },
+  {
+    "id": "net_097",
+    "question": "Which topology provides alternative paths but may increase complexity?",
+    "options": [
+      "Mesh",
+      "Bus",
+      "PAN",
+      "Ring"
+    ],
+    "correctIndex": 0,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Mesh improves reliability but increases design complexity."
+  },
+  {
+    "id": "net_098",
+    "question": "Which device filters incoming and outgoing network traffic?",
+    "options": [
+      "Switch",
+      "Firewall",
+      "Hub",
+      "NIC"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Security",
+    "difficulty": "medium",
+    "explanation": "Firewalls control traffic flow."
+  },
+  {
+    "id": "net_099",
+    "question": "Which network media is most resistant to signal degradation over long distances?",
+    "options": [
+      "Twisted Pair",
+      "Fiber Optic",
+      "Coaxial",
+      "Wireless"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Media",
+    "difficulty": "hard",
+    "explanation": "Fiber has minimal signal loss over long distances."
+  },
+  {
+    "id": "net_100",
+    "question": "Which topology is most suitable for a corporate network requiring scalability, centralized control, and fault isolation?",
+    "options": [
+      "Bus",
+      "Star",
+      "Ring",
+      "PAN"
+    ],
+    "correctIndex": 1,
+    "topic": "Network Topologies",
+    "difficulty": "hard",
+    "explanation": "Star provides centralized management and easier fault isolation."
+  }
+
+
+]
+}

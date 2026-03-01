@@ -15,6 +15,8 @@ import setTheory from '../../data/set-theory.json';
 import evolutionOfTourism from '../../data/evolution-of-tourism.json';
 import hospitality from '../../data/hospitality-tourism-concepts.json';
 import growthTourism from '../../data/growth-of-the-tourism-industry.json';
+import networking from '../../data/networking.json'
+
 
 
 function getDifficultyStats(questions: any[]) {
@@ -112,6 +114,13 @@ const stats = {
       icon: growthTourism.icon,
       questionsCount: growthTourism.questions.length,
       difficulty: getDifficultyStats(growthTourism.questions)
+    },
+    {
+      id: networking.courseId,
+      title: networking.title,
+      icon: networking.icon,
+      questionsCount: networking.questions.length,
+      difficulty: getDifficultyStats(networking.questions)
     }
   ];
     const hasData = stats.totalQuizzes > 0;
