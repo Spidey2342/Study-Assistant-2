@@ -15,7 +15,9 @@ import setTheory from '../../data/set-theory.json';
 import evolutionOfTourism from '../../data/evolution-of-tourism.json';
 import hospitality from '../../data/hospitality-tourism-concepts.json';
 import growthTourism from '../../data/growth-of-the-tourism-industry.json';
-import networking from '../../data/networking.json'
+import networking from '../../data/networking.json';
+import algorithm from '../../data/algorithm.json'
+
 
 
 
@@ -121,6 +123,13 @@ const stats = {
       icon: networking.icon,
       questionsCount: networking.questions.length,
       difficulty: getDifficultyStats(networking.questions)
+    },
+    {
+      id: algorithm.courseId,
+      title: algorithm.title,
+      icon: algorithm.icon,
+      questionsCount: algorithm.questions.length,
+      difficulty: getDifficultyStats(algorithm.questions)
     }
   ];
     const hasData = stats.totalQuizzes > 0;

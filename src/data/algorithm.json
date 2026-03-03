@@ -1,0 +1,1862 @@
+{
+  "courseId": "alg_101",
+  "title": "Algorithms, Pseudocodes & Flowcharts",
+  "questions": [
+
+    {
+      "id": "alg_1",
+      "question": "An algorithm is best defined as:",
+      "options": [
+        "A computer program written in Java",
+        "A step-by-step procedure for solving a problem",
+        "A flowchart symbol",
+        "A hardware component"
+      ],
+      "correctIndex": 1,
+      "topic": "Algorithms Basics",
+      "difficulty": "easy",
+      "explanation": "An algorithm is a step-by-step procedure used to solve a problem."
+    },
+
+    {
+      "id": "alg_2",
+      "question": "Which of the following is NOT a characteristic of an algorithm?",
+      "options": [
+        "Finiteness",
+        "Definiteness",
+        "Randomness",
+        "Effectiveness"
+      ],
+      "correctIndex": 2,
+      "topic": "Algorithm Characteristics",
+      "difficulty": "medium",
+      "explanation": "Algorithms must be finite, definite, effective and produce output. Randomness is not a required characteristic."
+    },
+
+    {
+      "id": "alg_3",
+      "question": "Finiteness in an algorithm means:",
+      "options": [
+        "It runs forever",
+        "It has limited steps and terminates",
+        "It has many loops",
+        "It accepts no input"
+      ],
+      "correctIndex": 1,
+      "topic": "Algorithm Characteristics",
+      "difficulty": "medium",
+      "explanation": "Finiteness means the algorithm must terminate after a finite number of steps."
+    },
+
+    {
+      "id": "alg_4",
+      "question": "Definiteness means:",
+      "options": [
+        "Each step is clearly defined",
+        "The algorithm is fast",
+        "The algorithm uses loops",
+        "The algorithm uses flowcharts"
+      ],
+      "correctIndex": 0,
+      "topic": "Algorithm Characteristics",
+      "difficulty": "medium",
+      "explanation": "Each step must be clear and unambiguous."
+    },
+
+    {
+      "id": "alg_5",
+      "question": "Which is an example of a real-life algorithm from the slide?",
+      "options": [
+        "Writing a letter",
+        "Cooking Jollof Rice recipe",
+        "Playing music",
+        "Watching TV"
+      ],
+      "correctIndex": 1,
+      "topic": "Real Life Analogy",
+      "difficulty": "easy",
+      "explanation": "The slide used cooking Jollof Rice as a real-life analogy of an algorithm."
+    },
+
+    {
+      "id": "alg_6",
+      "question": "Which category of algorithm determines the smallest and largest values?",
+      "options": [
+        "Sorting algorithms",
+        "Min/Max algorithms",
+        "Search algorithms",
+        "Swapping algorithms"
+      ],
+      "correctIndex": 1,
+      "topic": "Algorithm Categories",
+      "difficulty": "medium",
+      "explanation": "Min/Max algorithms determine smallest and largest values."
+    },
+
+    {
+      "id": "alg_7",
+      "question": "An algorithm that arranges elements in order is called:",
+      "options": [
+        "Search algorithm",
+        "Replacement algorithm",
+        "Sorting algorithm",
+        "Swapping algorithm"
+      ],
+      "correctIndex": 2,
+      "topic": "Algorithm Categories",
+      "difficulty": "easy",
+      "explanation": "Sorting algorithms arrange elements in a specified order."
+    },
+
+    {
+      "id": "alg_8",
+      "question": "Search algorithms are mainly used to:",
+      "options": [
+        "Replace elements",
+        "Find elements in a sorted range",
+        "Swap two values",
+        "Print output"
+      ],
+      "correctIndex": 1,
+      "topic": "Algorithm Categories",
+      "difficulty": "medium",
+      "explanation": "Search algorithms perform searching operations on a range of elements."
+    },
+
+    {
+      "id": "alg_9",
+      "question": "Pseudocode is best described as:",
+      "options": [
+        "A programming language",
+        "An informal structured description of an algorithm",
+        "A compiled program",
+        "Machine code"
+      ],
+      "correctIndex": 1,
+      "topic": "Pseudocode Basics",
+      "difficulty": "easy",
+      "explanation": "Pseudocode is an informal language used to describe algorithms."
+    },
+
+    {
+      "id": "alg_10",
+      "question": "Pseudocode is language-agnostic, meaning:",
+      "options": [
+        "It only works in English",
+        "It depends on Python",
+        "It is not tied to any specific programming language",
+        "It must be compiled"
+      ],
+      "correctIndex": 2,
+      "topic": "Pseudocode Features",
+      "difficulty": "medium",
+      "explanation": "Language-agnostic means it is not tied to any programming language."
+    },
+
+    {
+      "id": "alg_11",
+      "question": "Which keyword is commonly used for input in pseudocode?",
+      "options": [
+        "PRINT",
+        "DISPLAY",
+        "INPUT",
+        "SHOW"
+      ],
+      "correctIndex": 2,
+      "topic": "Pseudocode Keywords",
+      "difficulty": "easy",
+      "explanation": "INPUT is used to read values."
+    },
+
+    {
+      "id": "alg_12",
+      "question": "Which keyword is used for output?",
+      "options": [
+        "INPUT",
+        "PRINT",
+        "READ",
+        "GET"
+      ],
+      "correctIndex": 1,
+      "topic": "Pseudocode Keywords",
+      "difficulty": "easy",
+      "explanation": "PRINT or DISPLAY is used for output."
+    },
+
+    {
+      "id": "alg_13",
+      "question": "Which construct represents making a decision?",
+      "options": [
+        "Sequence",
+        "Selection",
+        "Repetition",
+        "Declaration"
+      ],
+      "correctIndex": 1,
+      "topic": "Control Structures",
+      "difficulty": "medium",
+      "explanation": "Selection is used for decision-making."
+    },
+
+    {
+      "id": "alg_14",
+      "question": "Which construct repeats actions?",
+      "options": [
+        "Selection",
+        "Sequence",
+        "Repetition",
+        "Assignment"
+      ],
+      "correctIndex": 2,
+      "topic": "Control Structures",
+      "difficulty": "easy",
+      "explanation": "Repetition repeats actions until a condition changes."
+    },
+
+    {
+      "id": "alg_15",
+      "question": "In a WHILE loop, the condition is checked:",
+      "options": [
+        "After execution",
+        "Before execution",
+        "Never",
+        "Twice"
+      ],
+      "correctIndex": 1,
+      "topic": "Repetition",
+      "difficulty": "hard",
+      "explanation": "WHILE checks condition before executing the loop body."
+    },
+
+    {
+      "id": "alg_16",
+      "question": "Which flowchart symbol represents a decision?",
+      "options": [
+        "Rectangle",
+        "Parallelogram",
+        "Diamond",
+        "Oval"
+      ],
+      "correctIndex": 2,
+      "topic": "Flowchart Symbols",
+      "difficulty": "medium",
+      "explanation": "A diamond represents decision-making."
+    },
+
+    {
+      "id": "alg_17",
+      "question": "The oval symbol represents:",
+      "options": [
+        "Process",
+        "Input/Output",
+        "Start/End",
+        "Decision"
+      ],
+      "correctIndex": 2,
+      "topic": "Flowchart Symbols",
+      "difficulty": "easy",
+      "explanation": "The oval (terminator) shows start or end."
+    },
+
+    {
+      "id": "alg_18",
+      "question": "The rectangle symbol represents:",
+      "options": [
+        "Decision",
+        "Process",
+        "Storage",
+        "Connector"
+      ],
+      "correctIndex": 1,
+      "topic": "Flowchart Symbols",
+      "difficulty": "easy",
+      "explanation": "Rectangle represents a process or computation."
+    },
+
+    {
+      "id": "alg_19",
+      "question": "Which symbol represents input/output?",
+      "options": [
+        "Diamond",
+        "Oval",
+        "Parallelogram",
+        "Hexagon"
+      ],
+      "correctIndex": 2,
+      "topic": "Flowchart Symbols",
+      "difficulty": "medium",
+      "explanation": "Parallelogram is used for input/output."
+    },
+
+    {
+      "id": "alg_20",
+      "question": "Flow lines in a flowchart must:",
+      "options": [
+        "Be dotted",
+        "Be arrows",
+        "Have no direction",
+        "Be horizontal only"
+      ],
+      "correctIndex": 1,
+      "topic": "Flowchart Rules",
+      "difficulty": "medium",
+      "explanation": "Flow lines must be arrows to show direction."
+    },
+    
+  {
+    "id": "alg_21",
+    "question": "Which characteristic ensures an algorithm produces at least one result?",
+    "options": [
+      "Finiteness",
+      "Definiteness",
+      "Output",
+      "Effectiveness"
+    ],
+    "correctIndex": 2,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "medium",
+    "explanation": "An algorithm must produce one or more outputs after processing inputs."
+  },
+  {
+    "id": "alg_22",
+    "question": "Effectiveness in an algorithm means:",
+    "options": [
+      "Steps must be realistic and executable",
+      "Steps must be complex",
+      "Steps must use loops",
+      "Steps must use flowcharts"
+    ],
+    "correctIndex": 0,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "medium",
+    "explanation": "Each step must be simple enough to be carried out practically."
+  },
+  {
+    "id": "alg_23",
+    "question": "An algorithm that replaces elements of a specified value belongs to:",
+    "options": [
+      "Replacement algorithms",
+      "Swapping algorithms",
+      "Search algorithms",
+      "Min/Max algorithms"
+    ],
+    "correctIndex": 0,
+    "topic": "Algorithm Categories",
+    "difficulty": "medium",
+    "explanation": "Replacement algorithms replace elements of specified values."
+  },
+  {
+    "id": "alg_24",
+    "question": "Which construct executes statements one after another?",
+    "options": [
+      "Selection",
+      "Repetition",
+      "Sequence",
+      "Decision"
+    ],
+    "correctIndex": 2,
+    "topic": "Control Structures",
+    "difficulty": "easy",
+    "explanation": "Sequence performs actions in order."
+  },
+  {
+    "id": "alg_25",
+    "question": "In selection structure, which keywords are commonly used?",
+    "options": [
+      "FOR, DO, END",
+      "IF, THEN, ELSE, ENDIF",
+      "START, STOP",
+      "READ, PRINT"
+    ],
+    "correctIndex": 1,
+    "topic": "Selection Structure",
+    "difficulty": "easy",
+    "explanation": "Selection uses IF, THEN, ELSE, ENDIF."
+  },
+  {
+    "id": "alg_26",
+    "question": "Which keyword is used to declare variables in pseudocode?",
+    "options": [
+      "DECLARE",
+      "INPUT",
+      "SET",
+      "COMPUTE"
+    ],
+    "correctIndex": 0,
+    "topic": "Pseudocode Keywords",
+    "difficulty": "easy",
+    "explanation": "DECLARE is used for variable declaration."
+  },
+  {
+    "id": "alg_27",
+    "question": "The action of increasing a value by 1 is called:",
+    "options": [
+      "Assignment",
+      "Increment",
+      "Declaration",
+      "Replacement"
+    ],
+    "correctIndex": 1,
+    "topic": "Pseudocode Keywords",
+    "difficulty": "medium",
+    "explanation": "Increment means adding one to a variable."
+  },
+  {
+    "id": "alg_28",
+    "question": "Which structure would best generate even numbers from 2 to 40?",
+    "options": [
+      "Selection",
+      "Repetition",
+      "Sequence",
+      "Replacement"
+    ],
+    "correctIndex": 1,
+    "topic": "Repetition",
+    "difficulty": "medium",
+    "explanation": "Repetition is used to loop through numbers."
+  },
+  {
+    "id": "alg_29",
+    "question": "In the even number example, the increment value was:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "topic": "Repetition Example",
+    "difficulty": "hard",
+    "explanation": "Even numbers increase by 2 each iteration."
+  },
+  {
+    "id": "alg_30",
+    "question": "Which symbol represents a loop in flowcharts according to the slide?",
+    "options": [
+      "Diamond",
+      "Hexagon",
+      "Oval",
+      "Rectangle"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Symbols",
+    "difficulty": "medium",
+    "explanation": "The hexagon symbol represents loops."
+  },
+
+  {
+    "id": "alg_31",
+    "question": "Why is pseudocode preferred before actual coding?",
+    "options": [
+      "It runs faster",
+      "It focuses on logic without syntax",
+      "It replaces programming",
+      "It is machine code"
+    ],
+    "correctIndex": 1,
+    "topic": "Benefits of Pseudocode",
+    "difficulty": "hard",
+    "explanation": "Pseudocode allows planning logic before worrying about syntax."
+  },
+  {
+    "id": "alg_32",
+    "question": "In flowcharts, arrows primarily indicate:",
+    "options": [
+      "Data type",
+      "Direction of logic flow",
+      "Loop count",
+      "Memory allocation"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Rules",
+    "difficulty": "medium",
+    "explanation": "Arrows show the direction of execution."
+  },
+  {
+    "id": "alg_33",
+    "question": "Which flowchart symbol is used for arithmetic operations?",
+    "options": [
+      "Rectangle",
+      "Diamond",
+      "Parallelogram",
+      "Connector"
+    ],
+    "correctIndex": 0,
+    "topic": "Flowchart Symbols",
+    "difficulty": "medium",
+    "explanation": "Rectangle represents processing such as calculations."
+  },
+  {
+    "id": "alg_34",
+    "question": "A decision symbol always has:",
+    "options": [
+      "One output",
+      "Two labeled outputs",
+      "No output",
+      "Three inputs"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Symbols",
+    "difficulty": "hard",
+    "explanation": "Decision diamonds have Yes/No (True/False) outputs."
+  },
+  {
+    "id": "alg_35",
+    "question": "Which structure is most suitable for comparing two numbers?",
+    "options": [
+      "Sequence",
+      "Selection",
+      "Repetition",
+      "Assignment"
+    ],
+    "correctIndex": 1,
+    "topic": "Control Structures",
+    "difficulty": "medium",
+    "explanation": "Selection is used for comparison decisions."
+  },
+  {
+    "id": "alg_36",
+    "question": "If a loop condition is never false, the result will be:",
+    "options": [
+      "Compilation error",
+      "Infinite loop",
+      "Syntax error",
+      "Immediate termination"
+    ],
+    "correctIndex": 1,
+    "topic": "Repetition",
+    "difficulty": "hard",
+    "explanation": "If condition never becomes false, loop runs forever."
+  },
+  {
+    "id": "alg_37",
+    "question": "Which flowchart symbol represents input?",
+    "options": [
+      "Oval",
+      "Diamond",
+      "Parallelogram",
+      "Rectangle"
+    ],
+    "correctIndex": 2,
+    "topic": "Flowchart Symbols",
+    "difficulty": "medium",
+    "explanation": "Parallelogram is used for input/output."
+  },
+  {
+    "id": "alg_38",
+    "question": "Which benefit of flowcharts helps identify inefficiencies?",
+    "options": [
+      "Documentation",
+      "Problem-solving",
+      "Clarity",
+      "Decoration"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Benefits",
+    "difficulty": "hard",
+    "explanation": "Flowcharts help identify issues and inefficiencies."
+  },
+  {
+    "id": "alg_39",
+    "question": "In the printing cost example, total cost was calculated using:",
+    "options": [
+      "Addition",
+      "Subtraction",
+      "Multiplication",
+      "Division"
+    ],
+    "correctIndex": 2,
+    "topic": "LabWork 1",
+    "difficulty": "medium",
+    "explanation": "Total cost = number of pages × cost per page."
+  },
+  {
+    "id": "alg_40",
+    "question": "A program that compares two numbers and prints the greater uses:",
+    "options": [
+      "Sequence only",
+      "Selection structure",
+      "Repetition only",
+      "Replacement algorithm"
+    ],
+    "correctIndex": 1,
+    "topic": "LabWork 2",
+    "difficulty": "medium",
+    "explanation": "Comparison requires IF-ELSE selection."
+  },
+  {
+    "id": "alg_41",
+    "question": "Why must an algorithm terminate?",
+    "options": [
+      "To save memory",
+      "Because of finiteness",
+      "To use loops",
+      "To declare variables"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "hard",
+    "explanation": "Finiteness requires termination."
+  },
+  {
+    "id": "alg_42",
+    "question": "Which flowchart rule states flow begins at:",
+    "options": [
+      "Bottom",
+      "Middle",
+      "Top",
+      "Right"
+    ],
+    "correctIndex": 2,
+    "topic": "Flowchart Rules",
+    "difficulty": "hard",
+    "explanation": "Flowcharts generally start from top to bottom."
+  },
+  {
+    "id": "alg_43",
+    "question": "Internal storage symbol is mainly used for:",
+    "options": [
+      "Declaring variables",
+      "Displaying output",
+      "Decision making",
+      "Looping"
+    ],
+    "correctIndex": 0,
+    "topic": "Flowchart Symbols",
+    "difficulty": "hard",
+    "explanation": "Internal storage represents memory storage."
+  },
+  {
+    "id": "alg_44",
+    "question": "A predefined process symbol represents:",
+    "options": [
+      "Loop",
+      "Subroutine",
+      "Input",
+      "Output"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Symbols",
+    "difficulty": "hard",
+    "explanation": "Subroutine symbol represents grouped statements."
+  },
+  {
+    "id": "alg_45",
+    "question": "Which control structure ensures all steps execute in order?",
+    "options": [
+      "Sequence",
+      "Selection",
+      "Repetition",
+      "Decision"
+    ],
+    "correctIndex": 0,
+    "topic": "Control Structures",
+    "difficulty": "medium",
+    "explanation": "Sequence executes statements sequentially."
+  },
+  {
+    "id": "alg_46",
+    "question": "Why is pseudocode useful for collaboration?",
+    "options": [
+      "It compiles faster",
+      "It is easier for non-programmers to understand",
+      "It is encrypted",
+      "It replaces flowcharts"
+    ],
+    "correctIndex": 1,
+    "topic": "Benefits of Pseudocode",
+    "difficulty": "hard",
+    "explanation": "Its readability allows better team understanding."
+  },
+  {
+    "id": "alg_47",
+    "question": "Which algorithm type performs operations without modifying data?",
+    "options": [
+      "Swapping",
+      "Read-only sequence",
+      "Replacement",
+      "Sorting"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithm Categories",
+    "difficulty": "hard",
+    "explanation": "Read-only sequence algorithms do not modify elements."
+  },
+  {
+    "id": "alg_48",
+    "question": "In pseudocode, SET is primarily used for:",
+    "options": [
+      "Displaying output",
+      "Assigning values",
+      "Declaring variables",
+      "Loop control"
+    ],
+    "correctIndex": 1,
+    "topic": "Pseudocode Keywords",
+    "difficulty": "medium",
+    "explanation": "SET assigns values to variables."
+  },
+  {
+    "id": "alg_49",
+    "question": "Which structure would classify wood length into Short, Medium, Long?",
+    "options": [
+      "Sequence",
+      "Selection",
+      "Repetition",
+      "Sorting"
+    ],
+    "correctIndex": 1,
+    "topic": "Exercise - Carpenter",
+    "difficulty": "hard",
+    "explanation": "Classification requires decision-making."
+  },
+  {
+    "id": "alg_50",
+    "question": "Why are flowcharts useful documentation tools?",
+    "options": [
+      "They reduce memory usage",
+      "They visually represent processes clearly",
+      "They compile automatically",
+      "They replace code"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Benefits",
+    "difficulty": "hard",
+    "explanation": "Flowcharts visually document processes for maintenance and clarity."
+  },
+  {
+    "id": "alg_51",
+    "question": "An algorithm that swaps two values belongs to:",
+    "options": [
+      "Swapping algorithms",
+      "Sorting algorithms",
+      "Search algorithms",
+      "Min/Max algorithms"
+    ],
+    "correctIndex": 0,
+    "topic": "Algorithm Categories",
+    "difficulty": "medium",
+    "explanation": "Swapping algorithms exchange values."
+  },
+  {
+    "id": "alg_52",
+    "question": "Which structure would best generate odd numbers?",
+    "options": [
+      "Selection",
+      "Repetition",
+      "Sequence",
+      "Replacement"
+    ],
+    "correctIndex": 1,
+    "topic": "Repetition",
+    "difficulty": "medium",
+    "explanation": "Generating sequences requires repetition."
+  },
+  {
+    "id": "alg_53",
+    "question": "If no ELSE part is provided in IF statement, what happens when condition is false?",
+    "options": [
+      "Program stops",
+      "Nothing executes",
+      "Loop runs",
+      "Error occurs"
+    ],
+    "correctIndex": 1,
+    "topic": "Selection",
+    "difficulty": "hard",
+    "explanation": "If condition is false and no ELSE exists, no action occurs."
+  },
+  {
+    "id": "alg_54",
+    "question": "Which is NOT a benefit of pseudocode?",
+    "options": [
+      "Clarity",
+      "Planning",
+      "Focus on syntax errors",
+      "Collaboration"
+    ],
+    "correctIndex": 2,
+    "topic": "Benefits of Pseudocode",
+    "difficulty": "hard",
+    "explanation": "Pseudocode focuses on logic, not syntax."
+  },
+  {
+    "id": "alg_55",
+    "question": "Flowcharts help in maintenance because:",
+    "options": [
+      "They store variables",
+      "They provide visual documentation",
+      "They execute code",
+      "They reduce RAM"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Benefits",
+    "difficulty": "hard",
+    "explanation": "Visual representation makes updating easier."
+  },
+  {
+    "id": "alg_56",
+    "question": "Which control structure is present in every algorithm?",
+    "options": [
+      "Selection",
+      "Repetition",
+      "Sequence",
+      "Decision"
+    ],
+    "correctIndex": 2,
+    "topic": "Control Structures",
+    "difficulty": "hard",
+    "explanation": "Every algorithm must execute steps sequentially."
+  },
+  {
+    "id": "alg_57",
+    "question": "A connector symbol is used to:",
+    "options": [
+      "End program",
+      "Join flow lines",
+      "Declare variable",
+      "Perform calculation"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Symbols",
+    "difficulty": "hard",
+    "explanation": "Connectors link flow lines."
+  },
+  {
+    "id": "alg_58",
+    "question": "Why must decision arrows be labeled Yes/No?",
+    "options": [
+      "For decoration",
+      "To avoid confusion",
+      "To increase speed",
+      "To reduce code"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Rules",
+    "difficulty": "hard",
+    "explanation": "Labels clarify logical paths."
+  },
+  {
+    "id": "alg_59",
+    "question": "Which is an example of processing in pseudocode?",
+    "options": [
+      "DISPLAY result",
+      "INPUT number",
+      "COMPUTE total = a + b",
+      "END"
+    ],
+    "correctIndex": 2,
+    "topic": "Pseudocode Constructs",
+    "difficulty": "medium",
+    "explanation": "COMPUTE represents processing."
+  },
+  {
+    "id": "alg_60",
+    "question": "An algorithm that does not clearly define its steps violates:",
+    "options": [
+      "Finiteness",
+      "Input",
+      "Definiteness",
+      "Output"
+    ],
+    "correctIndex": 2,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "hard",
+    "explanation": "Definiteness requires clarity and precision."
+  },
+  
+  {
+    "id": "alg_61",
+    "question": "Which algorithm characteristic ensures steps are logically ordered?",
+    "options": [
+      "Input",
+      "Sequence",
+      "Definiteness",
+      "Effectiveness"
+    ],
+    "correctIndex": 1,
+    "topic": "Control Structures",
+    "difficulty": "hard",
+    "explanation": "Sequence ensures logical step-by-step order."
+  },
+  {
+    "id": "alg_62",
+    "question": "Which control structure can exist inside another control structure?",
+    "options": [
+      "Nested structures",
+      "Parallel structures",
+      "Linear structures",
+      "Static structures"
+    ],
+    "correctIndex": 0,
+    "topic": "Control Structures",
+    "difficulty": "hard",
+    "explanation": "Control structures can be nested within each other."
+  },
+  {
+    "id": "alg_63",
+    "question": "What happens if an algorithm has ambiguous instructions?",
+    "options": [
+      "It becomes faster",
+      "It violates definiteness",
+      "It improves performance",
+      "It terminates early"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "hard",
+    "explanation": "Ambiguity violates definiteness."
+  },
+  {
+    "id": "alg_64",
+    "question": "Which construct is best for menu-driven programs?",
+    "options": [
+      "Sequence only",
+      "Selection",
+      "Declaration",
+      "Connector"
+    ],
+    "correctIndex": 1,
+    "topic": "Selection",
+    "difficulty": "hard",
+    "explanation": "Menus require decision-making."
+  },
+  {
+    "id": "alg_65",
+    "question": "The main goal of an algorithm is to:",
+    "options": [
+      "Compile code",
+      "Solve a problem logically",
+      "Create graphics",
+      "Store data permanently"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithms Basics",
+    "difficulty": "easy",
+    "explanation": "Algorithms focus on logical problem solving."
+  },
+
+  {
+    "id": "alg_66",
+    "question": "Which symbol is used to represent memory storage in flowcharts?",
+    "options": [
+      "Oval",
+      "Internal storage symbol",
+      "Diamond",
+      "Hexagon"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Symbols",
+    "difficulty": "hard",
+    "explanation": "Internal storage represents memory."
+  },
+  {
+    "id": "alg_67",
+    "question": "A loop that executes at least once before checking condition is:",
+    "options": [
+      "WHILE loop",
+      "FOR loop",
+      "DO-WHILE conceptually",
+      "IF structure"
+    ],
+    "correctIndex": 2,
+    "topic": "Repetition",
+    "difficulty": "hard",
+    "explanation": "DO-WHILE checks condition after execution."
+  },
+  {
+    "id": "alg_68",
+    "question": "Which part of pseudocode handles calculations?",
+    "options": [
+      "DECLARE",
+      "COMPUTE",
+      "INPUT",
+      "END"
+    ],
+    "correctIndex": 1,
+    "topic": "Pseudocode Constructs",
+    "difficulty": "medium",
+    "explanation": "COMPUTE performs processing."
+  },
+  {
+    "id": "alg_69",
+    "question": "If a loop counter decreases incorrectly, the likely result is:",
+    "options": [
+      "Faster execution",
+      "Infinite loop",
+      "Correct termination",
+      "Compilation error"
+    ],
+    "correctIndex": 1,
+    "topic": "Repetition",
+    "difficulty": "hard",
+    "explanation": "Incorrect counter updates can cause infinite loops."
+  },
+  {
+    "id": "alg_70",
+    "question": "Which flowchart symbol indicates start and stop?",
+    "options": [
+      "Oval",
+      "Diamond",
+      "Rectangle",
+      "Parallelogram"
+    ],
+    "correctIndex": 0,
+    "topic": "Flowchart Symbols",
+    "difficulty": "easy",
+    "explanation": "Oval represents Start/End."
+  },
+
+  {
+    "id": "alg_71",
+    "question": "Which keyword assigns a value to a variable?",
+    "options": [
+      "DECLARE",
+      "SET",
+      "INPUT",
+      "DISPLAY"
+    ],
+    "correctIndex": 1,
+    "topic": "Pseudocode Keywords",
+    "difficulty": "medium",
+    "explanation": "SET assigns values."
+  },
+  {
+    "id": "alg_72",
+    "question": "Which structure would validate login credentials?",
+    "options": [
+      "Sequence",
+      "Selection",
+      "Replacement",
+      "Sorting"
+    ],
+    "correctIndex": 1,
+    "topic": "Selection",
+    "difficulty": "hard",
+    "explanation": "Login validation requires condition checking."
+  },
+  {
+    "id": "alg_73",
+    "question": "A properly designed algorithm must have:",
+    "options": [
+      "At least one output",
+      "Multiple loops",
+      "Nested decisions",
+      "Graphical symbols"
+    ],
+    "correctIndex": 0,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "medium",
+    "explanation": "Algorithms must produce output."
+  },
+  {
+    "id": "alg_74",
+    "question": "Which of these improves algorithm clarity?",
+    "options": [
+      "Complex syntax",
+      "Flowcharts",
+      "Machine code",
+      "Random steps"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Benefits",
+    "difficulty": "medium",
+    "explanation": "Flowcharts visually clarify logic."
+  },
+  {
+    "id": "alg_75",
+    "question": "Which construct would repeatedly ask user input until valid?",
+    "options": [
+      "Sequence",
+      "Selection",
+      "Repetition",
+      "Connector"
+    ],
+    "correctIndex": 2,
+    "topic": "Repetition",
+    "difficulty": "hard",
+    "explanation": "Repetition continues until condition is satisfied."
+  },
+
+  {
+    "id": "alg_76",
+    "question": "Which algorithm category modifies data arrangement?",
+    "options": [
+      "Sorting",
+      "Read-only",
+      "Min/Max",
+      "Search"
+    ],
+    "correctIndex": 0,
+    "topic": "Algorithm Categories",
+    "difficulty": "hard",
+    "explanation": "Sorting modifies data order."
+  },
+  {
+    "id": "alg_77",
+    "question": "In a flowchart, decisions can branch into how many logical paths?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Unlimited"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Symbols",
+    "difficulty": "hard",
+    "explanation": "Standard decisions have two outputs."
+  },
+  {
+    "id": "alg_78",
+    "question": "What ensures algorithm reliability?",
+    "options": [
+      "Clear logical steps",
+      "Long code",
+      "Complex loops",
+      "Multiple connectors"
+    ],
+    "correctIndex": 0,
+    "topic": "Algorithms Basics",
+    "difficulty": "hard",
+    "explanation": "Clear logic ensures reliability."
+  },
+  {
+    "id": "alg_79",
+    "question": "Which of the following is a repetition keyword?",
+    "options": [
+      "WHILE",
+      "DISPLAY",
+      "DECLARE",
+      "ENDIF"
+    ],
+    "correctIndex": 0,
+    "topic": "Repetition",
+    "difficulty": "medium",
+    "explanation": "WHILE represents repetition."
+  },
+  {
+    "id": "alg_80",
+    "question": "Flowcharts should generally flow:",
+    "options": [
+      "Left to right",
+      "Bottom to top",
+      "Top to bottom",
+      "Random direction"
+    ],
+    "correctIndex": 2,
+    "topic": "Flowchart Rules",
+    "difficulty": "hard",
+    "explanation": "Flowcharts typically move top to bottom."
+  },
+
+  {
+    "id": "alg_81",
+    "question": "Which structure guarantees at least one execution of instructions?",
+    "options": [
+      "Selection",
+      "Sequence",
+      "Repetition",
+      "Declaration"
+    ],
+    "correctIndex": 1,
+    "topic": "Control Structures",
+    "difficulty": "hard",
+    "explanation": "Sequence ensures execution in order."
+  },
+  {
+    "id": "alg_82",
+    "question": "Which algorithm type determines whether elements are sorted?",
+    "options": [
+      "Sorting",
+      "Search",
+      "Read-only sequence",
+      "Min/Max"
+    ],
+    "correctIndex": 2,
+    "topic": "Algorithm Categories",
+    "difficulty": "hard",
+    "explanation": "Read-only sequence checks without modifying."
+  },
+
+  {
+    "id": "alg_83",
+    "question": "The purpose of connectors in flowcharts is to:",
+    "options": [
+      "Terminate flow",
+      "Link different sections",
+      "Perform calculations",
+      "Store data"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Symbols",
+    "difficulty": "medium",
+    "explanation": "Connectors join flow sections."
+  },
+
+  {
+    "id": "alg_84",
+    "question": "Which is NOT a basic control structure?",
+    "options": [
+      "Sequence",
+      "Selection",
+      "Compilation",
+      "Repetition"
+    ],
+    "correctIndex": 2,
+    "topic": "Control Structures",
+    "difficulty": "medium",
+    "explanation": "Compilation is not a control structure."
+  },
+
+  
+  {
+    "id": "alg_85",
+    "question": "Which structure is used when multiple conditions must be evaluated sequentially?",
+    "options": [
+      "Nested IF statements",
+      "Sequence only",
+      "Single WHILE loop",
+      "Simple assignment"
+    ],
+    "correctIndex": 0,
+    "topic": "Selection",
+    "difficulty": "hard",
+    "explanation": "Nested IF statements allow evaluation of multiple conditions."
+  },
+  {
+    "id": "alg_86",
+    "question": "An algorithm designed to find the largest number in a list is a:",
+    "options": [
+      "Search algorithm",
+      "Min/Max algorithm",
+      "Replacement algorithm",
+      "Swapping algorithm"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithm Categories",
+    "difficulty": "medium",
+    "explanation": "Min/Max algorithms determine smallest or largest values."
+  },
+  {
+    "id": "alg_87",
+    "question": "Which keyword ends a WHILE loop in pseudocode?",
+    "options": [
+      "STOP",
+      "END",
+      "ENDWHILE",
+      "ENDIF"
+    ],
+    "correctIndex": 2,
+    "topic": "Repetition",
+    "difficulty": "medium",
+    "explanation": "ENDWHILE marks the end of a WHILE loop."
+  },
+  {
+    "id": "alg_88",
+    "question": "Why is indentation important in pseudocode?",
+    "options": [
+      "It increases speed",
+      "It improves readability",
+      "It compiles faster",
+      "It stores variables"
+    ],
+    "correctIndex": 1,
+    "topic": "Pseudocode Features",
+    "difficulty": "hard",
+    "explanation": "Indentation improves clarity and logical structure."
+  },
+  {
+    "id": "alg_89",
+    "question": "Which symbol is primarily used for arithmetic operations in flowcharts?",
+    "options": [
+      "Rectangle",
+      "Oval",
+      "Diamond",
+      "Parallelogram"
+    ],
+    "correctIndex": 0,
+    "topic": "Flowchart Symbols",
+    "difficulty": "medium",
+    "explanation": "Rectangle represents processing."
+  },
+  {
+    "id": "alg_90",
+    "question": "An algorithm must accept input to:",
+    "options": [
+      "Increase code length",
+      "Produce meaningful output",
+      "Avoid loops",
+      "Prevent decisions"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "hard",
+    "explanation": "Input is processed to produce meaningful output."
+  },
+  {
+    "id": "alg_91",
+    "question": "Which structure is best for repeating a task a fixed number of times?",
+    "options": [
+      "Sequence",
+      "Selection",
+      "Loop",
+      "Connector"
+    ],
+    "correctIndex": 2,
+    "topic": "Repetition",
+    "difficulty": "medium",
+    "explanation": "Loops repeat tasks multiple times."
+  },
+  {
+    "id": "alg_92",
+    "question": "A flowchart without arrows would:",
+    "options": [
+      "Be clearer",
+      "Lack direction of flow",
+      "Execute faster",
+      "Use less space"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Rules",
+    "difficulty": "hard",
+    "explanation": "Arrows show direction of execution."
+  },
+  {
+    "id": "alg_93",
+    "question": "Which of these best describes pseudocode?",
+    "options": [
+      "Machine language",
+      "Executable program",
+      "Structured English representation of logic",
+      "Binary code"
+    ],
+    "correctIndex": 2,
+    "topic": "Pseudocode Basics",
+    "difficulty": "medium",
+    "explanation": "Pseudocode uses structured English."
+  },
+  {
+    "id": "alg_94",
+    "question": "An infinite loop violates which characteristic?",
+    "options": [
+      "Input",
+      "Output",
+      "Finiteness",
+      "Definiteness"
+    ],
+    "correctIndex": 2,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "hard",
+    "explanation": "Algorithms must terminate after finite steps."
+  },
+  {
+    "id": "alg_95",
+    "question": "Which construct decides between two alternatives?",
+    "options": [
+      "Sequence",
+      "Selection",
+      "Loop",
+      "Assignment"
+    ],
+    "correctIndex": 1,
+    "topic": "Control Structures",
+    "difficulty": "easy",
+    "explanation": "Selection handles decision-making."
+  },
+  {
+    "id": "alg_96",
+    "question": "Which flowchart symbol is used to ask a question?",
+    "options": [
+      "Oval",
+      "Diamond",
+      "Rectangle",
+      "Hexagon"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Symbols",
+    "difficulty": "medium",
+    "explanation": "Diamond represents a decision."
+  },
+  {
+    "id": "alg_97",
+    "question": "Which is necessary before computing total cost?",
+    "options": [
+      "Looping",
+      "Receiving input",
+      "Drawing flowchart",
+      "Sorting values"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithm Logic",
+    "difficulty": "hard",
+    "explanation": "Inputs must be received before processing."
+  },
+  {
+    "id": "alg_98",
+    "question": "Which category swaps ranges of elements?",
+    "options": [
+      "Swapping algorithm",
+      "Search algorithm",
+      "Min/Max algorithm",
+      "Replacement algorithm"
+    ],
+    "correctIndex": 0,
+    "topic": "Algorithm Categories",
+    "difficulty": "hard",
+    "explanation": "Swapping algorithms exchange values or ranges."
+  },
+  {
+    "id": "alg_99",
+    "question": "Which rule ensures clarity in flowcharts?",
+    "options": [
+      "Unlabeled arrows",
+      "Clear labeling of decision paths",
+      "Random flow",
+      "No start symbol"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Rules",
+    "difficulty": "hard",
+    "explanation": "Decision paths must be labeled Yes/No."
+  },
+  {
+    "id": "alg_100",
+    "question": "Why should pseudocode avoid complex syntax?",
+    "options": [
+      "To increase speed",
+      "To focus on logic",
+      "To compile faster",
+      "To use machine code"
+    ],
+    "correctIndex": 1,
+    "topic": "Pseudocode Benefits",
+    "difficulty": "hard",
+    "explanation": "Pseudocode focuses on logic rather than syntax."
+  },
+
+  {
+    "id": "alg_101",
+    "question": "Which construct guarantees execution order without condition checking?",
+    "options": [
+      "Selection",
+      "Repetition",
+      "Sequence",
+      "Decision"
+    ],
+    "correctIndex": 2,
+    "topic": "Control Structures",
+    "difficulty": "hard",
+    "explanation": "Sequence executes statements in order."
+  },
+  {
+    "id": "alg_102",
+    "question": "Which algorithm type is most suitable for checking if data is sorted?",
+    "options": [
+      "Sorting",
+      "Read-only sequence",
+      "Replacement",
+      "Swapping"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithm Categories",
+    "difficulty": "hard",
+    "explanation": "Read-only sequence checks without modification."
+  },
+  {
+    "id": "alg_103",
+    "question": "Which symbol connects different pages in a flowchart?",
+    "options": [
+      "Connector",
+      "Rectangle",
+      "Oval",
+      "Diamond"
+    ],
+    "correctIndex": 0,
+    "topic": "Flowchart Symbols",
+    "difficulty": "medium",
+    "explanation": "Connectors join flow lines."
+  },
+  {
+    "id": "alg_104",
+    "question": "Why must an algorithm have clearly defined inputs?",
+    "options": [
+      "To compile",
+      "To ensure correct processing",
+      "To reduce code size",
+      "To draw flowchart"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "hard",
+    "explanation": "Correct processing depends on clear inputs."
+  },
+  {
+    "id": "alg_105",
+    "question": "A pseudocode that lacks END statements may result in:",
+    "options": [
+      "Clear logic",
+      "Ambiguity",
+      "Faster runtime",
+      "Better memory"
+    ],
+    "correctIndex": 1,
+    "topic": "Pseudocode Structure",
+    "difficulty": "hard",
+    "explanation": "Missing END statements cause ambiguity."
+  },
+
+  {
+    "id": "alg_106",
+    "question": "Which control structure is mandatory in every algorithm?",
+    "options": [
+      "Repetition",
+      "Selection",
+      "Sequence",
+      "Loop"
+    ],
+    "correctIndex": 2,
+    "topic": "Control Structures",
+    "difficulty": "hard",
+    "explanation": "All algorithms execute sequential steps."
+  },
+  {
+    "id": "alg_107",
+    "question": "A decision structure always evaluates:",
+    "options": [
+      "An arithmetic expression",
+      "A Boolean condition",
+      "A loop counter",
+      "A variable declaration"
+    ],
+    "correctIndex": 1,
+    "topic": "Selection",
+    "difficulty": "hard",
+    "explanation": "Decision structures evaluate Boolean conditions."
+  },
+  {
+    "id": "alg_108",
+    "question": "Which tool is graphical representation of algorithm?",
+    "options": [
+      "Compiler",
+      "Flowchart",
+      "Interpreter",
+      "Debugger"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Basics",
+    "difficulty": "easy",
+    "explanation": "Flowchart visually represents algorithms."
+  },
+  {
+    "id": "alg_109",
+    "question": "Which ensures algorithm completeness?",
+    "options": [
+      "Termination and output",
+      "Long loops",
+      "Nested decisions",
+      "Complex syntax"
+    ],
+    "correctIndex": 0,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "hard",
+    "explanation": "Algorithm must terminate and produce output."
+  },
+  {
+    "id": "alg_110",
+    "question": "Which part of pseudocode handles user display?",
+    "options": [
+      "INPUT",
+      "DECLARE",
+      "DISPLAY",
+      "SET"
+    ],
+    "correctIndex": 2,
+    "topic": "Pseudocode Keywords",
+    "difficulty": "medium",
+    "explanation": "DISPLAY shows output."
+  },
+
+  {
+    "id": "alg_111",
+    "question": "Which loop continues as long as condition remains true?",
+    "options": [
+      "WHILE",
+      "IF",
+      "DECLARE",
+      "SET"
+    ],
+    "correctIndex": 0,
+    "topic": "Repetition",
+    "difficulty": "medium",
+    "explanation": "WHILE loop runs while condition is true."
+  },
+  {
+    "id": "alg_112",
+    "question": "Which flowchart rule improves readability?",
+    "options": [
+      "Avoid arrows",
+      "Use clear symbols consistently",
+      "Skip labels",
+      "Avoid terminator"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Rules",
+    "difficulty": "hard",
+    "explanation": "Consistency improves clarity."
+  },
+  {
+    "id": "alg_113",
+    "question": "An algorithm without input can still work if:",
+    "options": [
+      "It has predefined values",
+      "It has no output",
+      "It loops infinitely",
+      "It has no steps"
+    ],
+    "correctIndex": 0,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "hard",
+    "explanation": "Some algorithms use predefined constants."
+  },
+  {
+    "id": "alg_114",
+    "question": "Which construct can combine sequence, selection and repetition?",
+    "options": [
+      "Nested structures",
+      "Single IF",
+      "Single loop",
+      "Assignment"
+    ],
+    "correctIndex": 0,
+    "topic": "Control Structures",
+    "difficulty": "hard",
+    "explanation": "Nested structures combine multiple constructs."
+  },
+  {
+    "id": "alg_115",
+    "question": "Flowcharts are most useful during:",
+    "options": [
+      "Hardware repair",
+      "Program planning",
+      "Machine code execution",
+      "Memory allocation"
+    ],
+    "correctIndex": 1,
+    "topic": "Flowchart Benefits",
+    "difficulty": "medium",
+    "explanation": "Flowcharts are planning tools."
+  },
+
+  {
+    "id": "alg_116",
+    "question": "Which structure is ideal for validating exam pass/fail?",
+    "options": [
+      "Sequence",
+      "Selection",
+      "Repetition",
+      "Connector"
+    ],
+    "correctIndex": 1,
+    "topic": "Selection",
+    "difficulty": "medium",
+    "explanation": "Pass/fail requires condition evaluation."
+  },
+  {
+    "id": "alg_117",
+    "question": "Which feature makes pseudocode cross-platform?",
+    "options": [
+      "Binary format",
+      "Language independence",
+      "Compiler support",
+      "Encryption"
+    ],
+    "correctIndex": 1,
+    "topic": "Pseudocode Features",
+    "difficulty": "hard",
+    "explanation": "Pseudocode is not tied to any language."
+  },
+  {
+    "id": "alg_118",
+    "question": "Which structure would best generate numbers 1–10?",
+    "options": [
+      "Sequence",
+      "Repetition",
+      "Selection",
+      "Declaration"
+    ],
+    "correctIndex": 1,
+    "topic": "Repetition",
+    "difficulty": "easy",
+    "explanation": "Generating series requires repetition."
+  },
+  {
+    "id": "alg_119",
+    "question": "A flowchart must always begin with:",
+    "options": [
+      "Rectangle",
+      "Diamond",
+      "Terminator",
+      "Connector"
+    ],
+    "correctIndex": 2,
+    "topic": "Flowchart Rules",
+    "difficulty": "medium",
+    "explanation": "Start is represented by terminator symbol."
+  },
+  {
+    "id": "alg_120",
+    "question": "Which algorithm principle ensures no step is vague?",
+    "options": [
+      "Finiteness",
+      "Definiteness",
+      "Input",
+      "Output"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "hard",
+    "explanation": "Definiteness ensures clarity."
+  },
+
+  {
+    "id": "alg_121",
+    "question": "Which structure repeats until condition becomes false?",
+    "options": [
+      "IF",
+      "WHILE",
+      "DECLARE",
+      "DISPLAY"
+    ],
+    "correctIndex": 1,
+    "topic": "Repetition",
+    "difficulty": "medium",
+    "explanation": "WHILE runs until condition is false."
+  },
+  {
+    "id": "alg_122",
+    "question": "Which flowchart symbol represents input/output?",
+    "options": [
+      "Parallelogram",
+      "Oval",
+      "Diamond",
+      "Rectangle"
+    ],
+    "correctIndex": 0,
+    "topic": "Flowchart Symbols",
+    "difficulty": "easy",
+    "explanation": "Parallelogram represents input/output."
+  },
+  {
+    "id": "alg_123",
+    "question": "Why is planning before coding important?",
+    "options": [
+      "Reduces logical errors",
+      "Increases memory use",
+      "Compiles faster",
+      "Removes need for loops"
+    ],
+    "correctIndex": 0,
+    "topic": "Pseudocode Benefits",
+    "difficulty": "hard",
+    "explanation": "Planning reduces errors."
+  },
+  {
+    "id": "alg_124",
+    "question": "Which structure is fundamental for problem solving?",
+    "options": [
+      "Sequence",
+      "Encryption",
+      "Compilation",
+      "Debugging"
+    ],
+    "correctIndex": 0,
+    "topic": "Control Structures",
+    "difficulty": "hard",
+    "explanation": "Sequence is foundational."
+  },
+  {
+    "id": "alg_125",
+    "question": "Which ensures algorithm efficiency and correctness?",
+    "options": [
+      "Clear logic and structure",
+      "Long code",
+      "Complex diagrams",
+      "Many connectors"
+    ],
+    "correctIndex": 0,
+    "topic": "Algorithms Basics",
+    "difficulty": "hard",
+    "explanation": "Clear logical structure ensures correctness."
+  },
+  {
+    "id": "alg_126",
+    "question": "A loop must eventually change its condition to avoid:",
+    "options": [
+      "Compilation",
+      "Termination",
+      "Infinite loop",
+      "Assignment"
+    ],
+    "correctIndex": 2,
+    "topic": "Repetition",
+    "difficulty": "hard",
+    "explanation": "Condition must change to terminate."
+  },
+  {
+    "id": "alg_127",
+    "question": "Which symbol handles decision branching?",
+    "options": [
+      "Diamond",
+      "Rectangle",
+      "Oval",
+      "Connector"
+    ],
+    "correctIndex": 0,
+    "topic": "Flowchart Symbols",
+    "difficulty": "easy",
+    "explanation": "Diamond represents decision."
+  },
+  {
+    "id": "alg_128",
+    "question": "Algorithms are independent of:",
+    "options": [
+      "Logic",
+      "Programming language syntax",
+      "Problem solving",
+      "Input values"
+    ],
+    "correctIndex": 1,
+    "topic": "Algorithms Basics",
+    "difficulty": "medium",
+    "explanation": "Algorithms focus on logic, not syntax."
+  },
+  {
+    "id": "alg_129",
+    "question": "Which principle ensures the algorithm can be carried out manually?",
+    "options": [
+      "Effectiveness",
+      "Finiteness",
+      "Input",
+      "Output"
+    ],
+    "correctIndex": 0,
+    "topic": "Algorithm Characteristics",
+    "difficulty": "hard",
+    "explanation": "Effectiveness ensures steps are basic and executable."
+  },
+  {
+    "id": "alg_130",
+    "question": "The overall purpose of algorithms, pseudocode and flowcharts is to:",
+    "options": [
+      "Decorate programs",
+      "Simplify logical problem solving",
+      "Increase hardware speed",
+      "Replace programming languages"
+    ],
+    "correctIndex": 1,
+    "topic": "Course Summary",
+    "difficulty": "medium",
+    "explanation": "They simplify and structure logical problem solving."
+  }
+]
+}
