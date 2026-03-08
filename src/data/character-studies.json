@@ -1,0 +1,558 @@
+{
+  "courseId": "pcg-character-studies",
+  "title": "Character Studies – Kofi Boadi of Otumi",
+  "icon": "📖",
+  "questions": [
+    {
+      "id": "cs_001",
+      "question": "Who is the focus of the Character Studies?",
+      "options": ["Wilhelmina Kaade", "Maria Gyamea", "Kofi Boadi of Otumi", "Paul the Apostle"],
+      "correctIndex": 2,
+      "topic": "Introduction",
+      "difficulty": "easy",
+      "explanation": "The character study centers on Kofi Boadi of Otumi."
+    },
+    {
+      "id": "cs_002",
+      "question": "Where was Kofi Boadi from?",
+      "options": ["Kumasi", "Otumi", "Akropong", "Cape Coast"],
+      "correctIndex": 1,
+      "topic": "Background",
+      "difficulty": "easy",
+      "explanation": "He was from Otumi."
+    },
+    {
+      "id": "cs_003",
+      "question": "What was Kofi Boadi known for?",
+      "options": ["Disobedience", "Faithfulness and service", "Wealth", "Political power"],
+      "correctIndex": 1,
+      "topic": "Character",
+      "difficulty": "easy",
+      "explanation": "He was known for his faithfulness and service to God."
+    },
+    {
+      "id": "cs_004",
+      "question": "Which virtue best describes Kofi Boadi?",
+      "options": ["Pride", "Faithfulness", "Greed", "Fear"],
+      "correctIndex": 1,
+      "topic": "Character",
+      "difficulty": "easy",
+      "explanation": "Faithfulness defined his life."
+    },
+    {
+      "id": "cs_005",
+      "question": "Kofi Boadi served mainly as a?",
+      "options": ["Farmer", "Catechist", "Soldier", "Trader"],
+      "correctIndex": 1,
+      "topic": "Service",
+      "difficulty": "easy",
+      "explanation": "He served as a catechist."
+    },
+
+    {
+      "id": "cs_006",
+      "question": "What motivated Kofi Boadi’s service?",
+      "options": ["Money", "Love for God", "Fear of punishment", "Fame"],
+      "correctIndex": 1,
+      "topic": "Motivation",
+      "difficulty": "moderate",
+      "explanation": "His service was motivated by love for God."
+    },
+    {
+      "id": "cs_007",
+      "question": "Which challenge did Kofi Boadi face?",
+      "options": ["Persecution", "Comfort", "Luxury", "Power"],
+      "correctIndex": 0,
+      "topic": "Challenges",
+      "difficulty": "moderate",
+      "explanation": "He faced persecution for his faith."
+    },
+    {
+      "id": "cs_008",
+      "question": "What role did Kofi Boadi play in spreading Christianity?",
+      "options": ["Opposition leader", "Messenger of the Gospel", "Businessman", "King"],
+      "correctIndex": 1,
+      "topic": "Mission Work",
+      "difficulty": "moderate",
+      "explanation": "He was a messenger of the Gospel."
+    },
+    {
+      "id": "cs_009",
+      "question": "Which quality enabled him to endure hardship?",
+      "options": ["Patience", "Anger", "Fear", "Doubt"],
+      "correctIndex": 0,
+      "topic": "Character",
+      "difficulty": "moderate",
+      "explanation": "Patience helped him endure hardship."
+    },
+    {
+      "id": "cs_010",
+      "question": "What lesson does Kofi Boadi’s life teach?",
+      "options": ["Wealth is important", "Faithfulness in service", "Power brings success", "Education alone saves"],
+      "correctIndex": 1,
+      "topic": "Lessons",
+      "difficulty": "moderate",
+      "explanation": "His life teaches faithfulness in service."
+    },
+
+    {
+      "id": "cs_011",
+      "question": "Which virtue was central to his ministry?",
+      "options": ["Humility", "Pride", "Jealousy", "Selfishness"],
+      "correctIndex": 0,
+      "topic": "Character",
+      "difficulty": "moderate",
+      "explanation": "Humility marked his ministry."
+    },
+    {
+      "id": "cs_012",
+      "question": "How did Kofi Boadi influence others?",
+      "options": ["Through force", "By example", "Through wealth", "By politics"],
+      "correctIndex": 1,
+      "topic": "Influence",
+      "difficulty": "moderate",
+      "explanation": "He influenced others by example."
+    },
+    {
+      "id": "cs_013",
+      "question": "What sustained Kofi Boadi during trials?",
+      "options": ["Faith in God", "Money", "Friends", "Status"],
+      "correctIndex": 0,
+      "topic": "Faith",
+      "difficulty": "moderate",
+      "explanation": "His faith sustained him."
+    },
+    {
+      "id": "cs_014",
+      "question": "Which trait is NOT associated with Kofi Boadi?",
+      "options": ["Faithfulness", "Patience", "Pride", "Humility"],
+      "correctIndex": 2,
+      "topic": "Character",
+      "difficulty": "moderate",
+      "explanation": "Pride is not associated with him."
+    },
+    {
+      "id": "cs_015",
+      "question": "Kofi Boadi’s life encourages believers to?",
+      "options": ["Seek fame", "Serve faithfully", "Avoid challenges", "Depend on wealth"],
+      "correctIndex": 1,
+      "topic": "Lessons",
+      "difficulty": "moderate",
+      "explanation": "Believers are encouraged to serve faithfully."
+    },
+
+    {
+      "id": "cs_016",
+      "question": "What made Kofi Boadi’s service unique?",
+      "options": ["Consistency", "Wealth", "Power", "Education"],
+      "correctIndex": 0,
+      "topic": "Service",
+      "difficulty": "difficult",
+      "explanation": "His consistent dedication made his service unique."
+    },
+    {
+      "id": "cs_017",
+      "question": "Which challenge best tested his faith?",
+      "options": ["Opposition and persecution", "Prosperity", "Comfort", "Popularity"],
+      "correctIndex": 0,
+      "topic": "Challenges",
+      "difficulty": "difficult",
+      "explanation": "Opposition tested his faith."
+    },
+    {
+      "id": "cs_018",
+      "question": "Why is Kofi Boadi considered a model Christian?",
+      "options": ["Because of miracles", "Because of faithful obedience", "Because of wealth", "Because of authority"],
+      "correctIndex": 1,
+      "topic": "Christian Example",
+      "difficulty": "difficult",
+      "explanation": "He showed faithful obedience."
+    },
+    {
+      "id": "cs_019",
+      "question": "Which principle guided his decisions?",
+      "options": ["Personal gain", "God’s will", "Public opinion", "Fear"],
+      "correctIndex": 1,
+      "topic": "Faith",
+      "difficulty": "difficult",
+      "explanation": "God’s will guided his decisions."
+    },
+    {
+      "id": "cs_020",
+      "question": "Kofi Boadi’s endurance demonstrates which spiritual fruit?",
+      "options": ["Joy", "Patience", "Peace", "Love"],
+      "correctIndex": 1,
+      "topic": "Character",
+      "difficulty": "difficult",
+      "explanation": "Patience is reflected in his endurance."
+    },
+
+    {
+      "id": "cs_021",
+      "question": "What is the core message of Kofi Boadi’s story?",
+      "options": ["Success through struggle", "Faithfulness despite hardship", "Power through leadership", "Wealth through work"],
+      "correctIndex": 1,
+      "topic": "Message",
+      "difficulty": "difficult",
+      "explanation": "The core message is faithfulness despite hardship."
+    },
+    {
+      "id": "cs_022",
+      "question": "Which Christian duty did he prioritize?",
+      "options": ["Evangelism", "Politics", "Trade", "Education"],
+      "correctIndex": 0,
+      "topic": "Service",
+      "difficulty": "difficult",
+      "explanation": "He prioritized evangelism."
+    },
+    {
+      "id": "cs_023",
+      "question": "What distinguishes Kofi Boadi from others?",
+      "options": ["His wealth", "His obedience", "His status", "His age"],
+      "correctIndex": 1,
+      "topic": "Character",
+      "difficulty": "difficult",
+      "explanation": "His obedience distinguished him."
+    },
+    {
+      "id": "cs_024",
+      "question": "Which virtue shaped his legacy?",
+      "options": ["Faithfulness", "Power", "Knowledge", "Fame"],
+      "correctIndex": 0,
+      "topic": "Legacy",
+      "difficulty": "difficult",
+      "explanation": "Faithfulness shaped his legacy."
+    },
+    {
+      "id": "cs_025",
+      "question": "What can modern youth learn from Kofi Boadi?",
+      "options": ["To seek comfort", "To remain faithful in service", "To avoid challenges", "To pursue wealth"],
+      "correctIndex": 1,
+      "topic": "Application",
+      "difficulty": "difficult",
+      "explanation": "Youth should remain faithful in service."
+    },
+
+    {
+      "id": "cs_026",
+      "question": "Which attitude best reflects his life?",
+      "options": ["Submission to God", "Self-glory", "Fear", "Pride"],
+      "correctIndex": 0,
+      "topic": "Faith",
+      "difficulty": "difficult",
+      "explanation": "Submission to God reflected his life."
+    },
+    {
+      "id": "cs_027",
+      "question": "Why is his story relevant today?",
+      "options": ["It promotes wealth", "It models Christian faith", "It encourages politics", "It supports comfort"],
+      "correctIndex": 1,
+      "topic": "Relevance",
+      "difficulty": "difficult",
+      "explanation": "It models Christian faith."
+    },
+    {
+      "id": "cs_028",
+      "question": "Which value did he reject?",
+      "options": ["Selfishness", "Service", "Faith", "Obedience"],
+      "correctIndex": 0,
+      "topic": "Character",
+      "difficulty": "difficult",
+      "explanation": "He rejected selfishness."
+    },
+    {
+      "id": "cs_029",
+      "question": "What sustained his ministry?",
+      "options": ["Human strength", "God’s grace", "Wealth", "Position"],
+      "correctIndex": 1,
+      "topic": "Faith",
+      "difficulty": "difficult",
+      "explanation": "God’s grace sustained his ministry."
+    },
+    {
+      "id": "cs_030",
+      "question": "Which concept best summarizes his life?",
+      "options": ["Power", "Service", "Riches", "Comfort"],
+      "correctIndex": 1,
+      "topic": "Summary",
+      "difficulty": "difficult",
+      "explanation": "His life is summarized by service."
+    },
+
+    {
+      "id": "cs_031",
+      "question": "Kofi Boadi’s perseverance teaches the value of?",
+      "options": ["Endurance", "Luxury", "Fame", "Authority"],
+      "correctIndex": 0,
+      "topic": "Lessons",
+      "difficulty": "moderate",
+      "explanation": "Perseverance teaches endurance."
+    },
+    {
+      "id": "cs_032",
+      "question": "What spiritual quality made him dependable?",
+      "options": ["Faithfulness", "Fear", "Wealth", "Power"],
+      "correctIndex": 0,
+      "topic": "Character",
+      "difficulty": "moderate",
+      "explanation": "Faithfulness made him dependable."
+    },
+    {
+      "id": "cs_033",
+      "question": "Which Christian practice defined his life?",
+      "options": ["Prayer and service", "Luxury", "Politics", "Business"],
+      "correctIndex": 0,
+      "topic": "Faith",
+      "difficulty": "moderate",
+      "explanation": "Prayer and service defined his life."
+    },
+    {
+      "id": "cs_034",
+      "question": "What did his life demonstrate about suffering?",
+      "options": ["It destroys faith", "It strengthens faith", "It has no meaning", "It should be avoided"],
+      "correctIndex": 1,
+      "topic": "Lessons",
+      "difficulty": "moderate",
+      "explanation": "Suffering strengthened his faith."
+    },
+    {
+      "id": "cs_035",
+      "question": "Which trait helped him remain loyal?",
+      "options": ["Obedience", "Fear", "Anger", "Pride"],
+      "correctIndex": 0,
+      "topic": "Character",
+      "difficulty": "moderate",
+      "explanation": "Obedience helped him remain loyal."
+    },
+
+    {
+      "id": "cs_036",
+      "question": "Kofi Boadi’s example encourages youth to?",
+      "options": ["Serve God faithfully", "Seek power", "Avoid ministry", "Pursue comfort"],
+      "correctIndex": 0,
+      "topic": "Application",
+      "difficulty": "easy",
+      "explanation": "Youth are encouraged to serve God faithfully."
+    },
+    {
+      "id": "cs_037",
+      "question": "Which best describes his commitment?",
+      "options": ["Temporary", "Steadfast", "Weak", "Uncertain"],
+      "correctIndex": 1,
+      "topic": "Character",
+      "difficulty": "easy",
+      "explanation": "His commitment was steadfast."
+    },
+    {
+      "id": "cs_038",
+      "question": "What did Kofi Boadi value most?",
+      "options": ["Wealth", "God’s work", "Status", "Comfort"],
+      "correctIndex": 1,
+      "topic": "Values",
+      "difficulty": "easy",
+      "explanation": "He valued God’s work most."
+    },
+    {
+      "id": "cs_039",
+      "question": "Which word best summarizes his lifestyle?",
+      "options": ["Service", "Luxury", "Power", "Pleasure"],
+      "correctIndex": 0,
+      "topic": "Summary",
+      "difficulty": "easy",
+      "explanation": "Service summarizes his lifestyle."
+    },
+    {
+      "id": "cs_040",
+      "question": "Kofi Boadi is remembered mainly for his?",
+      "options": ["Faith", "Riches", "Rank", "Strength"],
+      "correctIndex": 0,
+      "topic": "Legacy",
+      "difficulty": "easy",
+      "explanation": "He is remembered for his faith."
+    },
+
+    {
+      "id": "cs_041",
+      "question": "Which Christian virtue did he embody?",
+      "options": ["Faithfulness", "Jealousy", "Pride", "Fear"],
+      "correctIndex": 0,
+      "topic": "Character",
+      "difficulty": "easy",
+      "explanation": "Faithfulness was his key virtue."
+    },
+    {
+      "id": "cs_042",
+      "question": "His life story mainly inspires?",
+      "options": ["Believers", "Politicians", "Merchants", "Soldiers"],
+      "correctIndex": 0,
+      "topic": "Impact",
+      "difficulty": "easy",
+      "explanation": "It inspires believers."
+    },
+    {
+      "id": "cs_043",
+      "question": "Which Christian value did he practice?",
+      "options": ["Service", "Greed", "Pride", "Fear"],
+      "correctIndex": 0,
+      "topic": "Faith",
+      "difficulty": "easy",
+      "explanation": "He practiced service."
+    },
+    {
+      "id": "cs_044",
+      "question": "What did his life reflect about God?",
+      "options": ["God rewards faithfulness", "God values wealth", "God seeks power", "God ignores suffering"],
+      "correctIndex": 0,
+      "topic": "Theology",
+      "difficulty": "moderate",
+      "explanation": "His life shows God rewards faithfulness."
+    },
+    {
+      "id": "cs_045",
+      "question": "Which quality made him trustworthy?",
+      "options": ["Faithfulness", "Fear", "Wealth", "Pride"],
+      "correctIndex": 0,
+      "topic": "Character",
+      "difficulty": "moderate",
+      "explanation": "Faithfulness made him trustworthy."
+    },
+
+    {
+      "id": "cs_046",
+      "question": "What did his story reveal about service?",
+      "options": ["It is costly", "It is easy", "It is useless", "It is temporary"],
+      "correctIndex": 0,
+      "topic": "Service",
+      "difficulty": "moderate",
+      "explanation": "Service can be costly."
+    },
+    {
+      "id": "cs_047",
+      "question": "Which spiritual discipline did he show?",
+      "options": ["Commitment", "Laziness", "Pride", "Fear"],
+      "correctIndex": 0,
+      "topic": "Discipline",
+      "difficulty": "moderate",
+      "explanation": "He showed commitment."
+    },
+    {
+      "id": "cs_048",
+      "question": "Why is he an example for youth?",
+      "options": ["He loved comfort", "He remained faithful", "He avoided hardship", "He sought power"],
+      "correctIndex": 1,
+      "topic": "Application",
+      "difficulty": "moderate",
+      "explanation": "He remained faithful."
+    },
+    {
+      "id": "cs_049",
+      "question": "Which best describes his response to hardship?",
+      "options": ["Faith", "Fear", "Anger", "Pride"],
+      "correctIndex": 0,
+      "topic": "Challenges",
+      "difficulty": "moderate",
+      "explanation": "He responded with faith."
+    },
+    {
+      "id": "cs_050",
+      "question": "What is the dominant theme of his story?",
+      "options": ["Faithful service", "Political power", "Economic success", "Social status"],
+      "correctIndex": 0,
+      "topic": "Theme",
+      "difficulty": "moderate",
+      "explanation": "Faithful service is the dominant theme."
+    },
+
+    {
+      "id": "cs_051",
+      "question": "Which lesson is most important from his life?",
+      "options": ["Faithfulness to God", "Wealth accumulation", "Social fame", "Political influence"],
+      "correctIndex": 0,
+      "topic": "Lessons",
+      "difficulty": "difficult",
+      "explanation": "Faithfulness to God is the key lesson."
+    },
+    {
+      "id": "cs_052",
+      "question": "His endurance reflects which Christian fruit?",
+      "options": ["Patience", "Anger", "Fear", "Jealousy"],
+      "correctIndex": 0,
+      "topic": "Character",
+      "difficulty": "difficult",
+      "explanation": "Patience is reflected."
+    },
+    {
+      "id": "cs_053",
+      "question": "Which trait sustained his faith?",
+      "options": ["Hope", "Pride", "Wealth", "Fear"],
+      "correctIndex": 0,
+      "topic": "Faith",
+      "difficulty": "difficult",
+      "explanation": "Hope sustained his faith."
+    },
+    {
+      "id": "cs_054",
+      "question": "What makes his story timeless?",
+      "options": ["Its message of faithfulness", "Its wealth", "Its politics", "Its power"],
+      "correctIndex": 0,
+      "topic": "Relevance",
+      "difficulty": "difficult",
+      "explanation": "Its message of faithfulness is timeless."
+    },
+    {
+      "id": "cs_055",
+      "question": "Which concept best defines his legacy?",
+      "options": ["Faithful obedience", "Fame", "Power", "Comfort"],
+      "correctIndex": 0,
+      "topic": "Legacy",
+      "difficulty": "difficult",
+      "explanation": "Faithful obedience defines his legacy."
+    },
+
+    {
+      "id": "cs_056",
+      "question": "Kofi Boadi’s life shows that true service requires?",
+      "options": ["Sacrifice", "Luxury", "Ease", "Power"],
+      "correctIndex": 0,
+      "topic": "Service",
+      "difficulty": "difficult",
+      "explanation": "True service requires sacrifice."
+    },
+    {
+      "id": "cs_057",
+      "question": "Which value was central to his faith?",
+      "options": ["Obedience", "Pride", "Fear", "Anger"],
+      "correctIndex": 0,
+      "topic": "Faith",
+      "difficulty": "difficult",
+      "explanation": "Obedience was central."
+    },
+    {
+      "id": "cs_058",
+      "question": "What should Christians imitate from him?",
+      "options": ["His faithfulness", "His suffering", "His poverty", "His status"],
+      "correctIndex": 0,
+      "topic": "Application",
+      "difficulty": "difficult",
+      "explanation": "Christians should imitate his faithfulness."
+    },
+    {
+      "id": "cs_059",
+      "question": "Which principle governed his life?",
+      "options": ["God first", "Self first", "Wealth first", "Power first"],
+      "correctIndex": 0,
+      "topic": "Faith",
+      "difficulty": "difficult",
+      "explanation": "God first governed his life."
+    },
+    {
+      "id": "cs_060",
+      "question": "The ultimate lesson from Kofi Boadi’s story is?",
+      "options": ["Faithfulness in service to God", "Success through wealth", "Power through struggle", "Comfort above all"],
+      "correctIndex": 0,
+      "topic": "Summary",
+      "difficulty": "difficult",
+      "explanation": "The ultimate lesson is faithfulness in service to God."
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "courseId": "yim-chapter-2",
+  "title": "Youth in Mission - Chapter 2",
+  "icon": "📘",
+  "questions": [
+    {
+      "id": "yim_001",
+      "question": "What is the main theme discussed in Chapter 2?",
+      "options": [
+        "Financial management",
+        "Youth involvement in mission",
+        "Church architecture",
+        "Agricultural development"
+      ],
+      "correctIndex": 1,
+      "topic": "Youth Mission",
+      "difficulty": "easy",
+      "explanation": "Chapter 2 focuses on the role and participation of youth in mission activities."
+    },
+    {
+      "id": "yim_002",
+      "question": "Who are encouraged to take part in mission activities?",
+      "options": [
+        "Only church leaders",
+        "Only pastors",
+        "Youth and young believers",
+        "Government officials"
+      ],
+      "correctIndex": 2,
+      "topic": "Participation",
+      "difficulty": "easy",
+      "explanation": "The chapter emphasizes that youth and young believers should actively participate in mission work."
+    },
+    {
+      "id": "yim_003",
+      "question": "Mission work primarily aims to do what?",
+      "options": [
+        "Increase wealth",
+        "Spread the message of faith",
+        "Promote tourism",
+        "Create employment"
+      ],
+      "correctIndex": 1,
+      "topic": "Mission Purpose",
+      "difficulty": "easy",
+      "explanation": "Mission activities focus on spreading the message of faith and service."
+    },
+    {
+      "id": "yim_004",
+      "question": "Which group is described as energetic and capable of outreach?",
+      "options": [
+        "Elders",
+        "Children",
+        "Youth",
+        "Visitors"
+      ],
+      "correctIndex": 2,
+      "topic": "Youth Role",
+      "difficulty": "easy",
+      "explanation": "Youth are portrayed as energetic and capable of reaching others."
+    },
+    {
+      "id": "yim_005",
+      "question": "Mission involves sharing faith through what?",
+      "options": [
+        "Only preaching",
+        "Actions and words",
+        "Music only",
+        "Financial donations only"
+      ],
+      "correctIndex": 1,
+      "topic": "Mission Practice",
+      "difficulty": "easy",
+      "explanation": "Mission includes both words and actions that reflect faith."
+    },
+    {
+      "id": "yim_006",
+      "question": "What quality helps youth succeed in mission work?",
+      "options": [
+        "Pride",
+        "Commitment",
+        "Jealousy",
+        "Fear"
+      ],
+      "correctIndex": 1,
+      "topic": "Character",
+      "difficulty": "easy",
+      "explanation": "Commitment and dedication are emphasized as key qualities."
+    },
+    {
+      "id": "yim_007",
+      "question": "Mission activities often involve serving whom?",
+      "options": [
+        "Only wealthy people",
+        "The community",
+        "Tourists",
+        "Government officials"
+      ],
+      "correctIndex": 1,
+      "topic": "Community Service",
+      "difficulty": "easy",
+      "explanation": "Mission activities frequently focus on serving the community."
+    },
+    {
+      "id": "yim_008",
+      "question": "Youth involvement in mission promotes what among believers?",
+      "options": [
+        "Division",
+        "Unity",
+        "Competition",
+        "Isolation"
+      ],
+      "correctIndex": 1,
+      "topic": "Church Unity",
+      "difficulty": "easy",
+      "explanation": "Mission encourages unity among believers."
+    },
+    {
+      "id": "yim_009",
+      "question": "Mission work requires cooperation between whom?",
+      "options": [
+        "Youth and community",
+        "Students and teachers",
+        "Workers and managers",
+        "Farmers and traders"
+      ],
+      "correctIndex": 0,
+      "topic": "Collaboration",
+      "difficulty": "easy",
+      "explanation": "Youth work together with communities in mission activities."
+    },
+    {
+      "id": "yim_010",
+      "question": "Mission helps youth develop which value?",
+      "options": [
+        "Selfishness",
+        "Leadership",
+        "Greed",
+        "Competition"
+      ],
+      "correctIndex": 1,
+      "topic": "Leadership",
+      "difficulty": "easy",
+      "explanation": "Mission activities provide opportunities for youth leadership development."
+    },
+
+    {
+      "id": "yim_021",
+      "question": "Why are youth considered effective in mission work?",
+      "options": [
+        "They have political influence",
+        "They are energetic and adaptable",
+        "They control finances",
+        "They have more authority"
+      ],
+      "correctIndex": 1,
+      "topic": "Youth Strengths",
+      "difficulty": "medium",
+      "explanation": "Youth often bring energy, creativity, and adaptability to mission activities."
+    },
+    {
+      "id": "yim_022",
+      "question": "Mission participation helps youth strengthen what aspect of their lives?",
+      "options": [
+        "Academic performance",
+        "Physical strength",
+        "Spiritual growth",
+        "Financial success"
+      ],
+      "correctIndex": 2,
+      "topic": "Spiritual Growth",
+      "difficulty": "medium",
+      "explanation": "Mission involvement strengthens spiritual development."
+    },
+    {
+      "id": "yim_023",
+      "question": "What role do mentors play in youth mission work?",
+      "options": [
+        "They discourage participation",
+        "They guide and train youth",
+        "They replace youth leadership",
+        "They control all activities"
+      ],
+      "correctIndex": 1,
+      "topic": "Mentorship",
+      "difficulty": "medium",
+      "explanation": "Mentors guide and train youth in mission activities."
+    },
+    {
+      "id": "yim_024",
+      "question": "Which skill is commonly developed through mission activities?",
+      "options": [
+        "Programming",
+        "Public speaking",
+        "Engineering",
+        "Accounting"
+      ],
+      "correctIndex": 1,
+      "topic": "Skills Development",
+      "difficulty": "medium",
+      "explanation": "Public speaking and communication skills improve during outreach."
+    },
+    {
+      "id": "yim_025",
+      "question": "Mission activities often emphasize what type of leadership?",
+      "options": [
+        "Authoritarian leadership",
+        "Servant leadership",
+        "Political leadership",
+        "Corporate leadership"
+      ],
+      "correctIndex": 1,
+      "topic": "Leadership",
+      "difficulty": "medium",
+      "explanation": "Mission promotes servant leadership."
+    },
+
+    {
+      "id": "yim_041",
+      "question": "Which factor most significantly influences the effectiveness of youth mission initiatives?",
+      "options": [
+        "Financial investment alone",
+        "Strategic planning and spiritual commitment",
+        "Government regulation",
+        "Community wealth"
+      ],
+      "correctIndex": 1,
+      "topic": "Mission Strategy",
+      "difficulty": "hard",
+      "explanation": "Strategic planning combined with spiritual dedication determines mission effectiveness."
+    },
+    {
+      "id": "yim_042",
+      "question": "What challenge might youth face during mission activities?",
+      "options": [
+        "Too much free time",
+        "Lack of motivation",
+        "Cultural resistance",
+        "Excess funding"
+      ],
+      "correctIndex": 2,
+      "topic": "Challenges",
+      "difficulty": "hard",
+      "explanation": "Cultural differences and resistance may challenge mission efforts."
+    },
+    {
+      "id": "yim_043",
+      "question": "What ensures sustainability of youth mission programs?",
+      "options": [
+        "Short-term enthusiasm",
+        "Consistent training and mentorship",
+        "Financial donations only",
+        "Government sponsorship"
+      ],
+      "correctIndex": 1,
+      "topic": "Program Sustainability",
+      "difficulty": "hard",
+      "explanation": "Continuous training and mentorship maintain long-term mission effectiveness."
+    },
+    {
+      "id": "yim_044",
+      "question": "Which approach best strengthens youth participation in mission?",
+      "options": [
+        "Strict supervision",
+        "Empowering youth leadership",
+        "Limiting responsibilities",
+        "Avoiding community involvement"
+      ],
+      "correctIndex": 1,
+      "topic": "Youth Empowerment",
+      "difficulty": "hard",
+      "explanation": "Empowering youth to lead increases engagement and impact."
+    }
+  ]
+}

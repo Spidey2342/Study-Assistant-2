@@ -16,7 +16,11 @@ import evolutionOfTourism from '../../data/evolution-of-tourism.json';
 import hospitality from '../../data/hospitality-tourism-concepts.json';
 import growthTourism from '../../data/growth-of-the-tourism-industry.json';
 import networking from '../../data/networking.json';
-import algorithm from '../../data/algorithm.json'
+import algorithm from '../../data/algorithm.json';
+import characterStudies from '../../data/character-studies.json';
+import youthInMission from '../../data/youth-in-mission.json'
+
+
 
 
 
@@ -130,6 +134,20 @@ const stats = {
       icon: algorithm.icon,
       questionsCount: algorithm.questions.length,
       difficulty: getDifficultyStats(algorithm.questions)
+    },
+    {
+      id: characterStudies.courseId,
+      title: characterStudies.title,
+      icon: characterStudies.icon,
+      questionsCount: characterStudies.questions.length,
+      difficulty: getDifficultyStats(characterStudies.questions)
+    },
+ {
+      id: youthInMission.courseId,
+      title: youthInMission.title,
+      icon: youthInMission.icon,
+      questionsCount: youthInMission.questions.length,
+      difficulty: getDifficultyStats(youthInMission.questions)
     }
   ];
     const hasData = stats.totalQuizzes > 0;

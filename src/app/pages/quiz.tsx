@@ -12,7 +12,9 @@ import evolutionOfTourism from '../../data/evolution-of-tourism.json';
 import hospitality from '../../data/hospitality-tourism-concepts.json'
 import networking from '../../data/networking.json'
 import growthTourism from '../../data/growth-of-the-tourism-industry.json';
-import algorithm from '../../data/algorithm.json'
+import algorithm from '../../data/algorithm.json';
+import characterStudies from '../../data/character-studies.json';
+import youthInMission from '../../data/youth-in-mission.json'
 
 
 
@@ -28,7 +30,9 @@ const courseMap = {
   'hospitality-tourism-concepts': hospitality,
   'growth-of-the-tourism-industry': growthTourism,
   'networking':networking,
-'alg_101': algorithm
+'alg_101': algorithm,
+'pcg-character-studies': characterStudies ,
+'yim-chapter-2': youthInMission
 };
 
 const QUESTION_COUNT = 13;
