@@ -1,0 +1,811 @@
+{
+  "courseId": "hotu105-french",
+  "title": "French Comprehension and Grammar",
+  "icon": "🇫🇷",
+  "questions": [
+    {
+      "id": "fr_001",
+      "question": "Quel est le nom du personnage principal ?",
+      "options": ["Kwame Mensah", "Kofi Abebresse", "Yaw Owusu", "Kojo Mensah"],
+      "correctIndex": 1,
+      "topic": "Comprehension",
+      "difficulty": "easy",
+      "explanation": "Le texte dit 'Je m’appelle Kofi Abebresse'."
+    },
+    {
+      "id": "fr_002",
+      "question": "Quel mot complète : Je … étudiant ?",
+      "options": ["suis", "es", "est", "sommes"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "easy",
+      "explanation": "'Je suis' est la forme correcte du verbe être."
+    },
+    {
+      "id": "fr_003",
+      "question": "Quel mot complète : première … ?",
+      "options": ["année", "classe", "niveau", "cours"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "On dit 'première année'."
+    },
+    {
+      "id": "fr_004",
+      "question": "Quel mot complète : J’ai dix-huit … ?",
+      "options": ["jours", "ans", "mois", "heures"],
+      "correctIndex": 1,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "On dit 'dix-huit ans'."
+    },
+    {
+      "id": "fr_005",
+      "question": "Où habite Kofi ?",
+      "options": ["Accra", "Kumasi", "Takoradi", "Tamale"],
+      "correctIndex": 1,
+      "topic": "Comprehension",
+      "difficulty": "easy",
+      "explanation": "Le texte dit qu’il habite à Kumasi."
+    },
+
+    {
+      "id": "fr_006",
+      "question": "Quel mot complète : Je suis … personne sérieuse ?",
+      "options": ["un", "une", "le", "la"],
+      "correctIndex": 1,
+      "topic": "Grammar",
+      "difficulty": "medium",
+      "explanation": "'Une' est utilisé avec 'personne' (féminin)."
+    },
+    {
+      "id": "fr_007",
+      "question": "Quel verbe complète : J’… l’anglais ?",
+      "options": ["étudie", "joue", "aime", "vais"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'J’étudie l’anglais' est correct."
+    },
+    {
+      "id": "fr_008",
+      "question": "Quel mot complète : travailler … une entreprise ?",
+      "options": ["dans", "sur", "avec", "par"],
+      "correctIndex": 0,
+      "topic": "Prepositions",
+      "difficulty": "medium",
+      "explanation": "On dit 'travailler dans une entreprise'."
+    },
+    {
+      "id": "fr_009",
+      "question": "Quel mot complète : Pendant … temps libre ?",
+      "options": ["mon", "ma", "mes", "le"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "medium",
+      "explanation": "'Mon temps libre' est la forme correcte."
+    },
+    {
+      "id": "fr_010",
+      "question": "Quel mot complète : écouter de … musique ?",
+      "options": ["la", "le", "les", "un"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "medium",
+      "explanation": "On dit 'écouter de la musique'."
+    },
+
+    {
+      "id": "fr_011",
+      "question": "Quel verbe complète : pour … des recherches ?",
+      "options": ["faire", "jouer", "aller", "voir"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Faire des recherches' est une expression correcte."
+    },
+    {
+      "id": "fr_012",
+      "question": "Quel mot complète : réussir … études ?",
+      "options": ["mes", "ma", "mon", "les"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "medium",
+      "explanation": "'Mes études' est correct."
+    },
+    {
+      "id": "fr_013",
+      "question": "Quel mot complète : devenir un bon … ?",
+      "options": ["professionnel", "étudiant", "professeur", "ami"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "Le texte mentionne 'professionnel'."
+    },
+    {
+      "id": "fr_014",
+      "question": "Quel mot complète : … clavier ?",
+      "options": ["un", "une", "le", "la"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "easy",
+      "explanation": "'Un clavier' est masculin."
+    },
+    {
+      "id": "fr_015",
+      "question": "Quel mot complète : une … ?",
+      "options": ["imprimante", "ordinateur", "clavier", "casque"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Une imprimante' est correct."
+    },
+
+    {
+      "id": "fr_016",
+      "question": "Quel verbe complète : J’aime … au football ?",
+      "options": ["jouer", "aller", "faire", "voir"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Jouer au football' est correct."
+    },
+    {
+      "id": "fr_017",
+      "question": "Quel est l’âge de Kofi ?",
+      "options": ["16 ans", "17 ans", "18 ans", "19 ans"],
+      "correctIndex": 2,
+      "topic": "Comprehension",
+      "difficulty": "easy",
+      "explanation": "Il a dix-huit ans."
+    },
+    {
+      "id": "fr_018",
+      "question": "Que veut-il faire plus tard ?",
+      "options": [
+        "Voyager",
+        "Travailler dans une entreprise",
+        "Devenir professeur",
+        "Créer une école"
+      ],
+      "correctIndex": 1,
+      "topic": "Comprehension",
+      "difficulty": "medium",
+      "explanation": "Il veut travailler dans une entreprise internationale."
+    },
+    {
+      "id": "fr_019",
+      "question": "Quel mot signifie 'student' ?",
+      "options": ["professionnel", "étudiant", "travailleur", "professeur"],
+      "correctIndex": 1,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Étudiant' signifie student."
+    },
+    {
+      "id": "fr_020",
+      "question": "Quel mot signifie 'family' ?",
+      "options": ["amis", "famille", "parents", "école"],
+      "correctIndex": 1,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Famille' signifie family."
+    },
+
+    {
+      "id": "fr_021",
+      "question": "Quel mot est un adjectif dans le texte ?",
+      "options": ["sérieuse", "étudiant", "anglais", "ordinateur"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "hard",
+      "explanation": "'Sérieuse' est un adjectif qualificatif."
+    },
+    {
+      "id": "fr_022",
+      "question": "Quel type de phrase est 'Je me présente' ?",
+      "options": ["Interrogative", "Exclamative", "Déclarative", "Impérative"],
+      "correctIndex": 2,
+      "topic": "Grammar",
+      "difficulty": "hard",
+      "explanation": "C’est une phrase déclarative."
+    },
+    {
+      "id": "fr_023",
+      "question": "Quel est le verbe principal dans 'J’aime apprendre' ?",
+      "options": ["aime", "apprendre", "je", "et"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "hard",
+      "explanation": "'Aime' est le verbe conjugué."
+    },
+    {
+      "id": "fr_024",
+      "question": "Quel est le sujet de 'Je suis étudiant' ?",
+      "options": ["suis", "étudiant", "Je", "un"],
+      "correctIndex": 2,
+      "topic": "Grammar",
+      "difficulty": "medium",
+      "explanation": "'Je' est le sujet."
+    },
+    {
+      "id": "fr_025",
+      "question": "Quel est le complément de lieu dans le texte ?",
+      "options": ["Kumasi", "famille", "anglais", "ordinateur"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "hard",
+      "explanation": "Kumasi indique le lieu."
+    },
+
+    {
+      "id": "fr_026",
+      "question": "Quel mot signifie 'computer' ?",
+      "options": ["ordinateur", "clavier", "imprimante", "souris"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Ordinateur' signifie computer."
+    },
+    {
+      "id": "fr_027",
+      "question": "Quel mot signifie 'mouse' (ordinateur) ?",
+      "options": ["souris", "clavier", "écran", "casque"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Souris' signifie mouse."
+    },
+    {
+      "id": "fr_028",
+      "question": "Quel mot signifie 'keyboard' ?",
+      "options": ["clavier", "écran", "casque", "imprimante"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Clavier' signifie keyboard."
+    },
+    {
+      "id": "fr_029",
+      "question": "Quel mot signifie 'printer' ?",
+      "options": ["ordinateur", "souris", "imprimante", "casque"],
+      "correctIndex": 2,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Imprimante' signifie printer."
+    },
+    {
+      "id": "fr_030",
+      "question": "Quel mot signifie 'camera' ?",
+      "options": ["caméra", "écran", "clavier", "souris"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Caméra' signifie camera."
+    },
+
+    {
+      "id": "fr_031",
+      "question": "Quel est le temps principal du texte ?",
+      "options": ["Passé", "Présent", "Futur", "Imparfait"],
+      "correctIndex": 1,
+      "topic": "Grammar",
+      "difficulty": "hard",
+      "explanation": "Le texte est écrit au présent."
+    },
+    {
+      "id": "fr_032",
+      "question": "Quel mot exprime une activité de loisir ?",
+      "options": ["jouer", "étudie", "travail", "entreprise"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "medium",
+      "explanation": "'Jouer' est une activité de loisir."
+    },
+    {
+      "id": "fr_033",
+      "question": "Quel mot signifie 'free time' ?",
+      "options": ["temps libre", "travail", "école", "journée"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Temps libre' signifie free time."
+    },
+    {
+      "id": "fr_034",
+      "question": "Quel mot exprime une ambition ?",
+      "options": ["veux", "suis", "aime", "habite"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "hard",
+      "explanation": "'Je veux' exprime un désir ou une ambition."
+    },
+    {
+      "id": "fr_035",
+      "question": "Quel mot indique possession ?",
+      "options": ["mon", "dans", "une", "faire"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "medium",
+      "explanation": "'Mon' est un adjectif possessif."
+    },
+
+    {
+      "id": "fr_036",
+      "question": "Quel est le but principal du texte ?",
+      "options": [
+        "Donner des instructions",
+        "Se présenter",
+        "Décrire un objet",
+        "Poser des questions"
+      ],
+      "correctIndex": 1,
+      "topic": "Comprehension",
+      "difficulty": "medium",
+      "explanation": "Le texte est une présentation personnelle."
+    },
+    {
+      "id": "fr_037",
+      "question": "Quel mot est un verbe ?",
+      "options": ["jouer", "musique", "famille", "ordinateur"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "medium",
+      "explanation": "'Jouer' est un verbe."
+    },
+    {
+      "id": "fr_038",
+      "question": "Quel mot est un nom féminin ?",
+      "options": ["musique", "clavier", "ordinateur", "casque"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "medium",
+      "explanation": "'Musique' est féminin."
+    },
+    {
+      "id": "fr_039",
+      "question": "Quel mot est un nom masculin ?",
+      "options": ["clavier", "musique", "famille", "année"],
+      "correctIndex": 0,
+      "topic": "Grammar",
+      "difficulty": "medium",
+      "explanation": "'Clavier' est masculin."
+    },
+    {
+      "id": "fr_040",
+      "question": "Quel mot signifie 'to study' ?",
+      "options": ["jouer", "faire", "étudie", "écouter"],
+      "correctIndex": 2,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Étudie' signifie to study."
+    },
+    
+  {
+    "id": "fr_041",
+    "question": "Pourquoi utilise-t-on 'J’ai' au lieu de 'Je suis' pour l’âge ?",
+    "options": [
+      "Parce que 'être' est incorrect",
+      "Parce que le français utilise 'avoir' pour exprimer l’âge",
+      "Parce que c’est plus court",
+      "Parce que 'suis' est au passé"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "En français, on utilise 'avoir' pour exprimer l’âge (ex: j’ai 18 ans)."
+  },
+  {
+    "id": "fr_042",
+    "question": "Quel type de pronom est 'Je' dans le texte ?",
+    "options": [
+      "Pronom possessif",
+      "Pronom relatif",
+      "Pronom personnel sujet",
+      "Pronom démonstratif"
+    ],
+    "correctIndex": 2,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Je' est un pronom personnel sujet."
+  },
+  {
+    "id": "fr_043",
+    "question": "Dans 'J’aime apprendre', quel est le rôle de 'apprendre' ?",
+    "options": [
+      "Verbe principal",
+      "Complément infinitif",
+      "Adjectif",
+      "Nom"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Apprendre' est un infinitif complément du verbe 'aime'."
+  },
+  {
+    "id": "fr_044",
+    "question": "Quel est le genre du mot 'entreprise' ?",
+    "options": [
+      "Masculin",
+      "Féminin",
+      "Neutre",
+      "Variable"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Entreprise' est un nom féminin."
+  },
+  {
+    "id": "fr_045",
+    "question": "Pourquoi utilise-t-on 'une personne sérieuse' ?",
+    "options": [
+      "Parce que 'personne' est masculin",
+      "Parce que l’adjectif ne change pas",
+      "Parce que 'personne' est féminin",
+      "Parce que 'sérieux' est incorrect"
+    ],
+    "correctIndex": 2,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Personne' est féminin donc l’adjectif devient 'sérieuse'."
+  },
+
+  {
+    "id": "fr_046",
+    "question": "Dans 'Je suis étudiant', quel est le rôle de 'étudiant' ?",
+    "options": [
+      "Complément d’objet",
+      "Attribut du sujet",
+      "Complément circonstanciel",
+      "Sujet"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Étudiant' est un attribut du sujet après le verbe être."
+  },
+  {
+    "id": "fr_047",
+    "question": "Quel est le temps verbal de 'J’habite' ?",
+    "options": [
+      "Passé composé",
+      "Présent",
+      "Futur",
+      "Imparfait"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'J’habite' est au présent de l’indicatif."
+  },
+  {
+    "id": "fr_048",
+    "question": "Dans 'Je veux travailler', combien de verbes sont présents ?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Deux verbes : 'veux' (conjugué) et 'travailler' (infinitif)."
+  },
+  {
+    "id": "fr_049",
+    "question": "Quel est le rôle de 'dans une entreprise' ?",
+    "options": [
+      "Complément de temps",
+      "Complément de lieu",
+      "Sujet",
+      "Attribut"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Cela indique le lieu où l’action se déroule."
+  },
+  {
+    "id": "fr_050",
+    "question": "Quel type de phrase est 'Je veux réussir mes études' ?",
+    "options": [
+      "Interrogative",
+      "Impérative",
+      "Déclarative",
+      "Exclamative"
+    ],
+    "correctIndex": 2,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "C’est une phrase déclarative."
+  },
+
+  {
+    "id": "fr_051",
+    "question": "Dans 'mon temps libre', quel type de déterminant est 'mon' ?",
+    "options": [
+      "Article défini",
+      "Adjectif possessif",
+      "Adjectif démonstratif",
+      "Pronom relatif"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Mon' est un adjectif possessif."
+  },
+  {
+    "id": "fr_052",
+    "question": "Pourquoi utilise-t-on 'de la musique' ?",
+    "options": [
+      "Parce que musique est pluriel",
+      "Parce que musique est féminin singulier",
+      "Parce que musique est masculin",
+      "Parce que c’est une exception"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Musique' est féminin singulier → 'de la'."
+  },
+  {
+    "id": "fr_053",
+    "question": "Quel est le champ lexical dominant du texte ?",
+    "options": [
+      "La nourriture",
+      "L’éducation",
+      "Le sport",
+      "La technologie"
+    ],
+    "correctIndex": 1,
+    "topic": "Comprehension",
+    "difficulty": "hard",
+    "explanation": "Le texte parle principalement d’études et d’apprentissage."
+  },
+  {
+    "id": "fr_054",
+    "question": "Quel mot exprime une activité intellectuelle ?",
+    "options": [
+      "jouer",
+      "apprendre",
+      "écouter",
+      "habite"
+    ],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "explanation": "'Apprendre' est une activité intellectuelle."
+  },
+  {
+    "id": "fr_055",
+    "question": "Quel est le radical du verbe 'étudier' ?",
+    "options": [
+      "étud",
+      "étudi",
+      "étudier",
+      "étu"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Le radical est 'étudi-'."
+  },
+
+  {
+    "id": "fr_056",
+    "question": "Dans 'Je me présente', quel est le rôle de 'me' ?",
+    "options": [
+      "Sujet",
+      "Complément d’objet direct",
+      "Pronom réfléchi",
+      "Adjectif"
+    ],
+    "correctIndex": 2,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Me' est un pronom réfléchi."
+  },
+  {
+    "id": "fr_057",
+    "question": "Quel est l’infinitif du verbe 'veux' ?",
+    "options": [
+      "vouloir",
+      "aller",
+      "faire",
+      "venir"
+    ],
+    "correctIndex": 0,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Veux' vient du verbe 'vouloir'."
+  },
+  {
+    "id": "fr_058",
+    "question": "Quel est le synonyme de 'réussir' ?",
+    "options": [
+      "échouer",
+      "accomplir",
+      "tomber",
+      "perdre"
+    ],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "explanation": "'Réussir' signifie accomplir avec succès."
+  },
+  {
+    "id": "fr_059",
+    "question": "Quel est l’antonyme de 'sérieux' ?",
+    "options": [
+      "travailleur",
+      "important",
+      "léger",
+      "appliqué"
+    ],
+    "correctIndex": 2,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "explanation": "'Léger' est opposé à 'sérieux'."
+  },
+  {
+    "id": "fr_060",
+    "question": "Quel est le pluriel de 'étudiant' ?",
+    "options": [
+      "étudiants",
+      "étudiantes",
+      "étudiantx",
+      "étudian"
+    ],
+    "correctIndex": 0,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Le pluriel masculin est 'étudiants'."
+  },
+
+  {
+    "id": "fr_061",
+    "question": "Quel est le féminin de 'professionnel' ?",
+    "options": [
+      "professionnelle",
+      "professionnel",
+      "professionnèle",
+      "professionnels"
+    ],
+    "correctIndex": 0,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "On ajoute 'e' → professionnelle."
+  },
+  {
+    "id": "fr_062",
+    "question": "Dans 'écouter de la musique', quel est 'écouter' ?",
+    "options": [
+      "Nom",
+      "Verbe",
+      "Adjectif",
+      "Pronom"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Écouter' est un verbe."
+  },
+  {
+    "id": "fr_063",
+    "question": "Quel est le rôle de 'pour' dans 'pour faire des recherches' ?",
+    "options": [
+      "Conjonction",
+      "Préposition",
+      "Adverbe",
+      "Article"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Pour' est une préposition."
+  },
+  {
+    "id": "fr_064",
+    "question": "Quel est le mode de 'apprendre' ?",
+    "options": [
+      "Indicatif",
+      "Subjonctif",
+      "Infinitif",
+      "Impératif"
+    ],
+    "correctIndex": 2,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Apprendre' est à l’infinitif."
+  },
+  {
+    "id": "fr_065",
+    "question": "Quel mot indique une relation de lieu ?",
+    "options": [
+      "dans",
+      "veux",
+      "faire",
+      "étudier"
+    ],
+    "correctIndex": 0,
+    "topic": "Prepositions",
+    "difficulty": "hard",
+    "explanation": "'Dans' indique un lieu."
+  },
+
+  {
+    "id": "fr_066",
+    "question": "Quel est le contraire de 'plus tard' ?",
+    "options": [
+      "maintenant",
+      "hier",
+      "toujours",
+      "jamais"
+    ],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "explanation": "'Maintenant' est l’opposé de 'plus tard'."
+  },
+  {
+    "id": "fr_067",
+    "question": "Quel est le sujet implicite dans 'veut travailler' ?",
+    "options": [
+      "Il",
+      "Je",
+      "Nous",
+      "Vous"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Le sujet implicite est 'Je'."
+  },
+  {
+    "id": "fr_068",
+    "question": "Quel mot relie deux idées dans le texte ?",
+    "options": [
+      "et",
+      "dans",
+      "mon",
+      "une"
+    ],
+    "correctIndex": 0,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "'Et' est une conjonction de coordination."
+  },
+  {
+    "id": "fr_069",
+    "question": "Quel type de texte est celui-ci ?",
+    "options": [
+      "Narratif",
+      "Descriptif personnel",
+      "Argumentatif",
+      "Informatif technique"
+    ],
+    "correctIndex": 1,
+    "topic": "Comprehension",
+    "difficulty": "hard",
+    "explanation": "C’est une description personnelle."
+  },
+  {
+    "id": "fr_070",
+    "question": "Quelle est l’intention principale de l’auteur ?",
+    "options": [
+      "Informer sur la technologie",
+      "Se présenter et partager ses objectifs",
+      "Donner des instructions",
+      "Comparer deux idées"
+    ],
+    "correctIndex": 1,
+    "topic": "Comprehension",
+    "difficulty": "hard",
+    "explanation": "L’auteur se présente et parle de ses ambitions."
+  }
+
+  ]
+}

@@ -20,6 +20,8 @@ import algorithm from '../../data/algorithm.json';
 import characterStudies from '../../data/character-studies.json';
 import youthInMission from '../../data/youth-in-mission.json'
 import frenchprepositions from '../../data/preposition-french.json'
+import frenchcomprehension from '../../data/french-comprehension.json'
+
 
 
 
@@ -139,6 +141,13 @@ const stats = {
       icon: characterStudies.icon,
       questionsCount: characterStudies.questions.length,
       difficulty: getDifficultyStats(characterStudies.questions)
+    },
+     {
+      id: frenchcomprehension.courseId,
+      title: frenchcomprehension.title,
+      icon: frenchcomprehension.icon,
+      questionsCount: frenchcomprehension.questions.length,
+      difficulty: getDifficultyStats(frenchcomprehension.questions)
     },
  {
       id: youthInMission.courseId,

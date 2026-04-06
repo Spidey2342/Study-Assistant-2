@@ -16,6 +16,8 @@ import algorithm from '../../data/algorithm.json';
 import characterStudies from '../../data/character-studies.json';
 import youthInMission from '../../data/youth-in-mission.json'
 import frenchprepositions from '../../data/preposition-french.json'
+import frenchcomprehension from '../../data/french-comprehension.json'
+
 
 
 
@@ -35,7 +37,8 @@ const courseMap = {
 'alg_101': algorithm,
 'pcg-character-studies': characterStudies ,
 'yim-chapter-2': youthInMission,
-'french-prepositions':frenchprepositions
+'french-prepositions':frenchprepositions,
+'hotu105-french': frenchcomprehension
 };
 
 const QUESTION_COUNT = 13;
