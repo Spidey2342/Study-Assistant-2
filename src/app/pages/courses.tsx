@@ -19,9 +19,7 @@ import networking from '../../data/networking.json';
 import algorithm from '../../data/algorithm.json';
 import characterStudies from '../../data/character-studies.json';
 import youthInMission from '../../data/youth-in-mission.json'
-
-
-
+import frenchprepositions from '../../data/preposition-french.json'
 
 
 
@@ -148,6 +146,13 @@ const stats = {
       icon: youthInMission.icon,
       questionsCount: youthInMission.questions.length,
       difficulty: getDifficultyStats(youthInMission.questions)
+    },
+     {
+      id: frenchprepositions.courseId,
+      title: frenchprepositions.title,
+      icon: frenchprepositions.icon,
+      questionsCount: frenchprepositions.questions.length,
+      difficulty: getDifficultyStats(frenchprepositions.questions)
     }
   ];
     const hasData = stats.totalQuizzes > 0;

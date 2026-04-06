@@ -1,0 +1,978 @@
+{
+  "courseId": "french-prepositions",
+  "title": "French Prepositions and Position",
+  "icon": "🇫🇷",
+  "questions": [
+    {
+      "id": "fp_001",
+      "question": "Que signifie 'sur' ?",
+      "options": ["Under", "On", "Between", "Behind"],
+      "correctIndex": 1,
+      "topic": "Prepositions",
+      "difficulty": "easy",
+      "explanation": "'Sur' signifie 'on'."
+    },
+    {
+      "id": "fp_002",
+      "question": "Que signifie 'sous' ?",
+      "options": ["Above", "Under", "Near", "In front of"],
+      "correctIndex": 1,
+      "topic": "Prepositions",
+      "difficulty": "easy",
+      "explanation": "'Sous' signifie 'under'."
+    },
+    {
+      "id": "fp_003",
+      "question": "Que signifie 'devant' ?",
+      "options": ["Behind", "In front of", "Next to", "Far from"],
+      "correctIndex": 1,
+      "topic": "Prepositions",
+      "difficulty": "easy",
+      "explanation": "'Devant' signifie 'in front of'."
+    },
+    {
+      "id": "fp_004",
+      "question": "Que signifie 'derrière' ?",
+      "options": ["In front of", "Behind", "Above", "Between"],
+      "correctIndex": 1,
+      "topic": "Prepositions",
+      "difficulty": "easy",
+      "explanation": "'Derrière' signifie 'behind'."
+    },
+    {
+      "id": "fp_005",
+      "question": "Que signifie 'entre' ?",
+      "options": ["Beside", "Between", "Under", "Far"],
+      "correctIndex": 1,
+      "topic": "Prepositions",
+      "difficulty": "easy",
+      "explanation": "'Entre' signifie 'between'."
+    },
+
+    {
+      "id": "fp_006",
+      "question": "Le livre est ___ la table.",
+      "options": ["sur", "sous", "derrière", "loin de"],
+      "correctIndex": 0,
+      "topic": "Application",
+      "difficulty": "easy",
+      "explanation": "Un objet posé est 'sur'."
+    },
+    {
+      "id": "fp_007",
+      "question": "Le chat est ___ la table.",
+      "options": ["sur", "sous", "devant", "entre"],
+      "correctIndex": 1,
+      "topic": "Application",
+      "difficulty": "easy",
+      "explanation": "Sous indique en dessous."
+    },
+    {
+      "id": "fp_008",
+      "question": "Le chien est ___ la maison.",
+      "options": ["devant", "sous", "entre", "loin de"],
+      "correctIndex": 0,
+      "topic": "Application",
+      "difficulty": "easy",
+      "explanation": "Position frontale → 'devant'."
+    },
+    {
+      "id": "fp_009",
+      "question": "Le vélo est ___ la maison.",
+      "options": ["derrière", "sur", "entre", "près de"],
+      "correctIndex": 0,
+      "topic": "Application",
+      "difficulty": "easy",
+      "explanation": "Derrière indique à l'arrière."
+    },
+    {
+      "id": "fp_010",
+      "question": "Le chien est ___ deux arbres.",
+      "options": ["entre", "sur", "loin de", "devant"],
+      "correctIndex": 0,
+      "topic": "Application",
+      "difficulty": "easy",
+      "explanation": "'Entre' s’utilise pour deux éléments."
+    },
+
+    {
+      "id": "fp_011",
+      "question": "Quelle préposition indique la distance ?",
+      "options": ["près de", "loin de", "sur", "entre"],
+      "correctIndex": 1,
+      "topic": "Concept",
+      "difficulty": "medium",
+      "explanation": "'Loin de' indique la distance."
+    },
+    {
+      "id": "fp_012",
+      "question": "Quelle préposition indique la proximité ?",
+      "options": ["loin de", "près de", "derrière", "sous"],
+      "correctIndex": 1,
+      "topic": "Concept",
+      "difficulty": "medium",
+      "explanation": "'Près de' indique la proximité."
+    },
+
+    {
+      "id": "fp_013",
+      "question": "La chaise est ___ la table.",
+      "options": ["à côté de", "loin de", "sur", "derrière"],
+      "correctIndex": 0,
+      "topic": "Application",
+      "difficulty": "easy",
+      "explanation": "'À côté de' signifie proche."
+    },
+    {
+      "id": "fp_014",
+      "question": "L'école est ___ la ville.",
+      "options": ["au milieu de", "sur", "loin de", "derrière"],
+      "correctIndex": 0,
+      "topic": "Application",
+      "difficulty": "medium",
+      "explanation": "Centre → 'au milieu de'."
+    },
+    {
+      "id": "fp_015",
+      "question": "Le sac est ___ la chaise.",
+      "options": ["sur", "dans", "sous", "devant"],
+      "correctIndex": 1,
+      "topic": "Application",
+      "difficulty": "medium",
+      "explanation": "'Dans' indique à l'intérieur."
+    },
+
+    {
+      "id": "fp_016",
+      "question": "Quelle préposition signifie 'inside' ?",
+      "options": ["dans", "sur", "devant", "entre"],
+      "correctIndex": 0,
+      "topic": "Meaning",
+      "difficulty": "easy",
+      "explanation": "'Dans' signifie 'inside'."
+    },
+    {
+      "id": "fp_017",
+      "question": "Quelle préposition signifie 'near' ?",
+      "options": ["près de", "loin de", "sous", "entre"],
+      "correctIndex": 0,
+      "topic": "Meaning",
+      "difficulty": "easy",
+      "explanation": "'Près de' signifie 'near'."
+    },
+
+    {
+      "id": "fp_018",
+      "question": "Le chat est ___ la boîte.",
+      "options": ["dans", "sur", "devant", "loin de"],
+      "correctIndex": 0,
+      "topic": "Application",
+      "difficulty": "easy",
+      "explanation": "À l'intérieur → 'dans'."
+    },
+    {
+      "id": "fp_019",
+      "question": "La voiture est ___ l'arbre.",
+      "options": ["près de", "entre", "sous", "dans"],
+      "correctIndex": 0,
+      "topic": "Application",
+      "difficulty": "easy",
+      "explanation": "Proximité → 'près de'."
+    },
+    {
+      "id": "fp_020",
+      "question": "Le chien est ___ la table et la chaise.",
+      "options": ["entre", "sur", "derrière", "loin de"],
+      "correctIndex": 0,
+      "topic": "Application",
+      "difficulty": "easy",
+      "explanation": "Deux objets → 'entre'."
+    },
+
+   
+  {
+    "id": "fp_021",
+    "question": "Le livre est ___ la chaise.",
+    "options": ["sous", "sur", "entre", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sous = under."
+  },
+  {
+    "id": "fp_022",
+    "question": "Le chat est ___ la table.",
+    "options": ["sur", "sous", "entre", "loin de"],
+    "correctIndex": 1,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sous indique en dessous."
+  },
+  {
+    "id": "fp_023",
+    "question": "La voiture est ___ la maison.",
+    "options": ["derrière", "sur", "dans", "près de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Derrière = behind."
+  },
+  {
+    "id": "fp_024",
+    "question": "Le chien est ___ deux chaises.",
+    "options": ["entre", "sur", "devant", "sous"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Entre = between."
+  },
+  {
+    "id": "fp_025",
+    "question": "Le sac est ___ la table.",
+    "options": ["sur", "dans", "devant", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Objet posé → sur."
+  },
+
+  {
+    "id": "fp_026",
+    "question": "Quelle préposition indique 'inside' ?",
+    "options": ["dans", "sur", "entre", "devant"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Dans' signifie 'inside'."
+  },
+  {
+    "id": "fp_027",
+    "question": "Quelle préposition indique 'behind' ?",
+    "options": ["devant", "derrière", "sur", "près de"],
+    "correctIndex": 1,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Derrière' signifie 'behind'."
+  },
+  {
+    "id": "fp_028",
+    "question": "Le livre est ___ la boîte.",
+    "options": ["dans", "sur", "sous", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "À l'intérieur → dans."
+  },
+  {
+    "id": "fp_029",
+    "question": "Le chien est ___ la porte.",
+    "options": ["devant", "entre", "sur", "dans"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Devant = in front."
+  },
+  {
+    "id": "fp_030",
+    "question": "La table est ___ la fenêtre.",
+    "options": ["près de", "sur", "entre", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Proximité → près de."
+  },
+
+  {
+    "id": "fp_031",
+    "question": "Le chat est ___ la table et la chaise.",
+    "options": ["entre", "sur", "devant", "derrière"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Entre pour deux éléments."
+  },
+  {
+    "id": "fp_032",
+    "question": "Le sac est ___ la chaise.",
+    "options": ["sous", "dans", "entre", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Sous = under."
+  },
+  {
+    "id": "fp_033",
+    "question": "Le chien est ___ la maison.",
+    "options": ["loin de", "sur", "dans", "entre"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Distance → loin de."
+  },
+  {
+    "id": "fp_034",
+    "question": "La voiture est ___ le garage.",
+    "options": ["dans", "sur", "entre", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "À l’intérieur → dans."
+  },
+  {
+    "id": "fp_035",
+    "question": "Le chat est ___ la chaise.",
+    "options": ["sur", "sous", "entre", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Position au-dessus → sur."
+  },
+
+  {
+    "id": "fp_036",
+    "question": "Quelle phrase est correcte ?",
+    "options": [
+      "Le chat est dans sur la boîte",
+      "Le chat est dans la boîte",
+      "Le chat est entre la boîte",
+      "Le chat est sur dans la boîte"
+    ],
+    "correctIndex": 1,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Structure correcte avec 'dans'."
+  },
+  {
+    "id": "fp_037",
+    "question": "Le livre est ___ la table et la chaise.",
+    "options": ["entre", "sur", "devant", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Entre = between."
+  },
+  {
+    "id": "fp_038",
+    "question": "Le chien est ___ la maison.",
+    "options": ["derrière", "sur", "dans", "près de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Derrière = behind."
+  },
+  {
+    "id": "fp_039",
+    "question": "La chaise est ___ la table.",
+    "options": ["à côté de", "sur", "dans", "entre"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "À côté = next to."
+  },
+  {
+    "id": "fp_040",
+    "question": "Le chien est ___ les arbres.",
+    "options": ["au milieu de", "sur", "devant", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Centre → au milieu de."
+  },
+
+  {
+    "id": "fp_041",
+    "question": "Quelle préposition signifie 'far from' ?",
+    "options": ["loin de", "près de", "sur", "entre"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Loin de' = far from."
+  },
+  {
+    "id": "fp_042",
+    "question": "Quelle préposition signifie 'next to' ?",
+    "options": ["à côté de", "loin de", "sur", "dans"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'À côté de' = next to."
+  },
+
+  {
+    "id": "fp_043",
+    "question": "Le sac est ___ la table.",
+    "options": ["sous", "sur", "entre", "derrière"],
+    "correctIndex": 1,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Objet posé → sur."
+  },
+  {
+    "id": "fp_044",
+    "question": "Le chat est ___ la table.",
+    "options": ["sous", "sur", "entre", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sous = under."
+  },
+
+  {
+    "id": "fp_045",
+    "question": "Le chien est ___ la maison et l’arbre.",
+    "options": ["entre", "sur", "loin de", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Entre pour deux objets."
+  },
+
+  {
+    "id": "fp_046",
+    "question": "La voiture est ___ la maison.",
+    "options": ["devant", "sur", "dans", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Devant = in front."
+  },
+
+  {
+    "id": "fp_047",
+    "question": "Le livre est ___ la boîte.",
+    "options": ["dans", "sur", "derrière", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Dans = inside."
+  },
+
+  {
+    "id": "fp_048",
+    "question": "Le chat est ___ la maison.",
+    "options": ["près de", "loin de", "sur", "entre"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Près de = near."
+  },
+
+  {
+    "id": "fp_049",
+    "question": "Le chien est ___ la maison.",
+    "options": ["loin de", "près de", "sur", "dans"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Loin = far."
+  },
+
+  {
+    "id": "fp_050",
+    "question": "Quelle phrase est correcte ?",
+    "options": [
+      "Le chat est sur la table",
+      "Le chat est dans sur la table",
+      "Le chat est entre la table",
+      "Le chat est loin la table"
+    ],
+    "correctIndex": 0,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Phrase correcte avec 'sur'."
+  },
+
+  {
+    "id": "fp_051",
+    "question": "Le livre est ___ la table.",
+    "options": ["sur", "sous", "entre", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sur = on."
+  },
+  {
+    "id": "fp_052",
+    "question": "Le chat est ___ la table.",
+    "options": ["sous", "sur", "entre", "derrière"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sous = under."
+  },
+  {
+    "id": "fp_053",
+    "question": "Le chien est ___ la maison.",
+    "options": ["devant", "sur", "dans", "entre"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Devant = front."
+  },
+  {
+    "id": "fp_054",
+    "question": "Le vélo est ___ la maison.",
+    "options": ["derrière", "sur", "entre", "dans"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Derrière = behind."
+  },
+  {
+    "id": "fp_055",
+    "question": "Le chien est ___ deux arbres.",
+    "options": ["entre", "sur", "loin de", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Entre = between."
+  },
+
+  {
+    "id": "fp_056",
+    "question": "Le livre est ___ la boîte.",
+    "options": ["dans", "sur", "sous", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Dans = inside."
+  },
+  {
+    "id": "fp_057",
+    "question": "Le chat est ___ la maison.",
+    "options": ["près de", "loin de", "sur", "entre"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Près = near."
+  },
+  {
+    "id": "fp_058",
+    "question": "Le chien est ___ la maison.",
+    "options": ["loin de", "près de", "sur", "dans"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Loin = far."
+  },
+  {
+    "id": "fp_059",
+    "question": "Le livre est ___ la table et la chaise.",
+    "options": ["entre", "sur", "devant", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Entre = between."
+  },
+  {
+    "id": "fp_060",
+    "question": "Le chat est ___ la table.",
+    "options": ["sur", "sous", "entre", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sur = on."
+  },
+
+  {
+    "id": "fp_061",
+    "question": "Quelle préposition signifie 'under' ?",
+    "options": ["sous", "sur", "entre", "devant"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Sous' = under."
+  },
+  {
+    "id": "fp_062",
+    "question": "Quelle préposition signifie 'in front of' ?",
+    "options": ["devant", "derrière", "sur", "entre"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Devant' = in front."
+  },
+  {
+    "id": "fp_063",
+    "question": "Quelle préposition signifie 'behind' ?",
+    "options": ["derrière", "devant", "sur", "près de"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Derrière' = behind."
+  },
+  {
+    "id": "fp_064",
+    "question": "Quelle préposition signifie 'between' ?",
+    "options": ["entre", "sur", "devant", "dans"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Entre' = between."
+  },
+
+  {
+    "id": "fp_065",
+    "question": "Le livre est ___ la table.",
+    "options": ["sur", "sous", "entre", "derrière"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sur = on."
+  },
+  {
+    "id": "fp_066",
+    "question": "Le chat est ___ la table.",
+    "options": ["sous", "sur", "entre", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sous = under."
+  },
+  {
+    "id": "fp_067",
+    "question": "Le chien est ___ la maison.",
+    "options": ["devant", "sur", "dans", "entre"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Devant = front."
+  },
+  {
+    "id": "fp_068",
+    "question": "Le vélo est ___ la maison.",
+    "options": ["derrière", "sur", "entre", "dans"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Derrière = behind."
+  },
+  {
+    "id": "fp_069",
+    "question": "Le chien est ___ deux arbres.",
+    "options": ["entre", "sur", "loin de", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Entre = between."
+  },
+
+  {
+    "id": "fp_070",
+    "question": "Quelle phrase est correcte ?",
+    "options": [
+      "Le chat est sous la table",
+      "Le chat est sous dans la table",
+      "Le chat est entre la table",
+      "Le chat est loin la table"
+    ],
+    "correctIndex": 0,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Structure correcte."
+  },
+
+  {
+    "id": "fp_071",
+    "question": "Le livre est ___ la boîte.",
+    "options": ["dans", "sur", "sous", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Dans = inside."
+  },
+  {
+    "id": "fp_072",
+    "question": "Le chat est ___ la maison.",
+    "options": ["près de", "loin de", "sur", "entre"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Near = près de."
+  },
+  {
+    "id": "fp_073",
+    "question": "Le chien est ___ la maison.",
+    "options": ["loin de", "près de", "sur", "dans"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Far = loin de."
+  },
+  {
+    "id": "fp_074",
+    "question": "Le livre est ___ la table et la chaise.",
+    "options": ["entre", "sur", "devant", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Between = entre."
+  },
+  {
+    "id": "fp_075",
+    "question": "Le chat est ___ la table.",
+    "options": ["sur", "sous", "entre", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sur = on."
+  },
+
+  {
+    "id": "fp_076",
+    "question": "Quelle préposition signifie 'near' ?",
+    "options": ["près de", "loin de", "sur", "entre"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Près de' = near."
+  },
+  {
+    "id": "fp_077",
+    "question": "Quelle préposition signifie 'far' ?",
+    "options": ["loin de", "près de", "sur", "dans"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Loin de' = far."
+  },
+  {
+    "id": "fp_078",
+    "question": "Le chien est ___ la maison.",
+    "options": ["devant", "derrière", "sur", "dans"],
+    "correctIndex": 1,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Behind = derrière."
+  },
+  {
+    "id": "fp_079",
+    "question": "Le livre est ___ la table.",
+    "options": ["sous", "sur", "entre", "devant"],
+    "correctIndex": 1,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "On = sur."
+  },
+  {
+    "id": "fp_080",
+    "question": "Le chat est ___ la table.",
+    "options": ["sous", "sur", "entre", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Under = sous."
+  },
+  
+  {
+    "id": "fp_081",
+    "question": "Le chien est ___ la maison.",
+    "options": ["devant", "sur", "dans", "entre"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Devant = in front of."
+  },
+  {
+    "id": "fp_082",
+    "question": "Le vélo est ___ la maison.",
+    "options": ["derrière", "sur", "dans", "entre"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Derrière = behind."
+  },
+  {
+    "id": "fp_083",
+    "question": "Le livre est ___ la table.",
+    "options": ["sur", "sous", "entre", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sur = on."
+  },
+  {
+    "id": "fp_084",
+    "question": "Le chat est ___ la table.",
+    "options": ["sous", "sur", "entre", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sous = under."
+  },
+  {
+    "id": "fp_085",
+    "question": "Le chien est ___ deux arbres.",
+    "options": ["entre", "sur", "loin de", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Entre = between."
+  },
+
+  {
+    "id": "fp_086",
+    "question": "Le livre est ___ la boîte.",
+    "options": ["dans", "sur", "sous", "devant"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Dans = inside."
+  },
+  {
+    "id": "fp_087",
+    "question": "Le chat est ___ la maison.",
+    "options": ["près de", "loin de", "sur", "entre"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Près de = near."
+  },
+  {
+    "id": "fp_088",
+    "question": "Le chien est ___ la maison.",
+    "options": ["loin de", "près de", "sur", "dans"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Loin de = far from."
+  },
+  {
+    "id": "fp_089",
+    "question": "Le livre est ___ la table et la chaise.",
+    "options": ["entre", "sur", "devant", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "medium",
+    "explanation": "Entre = between."
+  },
+  {
+    "id": "fp_090",
+    "question": "Le chat est ___ la table.",
+    "options": ["sur", "sous", "entre", "loin de"],
+    "correctIndex": 0,
+    "topic": "Application",
+    "difficulty": "easy",
+    "explanation": "Sur = on."
+  },
+
+  {
+    "id": "fp_091",
+    "question": "Quelle préposition signifie 'inside' ?",
+    "options": ["dans", "sur", "entre", "devant"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Dans' = inside."
+  },
+  {
+    "id": "fp_092",
+    "question": "Quelle préposition signifie 'near' ?",
+    "options": ["près de", "loin de", "sur", "entre"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Près de' = near."
+  },
+  {
+    "id": "fp_093",
+    "question": "Quelle préposition signifie 'far from' ?",
+    "options": ["loin de", "près de", "sur", "dans"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Loin de' = far from."
+  },
+  {
+    "id": "fp_094",
+    "question": "Quelle préposition signifie 'behind' ?",
+    "options": ["derrière", "devant", "sur", "entre"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Derrière' = behind."
+  },
+  {
+    "id": "fp_095",
+    "question": "Quelle préposition signifie 'in front of' ?",
+    "options": ["devant", "derrière", "sur", "dans"],
+    "correctIndex": 0,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "explanation": "'Devant' = in front of."
+  },
+
+  {
+    "id": "fp_096",
+    "question": "Quelle phrase est correcte ?",
+    "options": [
+      "Le chat est dans la boîte",
+      "Le chat est dans sur la boîte",
+      "Le chat est entre la boîte",
+      "Le chat est loin la boîte"
+    ],
+    "correctIndex": 0,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Structure correcte avec 'dans'."
+  },
+  {
+    "id": "fp_097",
+    "question": "Quelle phrase est correcte ?",
+    "options": [
+      "Le livre est sur la table",
+      "Le livre est sur dans la table",
+      "Le livre est entre la table",
+      "Le livre est loin la table"
+    ],
+    "correctIndex": 0,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Phrase correcte avec 'sur'."
+  },
+  {
+    "id": "fp_098",
+    "question": "Quelle phrase est correcte ?",
+    "options": [
+      "Le chien est sous la table",
+      "Le chien est sous dans la table",
+      "Le chien est entre la table",
+      "Le chien est loin la table"
+    ],
+    "correctIndex": 0,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Structure correcte avec 'sous'."
+  },
+  {
+    "id": "fp_099",
+    "question": "Quelle phrase est correcte ?",
+    "options": [
+      "Le chien est devant la maison",
+      "Le chien est devant dans la maison",
+      "Le chien est entre la maison",
+      "Le chien est loin la maison"
+    ],
+    "correctIndex": 0,
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Structure correcte avec 'devant'."
+  },
+
+
+    {
+      "id": "fp_100",
+      "question": "Quelle phrase est correcte ?",
+      "options": [
+        "Le chat est sur dans la boîte",
+        "Le chat est dans la boîte",
+        "Le chat est entre dans la boîte",
+        "Le chat est loin dans la boîte"
+      ],
+      "correctIndex": 1,
+      "topic": "Grammar",
+      "difficulty": "hard",
+      "explanation": "Seule 'dans la boîte' est correcte."
+    }
+  ]
+}
