@@ -21,6 +21,7 @@ import characterStudies from '../../data/character-studies.json';
 import youthInMission from '../../data/youth-in-mission.json'
 import frenchprepositions from '../../data/preposition-french.json'
 import frenchcomprehension from '../../data/french-comprehension.json'
+import objefrench from '../../data/ojectives-french.json'
 
 
 
@@ -155,6 +156,13 @@ const stats = {
       icon: youthInMission.icon,
       questionsCount: youthInMission.questions.length,
       difficulty: getDifficultyStats(youthInMission.questions)
+    },
+     {
+      id:objefrench.courseId,
+      title: objefrench.title,
+      icon: objefrench.icon,
+      questionsCount: objefrench.questions.length,
+      difficulty: getDifficultyStats(objefrench.questions)
     },
      {
       id: frenchprepositions.courseId,

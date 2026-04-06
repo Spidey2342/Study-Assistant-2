@@ -17,6 +17,8 @@ import characterStudies from '../../data/character-studies.json';
 import youthInMission from '../../data/youth-in-mission.json'
 import frenchprepositions from '../../data/preposition-french.json'
 import frenchcomprehension from '../../data/french-comprehension.json'
+import objefrench from '../../data/ojectives-french.json'
+
 
 
 
@@ -38,7 +40,8 @@ const courseMap = {
 'pcg-character-studies': characterStudies ,
 'yim-chapter-2': youthInMission,
 'french-prepositions':frenchprepositions,
-'hotu105-french': frenchcomprehension
+'hotu105-french': frenchcomprehension,
+'french-grammar-core': objefrench
 };
 
 const QUESTION_COUNT = 13;

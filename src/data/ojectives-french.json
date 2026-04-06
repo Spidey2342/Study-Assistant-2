@@ -1,0 +1,1028 @@
+{
+  "courseId": "french-grammar-core",
+  "title": "French Grammar: Completion, Construction & Vocabulary",
+  "icon": "🇫🇷",
+  "questions": [
+    {
+      "id": "fg_001",
+      "question": "Complétez : Je ___ étudiant.",
+      "options": ["suis", "es", "est", "sommes"],
+      "correctIndex": 0,
+      "topic": "Completion of Text",
+      "difficulty": "easy",
+      "explanation": "'Je suis' est la forme correcte du verbe être."
+    },
+    {
+      "id": "fg_002",
+      "question": "Complétez : Elle ___ une maison.",
+      "options": ["a", "as", "ont", "ai"],
+      "correctIndex": 0,
+      "topic": "Completion of Text",
+      "difficulty": "easy",
+      "explanation": "'Elle a' est la bonne conjugaison du verbe avoir."
+    },
+    {
+      "id": "fg_003",
+      "question": "Quel article est correct : ___ livre ?",
+      "options": ["un", "une", "des", "la"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Livre' est masculin → 'un livre'."
+    },
+    {
+      "id": "fg_004",
+      "question": "Quel article est correct : ___ voiture ?",
+      "options": ["un", "une", "le", "des"],
+      "correctIndex": 1,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Voiture' est féminin → 'une voiture'."
+    },
+    {
+      "id": "fg_005",
+      "question": "Construisez une phrase correcte : (je / aller / école)",
+      "options": [
+        "Je aller école",
+        "Je vais à l’école",
+        "Je va école",
+        "Je vais école"
+      ],
+      "correctIndex": 1,
+      "topic": "Sentence Construction",
+      "difficulty": "medium",
+      "explanation": "On dit 'Je vais à l’école'."
+    },
+
+    {
+      "id": "fg_006",
+      "question": "Complétez : Nous ___ à la maison.",
+      "options": ["suis", "êtes", "sommes", "est"],
+      "correctIndex": 2,
+      "topic": "Completion of Text",
+      "difficulty": "easy",
+      "explanation": "'Nous sommes' est correct."
+    },
+    {
+      "id": "fg_007",
+      "question": "Complétez : Ils ___ du pain.",
+      "options": ["a", "as", "ont", "ai"],
+      "correctIndex": 2,
+      "topic": "Completion of Text",
+      "difficulty": "easy",
+      "explanation": "'Ils ont' est correct."
+    },
+    {
+      "id": "fg_008",
+      "question": "Quel article : ___ école ?",
+      "options": ["un", "une", "le", "la"],
+      "correctIndex": 1,
+      "topic": "Vocabulary",
+      "difficulty": "medium",
+      "explanation": "'École' est féminin → 'une école'."
+    },
+    {
+      "id": "fg_009",
+      "question": "Quel article : ___ ordinateur ?",
+      "options": ["un", "une", "la", "des"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Ordinateur' est masculin."
+    },
+    {
+      "id": "fg_010",
+      "question": "Construisez : (elle / manger / pomme)",
+      "options": [
+        "Elle manger pomme",
+        "Elle mange une pomme",
+        "Elle mange pomme",
+        "Elle mangent une pomme"
+      ],
+      "correctIndex": 1,
+      "topic": "Sentence Construction",
+      "difficulty": "medium",
+      "explanation": "Phrase correcte avec article et conjugaison."
+    },
+
+    {
+      "id": "fg_011",
+      "question": "Complétez : Tu ___ mon ami.",
+      "options": ["suis", "es", "est", "sommes"],
+      "correctIndex": 1,
+      "topic": "Completion of Text",
+      "difficulty": "easy",
+      "explanation": "'Tu es' est correct."
+    },
+    {
+      "id": "fg_012",
+      "question": "Complétez : Vous ___ prêts.",
+      "options": ["suis", "êtes", "est", "sommes"],
+      "correctIndex": 1,
+      "topic": "Completion of Text",
+      "difficulty": "medium",
+      "explanation": "'Vous êtes' est correct."
+    },
+    {
+      "id": "fg_013",
+      "question": "Quel article : ___ table ?",
+      "options": ["un", "une", "le", "des"],
+      "correctIndex": 1,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Table' est féminin."
+    },
+    {
+      "id": "fg_014",
+      "question": "Quel article : ___ sac ?",
+      "options": ["un", "une", "la", "des"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Sac' est masculin."
+    },
+    {
+      "id": "fg_015",
+      "question": "Construisez : (nous / avoir / chien)",
+      "options": [
+        "Nous avons un chien",
+        "Nous a chien",
+        "Nous ont un chien",
+        "Nous avoir chien"
+      ],
+      "correctIndex": 0,
+      "topic": "Sentence Construction",
+      "difficulty": "medium",
+      "explanation": "Bonne conjugaison + article."
+    },
+
+    {
+      "id": "fg_016",
+      "question": "Complétez : Il ___ professeur.",
+      "options": ["suis", "es", "est", "sommes"],
+      "correctIndex": 2,
+      "topic": "Completion of Text",
+      "difficulty": "easy",
+      "explanation": "'Il est' est correct."
+    },
+    {
+      "id": "fg_017",
+      "question": "Complétez : J’___ un livre.",
+      "options": ["ai", "as", "a", "ont"],
+      "correctIndex": 0,
+      "topic": "Completion of Text",
+      "difficulty": "easy",
+      "explanation": "'J’ai' est correct."
+    },
+    {
+      "id": "fg_018",
+      "question": "Quel article : ___ maison ?",
+      "options": ["un", "une", "le", "des"],
+      "correctIndex": 1,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Maison' est féminin."
+    },
+    {
+      "id": "fg_019",
+      "question": "Quel article : ___ stylo ?",
+      "options": ["un", "une", "la", "des"],
+      "correctIndex": 0,
+      "topic": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "'Stylo' est masculin."
+    },
+    {
+      "id": "fg_020",
+      "question": "Construisez : (ils / être / étudiants)",
+      "options": [
+        "Ils est étudiants",
+        "Ils sont étudiants",
+        "Ils suis étudiants",
+        "Ils être étudiants"
+      ],
+      "correctIndex": 1,
+      "topic": "Sentence Construction",
+      "difficulty": "medium",
+      "explanation": "'Ils sont étudiants' est correct."
+    },
+    
+  {
+    "id": "fg_021",
+    "question": "Complétez : Nous ___ un examen aujourd’hui.",
+    "options": ["avons", "a", "as", "ont"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Nous avons' est la bonne conjugaison."
+  },
+  {
+    "id": "fg_022",
+    "question": "Complétez : Elle ___ à l’école chaque jour.",
+    "options": ["aller", "va", "vais", "allons"],
+    "correctIndex": 1,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Elle va' est correct."
+  },
+  {
+    "id": "fg_023",
+    "question": "Quel article : ___ hôpital ?",
+    "options": ["un", "une", "le", "la"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "explanation": "'Hôpital' est masculin → 'un hôpital'."
+  },
+  {
+    "id": "fg_024",
+    "question": "Quel article : ___ amie ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "'Amie' est féminin."
+  },
+  {
+    "id": "fg_025",
+    "question": "Construisez : (je / avoir / idée)",
+    "options": [
+      "Je ai une idée",
+      "J’ai une idée",
+      "Je a une idée",
+      "Je as idée"
+    ],
+    "correctIndex": 1,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "Élision correcte : 'J’ai une idée'."
+  },
+
+  {
+    "id": "fg_026",
+    "question": "Complétez : Tu ___ une voiture ?",
+    "options": ["a", "as", "ai", "ont"],
+    "correctIndex": 1,
+    "topic": "Completion of Text",
+    "difficulty": "easy",
+    "explanation": "'Tu as' est correct."
+  },
+  {
+    "id": "fg_027",
+    "question": "Complétez : Nous ___ au marché.",
+    "options": ["allons", "va", "vais", "allez"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Nous allons' est correct."
+  },
+  {
+    "id": "fg_028",
+    "question": "Quel article : ___ université ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "'Université' est féminin."
+  },
+  {
+    "id": "fg_029",
+    "question": "Quel article : ___ arbre ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Arbre' est masculin."
+  },
+  {
+    "id": "fg_030",
+    "question": "Construisez : (elle / être / intelligente)",
+    "options": [
+      "Elle est intelligente",
+      "Elle suis intelligente",
+      "Elle être intelligente",
+      "Elle es intelligente"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "Bonne conjugaison et accord."
+  },
+
+  {
+    "id": "fg_031",
+    "question": "Complétez : Ils ___ leurs devoirs.",
+    "options": ["fait", "font", "fais", "faites"],
+    "correctIndex": 1,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Ils font' est la bonne conjugaison de 'faire'."
+  },
+  {
+    "id": "fg_032",
+    "question": "Complétez : Je ___ mes amis.",
+    "options": ["vois", "voit", "voyons", "voient"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Je vois' est correct."
+  },
+  {
+    "id": "fg_033",
+    "question": "Quel article : ___ heure ?",
+    "options": ["un", "une", "le", "la"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "explanation": "'Heure' est féminin (h muet)."
+  },
+  {
+    "id": "fg_034",
+    "question": "Quel article : ___ homme ?",
+    "options": ["un", "une", "le", "la"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "explanation": "'Homme' est masculin (h muet)."
+  },
+  {
+    "id": "fg_035",
+    "question": "Construisez : (nous / manger / pain)",
+    "options": [
+      "Nous mangeons du pain",
+      "Nous mange du pain",
+      "Nous mangent pain",
+      "Nous manger du pain"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Bonne conjugaison + partitif."
+  },
+
+  {
+    "id": "fg_036",
+    "question": "Complétez : Vous ___ français ?",
+    "options": ["parle", "parlez", "parlons", "parlent"],
+    "correctIndex": 1,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Vous parlez' est correct."
+  },
+  {
+    "id": "fg_037",
+    "question": "Complétez : Il ___ bien.",
+    "options": ["écrit", "écris", "écrivent", "écrivez"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Il écrit' est correct."
+  },
+  {
+    "id": "fg_038",
+    "question": "Quel article : ___ chaise ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Chaise' est féminin."
+  },
+  {
+    "id": "fg_039",
+    "question": "Quel article : ___ avion ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Avion' est masculin."
+  },
+  {
+    "id": "fg_040",
+    "question": "Construisez : (tu / aimer / musique)",
+    "options": [
+      "Tu aimes la musique",
+      "Tu aime musique",
+      "Tu aimer musique",
+      "Tu aimes musique"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "Bonne conjugaison + article défini."
+  },
+
+  {
+    "id": "fg_041",
+    "question": "Complétez : Elles ___ à Paris.",
+    "options": ["va", "vont", "vais", "allons"],
+    "correctIndex": 1,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Elles vont' est correct."
+  },
+  {
+    "id": "fg_042",
+    "question": "Complétez : Je ___ du café.",
+    "options": ["bois", "boit", "buvons", "boivent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Je bois' est correct."
+  },
+  {
+    "id": "fg_043",
+    "question": "Quel article : ___ hôtel ?",
+    "options": ["un", "une", "le", "la"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "explanation": "'Hôtel' est masculin."
+  },
+  {
+    "id": "fg_044",
+    "question": "Quel article : ___ histoire ?",
+    "options": ["un", "une", "le", "la"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "explanation": "'Histoire' est féminin."
+  },
+  {
+    "id": "fg_045",
+    "question": "Construisez : (ils / lire / livre)",
+    "options": [
+      "Ils lisent un livre",
+      "Ils lire livre",
+      "Ils lis un livre",
+      "Ils lisent livre"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Bonne conjugaison + article."
+  },
+
+  {
+    "id": "fg_046",
+    "question": "Complétez : Nous ___ notre travail.",
+    "options": ["finissons", "finit", "finis", "finissent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Nous finissons' est correct."
+  },
+  {
+    "id": "fg_047",
+    "question": "Complétez : Tu ___ ton livre.",
+    "options": ["prends", "prend", "prenons", "prennent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Tu prends' est correct."
+  },
+  {
+    "id": "fg_048",
+    "question": "Quel article : ___ fleur ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Fleur' est féminin."
+  },
+  {
+    "id": "fg_049",
+    "question": "Quel article : ___ bureau ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Bureau' est masculin."
+  },
+  {
+    "id": "fg_050",
+    "question": "Construisez : (je / finir / travail)",
+    "options": [
+      "Je finis le travail",
+      "Je finit travail",
+      "Je finir travail",
+      "Je finissons travail"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Bonne conjugaison + article."
+  },
+
+  {
+    "id": "fg_051",
+    "question": "Complétez : Vous ___ vos amis.",
+    "options": ["voyez", "voit", "vois", "voient"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Vous voyez' est correct."
+  },
+  {
+    "id": "fg_052",
+    "question": "Complétez : Il ___ au travail.",
+    "options": ["vient", "viens", "venons", "viennent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Il vient' est correct."
+  },
+  {
+    "id": "fg_053",
+    "question": "Quel article : ___ rivière ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "'Rivière' est féminin."
+  },
+  {
+    "id": "fg_054",
+    "question": "Quel article : ___ pont ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "'Pont' est masculin."
+  },
+  {
+    "id": "fg_055",
+    "question": "Construisez : (elle / prendre / bus)",
+    "options": [
+      "Elle prend le bus",
+      "Elle prends bus",
+      "Elle prendre bus",
+      "Elle prend bus"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Bonne conjugaison + article."
+  },
+
+  {
+    "id": "fg_056",
+    "question": "Complétez : Ils ___ rapidement.",
+    "options": ["courent", "court", "cours", "courez"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Ils courent' est correct."
+  },
+  {
+    "id": "fg_057",
+    "question": "Complétez : Je ___ la réponse.",
+    "options": ["sais", "sait", "savons", "savez"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Je sais' est correct."
+  },
+  {
+    "id": "fg_058",
+    "question": "Quel article : ___ mer ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Mer' est féminin."
+  },
+  {
+    "id": "fg_059",
+    "question": "Quel article : ___ lac ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Lac' est masculin."
+  },
+  {
+    "id": "fg_060",
+    "question": "Construisez : (nous / savoir / vérité)",
+    "options": [
+      "Nous savons la vérité",
+      "Nous sait vérité",
+      "Nous savoir vérité",
+      "Nous savent vérité"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Bonne conjugaison + structure correcte."
+  },
+  
+  {
+    "id": "fg_061",
+    "question": "Complétez : Je ___ en retard.",
+    "options": ["suis", "es", "est", "sommes"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Je suis' est correct."
+  },
+  {
+    "id": "fg_062",
+    "question": "Complétez : Elles ___ une décision.",
+    "options": ["prennent", "prend", "prends", "prenons"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Elles prennent' est la bonne conjugaison."
+  },
+  {
+    "id": "fg_063",
+    "question": "Quel article : ___ fenêtre ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Fenêtre' est féminin."
+  },
+  {
+    "id": "fg_064",
+    "question": "Quel article : ___ mur ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Mur' est masculin."
+  },
+  {
+    "id": "fg_065",
+    "question": "Construisez : (il / écrire / lettre)",
+    "options": [
+      "Il écrit une lettre",
+      "Il écrire lettre",
+      "Il écris lettre",
+      "Il écrit lettre"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Bonne conjugaison + article."
+  },
+
+  {
+    "id": "fg_066",
+    "question": "Complétez : Nous ___ le problème.",
+    "options": ["résolvons", "résout", "résous", "résolvent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Nous résolvons' est correct."
+  },
+  {
+    "id": "fg_067",
+    "question": "Complétez : Tu ___ ton devoir.",
+    "options": ["finis", "finit", "finissons", "finissent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Tu finis' est correct."
+  },
+  {
+    "id": "fg_068",
+    "question": "Quel article : ___ plage ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Plage' est féminin."
+  },
+  {
+    "id": "fg_069",
+    "question": "Quel article : ___ chemin ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "'Chemin' est masculin."
+  },
+  {
+    "id": "fg_070",
+    "question": "Construisez : (nous / écrire / message)",
+    "options": [
+      "Nous écrivons un message",
+      "Nous écrire message",
+      "Nous écris message",
+      "Nous écrivent message"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Bonne conjugaison + structure."
+  },
+
+  {
+    "id": "fg_071",
+    "question": "Complétez : Vous ___ la vérité.",
+    "options": ["dites", "dit", "dis", "disons"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Vous dites' est correct."
+  },
+  {
+    "id": "fg_072",
+    "question": "Complétez : Il ___ ses amis.",
+    "options": ["voit", "vois", "voyons", "voient"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Il voit' est correct."
+  },
+  {
+    "id": "fg_073",
+    "question": "Quel article : ___ montre ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "'Montre' est féminin."
+  },
+  {
+    "id": "fg_074",
+    "question": "Quel article : ___ pantalon ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "'Pantalon' est masculin."
+  },
+  {
+    "id": "fg_075",
+    "question": "Construisez : (elles / prendre / décision)",
+    "options": [
+      "Elles prennent une décision",
+      "Elles prend décision",
+      "Elles prends décision",
+      "Elles prendre décision"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Bonne conjugaison + article."
+  },
+
+  {
+    "id": "fg_076",
+    "question": "Complétez : Je ___ mes clés.",
+    "options": ["perds", "perd", "perdons", "perdent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Je perds' est correct."
+  },
+  {
+    "id": "fg_077",
+    "question": "Complétez : Nous ___ souvent ici.",
+    "options": ["venons", "vient", "viens", "viennent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Nous venons' est correct."
+  },
+  {
+    "id": "fg_078",
+    "question": "Quel article : ___ lampe ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Lampe' est féminin."
+  },
+  {
+    "id": "fg_079",
+    "question": "Quel article : ___ téléphone ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Téléphone' est masculin."
+  },
+  {
+    "id": "fg_080",
+    "question": "Construisez : (tu / perdre / temps)",
+    "options": [
+      "Tu perds du temps",
+      "Tu perd temps",
+      "Tu perdre temps",
+      "Tu perds temps"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Bonne conjugaison + partitif."
+  },
+
+  {
+    "id": "fg_081",
+    "question": "Complétez : Ils ___ leurs livres.",
+    "options": ["ouvrent", "ouvre", "ouvres", "ouvrons"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Ils ouvrent' est correct."
+  },
+  {
+    "id": "fg_082",
+    "question": "Complétez : Je ___ ce film.",
+    "options": ["comprends", "comprend", "comprenons", "comprennent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Je comprends' est correct."
+  },
+  {
+    "id": "fg_083",
+    "question": "Quel article : ___ porte ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Porte' est féminin."
+  },
+  {
+    "id": "fg_084",
+    "question": "Quel article : ___ tableau ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "'Tableau' est masculin."
+  },
+  {
+    "id": "fg_085",
+    "question": "Construisez : (nous / comprendre / leçon)",
+    "options": [
+      "Nous comprenons la leçon",
+      "Nous comprend leçon",
+      "Nous comprendre leçon",
+      "Nous comprennent leçon"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Bonne conjugaison + article."
+  },
+
+  {
+    "id": "fg_086",
+    "question": "Complétez : Elle ___ ses devoirs.",
+    "options": ["fait", "font", "fais", "faites"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Elle fait' est correct."
+  },
+  {
+    "id": "fg_087",
+    "question": "Complétez : Nous ___ du lait.",
+    "options": ["buvons", "boit", "bois", "boivent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "hard",
+    "explanation": "'Nous buvons' est correct."
+  },
+  {
+    "id": "fg_088",
+    "question": "Quel article : ___ école ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "'École' est féminin."
+  },
+  {
+    "id": "fg_089",
+    "question": "Quel article : ___ jardin ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "'Jardin' est masculin."
+  },
+  {
+    "id": "fg_090",
+    "question": "Construisez : (ils / boire / eau)",
+    "options": [
+      "Ils boivent de l’eau",
+      "Ils boire eau",
+      "Ils boit eau",
+      "Ils boivent eau"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Bonne conjugaison + élision correcte."
+  },
+
+  {
+    "id": "fg_091",
+    "question": "Complétez : Je ___ mon travail.",
+    "options": ["termine", "termines", "terminent", "terminons"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Je termine' est correct."
+  },
+  {
+    "id": "fg_092",
+    "question": "Complétez : Vous ___ votre repas.",
+    "options": ["mangez", "mange", "manges", "mangent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "easy",
+    "explanation": "'Vous mangez' est correct."
+  },
+  {
+    "id": "fg_093",
+    "question": "Quel article : ___ robe ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Robe' est féminin."
+  },
+  {
+    "id": "fg_094",
+    "question": "Quel article : ___ chapeau ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Chapeau' est masculin."
+  },
+  {
+    "id": "fg_095",
+    "question": "Construisez : (elle / porter / robe)",
+    "options": [
+      "Elle porte une robe",
+      "Elle porter robe",
+      "Elle portes robe",
+      "Elle porte robe"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "Bonne structure + article."
+  },
+
+  {
+    "id": "fg_096",
+    "question": "Complétez : Ils ___ rapidement.",
+    "options": ["marchent", "marche", "marches", "marchons"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Ils marchent' est correct."
+  },
+  {
+    "id": "fg_097",
+    "question": "Complétez : Tu ___ la porte.",
+    "options": ["ouvres", "ouvre", "ouvrons", "ouvrent"],
+    "correctIndex": 0,
+    "topic": "Completion of Text",
+    "difficulty": "medium",
+    "explanation": "'Tu ouvres' est correct."
+  },
+  {
+    "id": "fg_098",
+    "question": "Quel article : ___ ville ?",
+    "options": ["un", "une", "le", "des"],
+    "correctIndex": 1,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "explanation": "'Ville' est féminin."
+  },
+  {
+    "id": "fg_099",
+    "question": "Quel article : ___ pays ?",
+    "options": ["un", "une", "la", "des"],
+    "correctIndex": 0,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "'Pays' est masculin."
+  },
+  {
+    "id": "fg_100",
+    "question": "Construisez : (nous / visiter / ville)",
+    "options": [
+      "Nous visitons une ville",
+      "Nous visiter ville",
+      "Nous visite ville",
+      "Nous visitent ville"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "Bonne conjugaison + article."
+  }
+
+
+  ]
+}
