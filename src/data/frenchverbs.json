@@ -1,0 +1,1118 @@
+{
+  "courseId": "hotu105-pronouns-verbs",
+  "title": "French Pronouns, Verbs & Sentence Construction",
+  "icon": "🇫🇷",
+  "questions": [
+    {
+      "id": "hv_001",
+      "question": "Quel est le pronom pour 'I' ?",
+      "options": ["tu", "je", "il", "nous"],
+      "correctIndex": 1,
+      "topic": "Pronouns",
+      "difficulty": "easy",
+      "explanation": "'Je' signifie 'I'."
+    },
+    {
+      "id": "hv_002",
+      "question": "Quel est le pronom pour 'You (singulier)' ?",
+      "options": ["vous", "ils", "tu", "elle"],
+      "correctIndex": 2,
+      "topic": "Pronouns",
+      "difficulty": "easy",
+      "explanation": "'Tu' est utilisé pour 'you' singulier informel."
+    },
+    {
+      "id": "hv_003",
+      "question": "Quel pronom signifie 'they (masculin)' ?",
+      "options": ["elles", "ils", "vous", "nous"],
+      "correctIndex": 1,
+      "topic": "Pronouns",
+      "difficulty": "easy",
+      "explanation": "'Ils' est masculin pluriel."
+    },
+    {
+      "id": "hv_004",
+      "question": "Complétez : Je ___ un livre.",
+      "options": ["ai", "as", "a", "ont"],
+      "correctIndex": 0,
+      "topic": "Avoir",
+      "difficulty": "easy",
+      "explanation": "'J’ai' est la bonne forme."
+    },
+    {
+      "id": "hv_005",
+      "question": "Complétez : Tu ___ un livre.",
+      "options": ["ai", "as", "a", "ont"],
+      "correctIndex": 1,
+      "topic": "Avoir",
+      "difficulty": "easy",
+      "explanation": "'Tu as' est correct."
+    },
+
+    {
+      "id": "hv_006",
+      "question": "Complétez : Il ___ un livre.",
+      "options": ["ai", "as", "a", "ont"],
+      "correctIndex": 2,
+      "topic": "Avoir",
+      "difficulty": "easy",
+      "explanation": "'Il a' est correct."
+    },
+    {
+      "id": "hv_007",
+      "question": "Complétez : Nous ___ une maison.",
+      "options": ["avons", "a", "as", "ont"],
+      "correctIndex": 0,
+      "topic": "Avoir",
+      "difficulty": "easy",
+      "explanation": "'Nous avons' est correct."
+    },
+    {
+      "id": "hv_008",
+      "question": "Complétez : Vous ___ une voiture.",
+      "options": ["avez", "a", "as", "ont"],
+      "correctIndex": 0,
+      "topic": "Avoir",
+      "difficulty": "easy",
+      "explanation": "'Vous avez' est correct."
+    },
+    {
+      "id": "hv_009",
+      "question": "Complétez : Ils ___ une maison.",
+      "options": ["ai", "as", "a", "ont"],
+      "correctIndex": 3,
+      "topic": "Avoir",
+      "difficulty": "easy",
+      "explanation": "'Ils ont' est correct."
+    },
+    {
+      "id": "hv_010",
+      "question": "Complétez : Je ___ étudiant.",
+      "options": ["suis", "es", "est", "sommes"],
+      "correctIndex": 0,
+      "topic": "Être",
+      "difficulty": "easy",
+      "explanation": "'Je suis' est correct."
+    },
+
+    {
+      "id": "hv_011",
+      "question": "Complétez : Tu ___ étudiant.",
+      "options": ["suis", "es", "est", "sommes"],
+      "correctIndex": 1,
+      "topic": "Être",
+      "difficulty": "easy",
+      "explanation": "'Tu es' est correct."
+    },
+    {
+      "id": "hv_012",
+      "question": "Complétez : Il ___ étudiant.",
+      "options": ["suis", "es", "est", "sommes"],
+      "correctIndex": 2,
+      "topic": "Être",
+      "difficulty": "easy",
+      "explanation": "'Il est' est correct."
+    },
+    {
+      "id": "hv_013",
+      "question": "Complétez : Nous ___ étudiants.",
+      "options": ["suis", "sommes", "est", "êtes"],
+      "correctIndex": 1,
+      "topic": "Être",
+      "difficulty": "easy",
+      "explanation": "'Nous sommes' est correct."
+    },
+    {
+      "id": "hv_014",
+      "question": "Complétez : Vous ___ étudiants.",
+      "options": ["êtes", "suis", "est", "sommes"],
+      "correctIndex": 0,
+      "topic": "Être",
+      "difficulty": "easy",
+      "explanation": "'Vous êtes' est correct."
+    },
+    {
+      "id": "hv_015",
+      "question": "Complétez : Ils ___ étudiants.",
+      "options": ["sont", "est", "suis", "sommes"],
+      "correctIndex": 0,
+      "topic": "Être",
+      "difficulty": "easy",
+      "explanation": "'Ils sont' est correct."
+    },
+
+    {
+      "id": "hv_016",
+      "question": "Complétez : Je ___ le sport.",
+      "options": ["aime", "aimes", "aimons", "aiment"],
+      "correctIndex": 0,
+      "topic": "Aimer",
+      "difficulty": "easy",
+      "explanation": "'J’aime' est correct."
+    },
+    {
+      "id": "hv_017",
+      "question": "Complétez : Nous ___ le sport.",
+      "options": ["aime", "aimons", "aimes", "aiment"],
+      "correctIndex": 1,
+      "topic": "Aimer",
+      "difficulty": "easy",
+      "explanation": "'Nous aimons' est correct."
+    },
+    {
+      "id": "hv_018",
+      "question": "Complétez : Ils ___ le sport.",
+      "options": ["aime", "aimes", "aimons", "aiment"],
+      "correctIndex": 3,
+      "topic": "Aimer",
+      "difficulty": "easy",
+      "explanation": "'Ils aiment' est correct."
+    },
+    {
+      "id": "hv_019",
+      "question": "Complétez : Je ___ à Kumasi.",
+      "options": ["habite", "habites", "habitent", "habitons"],
+      "correctIndex": 0,
+      "topic": "Habiter",
+      "difficulty": "easy",
+      "explanation": "'J’habite' est correct."
+    },
+    {
+      "id": "hv_020",
+      "question": "Complétez : Nous ___ à Kumasi.",
+      "options": ["habite", "habites", "habitons", "habitent"],
+      "correctIndex": 2,
+      "topic": "Habiter",
+      "difficulty": "easy",
+      "explanation": "'Nous habitons' est correct."
+    },
+
+    {
+      "id": "hv_021",
+      "question": "Complétez : Il ___ français.",
+      "options": ["parle", "parles", "parlons", "parlent"],
+      "correctIndex": 0,
+      "topic": "Parler",
+      "difficulty": "easy",
+      "explanation": "'Il parle' est correct."
+    },
+    {
+      "id": "hv_022",
+      "question": "Complétez : Nous ___ français.",
+      "options": ["parle", "parles", "parlons", "parlent"],
+      "correctIndex": 2,
+      "topic": "Parler",
+      "difficulty": "easy",
+      "explanation": "'Nous parlons' est correct."
+    },
+    {
+      "id": "hv_023",
+      "question": "Complétez : Je ___ du pain.",
+      "options": ["mange", "manges", "mangent", "mangeons"],
+      "correctIndex": 0,
+      "topic": "Manger",
+      "difficulty": "easy",
+      "explanation": "'Je mange' est correct."
+    },
+    {
+      "id": "hv_024",
+      "question": "Complétez : Nous ___ du pain.",
+      "options": ["mange", "manges", "mangeons", "mangent"],
+      "correctIndex": 2,
+      "topic": "Manger",
+      "difficulty": "medium",
+      "explanation": "'Nous mangeons' garde le 'e'."
+    },
+    {
+      "id": "hv_025",
+      "question": "Complétez : Ils ___ du pain.",
+      "options": ["mange", "manges", "mangent", "mangeons"],
+      "correctIndex": 2,
+      "topic": "Manger",
+      "difficulty": "easy",
+      "explanation": "'Ils mangent' est correct."
+    },
+
+    {
+      "id": "hv_026",
+      "question": "Complétez : Je ___ à l’école.",
+      "options": ["vais", "vas", "va", "allons"],
+      "correctIndex": 0,
+      "topic": "Aller",
+      "difficulty": "easy",
+      "explanation": "'Je vais' est correct."
+    },
+    {
+      "id": "hv_027",
+      "question": "Complétez : Nous ___ à l’école.",
+      "options": ["vais", "vas", "allons", "vont"],
+      "correctIndex": 2,
+      "topic": "Aller",
+      "difficulty": "easy",
+      "explanation": "'Nous allons' est correct."
+    },
+    {
+      "id": "hv_028",
+      "question": "Complétez : Ils ___ à la plage.",
+      "options": ["vais", "vas", "va", "vont"],
+      "correctIndex": 3,
+      "topic": "Aller",
+      "difficulty": "easy",
+      "explanation": "'Ils vont' est correct."
+    },
+    {
+      "id": "hv_029",
+      "question": "Complétez : Je ___ mes devoirs.",
+      "options": ["fais", "fait", "faisons", "font"],
+      "correctIndex": 0,
+      "topic": "Faire",
+      "difficulty": "medium",
+      "explanation": "'Je fais' est correct."
+    },
+    {
+      "id": "hv_030",
+      "question": "Complétez : Nous ___ nos devoirs.",
+      "options": ["fais", "fait", "faisons", "font"],
+      "correctIndex": 2,
+      "topic": "Faire",
+      "difficulty": "medium",
+      "explanation": "'Nous faisons' est correct."
+    },
+
+    {
+      "id": "hv_031",
+      "question": "Complétez : Je ___ Kofi.",
+      "options": ["m’appelle", "t’appelles", "s’appelle", "appelons"],
+      "correctIndex": 0,
+      "topic": "S'appeler",
+      "difficulty": "medium",
+      "explanation": "'Je m’appelle' est correct."
+    },
+    {
+      "id": "hv_032",
+      "question": "Complétez : Nous ___ Kofi.",
+      "options": ["m’appelons", "nous appelons", "nous nous appelons", "appelons"],
+      "correctIndex": 2,
+      "topic": "S'appeler",
+      "difficulty": "hard",
+      "explanation": "Verbe pronominal → 'nous nous appelons'."
+    },
+    {
+      "id": "hv_033",
+      "question": "Complétez : Ils ___ Kofi.",
+      "options": ["s’appelle", "s’appellent", "appellent", "appelons"],
+      "correctIndex": 1,
+      "topic": "S'appeler",
+      "difficulty": "medium",
+      "explanation": "'Ils s’appellent' est correct."
+    },
+    {
+      "id": "hv_034",
+      "question": "Complétez : Je ___ haut.",
+      "options": ["saute", "sautes", "sautons", "sautent"],
+      "correctIndex": 0,
+      "topic": "Sauter",
+      "difficulty": "easy",
+      "explanation": "'Je saute' est correct."
+    },
+    {
+      "id": "hv_035",
+      "question": "Complétez : Nous ___ haut.",
+      "options": ["saute", "sautes", "sautons", "sautent"],
+      "correctIndex": 2,
+      "topic": "Sauter",
+      "difficulty": "easy",
+      "explanation": "'Nous sautons' est correct."
+    },
+
+    {
+      "id": "hv_036",
+      "question": "Traduisez : Je vais au cinéma.",
+      "options": [
+        "I go cinema",
+        "I am going to the cinema",
+        "I went to cinema",
+        "I am cinema"
+      ],
+      "correctIndex": 1,
+      "topic": "Sentence Construction",
+      "difficulty": "medium",
+      "explanation": "Traduction correcte."
+    },
+    {
+      "id": "hv_037",
+      "question": "Traduisez : Elle aime le sport.",
+      "options": [
+        "She loves sport",
+        "She like sport",
+        "She is sport",
+        "She go sport"
+      ],
+      "correctIndex": 0,
+      "topic": "Sentence Construction",
+      "difficulty": "easy",
+      "explanation": "Bonne traduction."
+    },
+    {
+      "id": "hv_038",
+      "question": "Traduisez : Ils vont à la plage.",
+      "options": [
+        "They go beach",
+        "They are going to the beach",
+        "They went beach",
+        "They are beach"
+      ],
+      "correctIndex": 1,
+      "topic": "Sentence Construction",
+      "difficulty": "medium",
+      "explanation": "Bonne traduction."
+    },
+    {
+      "id": "hv_039",
+      "question": "Traduisez : Nous avons une maison neuve.",
+      "options": [
+        "We have a new house",
+        "We has house",
+        "We are house",
+        "We go house"
+      ],
+      "correctIndex": 0,
+      "topic": "Sentence Construction",
+      "difficulty": "medium",
+      "explanation": "Bonne traduction."
+    },
+    {
+      "id": "hv_040",
+      "question": "Traduisez : Mes parents sont au bureau.",
+      "options": [
+        "My parents are at the office",
+        "My parents go office",
+        "My parents have office",
+        "My parents work office"
+      ],
+      "correctIndex": 0,
+      "topic": "Sentence Construction",
+      "difficulty": "medium",
+      "explanation": "Bonne traduction."
+    }
+  ,
+  
+  {
+    "id": "hv_041",
+    "question": "Complétez : Je ___ mon livre.",
+    "options": ["lis", "lit", "lisons", "lisent"],
+    "correctIndex": 0,
+    "topic": "Lire",
+    "difficulty": "medium",
+    "explanation": "'Je lis' est correct."
+  },
+  {
+    "id": "hv_042",
+    "question": "Complétez : Nous ___ un livre.",
+    "options": ["lis", "lit", "lisons", "lisent"],
+    "correctIndex": 2,
+    "topic": "Lire",
+    "difficulty": "medium",
+    "explanation": "'Nous lisons' est correct."
+  },
+  {
+    "id": "hv_043",
+    "question": "Complétez : Ils ___ un livre.",
+    "options": ["lis", "lit", "lisons", "lisent"],
+    "correctIndex": 3,
+    "topic": "Lire",
+    "difficulty": "medium",
+    "explanation": "'Ils lisent' est correct."
+  },
+  {
+    "id": "hv_044",
+    "question": "Complétez : Je ___ du lait.",
+    "options": ["bois", "boit", "buvons", "boivent"],
+    "correctIndex": 0,
+    "topic": "Boire",
+    "difficulty": "medium",
+    "explanation": "'Je bois' est correct."
+  },
+  {
+    "id": "hv_045",
+    "question": "Complétez : Nous ___ du lait.",
+    "options": ["bois", "boit", "buvons", "boivent"],
+    "correctIndex": 2,
+    "topic": "Boire",
+    "difficulty": "medium",
+    "explanation": "'Nous buvons' est correct."
+  },
+
+  {
+    "id": "hv_046",
+    "question": "Complétez : Ils ___ du lait.",
+    "options": ["bois", "boit", "buvons", "boivent"],
+    "correctIndex": 3,
+    "topic": "Boire",
+    "difficulty": "medium",
+    "explanation": "'Ils boivent' est correct."
+  },
+  {
+    "id": "hv_047",
+    "question": "Complétez : Je ___ la vérité.",
+    "options": ["sais", "sait", "savons", "savez"],
+    "correctIndex": 0,
+    "topic": "Savoir",
+    "difficulty": "hard",
+    "explanation": "'Je sais' est correct."
+  },
+  {
+    "id": "hv_048",
+    "question": "Complétez : Nous ___ la vérité.",
+    "options": ["sais", "sait", "savons", "savez"],
+    "correctIndex": 2,
+    "topic": "Savoir",
+    "difficulty": "hard",
+    "explanation": "'Nous savons' est correct."
+  },
+  {
+    "id": "hv_049",
+    "question": "Complétez : Ils ___ la vérité.",
+    "options": ["sais", "sait", "savons", "savent"],
+    "correctIndex": 3,
+    "topic": "Savoir",
+    "difficulty": "hard",
+    "explanation": "'Ils savent' est correct."
+  },
+  {
+    "id": "hv_050",
+    "question": "Complétez : Je ___ venir.",
+    "options": ["peux", "peut", "pouvons", "peuvent"],
+    "correctIndex": 0,
+    "topic": "Pouvoir",
+    "difficulty": "hard",
+    "explanation": "'Je peux' est correct."
+  },
+
+  {
+    "id": "hv_051",
+    "question": "Complétez : Nous ___ venir.",
+    "options": ["peux", "peut", "pouvons", "peuvent"],
+    "correctIndex": 2,
+    "topic": "Pouvoir",
+    "difficulty": "hard",
+    "explanation": "'Nous pouvons' est correct."
+  },
+  {
+    "id": "hv_052",
+    "question": "Complétez : Ils ___ venir.",
+    "options": ["peux", "peut", "pouvons", "peuvent"],
+    "correctIndex": 3,
+    "topic": "Pouvoir",
+    "difficulty": "hard",
+    "explanation": "'Ils peuvent' est correct."
+  },
+  {
+    "id": "hv_053",
+    "question": "Complétez : Je ___ partir.",
+    "options": ["veux", "veut", "voulons", "veulent"],
+    "correctIndex": 0,
+    "topic": "Vouloir",
+    "difficulty": "hard",
+    "explanation": "'Je veux' est correct."
+  },
+  {
+    "id": "hv_054",
+    "question": "Complétez : Nous ___ partir.",
+    "options": ["veux", "veut", "voulons", "veulent"],
+    "correctIndex": 2,
+    "topic": "Vouloir",
+    "difficulty": "hard",
+    "explanation": "'Nous voulons' est correct."
+  },
+  {
+    "id": "hv_055",
+    "question": "Complétez : Ils ___ partir.",
+    "options": ["veux", "veut", "voulons", "veulent"],
+    "correctIndex": 3,
+    "topic": "Vouloir",
+    "difficulty": "hard",
+    "explanation": "'Ils veulent' est correct."
+  },
+
+  {
+    "id": "hv_056",
+    "question": "Complétez : Je ___ voir le film.",
+    "options": ["dois", "doit", "devons", "doivent"],
+    "correctIndex": 0,
+    "topic": "Devoir",
+    "difficulty": "hard",
+    "explanation": "'Je dois' est correct."
+  },
+  {
+    "id": "hv_057",
+    "question": "Complétez : Nous ___ étudier.",
+    "options": ["dois", "doit", "devons", "doivent"],
+    "correctIndex": 2,
+    "topic": "Devoir",
+    "difficulty": "hard",
+    "explanation": "'Nous devons' est correct."
+  },
+  {
+    "id": "hv_058",
+    "question": "Complétez : Ils ___ étudier.",
+    "options": ["dois", "doit", "devons", "doivent"],
+    "correctIndex": 3,
+    "topic": "Devoir",
+    "difficulty": "hard",
+    "explanation": "'Ils doivent' est correct."
+  },
+  {
+    "id": "hv_059",
+    "question": "Traduisez : Je peux venir.",
+    "options": [
+      "I can come",
+      "I want come",
+      "I must come",
+      "I go come"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "'Je peux' signifie 'I can'."
+  },
+  {
+    "id": "hv_060",
+    "question": "Traduisez : Nous devons travailler.",
+    "options": [
+      "We can work",
+      "We must work",
+      "We want work",
+      "We go work"
+    ],
+    "correctIndex": 1,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "'Nous devons' signifie 'We must'."
+  },
+
+  {
+    "id": "hv_061",
+    "question": "Traduisez : Ils veulent partir.",
+    "options": [
+      "They can leave",
+      "They want to leave",
+      "They must leave",
+      "They go leave"
+    ],
+    "correctIndex": 1,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "'Ils veulent' signifie 'They want'."
+  },
+  {
+    "id": "hv_062",
+    "question": "Traduisez : Je sais la réponse.",
+    "options": [
+      "I know the answer",
+      "I see answer",
+      "I take answer",
+      "I write answer"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "'Je sais' signifie 'I know'."
+  },
+  {
+    "id": "hv_063",
+    "question": "Traduisez : Nous buvons de l’eau.",
+    "options": [
+      "We drink water",
+      "We eat water",
+      "We see water",
+      "We take water"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "'Nous buvons' = 'We drink'."
+  },
+  {
+    "id": "hv_064",
+    "question": "Traduisez : Il lit un livre.",
+    "options": [
+      "He reads a book",
+      "He write book",
+      "He sees book",
+      "He takes book"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "easy",
+    "explanation": "Bonne traduction."
+  },
+  {
+    "id": "hv_065",
+    "question": "Traduisez : Je dois étudier.",
+    "options": [
+      "I can study",
+      "I must study",
+      "I want study",
+      "I go study"
+    ],
+    "correctIndex": 1,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "'Je dois' signifie obligation."
+  },
+
+  {
+    "id": "hv_066",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Je suis mange",
+      "Je mange",
+      "Je manger",
+      "Je manges"
+    ],
+    "correctIndex": 1,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "Bonne conjugaison."
+  },
+  {
+    "id": "hv_067",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Nous allons école",
+      "Nous allons à l’école",
+      "Nous allons le école",
+      "Nous allons école à"
+    ],
+    "correctIndex": 1,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "Préposition correcte 'à l’école'."
+  },
+  {
+    "id": "hv_068",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Ils mange du pain",
+      "Ils mangent du pain",
+      "Ils mangeons du pain",
+      "Ils manges du pain"
+    ],
+    "correctIndex": 1,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "'Ils mangent' est correct."
+  },
+  {
+    "id": "hv_069",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Je vais au marché",
+      "Je vais le marché",
+      "Je vais marché",
+      "Je vais à marché"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "medium",
+    "explanation": "Bonne structure."
+  },
+  {
+    "id": "hv_070",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Elle parle français",
+      "Elle parle le français",
+      "Elle parler français",
+      "Elle parles français"
+    ],
+    "correctIndex": 0,
+    "topic": "Sentence Construction",
+    "difficulty": "hard",
+    "explanation": "Pas d’article devant langue."
+  },
+
+  {
+    "id": "hv_071",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Nous avons une maison",
+      "Nous a une maison",
+      "Nous ont une maison",
+      "Nous as une maison"
+    ],
+    "correctIndex": 0,
+    "topic": "Avoir",
+    "difficulty": "easy",
+    "explanation": "'Nous avons' est correct."
+  },
+  {
+    "id": "hv_072",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Ils est ici",
+      "Ils sont ici",
+      "Ils suis ici",
+      "Ils es ici"
+    ],
+    "correctIndex": 1,
+    "topic": "Être",
+    "difficulty": "easy",
+    "explanation": "'Ils sont' est correct."
+  },
+  {
+    "id": "hv_073",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Je m’appelle Marie",
+      "Je appelle Marie",
+      "Je t’appelle Marie",
+      "Je s’appelle Marie"
+    ],
+    "correctIndex": 0,
+    "topic": "S'appeler",
+    "difficulty": "medium",
+    "explanation": "Forme pronominale correcte."
+  },
+  {
+    "id": "hv_074",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Nous nous appelons Paul",
+      "Nous appelons Paul",
+      "Nous s’appelons Paul",
+      "Nous m’appelons Paul"
+    ],
+    "correctIndex": 0,
+    "topic": "S'appeler",
+    "difficulty": "hard",
+    "explanation": "Bonne structure pronominale."
+  },
+  {
+    "id": "hv_075",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Ils s’appellent Paul",
+      "Ils appelle Paul",
+      "Ils s’appelle Paul",
+      "Ils appelons Paul"
+    ],
+    "correctIndex": 0,
+    "topic": "S'appeler",
+    "difficulty": "medium",
+    "explanation": "Bonne conjugaison."
+  },
+
+  {
+    "id": "hv_076",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Je peux venir",
+      "Je peut venir",
+      "Je pouvons venir",
+      "Je peuvent venir"
+    ],
+    "correctIndex": 0,
+    "topic": "Pouvoir",
+    "difficulty": "medium",
+    "explanation": "'Je peux' est correct."
+  },
+  {
+    "id": "hv_077",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Nous devons travailler",
+      "Nous doit travailler",
+      "Nous dois travailler",
+      "Nous doivent travailler"
+    ],
+    "correctIndex": 0,
+    "topic": "Devoir",
+    "difficulty": "medium",
+    "explanation": "'Nous devons' est correct."
+  },
+  {
+    "id": "hv_078",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Ils veulent partir",
+      "Ils veut partir",
+      "Ils voulons partir",
+      "Ils veux partir"
+    ],
+    "correctIndex": 0,
+    "topic": "Vouloir",
+    "difficulty": "medium",
+    "explanation": "'Ils veulent' est correct."
+  },
+  {
+    "id": "hv_079",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Je sais la réponse",
+      "Je sait la réponse",
+      "Je savons la réponse",
+      "Je savent la réponse"
+    ],
+    "correctIndex": 0,
+    "topic": "Savoir",
+    "difficulty": "medium",
+    "explanation": "'Je sais' est correct."
+  },
+  {
+    "id": "hv_080",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Nous buvons de l’eau",
+      "Nous boit de l’eau",
+      "Nous bois de l’eau",
+      "Nous boivent de l’eau"
+    ],
+    "correctIndex": 0,
+    "topic": "Boire",
+    "difficulty": "medium",
+    "explanation": "'Nous buvons' est correct."
+  },
+  
+  {
+    "id": "hv_081",
+    "question": "Complétez : Je ___ allé au marché.",
+    "options": ["suis", "ai", "est", "sommes"],
+    "correctIndex": 0,
+    "topic": "Être (Past Context)",
+    "difficulty": "hard",
+    "explanation": "Avec 'aller', on utilise 'être' → 'Je suis allé'."
+  },
+  {
+    "id": "hv_082",
+    "question": "Complétez : Nous ___ mangé du pain.",
+    "options": ["avons", "sommes", "avez", "ont"],
+    "correctIndex": 0,
+    "topic": "Avoir (Past Context)",
+    "difficulty": "hard",
+    "explanation": "'Manger' utilise 'avoir' → 'Nous avons mangé'."
+  },
+  {
+    "id": "hv_083",
+    "question": "Complétez : Ils ___ partis tôt.",
+    "options": ["ont", "sont", "avez", "a"],
+    "correctIndex": 1,
+    "topic": "Être (Past Context)",
+    "difficulty": "hard",
+    "explanation": "'Partir' utilise 'être'."
+  },
+  {
+    "id": "hv_084",
+    "question": "Complétez : Je ___ vu ce film.",
+    "options": ["suis", "ai", "est", "sommes"],
+    "correctIndex": 1,
+    "topic": "Avoir (Past Context)",
+    "difficulty": "hard",
+    "explanation": "'Voir' utilise 'avoir'."
+  },
+  {
+    "id": "hv_085",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Je suis mangé",
+      "Je ai mangé",
+      "J’ai mangé",
+      "Je mange ai"
+    ],
+    "correctIndex": 2,
+    "topic": "Past Tense",
+    "difficulty": "hard",
+    "explanation": "Bonne formation du passé composé."
+  },
+
+  {
+    "id": "hv_086",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Nous sommes allés",
+      "Nous avons allés",
+      "Nous sommes allé",
+      "Nous avons allé"
+    ],
+    "correctIndex": 0,
+    "topic": "Past Tense",
+    "difficulty": "hard",
+    "explanation": "'Aller' utilise 'être' + accord."
+  },
+  {
+    "id": "hv_087",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Ils ont partis",
+      "Ils sont partis",
+      "Ils ont parti",
+      "Ils sont parti"
+    ],
+    "correctIndex": 1,
+    "topic": "Past Tense",
+    "difficulty": "hard",
+    "explanation": "'Partir' utilise 'être'."
+  },
+  {
+    "id": "hv_088",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Elle a vu le film",
+      "Elle est vu le film",
+      "Elle vu le film",
+      "Elle a vois le film"
+    ],
+    "correctIndex": 0,
+    "topic": "Past Tense",
+    "difficulty": "hard",
+    "explanation": "'Voir' utilise 'avoir'."
+  },
+  {
+    "id": "hv_089",
+    "question": "Complétez : Je ___ en train de manger.",
+    "options": ["suis", "ai", "est", "sommes"],
+    "correctIndex": 0,
+    "topic": "Progressive Form",
+    "difficulty": "medium",
+    "explanation": "'Être en train de' → 'Je suis'."
+  },
+  {
+    "id": "hv_090",
+    "question": "Complétez : Nous ___ en train d’étudier.",
+    "options": ["sommes", "avons", "êtes", "ont"],
+    "correctIndex": 0,
+    "topic": "Progressive Form",
+    "difficulty": "medium",
+    "explanation": "'Nous sommes en train de'."
+  },
+
+  {
+    "id": "hv_091",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Je veux manger",
+      "Je veux mange",
+      "Je veux mangé",
+      "Je veux manges"
+    ],
+    "correctIndex": 0,
+    "topic": "Verb Structure",
+    "difficulty": "hard",
+    "explanation": "Après 'veux', on utilise l’infinitif."
+  },
+  {
+    "id": "hv_092",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Nous pouvons partir",
+      "Nous pouvons partons",
+      "Nous pouvons partis",
+      "Nous pouvons part"
+    ],
+    "correctIndex": 0,
+    "topic": "Verb Structure",
+    "difficulty": "hard",
+    "explanation": "Après 'pouvons', infinitif."
+  },
+  {
+    "id": "hv_093",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Ils doivent étudier",
+      "Ils doivent étudient",
+      "Ils doivent étudié",
+      "Ils doivent études"
+    ],
+    "correctIndex": 0,
+    "topic": "Verb Structure",
+    "difficulty": "hard",
+    "explanation": "Infinitif après verbe modal."
+  },
+  {
+    "id": "hv_094",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Je peux lire",
+      "Je peux lis",
+      "Je peux lisent",
+      "Je peux lu"
+    ],
+    "correctIndex": 0,
+    "topic": "Verb Structure",
+    "difficulty": "hard",
+    "explanation": "Infinitif après 'peux'."
+  },
+  {
+    "id": "hv_095",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Nous voulons boire",
+      "Nous voulons buvons",
+      "Nous voulons boivent",
+      "Nous voulons bu"
+    ],
+    "correctIndex": 0,
+    "topic": "Verb Structure",
+    "difficulty": "hard",
+    "explanation": "Infinitif après 'voulons'."
+  },
+
+  {
+    "id": "hv_096",
+    "question": "Complétez : Je ___ me lever tôt.",
+    "options": ["vais", "vas", "va", "allons"],
+    "correctIndex": 0,
+    "topic": "Near Future",
+    "difficulty": "medium",
+    "explanation": "'Je vais + infinitif'."
+  },
+  {
+    "id": "hv_097",
+    "question": "Complétez : Nous ___ étudier demain.",
+    "options": ["allons", "vais", "va", "vont"],
+    "correctIndex": 0,
+    "topic": "Near Future",
+    "difficulty": "medium",
+    "explanation": "'Nous allons + infinitif'."
+  },
+  {
+    "id": "hv_098",
+    "question": "Complétez : Ils ___ partir bientôt.",
+    "options": ["vont", "vais", "vas", "allons"],
+    "correctIndex": 0,
+    "topic": "Near Future",
+    "difficulty": "medium",
+    "explanation": "'Ils vont + infinitif'."
+  },
+  {
+    "id": "hv_099",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Je vais manger",
+      "Je vais mange",
+      "Je vais mangé",
+      "Je vais manges"
+    ],
+    "correctIndex": 0,
+    "topic": "Near Future",
+    "difficulty": "medium",
+    "explanation": "Infinitif après 'vais'."
+  },
+  {
+    "id": "hv_100",
+    "question": "Choisissez la phrase correcte.",
+    "options": [
+      "Nous allons travailler",
+      "Nous allons travaillons",
+      "Nous allons travaillé",
+      "Nous allons travaille"
+    ],
+    "correctIndex": 0,
+    "topic": "Near Future",
+    "difficulty": "medium",
+    "explanation": "Infinitif après 'allons'."
+  }
+
+]
+}

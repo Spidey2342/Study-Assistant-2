@@ -22,6 +22,7 @@ import youthInMission from '../../data/youth-in-mission.json'
 import frenchprepositions from '../../data/preposition-french.json'
 import frenchcomprehension from '../../data/french-comprehension.json'
 import objefrench from '../../data/ojectives-french.json'
+import frenchfill from '../../data/frenchverbs.json'
 
 
 
@@ -149,6 +150,13 @@ const stats = {
       icon: frenchcomprehension.icon,
       questionsCount: frenchcomprehension.questions.length,
       difficulty: getDifficultyStats(frenchcomprehension.questions)
+    },
+     {
+      id: frenchfill.courseId,
+      title: frenchfill.title,
+      icon: frenchfill.icon,
+      questionsCount: frenchfill.questions.length,
+      difficulty: getDifficultyStats(frenchfill.questions)
     },
  {
       id: youthInMission.courseId,

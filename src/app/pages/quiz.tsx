@@ -18,6 +18,8 @@ import youthInMission from '../../data/youth-in-mission.json'
 import frenchprepositions from '../../data/preposition-french.json'
 import frenchcomprehension from '../../data/french-comprehension.json'
 import objefrench from '../../data/ojectives-french.json'
+import frenchfill from '../../data/frenchverbs.json'
+
 
 
 
@@ -41,7 +43,8 @@ const courseMap = {
 'yim-chapter-2': youthInMission,
 'french-prepositions':frenchprepositions,
 'hotu105-french': frenchcomprehension,
-'french-grammar-core': objefrench
+'french-grammar-core': objefrench,
+'hotu105-pronouns-verbs':frenchfill
 };
 
 const QUESTION_COUNT = 13;
